@@ -134,15 +134,18 @@ export default function App() {
     }
   };
 
-  // Start AI Micro-Step Learning
+  // Start AI Micro-Step Learning (Direct topic selection or diagnostic recommendation)
   const startLearningTopic = (topic) => {
     setActiveTab('mentor');
+    const targetId = topic.id || topic.subtopicId;
+    const targetTitle = topic.title || topic.topicTitle;
+
     setAppState(prev => ({
       ...prev,
       workflowState: 'MICRO_STEP_LEARNING',
       activeSession: {
-        currentUnitId: topic.id,
-        currentUnitTitle: topic.title,
+        currentUnitId: targetId,
+        currentUnitTitle: targetTitle,
         chatHistory: []
       },
       learningPath: {
@@ -154,8 +157,8 @@ export default function App() {
 
     // Trigger first micro-step AI call
     setTimeout(() => {
-      sendMicroStepMessage(`Hocam hazırız! "${topic.title}" konusunda eksiklerim var. Lütfen İlyas Hoca usulü hap anlatımını ve 1. Mikroadımı getir.`);
-    }, 100);
+      sendMicroStepMessage(`Hocam "${targetTitle}" konusunu doğrudan çalışmak istiyorum. Lütfen bu alt konunun İlyas Hoca usulü püf noktalarını (hap özetini) ve 1. Mikroadım sorusunu başlatın.`);
+    }, 150);
   };
 
   const sendMicroStepMessage = async (customText = null) => {
@@ -625,27 +628,42 @@ export default function App() {
 
           {/* TAB: CURRICULUM */}
           {activeTab === 'curriculum' && (
-            <div className="flex-1 overflow-y-auto p-4 md:p-8 max-w-3xl mx-auto w-full space-y-4">
-              <div>
-                <h2 className="text-xl font-bold text-white">50 Konu Müfredat Haritası</h2>
-                <p className="text-xs text-slate-400 mt-1">İlyas Güneş 2026 Video Ders Notu sayfa indeksleri.</p>
+            <div className="flex-1 overflow-y-auto p-4 md:p-8 max-w-4xl mx-auto w-full space-y-4">
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+                <div>
+                  <h2 className="text-xl font-bold text-white">84 Alt Konu & Soru Tipi Rehberi</h2>
+                  <p className="text-xs text-slate-400 mt-0.5">İstediğiniz konuyu seçerek doğrudan İlyas Hoca usulü ders anlatımı ve mikroadım çalışması başlatabilirsiniz.</p>
+                </div>
+                <span className="text-xs px-2.5 py-1 rounded-lg bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 self-start">
+                  84 Konu • 598 Görsel
+                </span>
               </div>
 
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
-                {curriculum.units.map(unit => (
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 pt-2">
+                {curriculum.units.map((unit, idx) => (
                   <div 
-                    key={unit.id}
-                    className="p-3.5 rounded-xl bg-slate-900 border border-slate-800 flex items-center justify-between hover:border-slate-700 transition-all"
+                    key={unit.id || idx}
+                    className="p-3.5 rounded-xl bg-slate-900 border border-slate-800 flex items-center justify-between hover:border-indigo-500/50 hover:bg-slate-900/90 transition-all group"
                   >
-                    <div>
-                      <span className="text-[10px] font-mono text-indigo-400">Sayfa {unit.page}</span>
-                      <h4 className="text-xs font-semibold text-slate-200 mt-0.5">{unit.title}</h4>
+                    <div className="flex-1 pr-3">
+                      <div className="flex items-center gap-2">
+                        <span className="text-[10px] font-bold text-indigo-400">#{idx + 1}</span>
+                        <span className="text-[10px] text-slate-500 truncate max-w-[160px]">{unit.module}</span>
+                        {unit.images_count > 0 && (
+                          <span className="text-[9px] px-1.5 py-0.2 rounded bg-amber-500/10 text-amber-400 border border-amber-500/20 font-medium">
+                            {unit.images_count} Şekil
+                          </span>
+                        )}
+                      </div>
+                      <h4 className="text-xs font-semibold text-slate-200 mt-1 leading-snug group-hover:text-indigo-300 transition-colors">
+                        {unit.title}
+                      </h4>
                     </div>
                     <button
                       onClick={() => startLearningTopic(unit)}
-                      className="px-2.5 py-1 rounded-lg bg-indigo-600/20 text-indigo-300 hover:bg-indigo-600 hover:text-white text-[11px] font-medium transition-all"
+                      className="px-3 py-1.5 rounded-lg bg-indigo-600/20 text-indigo-300 hover:bg-indigo-600 hover:text-white text-xs font-bold transition-all shrink-0 shadow-sm"
                     >
-                      Çalış
+                      Dersi Başlat
                     </button>
                   </div>
                 ))}
