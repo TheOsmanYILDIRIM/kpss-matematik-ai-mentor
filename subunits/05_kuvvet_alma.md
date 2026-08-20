@@ -1,6 +1,6 @@
 # 2026 KPSS Matematik: Kuvvet Alma (Üs Kuralları ve Negatif Sayıların Kuvveti)
 **Modül:** Modül 1: Temel Matematik & Dört İşlem
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
@@ -56,4 +56,44 @@ isleminin sonucu kaçtır?
 
 A) 120 B) -96 C) 96 D) 100 E) 120
 
-## c)
+## c) İşlem önceliği:
+
+1. varsa kuvvet ifadeleri
+
+2. varsa parantez içi
+
+3. varsa çarpma, bölme
+
+4. toplama, çıkarma işlemleri sırası ile yapılır.
+
+#### Örnekler:
+
+ $$ \checkmark\quad(-5+7)^{2}=4\quad\checkmark12+5\cdot(-3)=-3 $$ 
+
+ $$ \begin{aligned}\checkmark\left(-5\right)\cdot\left(-3\right)+\left(-2\right)\cdot\left(+3\right)=15-6=9\end{aligned}\quad\begin{aligned}\checkmark\left(+15\right):\left(-3\right)+\left(-17\right)=-5-17=-22\end{aligned} $$ 
+
+### C. TEMEL İŞLEMLER
+
+1) DENKLEM CÖZME
+
+* Bir işlemde denklem çözümü yapılırken aynı cins ifadeler bir yerde toplanır. Burada dikkat edilmesi gereken şey eşitliğin karşısına geçen ifadenin işareti değişir.
+
+#### Tip-4
+
+ $$ 2x+3=x+11 $$ 
+
+denklemini sağlayan x değeri kaçtır?
+
+A) 6 B) 7 C) 8 D) 9 E) 10
+
+* İki bilinmeyenli bir denklem çözümü yapılıyorsa taraf tarafa toplanarak ya da çıkarılarak yok etme işlemi yapılır. Ya da yerine koyma yönetimi uygulanarak denklem çözülür.
+
+#### Tip - 5
+
+ $$ \begin{array}{l}x+y=12\\x-y=4\end{array} $$ 
+
+denklemini sağlayan x değeri kaçtır?
+
+A) 6 B) 7 C) 8 D) 9 E) 10
+
+#### TIP

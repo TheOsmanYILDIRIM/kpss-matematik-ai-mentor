@@ -1,6 +1,6 @@
 # 2026 KPSS Matematik: Aralarında Asal Sayılar
 **Modül:** Modül 1: Sayılar Teorisi
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
@@ -40,7 +40,7 @@ A) p B) p + 1 C) p - 1 D)  $ \frac{p+1}{2} $ E)  $ \frac{p-1}{2} $
 
 #### TIP-4
 
-a, b, c ve d asal sayılar ve a < b < c < d olmak üzere,
+a, b, c ve d asal sayılar ve a &lt; b &lt; c &lt; d olmak üzere,
 
  $$ \mathsf{a}\bigstar+\bigstar\mathsf{b}\star\star\mathsf{.}\quad\mathsf{c=d} $$ 
 
@@ -104,17 +104,13 @@ x ve y doğal sayılar ve (x-2) ile (y+3) aralarında asaldır.
 
  $$ x\cdot y+3x-2y=17 $$ 
 
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 18&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 16&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 20&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 24&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>A) 18</td><td style='text-align: center; word-wrap: break-word;'>B) 12</td><td style='text-align: center; word-wrap: break-word;'>C) 16</td><td style='text-align: center; word-wrap: break-word;'>D) 20</td><td style='text-align: center; word-wrap: break-word;'>E) 24</td></tr></table>
-
-<div style="text-align: center;"><div style="text-align: center;">Tip-11</div> </div>
-
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-11&lt;/div&gt; &lt;/div&gt;
 
 Aşağıda ortasında kare ve köşelerinde daire bulunan birbirine bağlı şekillerin her birinin içerisine 1, 2, 3, 4 ve 9 sayılarından biri yazılıyor.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//61e0d9ce-3f55-4e02-a186-ef4bdf7c4add/markdown_1/imgs/img_in_image_box_246_234_482_463.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A10Z%2F-1%2F%2F049baef7cc10864410c2b265cf907b137f613fbe89b239725dfd176f1d59e60d" alt="Image" width="17%" /></div>
-
+![Şekil/Grafik/Soru](images/image7.jpg)
 
 Bir doğru parçası ile birbirine bağlanan iki şeklin içinde yazan sayıların aralarında asal olduğu biliniyor.
 
@@ -122,13 +118,11 @@ Buna göre, karenin içine yazılabilecek sayıların toplamı kaçtır?
 
 A) 1 B) 4 C) 5 D) 6 E) 7
 
-<div style="text-align: center;"><div style="text-align: center;">TIP-12</div> </div>
-
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-12&lt;/div&gt; &lt;/div&gt;
 
 Aşağıda bir yüzünde bir adet birbirinden farklı tam sayı yazılı olan A, B, C ve D kartlarının görünmü verilmiştir.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//61e0d9ce-3f55-4e02-a186-ef4bdf7c4add/markdown_1/imgs/img_in_image_box_826_221_1139_275.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A11Z%2F-1%2F%2Fc7d0a413f045d5f3c2d895c8f5c2c838013c46297943a8cb8787dd351905c892" alt="Image" width="23%" /></div>
-
+![Şekil/Grafik/Soru](images/image8.jpg)
 
 Bu kartlarda yazan sayılarla ilgili.
 
@@ -138,18 +132,4 @@ B ile D aynı işaretli ve aralarında asal değil,
 
 • Kartlar üzerinde yazan sayıların çarpımı –24 olduğu biliniyor.
 
-Buna göre, C'nin alabileceği değerler toplamı kaçtır?
-
-A) -7          B) -6          C) -4          D) -3          E) -1
-
-### MATEMATIK
-
-Tanim: Ardişik iki terimi arasındaki fark 1 dir.
-
-* a ile b ardışık sayılar ise
-
-1. a = b + 1
-
- $$ \mathrm{II}.\mathrm{~b}=a+1 $$ 
-
-####
+B

@@ -1,94 +1,183 @@
 # 2026 KPSS Matematik: Özel Soru Tipleri: Kuyruk, Tel Kesme ve Mum Problemleri
 **Modül:** Modül 3: Problemler
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-Kuyruk: Baş + son – ikili sayılanlar
+ir iç açısının ölçüsü  $ \frac{(n-2)\cdot180^{\circ}}{n} $ dir.
 
-1) Kuyruk 1 kişi üzerine kurulu ise
+5. Bir kenar a ise  $ \boxed{Çevre = n \cdot a} $ dir.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//95c757c9-585c-4922-8b49-4a38347a0fd8/markdown_2/imgs/img_in_image_box_91_575_353_629.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F6080632cd948a53417b9eca200775fd29ac6d436f8f3a321a498fa5f520f054d" alt="Image" width="19%" /></div>
+KURAL
 
+Kenar sayısı çift olan düzgün çokgenlerde karşılıklı kenarları paraleldir.
 
-#### KUYRUK SORULARI
+![Şekil/Grafik/Soru](images/image409.jpg)
 
-kuyruk = x + y - 1
+![Şekil/Grafik/Soru](images/image410.jpg)
 
-2) Kuyruk 2 kịi üzerine kurulu ise
+#### KURAL
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//95c757c9-585c-4922-8b49-4a38347a0fd8/markdown_2/imgs/img_in_image_box_91_673_341_758.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F51e393efb74e79e26d0d6a05937507d5746efc9d622e6a96e094895c37ed2516" alt="Image" width="18%" /></div>
+Kenar sayısı tek olan düzgün çokgenlerde bir kenardan karşı kenara çizilen dik karşı kenarı ortalar.
 
+![Şekil/Grafik/Soru](images/image411.jpg)
 
-Kuyruk = x + y - k - 2  $ \Rightarrow $ en az
+[AH]⊥[CD] çizilirse
 
-Kuyruk = x + y + k  $ \Rightarrow $ en çok
+ $$ \left|CH\right|=\left|HD\right|ve $$ 
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//95c757c9-585c-4922-8b49-4a38347a0fd8/markdown_2/imgs/img_in_image_box_94_774_327_828.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F7b754ba69ef53c792d90f953359c98571dc50a3dced34689174a2e7fb312194e" alt="Image" width="17%" /></div>
+ $$ m(\widehat{BAH})=m(\widehat{HAE})=54^{\circ} $$ 
 
+#### KURAL
 
-#### TiP-17
+Düzgün çokgenlerde eşit sayıda kenarı birleştiren köşegenlerin uzunlukları birbirine eşittir.
 
-Bir bilet kuyruğunda Seher baştan (2n + 6). sırada, sondan (n + 2). sıradadır.
+![Şekil/Grafik/Soru](images/image412.jpg)
 
-Kuyrukta toplam 85 kişi olduğunu göre, Seher baştan kaçinci sıradadır?
+![Şekil/Grafik/Soru](images/image413.jpg)
 
-A) 56 B) 57 C) 58 D) 59 E) 60
+KURAL
 
-#### TIP-18
+![Şekil/Grafik/Soru](images/image414.jpg)
 
-Bir kuyrukta Hakan baştan 30. sırada, Emre sondan 20. sıradadır. Aralarında 5 kişi vardır ve Emre başı daha yakındır.
+ABCDEFGHI... düzgün çokgen olmak üzere köşelerdeki açılar gördüğü kenar sayısı ile orantılıdır.
 
-Buna göre, kuyrukta kaç kişi vardır?
+DBC açısı bir kenar gördüğü için ölçüsü  $ \alpha $ ise GBD açısı 3 kenar gördüğü için ölçüsü 3 $ \alpha $ olur.
 
-A) 42 B) 43 C) 44 D) 45 E) 46
+#### tip-1
 
-#### tip-19
+![Şekil/Grafik/Soru](images/image415.jpg)
 
-Bir yemek kuyruğunda Selim baştan 13. sırada, Mert sondan 20. sıradadır. İkisi arasında 3 kişi olduğunu göre, kuyrukta  $ \underline{\text{en az}} $ kaç kişi vardır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ABCDE düzgün beşgen&lt;/div&gt; &lt;/div&gt;
 
-A) 24 B) 25 C) 26 D) 27 E) 28
+[BF]⊥[DE]
 
-Kesir Problemlerinin Çözümü
+[CH]⊥[EA]
 
-Kesir problemlerinde soruda verilen kesirlerin paydalarını çarparak bütün oluşturulur.
+Yukaridaki verilere göre, m( $ \widehat{CKB} $) kaç derecedir?
 
-Örnek: Bir ürünün önce  $ \frac{1}{3} $'ü, sonra  $ \frac{1}{2} $'si en son  $ \frac{1}{4} $'ü satılıyor.
+A) 48 B) 54 C) 63 D) 72 E) 80
 
-Ürün = 3 2 4 x = 24 x alınır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-2&lt;/div&gt; &lt;/div&gt;
 
-#### Tip-20
+![Şekil/Grafik/Soru](images/image416.jpg)
 
-Bir yay sıkıştırıldığında boyu  $ \frac{1}{4} $ oranında azalıyor, çekip uzatıldığında ise boyu  $ \frac{2}{5} $ oranında artiyor.
+ABCDE... düzgün çokgen
 
-Buna göre, çekilip uzatılmış hâldeki boyu 168 cm olan bu yayın sıkıştırılmış hâldeki boyu kaç cm'dir?
+m $ \widehat{ADC} $ = 24°
 
-A) 70 B) 78 C) 80 D) 90 E) 98
+Yukaridaki verilere göre, çokgen kaç kenarlıdır?
 
-#### TIP-21
+A) 9 B) 10 C) 12 D) 14 E) 15
 
- $ \frac{3}{7} $'si dolu olan bir depoya 15 m $ ^{3} $ su eklenince deponun  $ \frac{2}{3} $'ü dolmuş oluyor.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
 
-Buna göre, depo tam dolu iken kaç m $ ^{3} $ su alır?
+![Şekil/Grafik/Soru](images/image417.jpg)
 
-A) 56 B) 63 C) 66 D) 72 E) 80
+ABCDE düzgün beşgen
 
-#### Tip-22
+AFDE paralelkenar
 
-Bir manav elindeki limonların ilk gün  $ \frac{1}{4} $'ünü, ikinci gün kalanın  $ \frac{1}{5} $'ini, üçüncü gün de kalanın  $ \frac{1}{3} $'ünü satıyor.
+Buna göre, m( $ \widehat{BAF} $) kaç derecedir?
 
-Geriye 64 tane limon kaldığına göre, manav ikinci gün kaç tane limon satmıştır?
+A) 36 B) 45 C) 60 D) 75 E) 80
 
-A) 24 B) 26 C) 28 D) 40 E) 44
+#### Tip-4
 
-#### TIP-23
+![Şekil/Grafik/Soru](images/image418.jpg)
 
-Uzunlukları aynı olan iki mum aynı anda yanmaya başladığında biri 3 saatte, diğer 4 saatte tamamen yanarak bitmektedir.
+ABCDE düzgün beşgen
 
-Bu iki mum aynı anda yakıldıktan kaç saat sonra birinin boyu diğerinin boyunun  $ \frac{1}{3} $'ü olur?
+EFKD dikdörtgen F, K, C doğrusaldır.
 
-A)  $ \frac{1}{3} $ B)  $ \frac{4}{3} $ C)  $ \frac{5}{3} $ D) 2 E)  $ \frac{8}{3} $
+Buna göre, m( $ \widehat{KCB} $)-m( $ \widehat{KDC} $) farklı kaç derecedir?
 
-#### TIP-24
+A) 9 B) 18 C) 30 D) 36 E) 45
 
-Ismail kumbarasina 1. gün 5 kr, 10kr, 25 kr, 50 kr ve 1 TL madenî paralarin her birinden bir adet, 2. gün her birinden iki adet ve benzer biçimde devam ederek n. gün her b
+#### KURAL
+
+• Düzgün altigen, bir kenari a olan 6 tane eşkenar üçgenden oluşur.
+
+• Düzgün altigenin alanı A ise
+
+ $$ A=6\frac{a^{2}\sqrt{3}}{4}=\frac{3}{2}a^{2}\sqrt{3} $$ 
+
+![Şekil/Grafik/Soru](images/image419.jpg)
+
+![Şekil/Grafik/Soru](images/image420.jpg)
+
+KURAL
+
+#### KURAL
+
+Düzgün altigenin bir kenari a ise kısa olan köşegenler a $ \sqrt{3} $ ve uzun olan köşegenler 2a dır.
+
+![Şekil/Grafik/Soru](images/image421.jpg)
+
+Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve [CE] çizilirse oluşan ACE üçgenin bir eşkenar üçgendir ve alanı düzgün altigenin alanının yarısıdır.
+
+KURAL
+
+![Şekil/Grafik/Soru](images/image422.jpg)
+
+Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve uzun olan köşegenlerden [AD] çizilirse oluşan alanlar şekilde gibi olur.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip -5&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image423.jpg)
+
+ABCDEF düzgün altigen
+
+|BF| = 4$\sqrt{3}$ cm
+
+Yukaridaki verilere göre, |CF| kaç cm'dir?
+
+A) 4 B) 6 C) 8 D) 10 E) 12
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-6&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image424.jpg)
+
+ABCDEF düzgün altigen
+
+ $ [FH] \perp [AD] $
+
+ $ \left|AD\right|=12\text{cm} $
+
+Yukaridaki verilere göre, |FH| kaç cm'dir?
+
+A)  $ 2\sqrt{3} $ B)  $ 3\sqrt{3} $ C)  $ 4\sqrt{3} $ D)  $ 5\sqrt{3} $ E)  $ 6\sqrt{3} $
+
+TIP-7
+
+![Şekil/Grafik/Soru](images/image425.jpg)
+
+ABCDEF düzgün altigen
+
+[AC] ve [BE] köşegen
+
+|EK| = 9 cm
+
+Yukaridaki verilere göre, |CF| kaç cm'dir?
+
+A) 12 B) 24 C) 30 D) 36 E) 48
+
+TIP-8
+
+![Şekil/Grafik/Soru](images/image426.jpg)
+
+### ABCDEF düzgün altigen
+
+ $$ [\mathsf{A D}]\cap[\mathsf{N B}]=\{\mathsf{K}\} $$ 
+
+ $$ \left|EN\right|=\left|ND\right| $$ 
+
+Yukaridaki verilere göre,  $ \frac{Alan(ABCDEF)}{Alan(NKD)} $ oranı kaçtır?
+
+A) 9 B) 12 C) 15 D) 18 E) 21
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-9&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image427.jpg)
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFG

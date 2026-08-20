@@ -1,172 +1,277 @@
 # 2026 KPSS Matematik: Doğru Orantı, Ters Orantı ve Bileşik Orantı
 **Modül:** Modül 2: Cebir & Denklemler
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-ORANTI CESITLERI
+$ \frac{9}{4} $
 
-1) Doğru Orantı: İki ifadeden biri artarken diğer artıyorsa ya da biri azalırken diğer de azalıyorsa doğru orantı vardır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
 
-Örn: İşçi sayısı artarsa yapılan iş artır.
+![Şekil/Grafik/Soru](images/image351.jpg)
 
-Doğru orantıda içler dışlar çarpımı yapılır.
+BAC dik üçgen
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//bfa72a96-6a74-45f6-bdae-c707c569a96e/markdown_1/imgs/img_in_image_box_102_259_208_343.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A11Z%2F-1%2F%2F6ecd305ee8dbefe6cc647706822bafc18b4311733b89b52c8cdff724659cc42a" alt="Image" width="7%" /></div>
+|AD|=|DE|
 
+|EC|=4cm
 
-a ile b doğru orantılı ise  $ \frac{a}{b} = k \Rightarrow a = b \cdot k $
+ $ DC = 5 \, cm $
 
-Bölüm durumundaki ifadeler doğru orantılıdır.
+Yukaridaki verilere göre, |BA| = x kaç cm'dir?
 
-Örn:  $ \frac{a}{b} = 2 \Rightarrow \frac{4}{2} = \frac{8}{4} = 2 $
+A) 2
 
-a, 3 ile doğru orantılı ise;  $ \frac{a}{3} = k \Rightarrow a = 3k $
+B) 3
 
- $ \underline{\text{Not}} $: a: b = x; y  $ \Rightarrow $  $ \boxed{a = x \cdot k, b = y \cdot k} $  $ \boxed{\frac{a}{x} = \frac{b}{y}} $
+C) 4
 
-Tip-11
+D) 5
 
-a, b ve c doğal sayılardır.
+E) 6
 
-a : b : c = 2 : 3 : 5
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-3&lt;/div&gt; &lt;/div&gt;
 
-2a + b - c = 24
+![Şekil/Grafik/Soru](images/image352.jpg)
 
-olduğuna göre, c kaçtir?
+ $ m(\widehat{BAD}) = m(\widehat{ACB}) $
 
-A) 60 B) 65 C) 70 D) 75 E) 80
+ $ \left| AB \right| = 5 \, \text{cm} $
 
-TİP - 12
+ $ \left| AD \right| = 4 \, \text{cm} $
 
-(a - 3) ile (b + 2) ifadeleri doğru orantılıdır.
+ $ \left| AC \right| = 6 \, \text{cm} $
 
-a = 5  odługunda b = 1  ise a = 1  odługunda b kaçtır?
+ABC bir üçgen
 
-A) -1 B) -2 C) -3 D) -4 E) -5
+Yukaridaki verilere göre, |BC| kaç cm'dir?
 
-TIP-13
+A) 5
 
-240 lira, yaşları 2, 3 ve 5 olan üç kardeşe yaşları ile orantılı olacak şekilde paylaştırılıyor.
+B)  $ \frac{7}{2} $
 
-Buna göre, büyük kardeş kaç lira almıştır?
+C) 6
 
-A) 60 B) 80 C) 100 D) 120 E) 140
+D)  $ \frac{15}{2} $
 
-Tip-14
+E)  $ \frac{17}{2} $
 
-Bir aracın duruş mesafesi frene basıldığı andaki hizinin karesi ile doğru orantılıdır. Araç 60 km hızla giderken frene basıldığında 20 m de duruyor.
+#### TIP-4
 
-Buna göre 90 km hızla giderken frene basıldığında kaç m de durur?
+![Şekil/Grafik/Soru](images/image353.jpg)
 
-A) 15 B) 30 C) 45 D) 60 E) 90
+[AB]⊥[BD]
 
-Tip-15
+[ED]⊥[BD]
 
-Bir çubuk 6 parçaya 60 dakikada ayrılıyorsa 4 parçaya kaç dakikada ayrılır?
+[AC]⊥[CE]
 
-A) 30 B) 36 C) 40 D) 45 E) 50
+|BC|=|CD|
 
-#### TIP-16
+|AB|=9cm
 
-Bir yarışmada 720 TL'lik para ödülü ilk üç dereceyi alan yarışmacılar arasında 3:2:1 oranında paylaştırılacaktır.
+|DE|=4cm
 
-Para ödüllerini almaya giden bu yarışmacılardan her biri ödüllerinin 50 TL'lik banknotlar hâlinde ödenebilen kısmını alabilmiştir.
+Yukaridaki verilere göre, |BC| kaç cm'dir?
 
-Buna göre, yarışmacıların alabildiği toplam ödül miktarı kaç TL'dir?
+A) 2 B) 4 C) 6 D) 8 E) 10
 
-A) 550 B) 600 C) 650 D) 700 E) 720
+Tip - 5
 
-2) Ters Oranti: iki ifadeden biri artarken diğeriz azaliyorsa ya da biri azalırken diğeriz artıyorsa burada ters oranti vardır.
+![Şekil/Grafik/Soru](images/image354.jpg)
 
-Örn: İşçi sayısı ile bitirme süresi ters orantılıdır.
+ABC üçgen
 
-Ters orantıda karşılıkı çarpım yapılır.
+ $$ m\left(\widehat{BAD}\right)=m\left(\widehat{ACB}\right) $$ 
 
-a  $ \rightarrow $ b
+ $$ \mathsf{AB}\mid=\mid\mathsf{AD}\mid $$ 
 
- $ \times $ c  $ \rightarrow $ d
+ $ AC = 12 \, cm $
 
- $ (a \cdot b = c \cdot d) $
+ $$ \left|DC\right|=9cm $$ 
 
-a ile b ters orantılı ise
+Yukaridaki verilere göre, |AB| kaç cm'dir?
 
-$a\cdot b=k\Rightarrow a=\frac{k}{b}$ dir.
+A) 6 B) 7 C) 8 D) 9 E) 10
 
-♦ Çarpım durumundaki ifadeler ters orantılıdır.
+KURAL
 
-Örn: a·b = 8
+Kenar - Açi - Kenar Benzerlik Teoremi
 
-↓ ↓
+İki üçgenin karşılıklı ikişer kenarı orantılı ve bu kenarların arasındaki açılar eş ise bu üçgenler benzerdir.
 
-8·1
+![Şekil/Grafik/Soru](images/image355.jpg)
 
-4·2
+![Şekil/Grafik/Soru](images/image356.jpg)
 
-2·4
+ $$ \frac{\left|\mathrm{A B}\right|}{\left|\mathrm{D E}\right|}=\frac{\left|\mathrm{A C}\right|}{\left|\mathrm{D F}\right|}\Bigg\}\Rightarrow\widehat{\mathrm{A B C}}\sim\widehat{\mathrm{D E F}} $$ 
 
-1·8
+ $$ \mathbf{m}(\widehat{\mathbf{A}})=\mathbf{m}(\widehat{\mathbf{D}}) $$ 
 
-♢ a sayisi 4 ile ters orantılı ise a·4 = k  $ \Rightarrow $  $ \boxed{a=\frac{k}{4}} $ tür.
+tip-6
 
-#### tip-17
+![Şekil/Grafik/Soru](images/image357.jpg)
 
-a, b ve c sayıları sırasıyla 2, 3 ve 5 ile ters orantılıdır.
+E, C, B doğrusal
 
-a + b + c = 62
+A, C, D doğrusal
 
-olduğuna göre, b kaçtır?
+ $$ |AB|=|CD|=4cm $$ 
 
-A) 10 B) 15 C) 20 D) 25 E) 30
+ $$ \left|BC\right|=2cm $$ 
 
-#### Tip-18
+ $$ |AC|=3cm $$ 
 
-(2a + 1) ile (b - 1) ifadeleri ters orantılıdır.
+ $$ \left|\mathrm{E D}\right|=x $$ 
 
-a = 3 olduğunda b = 6 ise, a = 7 olduğunda b kaçtır?
+ $$ |E C|=6c m $$ 
 
-A)  $ \frac{1}{3} $ B)  $ \frac{7}{3} $ C)  $ \frac{8}{5} $ D)  $ \frac{10}{3} $ E)  $ \frac{11}{3} $
+Yukaridaki verilere göre, |ED| = x kaç cm'dir?
 
-#### TIP-19
+A) 2 B) 4 C) 6 D) 8 E) 10
 
-a, b ve c sayıları sırasıyla 2, 3 ve 5 ile doğru orantılıdır.
+#### tip-7
 
-Bu ifadeler hangi sayılar ile ters orantılıdır?
+![Şekil/Grafik/Soru](images/image358.jpg)
 
-A) 6, 8, 10
+ABC üçgen
 
-B) 4, 6, 10
+ $$ |AD|=3cm $$ 
 
-C) 15, 10, 6
+ $$ \left|AE\right|=5cm $$ 
 
-D) 5, 6, 8
+ $$ |DC|=7cm $$ 
 
-E) 4, 8, 12
+ $$ \left|EB\right|=1cm $$ 
 
-#### TIP-20
+ $$ |BC|=8cm $$ 
 
-Bir grup işçinin 15 günde yaptığı bir iş, işçi sayısı 3 azaltılırsa 20 günde bitiyor.
+ $$ \left|DE\right|=x $$ 
 
-Buna göre, grupta kaç işçi vardır?
+Yukaridaki verilere göre, |DE| = x kaç cm'dir?
 
-A) 6 B) 8 C) 10 D) 12 E) 14
+A) 4 B) 5 C) 8 D) 10 E) 15
 
-#### TIP-21
+KURAL
 
-540 koyunun bulunduğu bir çiftlikte 180 gün yetecek kadar yem vardır.
+Kenar - Kenar - Kenar Benzerlik Teoremi
 
-60 gün sonra çiftliğe 60 koyun daha alınırsa kalan yem, koyunlara kaç gün yeter?
+İki üçgenin karşılıklı kenarları orantılı ise bu üçgenler benzerdir.
 
-A) 100 B) 108 C) 110 D) 120 E) 130
+![Şekil/Grafik/Soru](images/image359.jpg)
 
-#### Tip-22
+ $$ \frac{\mathsf{a}}{\mathsf{d}}=\frac{\mathsf{b}}{\mathsf{e}}=\frac{\mathsf{c}}{\mathsf{f}}\}\Rightarrow\widehat{\mathsf{A B C}}\sim\widehat{\mathsf{D E F}} $$ 
 
-520 m uzunluğundaki odun parçası 2 ve 3 ile doğru, 5 ile ters orantılı olacak şekilde üç parçaya ayrılıyor.
+![Şekil/Grafik/Soru](images/image360.jpg)
 
-Buna göre,  $ \underline{\text{en uzun}} $ parçanın uzunluğu kaç metredir?
+ABC ve DEF benzer üçgenlerinde orantılı kenarları gören açılar birbirine eşittir.
 
-A) 300 B) 400 C) 500 D) 600 E) 700
+ $$ \mathfrak{m}(\widehat{\mathsf{A}})=\mathfrak{m}(\widehat{\mathsf{D}}) $$ 
 
-#### TIP-23
+ $$ m(\widehat{\boldsymbol{B}})=m(\widehat{\boldsymbol{E}}) $$ 
 
-Üç dişli çarktan bi
+ $$ m(\widehat{\mathbf{C}})=\mathbf{m}(\widehat{\mathbf{F}}) $$ 
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-8&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image361.jpg)
+
+ABD ve ADC üçgendir.
+
+ $$ m(\widehat{ADB})=80^{\circ} $$ 
+
+ $$ m\left(\widehat{\text{DAC}}\right)=25^{\circ} $$ 
+
+ $$ \left|AB\right|=8cm $$ 
+
+ $$ |AD|=5cm $$ 
+
+ $$ \left|BD\right|=4cm $$ 
+
+ $$ |AC|=10cm $$ 
+
+ $$ |D C|=12c m $$ 
+
+Yukaridaki verilere göre, $m(\widehat{BAD}) = \alpha \text{ kaç derecedir?}$
+
+A) 40
+
+B) 45
+
+C) 50
+
+D) 55
+
+E) 60
+
+#### KURAL
+
+Temel Benzerlik Teoremi
+
+Bir üçgenin herhangi bir kenarına paralel bir doğru parçası çizilirse benzer iki üçgen elde edilir.
+
+![Şekil/Grafik/Soru](images/image362.jpg)
+
+ $$ [\mathsf{D E}]//[\mathsf{B C}] $$ 
+
+ $$ \mathfrak{m}\left(\widehat{\mathsf{ADE}}\right)=\mathfrak{m}\left(\widehat{\mathsf{ABC}}\right) $$ 
+
+ $$ m\left(\widehat{AED}\right)=m\left(\widehat{ACB}\right) $$ 
+
+ $$ \widehat{ABC}\sim\widehat{ADE} $$ 
+
+![Şekil/Grafik/Soru](images/image363.jpg)
+
+TIP-9
+
+![Şekil/Grafik/Soru](images/image364.jpg)
+
+ABC ve ACD üçgenlerinde
+
+ $$ [{\mathsf{K L}}]//[{\mathsf{B C}}] $$ 
+
+ $$ [AD]\mathbin{//}[LM] $$ 
+
+ $$ \frac{\left|KL\right|}{\left|BC\right|}=\frac{1}{3} $$ 
+
+ $$ |LM|=2cm $$ 
+
+Yukaridaki verilere göre, |AD| = x kaç cm'dir?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-10&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image365.jpg)
+
+ABC bir üçgen
+
+D, E bulundukları kenarların orta noktaları
+
+[DF]//[BE]
+
+Yukaridaki verilere göre,  $ \frac{|AF|}{|EC|} $ oranı kaçtır?
+
+A)  $ \frac{1}{2} $ B) 1 C)  $ \frac{3}{2} $ D) 2 E)  $ \frac{5}{2} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-11&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image366.jpg)
+
+ABC bir üçgen
+
+[DE]//[FK]//[BC]
+
+|AD|=|DF|
+
+|AE|=2|KC|
+
+|DE|=2 cm
+
+Yukaridaki verilere göre, |FK| + |BC| toplamı kaç cm'dir?
+
+A) 3 B) 5 C) 7 D) 9 E) 11
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-12&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/So

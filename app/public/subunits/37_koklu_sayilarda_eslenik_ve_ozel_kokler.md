@@ -1,428 +1,267 @@
 # 2026 KPSS Matematik: Köklü Sayılarda Eşlenik Çarpımı ve İç İçe Kökler
 **Modül:** Modül 2: Cebir & Denklemler
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-eşlenik ifadeler)
+[AD] kenarortay
 
- $$ \begin{array}{ccc}E\xi len i\ddot{o}i& & \\ \sqrt{2}&\longrightarrow&\sqrt{2} \\ \sqrt{5}&\longrightarrow&\sqrt{5} \\ 2+\sqrt{3}&\longrightarrow&2-\sqrt{3} \\ 5-\sqrt{2}\quad&\longrightarrow&5+\sqrt{2} \\ 7-2\sqrt{3}&\longrightarrow&7+2\sqrt{3} \\ \sqrt{7}-4&\longrightarrow&\sqrt{7}+4 \\ 3\sqrt{2}&\longrightarrow&3\sqrt{2^{2}}\end{array} $$ 
+ $$ \left|AG\right|=2x $$ 
 
- $$ Tip-25 $$ 
+ $$ \left|GD\right|=x $$ 
 
- $$ 2+\sqrt{3} $$ 
+ise G ägirk merkezidir.
 
-sayisinin çarpma işlemine göre tersi nedir?
+4. ABC ücgeninde AG = 2x
 
-A)  $ \sqrt{3} $ B) 2 C)  $ 2-\sqrt{3} $
+ $$ \left|GD\right|=x\ ve $$ 
 
-D)  $ 2\sqrt{3} $ E)  $ 2\sqrt{3} $
+ $ \left|BG\right|=2y $
 
-TIP-26
+ $$ \left|GE\right|=y $$ 
 
- $$ \frac{\sqrt{12}}{\sqrt{3}}-\frac{2}{\sqrt{3}+2}-\frac{1}{\sqrt{3}-2} $$ 
+ise G ağırlık merkezidir.
 
-işleminin sonucu kaçtır?
+TIP-6
 
-A)  $ \sqrt{3} $ B)  $ 3\sqrt{3} $ C)  $ 5\sqrt{3} $ D)  $ 7\sqrt{3} $ E)  $ 8\sqrt{3} $
+![Şekil/Grafik/Soru](images/image319.jpg)
 
-<div style="text-align: center;"><div style="text-align: center;">Tip-27</div> </div>
+ABE ve BCD üçgen
 
+ $$ \left|AD\right|=\left|BD\right| $$ 
 
- $$ \frac{\sqrt{1,21}-\sqrt{0,25}}{\sqrt{3,6}} $$ 
+ $$ \left|\mathrm{BE}\right|=\left|\mathrm{EC}\right| $$ 
 
-işleminin sonucu kaçtır?
+ $$ \left|AE\right|+\left|CD\right|=66cm $$ 
 
-A) $\sqrt{10}$ B) $\frac{\sqrt{10}}{2}$ C) $\frac{\sqrt{10}}{5}$ D) $\frac{\sqrt{10}}{7}$ E) $\frac{\sqrt{10}}{10}$
+Yukaridaki verilere göre, |AF| + |FC| toplamı kaç cm'dir?
 
-<div style="text-align: center;"><div style="text-align: center;">TIP-28</div> </div>
-
-
- $$ \frac{1}{\sqrt{2}+\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{4}}+\ldots+\frac{1}{\sqrt{13}+\sqrt{14}}=\frac{x}{\sqrt{14}+\sqrt{2}} $$ 
-
-işleminde x'in değeri kaçtır?
-
-A) 4 B) 6 C) 8 D) 10 E) 12
-
-TIP-29
-
- $$ \frac{1}{\sqrt{4}+\sqrt{5}}+\frac{1}{\sqrt{5}+\sqrt{6}}+\ldots+\frac{1}{\sqrt{35}+\sqrt{36}} $$ 
-
-işleminin sonucu kaçtır?
-
-A)  $ \sqrt{3} $ B)  $ \sqrt{5} $ C) 4 D) 2 E) 1
-
-9) ic - ice ve Sonsuz Kokler
-
- $$ \sqrt[x]{a^{y}\sqrt{b}}={\sqrt[x{\cdot}y]{a^{y}\cdot b}} $$ 
-
-Örnek:
-
- $$ \sqrt{2^{3}\sqrt{2}}=2\cdot3\sqrt{2^{3}}\cdot2 $$ 
-
-Örnek:  $ \sqrt{3\sqrt{3^{4}\sqrt{3}}}=2\cdot2\cdot4\sqrt{3^{2}\cdot4\cdot3^{4}\cdot3} $
-
-II) Sonsuz Kökler
-
- $$ \sqrt{x+\sqrt{x+\sqrt{x+\cdots}}}=k $$ 
-
-Not: Sonsuz köklerde ilk tekrar eden ne ise sonuç odur.
-
-Örnek:
-
- $$ \sqrt{12+\sqrt{12+\sqrt{12+\cdots}}}=k $$ 
-
- $$ \begin{array}{c}\sqrt{12+k}=k\\\downarrow\quad\downarrow\\\textcircled{4}\quad\textcircled{4}\end{array} $$ 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//7fc23415-4e34-4b83-91cb-2d997472e83b/markdown_1/imgs/img_in_image_box_697_611_734_649.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A12Z%2F-1%2F%2F980d8e169b4c7a27ca0133d0242326b16375e1ded62e0749945f34043045a30f" alt="Image" width="2%" /></div>
-
-
-##### NOT
-
-Sonsuz köklerde içerideki sayıyı ardışık çarpanlarına ayır. Toplamada cevap büyük çarpan, çıkarmada cevap küçük çarpardır.
-
-TIP-30
-
- $$ A=\sqrt{20+\sqrt{20+...}} $$ 
-
- $$ \mathsf{B}=\sqrt{42-\sqrt{42-...} $$ 
-
-ifadesinde A – B farki kaçtir?
-
-A) 4 B) 3 C) 2 D) 1 E) -1
-
-#### TIP-31
-
- $ \sqrt[3]{3\cdot\sqrt[3]{3\cdot\sqrt[3]{3\cdot\cdots}}} $
-
-ifadesinin sonucu kaçtır?
-
-A) $\sqrt{3}$ B) 3 C) $3\sqrt{3}$ D) 9 E) $9\sqrt{3}$
-
-##### TIP-32
-
- $$ \sqrt[3]{2}\cdot\sqrt{2}=\sqrt{2}\cdot\sqrt[3]{x} $$ 
-
-ifadesinde x'in degeri kaçtır?
-
-A) 1 B) 3 C) 5 D) 7 E) 9
-
-##### TIP-33
-
- $ \frac{\sqrt{3}\cdot\sqrt[3]{3}\cdot\sqrt[4]{3}}{\sqrt{3}\cdot\sqrt[3]{9}\cdot\sqrt{3}} $
-
-işleminin sonucu kaçtır?
-
-A)  $ \sqrt{3} $ B)  $ \sqrt[3]{3} $ C)  $ \sqrt[4]{3} $ D)  $ \sqrt[5]{3} $ E)  $ \sqrt[6]{3} $
-
-10) Özel Kök
-
- $ \sqrt{a+2\sqrt{b}} $ ve  $ \sqrt{a-2\sqrt{b}} $ şeklindeki ifadelerdir.
-
-b = x ⋅ y
-
-a = x + y
-
-x > y olsun ve şartlar sağlanıyorsa
-
- $ \sqrt{a+2\sqrt{b}}=\sqrt{x}+\sqrt{y} $  $ \sqrt{a-2\sqrt{b}}=\sqrt{x}-\sqrt{y} $ dir
-
-TIP-34
-
- $$ \sqrt{8+2\sqrt{7}}-\sqrt{8-2\sqrt{7}} $$ 
-
-işleminin sonucu kaçtır?
-
-A) 1 B) 2 C)  $ \sqrt{7} $ D)  $ 2\sqrt{7} $ E) 5
-
-##### Tip-35
-
- $$ \sqrt{5+2\sqrt{6}}-\sqrt{5-2\sqrt{6}} $$ 
-
-işleminin sonucu kaçtır?
-
-A) 1 B) 2 C) 5 D)  $ \sqrt{2} $ E)  $ 2\sqrt{2} $
-
-<div style="text-align: center;"><div style="text-align: center;">Tip-36</div> </div>
-
-
- $$ \sqrt{2-\sqrt{3}}+\sqrt{2+\sqrt{3}} $$ 
-
-işleminin sonucu kaçtır?
-
-A) $\sqrt{2}$ B) $\sqrt{3}$ C) $2\sqrt{2}$ D) $\sqrt{6}$ E) $2\sqrt{6}$
-
-#### TIP-37
-
- $$ \frac{1}{2+\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{2}}+\frac{x}{\sqrt{2}+1}=2 $$ 
-
-olduğuna göre, x kaçtır?
-
-A) $1+\sqrt{2}$ B) $1+2\sqrt{2}$ C) $2+\sqrt{2}$ D) $2+\sqrt{3}$ E) $3\sqrt{2}$
-
-#### Tip-38
-
-Köklü sayılarla işlem yapan Mert,  $ \sqrt{15} + \sqrt{10} $ sayısını eşleniği olan  $ \sqrt{15} - \sqrt{10} $ ile çarpmak yerine yanlışlıkla bölmüştür.
-
-Buna göre, Mert'in bulduğu sayı bulması gereken sayıdan kaç fazladır?
-
-A)  $ \sqrt{12} $ B)  $ \sqrt{24} $ C)  $ \sqrt{32} $ D)  $ \sqrt{48} $ E)  $ \sqrt{54} $
-
-#### TIP-39
-
-a ve b gerçek sayıları için,
-
- $$ \sqrt{a^{2}\cdot b}=\frac{3\sqrt{5}}{5} $$ 
-
- $$ \sqrt{a\cdot b}=\frac{\sqrt{30}}{5} $$ 
-
-olduġuna gõre, a + b toplami kaċtir?
-
-A)  $ \frac{7}{5} $ B)  $ \frac{11}{5} $ C)  $ \frac{23}{10} $ D)  $ \frac{19}{15} $ E)  $ \frac{29}{20} $
-
-#### TIP-40
-
- $$ 1<\frac{\sqrt{a-1}}{2}<\frac{5}{\sqrt{a-1}} $$ 
-
-esitsizligini sağlayan a tam sayılarının toplamı kaçtır?
-
-A) 13 B) 15 C) 24 D) 30 E) 40
-
-Aşağıda Şekil - I ve Şekil - II'de iç içe yerleştirilmiş aynı bardakların görünümü verilmiştir.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_0/imgs/img_in_image_box_166_233_571_704.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A12Z%2F-1%2F%2F8442dca8405ed60bc589dddbad3c479c4c1d9d4ad475f18cad4c18ab528e91a5" alt="Image" width="30%" /></div>
-
-
-$ekil - 1
-
-$ekil - ll
-
-Buna göre, yukarıdaki gibi altı bardak ile oluşturulan şeklin yüksekliği kaç cm'dir?
-
-A)  $ 6\sqrt{2} $ B)  $ 8\sqrt{2} $ C)  $ 10\sqrt{2} $ D)  $ 12\sqrt{2} $ E)  $ 14\sqrt{2} $
-
-#### Tip-42
-
-n kenarlı bir çokgenin içerisine yazılan bir x sayısı için ifadenin eşiti  $ \sqrt[n]{x} $ olmaktadır.
-
-Örneğin;
-
- $$ \boxed{\mathbf{x}}=\sqrt[4]{\mathbf{x}} $$ 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_0/imgs/img_in_image_box_748_316_849_364.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F877cf1aa229e39f9f834d26a1df2eadfd428f832c2a4ffbab4ff3efa6202c80a" alt="Image" width="7%" /></div>
-
-
-Buna göre,
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_0/imgs/img_in_image_box_883_400_1058_467.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F4b3fccf1ae05e167244dc82eefd9e971be9b496e02ec975ad773bd144225b88d" alt="Image" width="13%" /></div>
-
-
-eşitliğini sağlayan x değeri için,
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_0/imgs/img_in_image_box_939_521_1002_582.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F7d9becb2b368271d04a12066b90ae4757a1e2b219bfeab39ca4dfc97b731be79" alt="Image" width="4%" /></div>
-
-
-#### ifadesinin eşiti kaçtır?
-
-A)  $ \frac{1}{4} $ B)  $ \frac{1}{2} $
-
-C) 1
-
-D)2
-
-E) 4
-
-#### CARPANLARA AYIRMA
-
- $  \mathrm{A}(x) \mp \mathrm{B}(x) = \mathrm{C}(x) \cdot \mathrm{D}(x)  $
-
-C(x) ve D(x) ifadenin çarpanlarıdır.
-
-Ifadeler ortak bir ifadenin parantezine alını.
-
-şeklindeki ifadeler
-
-1) Ortak Paranteze Alma
-
-Örnek:  $ 2x + 6 = 2x + 2 \cdot 3 = 2 \cdot (x + 3) $
-
- $ 3x - 3x^2y = 3x - 3x \cdot x \cdot y $
-
- $ = 3x(1 - xy) $
-
-Örnek:  $ a^{3} + a^{2} - a = a(a^{2} + a - 1) $
-
-#### Tip-1
-
- $$ \frac{x^{3}y^{2}-xy}{x^{2}y-1} $$ 
-
-ifadesinin  $ \underline{\text{en sade}} $ hâli nedir?
-
-A) x B) y C) x·y D) x + y E) x - y
-
-#### TIP-2
-
- $$ (a+b)\cdot(a-b)-(a+b)^{2} $$ 
-
-ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?
-
-A) a - b
-
-B) 2a
-
-C) 2b
-
-D) 2a + b
-
-E) 2a - b
-
-İfadelerin hepsi aynı anda paranteze alınamıyorsa kendi içlerinde gruplandırma yapılarak çarpanlarına ayrılır.
-
-2) Gruplandirarak Carpanlara Ayirma
-
-$$\begin{array}{l}\uparrow\quad\overbrace{ax+bx+ay+by}\quad\overbrace{x+y}\end{array}$$
-
-$$=\quad x(a+b)+y(a+b)$$
-
-$$=(a+b)(x+y)$$
-
-#### Tip-3
-
- $$ a^{3}+a^{2}-a-1 $$ 
-
-ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?
-
-A) a           B)  $ a + 1 $          C) 2a
-
-D) 2a-1        E) 2a-2
-
-#### Tip-4
-
- $$ x+y=5 $$ 
-
- $$ y+z=6 $$ 
-
-olduğuna göre, x·y + x·z + y² + y·z ifadesinin sonucu kaçtır?
-
-A) 15 B) 20 C) 30 D) 45 E) 50
-
- $$ (x-y)^{3}\cdot(a-b)^{2}-(y-x)^{2}\cdot(b-a)^{3} $$ 
-
-ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?
-
-A)  $ x + y $ B)  $ a + b $ C) 2a - b
-
-D)  $ 2x + y $ E)  $ x - y - b + a $
-
-#### TIP-6
-
- $$ \frac{\sqrt{10}+\sqrt{15}}{2+\sqrt{6}} $$ 
-
-ifadesinin sonucu nedir?
-
-A)  $ \frac{\sqrt{5}}{3} $ B)  $ \frac{\sqrt{10}}{2} $ C)  $ \frac{\sqrt{5}}{2} $ D)  $ \frac{\sqrt{10}}{3} $ E)  $ \frac{\sqrt{5}}{\sqrt{6}} $
+A) 30 B) 36 C) 44 D) 48 E) 50
 
 tip-7
 
- $$ \frac{2+\sqrt{2}+\sqrt{10}+\sqrt{5}}{\sqrt{2}+1} $$ 
+![Şekil/Grafik/Soru](images/image320.jpg)
 
-işleminin sonucu kaçtır?
+ABC üçgen
 
-A) $\sqrt{2}+1$ B) $\sqrt{5}+1$ C) $\sqrt{2}+\sqrt{5}$
+ $$ [{\mathsf{A H}}]\perp[{\mathsf{B C}}] $$ 
 
-D) $2+\sqrt{5}$ E) $\sqrt{2}+2$
+[BE] açıortay
 
-3) $ax^{2}+bx+c$ Şeklindeki ifadeler
+ $$ \left|HB\right|=\left|HC\right| $$ 
 
-#### ? ORNEK SORU
+ $$ \left|FB\right|=8cm $$ 
 
- $$ x^{2}+3x+2 $$ 
+ $$ \left|E F\right|=4\mathrm{c m} $$ 
 
-ifadesinin çarpanları nelerdir?
+Yukaridaki verilere göre, | AB| kaç cm'dir?
 
-#### QÖZÜM
+A)  $ 2\sqrt{3} $ B)  $ 4\sqrt{3} $ C)  $ 6\sqrt{3} $ D)  $ 8\sqrt{3} $ E)  $ 10\sqrt{3} $
 
- $$ x^{2}+3x+2 $$ 
+KURAL-4
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}\left.x\right.\end{array}\right.\\\left.\begin{array}{l}\left.\begin{array}{l}\downarrow\\2\\1\end{array}\right.\end{array}\right\}\left.x+2x=\right.\\\left.\begin{array}{l}\textcircled{3x}\end{array}\right.\\=\left(x+2\right)\left(x+1\right)\end{array} $$ 
+Kenarortay ve izdüşümünün Uzunluğu
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_2/imgs/img_in_image_box_695_537_725_566.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A20Z%2F-1%2F%2F859d8b5ed6b18dfada3e9d33e88c3ea95026ff9d6b70a45e3c0b31e54661ce28" alt="Image" width="2%" /></div>
+![Şekil/Grafik/Soru](images/image321.jpg)
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a&lt;/div&gt; &lt;/div&gt;
 
-##### ÖRNEK SORU
+ $$ \mathrm{b}^{2}+\mathrm{c}^{2}=2\mathrm{V}_{\mathrm{a}}^{2}+\frac{\mathrm{a}^{2}}{2} $$ 
 
- $$ x^{2}+6x-7 $$ 
+ $$ \mathrm{b}^{2}-\mathrm{c}^{2}=2a x $$ 
 
-ifadesinin çarpanları nelerdir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-8&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_2/imgs/img_in_image_box_697_664_724_692.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A21Z%2F-1%2F%2Fbce38589985e7e489b705da9eff5d9045933c51a55f931f36171e11d188a7c2e" alt="Image" width="2%" /></div>
+![Şekil/Grafik/Soru](images/image322.jpg)
 
+ABC üçgen,
 
-#### ÇÖZÜM
+ $$ |AD|=|BD|=5cm $$ 
 
- $$ x^{2}+3x+2 $$ 
+|AC|=7cm
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}x\\\end{array}\right|_{\begin{array}{l}7\\-1\end{array}}\left.\begin{array}{l}\\\end{array}\right\}-x+7x=\textcircled{6}x\\=(x+7)(x-1)\end{array} $$ 
+|BC|=9cm
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_3/imgs/img_in_image_box_91_127_120_155.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A23Z%2F-1%2F%2Fb27a2d4bc267b1842deb3ba917ed1dbe2ac40ee0140a5b055cf27db8f4c759e3" alt="Image" width="2%" /></div>
+Yukaridaki verilere göre, | CD | = x kaç cm'dir?
 
+A)  $ \sqrt{10} $
 
-##### ÖRNEK SORU
+B) $2\sqrt{10}$
 
- $$ x^{2}+6x+5 $$ 
+ $$  C)3\sqrt{10} $$ 
 
-ifadesinin çarpanları nelerdir?
+D) $4\sqrt{10}$
 
-#### QÖZÜM
+E) $5\sqrt{10}$
 
- $$ \begin{aligned}&x^{2}+6x+5\\&\quad5\quad1\\=(x+5)(x+1)\end{aligned} $$ 
+KURAL-5
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_3/imgs/img_in_image_box_91_535_119_562.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A23Z%2F-1%2F%2F3328e4e2ac408d635bbd2e03234e45e15bb34126ddfc8fae3ec69a5b874d2e9a" alt="Image" width="2%" /></div>
+Dik Üçgende Kenarortay
 
+![Şekil/Grafik/Soru](images/image323.jpg)
 
-##### ÖRNEK SORU
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a&lt;/div&gt; &lt;/div&gt;
 
- $$ x^{2}-8x+7 $$ 
+ $$ |AD|=V_{a}=\frac{|BC|}{2} $$ 
 
-ifadesinin çarpanları nelerdir?
+Tip-9
 
-#### QÖZÜM
+![Şekil/Grafik/Soru](images/image324.jpg)
 
- $$ \begin{array}{c}x^{2}-8x+7\\-1\quad-7\\=(x-1)(x-7)\end{array} $$ 
+ $$ \left|A C\right|\bot\left|B C\right| $$ 
 
-#### ? ORNEK SORU
+G, ABC üçgeninin kenarortaylarının kesim noktası
 
- $$ 2x^{2}+7x+3 $$ 
+ $$ [\mathsf{C D}]\cap[\mathsf{B F}]=\{\mathsf{G}\} $$ 
 
-ifadesinin çarpanları nelerdir?
+Yukaridaki verilere göre, |E
 
-#### QÖZÜM
+ $$ [E F]//[A B] $$ 
 
- $$ 2x^{2}+7x+3 $$ 
+ $$ \left|G K\right|=4\mathrm{~cm} $$ 
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}2x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\3\end{array}\right\}\\\underline{\quad\quad\quad\quad}\quad(2x+1)(x+3)\end{array}\left\{\begin{array}{l}6x+x=\textcircled{7}x\\\end{array}\right. $$ 
+A) 4
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//99dc4498-409b-47b1-9ff2-e7d5cd4c7639/markdown_3/imgs/img_in_image_box_707_541_737_570.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A24Z%2F-1%2F%2F41a1e21c66e9341d76c7244be8d0402fc7f291788bba404334cb95f0e68c9136" alt="Image" width="2%" /></div>
+![Şekil/Grafik/Soru](images/image325.jpg)
 
+kạc cm’dir?
 
-##### ÖRNEK SORU
+B) 6
 
- $$ 3x^{2}-8x-3 $$ 
+C) 8
 
-ifadesinin çarpanları nelerdir?
+E) 12
 
-#### ÇÖZÜM
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-10&lt;/div&gt; &lt;/div&gt;
 
- $$ 3x^{2}-8x-3 $$ 
+![Şekil/Grafik/Soru](images/image326.jpg)
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}3x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\-3\end{array}\right\}\\-9x+x=\textcircled{-8x}\\=\left(3x+1\right)\cdot\left(x-3\right)\end{array} $$ 
+ABC dik üçgen
 
- $$ \frac{x^{2}+3x+2}{x+1}+\frac{x^{2}-2x+1}{x-1} $$ 
+ $$ m(\widehat{BAC})=90^{\circ} $$ 
 
-ifadesinin en sade hâli nedir?
+[AF]⊥[BD]
 
-A)  $ x + 5 $ B) x - 3 C)  $ 2x + 1 $ D) x E) -x
+ $ |ED|=2\ cm $
 
-4) Özdeşlikler
+E noktası, ABC üçgeninin kenarortaylarının kesim noktası
 
-1)
+olduğuna göre, |BC| kaç cm'dir?
+
+A)  $ 2\sqrt{2} $ B)  $ 4\sqrt{2} $ C)  $ 6\sqrt{2} $ D)  $ 8\sqrt{2} $ E)  $ 10\sqrt{2} $
+
+##### Tip-11
+
+![Şekil/Grafik/Soru](images/image327.jpg)
+
+ABC üçgeninde
+
+[CD] ve [BE] kenarortay
+
+[CD]⊥[BE]
+
+|FD| = 4 cm
+
+| F E | = 3 c m
+
+Yukaridaki verilere göre, |AF| = x kaç cm'dir?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+ÜÇGENDE ALAN
+
+![Şekil/Grafik/Soru](images/image328.jpg)
+
+1. ABC bir üçgen
+
+[AH],[BC]
+
+kenarlarina ait yükseklik,
+
+|BC|=a, |AH|=h olmak üzere,
+
+A(ABC)=\frac{a\cdot h}{2}dir.
+
+![Şekil/Grafik/Soru](images/image329.jpg)
+
+ABC geniş açılı bir üçgen ise
+
+A( $ \widehat{ABC} $) =  $ \frac{a \cdot h}{2} $ dir.
+
+![Şekil/Grafik/Soru](images/image330.jpg)
+
+2.  $ u = \frac{a + b + c}{2} $ olmak üzere,
+
+ $ A(\widehat{ABC}) = \sqrt{u \cdot (u - a) \cdot (u - b) \cdot (u - c)} $
+
+dir.
+
+Tip-1
+
+![Şekil/Grafik/Soru](images/image331.jpg)
+
+Sekilde
+
+ $$ [{\mathsf{A}}{\mathsf{H}}]\perp[{\mathsf{B}}{\mathsf{C}}] $$ 
+
+ $$  AD=8cm $$ 
+
+ $$ \left|B C\right|=14c m $$ 
+
+Yukaridaki verileri göre, taralı bölgenin alanı kaç cm² dir?
+
+A) 30 B) 36 C) 48 D) 56 E) 64
+
+#### MATEMATIK
+
+![Şekil/Grafik/Soru](images/image332.jpg)
+
+3. Yükseklikleri birbirine eşit olan üçgenlerin alanları tabanları ile orantılıdır.
+
+Şekildeki [AH], hem ABD üçgeninin hem de ADC üçgeninin yüksekliğidir.
+
+ $$ \frac{\mathsf{A}\big(\widehat{\mathsf{ABD}}\big)}{\mathsf{A}\big(\widehat{\mathsf{ADC}}\big)}=\frac{\frac{|\mathsf{BD}|\cdot|\mathsf{AH}|}{2}}{\frac{|\mathsf{DC}|\cdot|\mathsf{AH}|}{2}}=\frac{|\mathsf{BD}|}{|\mathsf{DC}|}\mathrm{~d i r.} $$ 
+
+![Şekil/Grafik/Soru](images/image333.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
+
+Şekilde, B, D, C noktaları doğrusaldır.
+
+|BD| = 4 cm
+
+|DC| = 3 cm
+
+ $ A(\widehat{ABD}) = 20 \, cm^{2} $
+
+Yukaridaki verilere göre, A( $ \widehat{ADC} $) kaç cm² dir?
+
+A) 5 B) 8 C) 10 D) 15 E) 18
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-3&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image334.jpg)
+
+#### Şekildeki ABC üçgeninde,
+
+ $$ \left|AD\right|=5cm $$ 
+
+ $$ \left|DE\right|=2cm $$ 
+
+ $$ \left|BE\right|=3cm $$ 
+
+ $$ \left|E C\right|=5\mathrm{c m} $$ 
+
+ $$ \mathsf{A}\left(\widehat{\mathsf{B D E}}\right)=6\mathrm{c m}^{2} $$ 
+
+Yukaridaki verilere göre, A( $ \widehat{AEC} $) kaç cm² dir?
+
+A) 7 B) 14 C) 21 D) 28 E) 35
+
+![Şekil/Grafik/Soru](images/image335.jpg)
+
+4. Şekildeki ABC üçgeninde [AD],[BF],[CE] kenarortay ise ABC üçgeninin alanı 6 eşit parça-ya bölünür.
+
+Şekildeki ABC üçgeninin G ağırlık merkezidir.
+
+![Şekil/Grafik/Soru](

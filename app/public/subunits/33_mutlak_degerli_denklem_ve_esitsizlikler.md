@@ -1,429 +1,253 @@
 # 2026 KPSS Matematik: Mutlak Değerli Denklemler ve Eşitsizlikler
 **Modül:** Modül 2: Cebir & Denklemler
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-|x| = a (a doğal sayı)
+üçgende yükseklik, kenarortay ve açıortay uzunlukları eşittir.
 
-x = a x = -a dir.
+![Şekil/Grafik/Soru](images/image281.jpg)
 
-|xl| = -7 (negatif olamaz)
+ $$ \mathsf{V}_{\mathsf{a}}=\mathsf{h}_{\mathsf{a}}=\mathsf{n}_{\mathsf{a}} $$ 
 
-#### Tip-7
+![Şekil/Grafik/Soru](images/image282.jpg)
 
-||x+2|+4|=7
+ABC eşkenar üçgen olmak üzere, P noktasından kenarlara çizilen dikmelerin toplamı üçgenin yüksekliğine eşittir. Yani,
 
-Örnek:
+ $$ \left|AH\right|=\left|EP\right|+\left|PD\right|+\left|PF\right| $$ 
 
-##### tip-8
+#### UYARI
 
- $$ \left|2x-6\right|=\frac{7}{8}+\frac{8}{9}+\frac{10}{11}+\frac{11}{12}+\frac{12}{13} $$ 
+![Şekil/Grafik/Soru](images/image283.jpg)
 
-ifadesinde x'in alabilecegi değerler toplamı kaçtır?
+P eşkenar üçgen üzerinde olmak üzere P noktasından kenarlara çizilen paralellerin toplamı üçgenin bir kenar uzunluğuna eşittir. Yani,
 
-A) 6 B) 8 C) 10 D) 12 E) 14
+ $$ \left|AB\right|=\left|PS\right|+\left|PR\right|+\left|PT\right| $$ 
 
-3) lx! < a → Pozitif doğal sayı
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//134f4852-9830-43cd-85fd-b11265629bd3/markdown_1/imgs/img_in_image_box_113_145_211_170.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A10Z%2F-1%2F%2F497edaf17f5879cee6e16efb965eb773b57470d8ee4c09b21db3e6a0b9776cc0" alt="Image" width="7%" /></div>
+![Şekil/Grafik/Soru](images/image284.jpg)
 
+$ekilde;
 
-Örn: |x| < 3 $\Rightarrow$ -3 < x < 3
+ $$ \left|AB\right|=\left|AC\right|=15cm $$ 
 
-$\downarrow$
+ $$ \left|B C\right|=18c m $$ 
 
-Negatif olamaz.
+ $$ |CD|=7cm $$ 
 
-Örn:  $ |x| < -7 $  $ \Rightarrow $  $ CK = \varnothing $
+Yukaridaki verilere göre, |AD|=x kaç cm'dir?
 
-##### Tip-9
+A) 16 B) 18 C) 20 D) 22 E) 24
 
-|x - 2| < 4
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
 
-ifadesini sağlayan x tam sayı değerler toplamı kaçır?
+![Şekil/Grafik/Soru](images/image285.jpg)
 
-A) 12 B) 14 C) 16 D) 18 E) 20
+Şekilde;
 
-#### Tip-10
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
 
- $ \left|\frac{x+3}{2}\right|<1 $
+ $$ |BD|=9cm $$ 
 
-ifadesini sağlayan kaç farklı x tam sayı değeri vardır?
+ $$ |C D|=6c m $$ 
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+Yukaridaki verilere göre, | AC | = x kaç cm'dir?
 
-##### Tip-11
+A) 6 B)  $ 6\sqrt{5} $ C) 9 D)  $ 9\sqrt{5} $ E) 1
 
- $$ \left|\frac{3}{x-2}\right|>\frac{1}{3} $$ 
+tip-3
 
-koşulunu sağlayan kaç farklı x tam sayı değeri vardır?
+![Şekil/Grafik/Soru](images/image286.jpg)
 
-A) 13 B) 14 C) 15 D) 16 E) 17
+$ekilde;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//134f4852-9830-43cd-85fd-b11265629bd3/markdown_1/imgs/img_in_image_box_758_394_848_437.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A10Z%2F-1%2F%2F94fa0f47835274a6c73ddbbeb4c8027b266e16c211f7d8cd4f4743cbcac799dd" alt="Image" width="6%" /></div>
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{A C}\end{array}\right| $$ 
 
+ $$ [\mathsf{D E}]\perp[\mathsf{A B}] $$ 
 
-x > a  ve x < -a dir.
+ $$ [\mathsf{D F}]\perp[\mathsf{A C}] $$ 
 
-Örnek:
+ $$ |DE|=4cm $$ 
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//134f4852-9830-43cd-85fd-b11265629bd3/markdown_1/imgs/img_in_image_box_825_484_928_529.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A10Z%2F-1%2F%2F9496bfa5cd29f026af678fb4f5466a3ce0dbaf86b89c48f40fe13ae7196792df" alt="Image" width="7%" /></div>
+ $$ |DF|=8cm $$ 
 
+ $$ m(\widehat{EDF})=150^{\circ} $$ 
 
-#### Tip-12
+Yukaridaki verilere göre, | AB | kaç cm'dir?
 
-|x-1|>3
+A) 8 B) 12 C) 18 D) 24 E) 36
 
-eşitsizliğini sağlayan x tam sayılar toplamı kaçtır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
 
-A) -3 B) -4 C) -5 D) -6 E) -7
+![Şekil/Grafik/Soru](images/image287.jpg)
 
-#### MATEMATIK
+ABC eşkenar üçgen;
 
-5) |x| = |-x|
+[FD]⊥[AB]
 
-|x - y| = |y - x|
+|AE|=4 cm
 
-|x - 2| = |2 - x|
+|BD|=12cm
 
-|2x| = 2 |x|
+Yukaridaki verilere göre, |ED|=x kaç cm'dir?
 
-|2x + 6| = 2 |x + 3|
+A) 4 B) $4\sqrt{3}$ C) 6 D) $6\sqrt{3}$ E) 8
 
-##### TIP-13
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 5&lt;/div&gt; &lt;/div&gt;
 
- $ |2x - 4| + |8 - 4x| = 12 $
+![Şekil/Grafik/Soru](images/image288.jpg)
 
-olduğuna göre, x'in alabileceği değerler çarpımı kaçtır?
+ABC eşkenar üçgen;
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+[DE]⊥[BC]
 
-6)  $ |x| = |y| $ ise
+|AE|=2cm
 
- $ x = y $  $ x = -y $ dir.
+| BD | = 8 cm
 
-#### Tip-14
+Yukaridaki verilere göre,  $ \zeta(\widehat{ABC}) $ kaç cm'dir?
 
- $ |2x - 3| = |x - 2| $
+A) 15 B) 28 C) 35 D) 42 E) 46
 
-denklemini sağlayan x değerler toplamı kaçtır?
+Tip-6
 
-A) 1 B) 2 C)  $ \frac{5}{3} $ D)  $ \frac{7}{3} $ E)  $ \frac{8}{3} $
+![Şekil/Grafik/Soru](images/image289.jpg)
 
-##### tip-15
+Şekilde ABC dik üçgen DEF eşkenar
 
- $ |x + y - 4| + |x - y - 6| = 0 $
+üçgen;
 
-denklemini sağlayan x·y çarpımı kaçtır?
+A(DEF) = 16√3 cm
 
-A) -5 B) -4 C) -3 D) -2 E) -1
+Yukaridaki verilere göre, | AB | kaç cm'dir?
 
-### NOT
+A) 16 B)  $ 20\sqrt{3} $ C)  $ 16\sqrt{3} $ D) 24 E)  $ 24\sqrt{3} $
 
-Mutlağın karşısı değişken ise bulduğun x leri yerine yaz. Karşı taraf negatif olmaz.
+tip-7
 
-TIP-16
+![Şekil/Grafik/Soru](images/image290.jpg)
 
-|2x - 1| = x
+ABC eşkenar üçgen
 
-sağlayan kaç farklı x değeri vardır?
+A, C ve D doğrusal
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+|AE| = |ED|
 
-#### Tip-17
+|CD| = 2 cm
 
-|x-1|-2x=1
+Yukaridaki verilere göre, |BE| = x kaç cm'dir?
 
-sağlayan x değerler toplamı kaçtır?
+A)  $ \frac{1}{2} $ B) 1 C)  $ \frac{3}{2} $ D) 2 E) 3
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+AÇIORTAY
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//134f4852-9830-43cd-85fd-b11265629bd3/markdown_3/imgs/img_in_image_box_78_116_116_155.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A11Z%2F-1%2F%2Ff0e130d3e999fa669465259b17add4f2c7fde06656fcac78d173fe911cc9bc6c" alt="Image" width="2%" /></div>
+![Şekil/Grafik/Soru](images/image291.jpg)
 
+Bir açının ölçüsünü iki eşit parçaya ayıran doğru parçasına açıortay denir. Açıortay doğrusu üzerinde alınan bir noktanın kollarına olan dik uzaklığı birbirine eşittir.
 
-##### NOT
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 1&lt;/div&gt; &lt;/div&gt;
 
-Sorunun içi ile dışındaki ifade birbirine benziyorsa mutlağın tanımını kullan.
+![Şekil/Grafik/Soru](images/image292.jpg)
 
-#### TIP-18
+A) 9
 
-|x-2|=x-2
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 12&lt;/div&gt; &lt;/div&gt;
 
-|x-7|=7-x
+ $$ m\left(\widehat{BAC}\right)=m\left(\widehat{CAD}\right) $$ 
 
-denklemini sağlayan x tam sayı değeri toplamı kaçtır?
+ $$ \left|CD\right|\bot\left|AD\right| $$ 
 
-A) 24 B) 25 C) 26 D) 27 E) 28
+ $$  AD=9cm $$ 
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//134f4852-9830-43cd-85fd-b11265629bd3/markdown_3/imgs/img_in_image_box_77_507_115_545.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A11Z%2F-1%2F%2F81910265330999e301dc292013ea4a7c5084b82ea31d26aa066f3dcda4f167d2" alt="Image" width="2%" /></div>
+ $$ \left|AB\right|=14cm $$ 
 
+ $$ \left|AC\right|=15cm $$ 
 
-##### NOT
+Yukaridaki verilere göre, |BC| kaç cm'dir?
 
-Mutlak değer içini sifir yapan değerlerde en küçüktür.
+13 D) 15 E) 17
 
-Mutlaklar sirali ise ortadaki sayıyı sifir yapan değere bak.
+tip-2
 
-##### Tip-19
+![Şekil/Grafik/Soru](images/image293.jpg)
 
- $ A = |x + 1| + |x + 2| + |x + 3| $
+ABC üçgen, [BN] açıortay;
 
-A'nin alabilecegi  $ \underline{\text{en küçük}} $ degeri kaçtir?
+[NE]  $ \perp $ [BC]
 
-A) 1 B) 2 C) 3 D) 4 E) 5 TiP - 2O
+| AB | = 10 cm
 
- $$ \frac{18}{\left|x-1\right|+\left|x-2\right|+\left|x-3\right|} $$ 
+|EN|=6cm
 
-ifadesinin  $ \underline{\text{en büyük}} $ değeri kaçtır?
+Yukaridaki verilere göre, Alan ( $ \widehat{ABN} $) kaç cm $ ^{2} $ dir?
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+A) 10 B) 15 C) 20 D) 25 E) 30
 
-Tip-21
+tip-3
 
-A = |x - 2| - |x - 7|
+![Şekil/Grafik/Soru](images/image294.jpg)
 
-A nın kaç farklı tam sayı değeri vardır?
+ABC dik üçgen;
 
-A) 8 B) 9 C) 10 D) 11 E) 12
+[AB] $ \perp $[BC]
 
-#### TIP-22
+[AD] açıortay
 
- $ |x + 2| + |x - 5| $
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
 
-ifadesinin alamayacağı doğal sayılar toplamı kaçtır?
+ $ |CD|=2\ cm $
 
-A) 21 B) 20 C) 15 D) 17 E) 7
+Yukaridaki verilere göre, |BD| kaç cm'dir?
 
-##### MATEMATIK
+A)  $ \sqrt{2} $ B)  $ 2\sqrt{2} $ C)  $ 3\sqrt{2} $ D)  $ 4\sqrt{2} $ E)  $ 5\sqrt{2} $
 
-##### TIP-23
+IC ACIORTAY TEOREMI
 
-|x - 1| + |x - 5| = 4
+![Şekil/Grafik/Soru](images/image295.jpg)
 
-ifadesini sağlayan kaç farklı x tam sayı değeri vardır?
+ $ \frac{c}{m} = \frac{b}{n} $ veya  $ \frac{c}{b} = \frac{m}{n} $
 
-A) 5 B) 4 C) 3 D) 2 E) 1
+ $$ \left|\mathrm{AD}\right|=n_{A}=\sqrt{\mathbf{b}\cdot\mathbf{c}-\mathbf{m}\cdot\mathbf{n}} $$ 
 
-##### TIP-24
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
 
-|x - 1| + |x - 5| = 6
+![Şekil/Grafik/Soru](images/image296.jpg)
 
-denklemini sağlayan kaç farklı x tam sayı değeri vardır?
+ABD üçgen;
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+[AN] açıortay
 
-##### TIP-25
+ $$ \left|AB\right|=14cm $$ 
 
-|x-1|+|x-5|=2
+ $$ |AC|=21cm $$ 
 
-denklemini sağlayan kaç farklı x tam sayı değeri vardır?
+ $$ |B C|=25c m $$ 
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+Yukaridaki verilere göre, |NC| kaç cm² dir?
 
-##### TIP-26
+A) 5
 
- $$ \frac{x^{2}+4}{\left|x+2\right|-3}\leq0 $$ 
+B) 10
 
-esitsizliğini sağlayan kaç farklı x tam sayı değeri vardır?
+C) 15
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+D) 20
 
-#### tip-27
+E) 25
 
- $ \frac{5}{4} $ kesrinin sayı doğru üzerinde  $ \frac{4}{3} $,  $ \frac{6}{5} $ ve  $ \frac{7}{6} $ kesirlerine olan uzaklıkları sırasıyla A, B ve C birimdir.
+Tip-5
 
-Buna göre, aşağıdaki sıralamalardan hangisi doğrudur?
+![Şekil/Grafik/Soru](images/image297.jpg)
 
-A) A < B < C B) A = B < C C) B < A < C
+ABC üçgen
 
-D) B < A = C E) B < C < A
+[BF] ve [AE] açıortaydır.
 
-#### TIP-28
+ $$ \left|AB\right|=4cm $$ 
 
-x, y ve z tam sayılar için
+ $$ |AC|=|BC|=6cm $$ 
 
- $$ \left|x+y\right|=2 $$ 
+Yukaridaki verilere göre,  $ \frac{|EF|}{|BE|} $ oranı kaçtır?
 
- $$ \left|y+z\right|=1 $$ 
-
- $$ \left|z+3\right|=0 $$ 
-
-esitlikleri veriliyor.
-
-Buna göre, x aşağıdakilerden hangisi  $ \underline{\text{olamaz}} $?
-
-A) -6 B) -4 C) -2 D) 0 E) 2
-
-#### TIP-29
-
-a bir gerçel sayı olmak üzere,
-
-|x - a| = a + 2
-
-eşitliğini sağlayan x gerçel sayılarının çarpımının -12 olduğu biliniyor.
-
-Buna göre, a kaçtır?
-
-A) 2 B) 3 C) 4 D) 5 E) 6
-
-#### Tip-30
-
-a < 0 < b olmak üzere,
-
-|a| + |a - b| = 6
-
-|b| + |b - a| = 5
-
-esitlikleri veriliyor.
-
-Buna göre, a + b toplamı kaçtır?
-
-A) -2 B) -1 C) 0 D) 1 E) 2
-
-#### Tip-31
-
-x bir tam sayı olmak üzere,
-
-|2x² - 5x - 7|
-
-ifadesi bir asal sayıya eşittir.
-
-Buna göre, x'in alabileceği değerlerin toplamı kaçtır?
-
-A) 2 B) 4 C) 6 D) 8 E) 10
-
-#### Tip-32
-
-Sayı doğrusu üzerinde pozitif bir A sayısı şekilde gibi gösterilmiştir.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0946fb59-4dfb-42b2-a369-ec0910b97ace/markdown_1/imgs/img_in_image_box_841_574_1120_609.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F8bc209ca547c00642f892a1fa816f4081a27efbaf1a52e54c9d554248682fbd5" alt="Image" width="20%" /></div>
-
-
-Sonra, bu sayı doğrusu üzerinde; O'a olan uzaklığı, A sayısının 0'a olan uzaklığının yarısına eşit olan sayılar işaretleniyor.
-
-isaretlenen sayılardan birinin A sayısına uzaklığı 6 birim olduğunu göre, A sayısının alabileceği değerler toplamı kaçtır?
-
-A) 15 B) 16 C) 18 D) 20 E) 21
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tetkik adi</td><td style='text-align: center; word-wrap: break-word;'>Sonuc</td><td style='text-align: center; word-wrap: break-word;'>$ \text{Unite} $</td><td style='text-align: center; word-wrap: break-word;'>Referans Aralik</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Demir</td><td style='text-align: center; word-wrap: break-word;'>86</td><td style='text-align: center; word-wrap: break-word;'>Ng/dL</td><td style='text-align: center; word-wrap: break-word;'>33 - 193</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Eritrosit</td><td style='text-align: center; word-wrap: break-word;'>70 $ \times $</td><td style='text-align: center; word-wrap: break-word;'>fL</td><td style='text-align: center; word-wrap: break-word;'>75 - 100</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Trombosit</td><td style='text-align: center; word-wrap: break-word;'>- $ \times $</td><td style='text-align: center; word-wrap: break-word;'>NL</td><td style='text-align: center; word-wrap: break-word;'>200 - 300</td></tr></table>
-
-Özel bir hastanede kan değerlerini ölçüren İsa'nın test sonuçları yukarıda verilmiştir. Bu sonuçların altında "★" işareti varsa, bu o sonucun referans aralığı dışında olduğu anlamına gelmektedir. İsa'nın kan sonucu kâğındaki trombosit sayısı tam olarak okunamamıştır.
-
-Buna göre, İsa'nın kanındaki trombosit sayısını gösteren ifade aşağıdakilerden hangisidir?
-
- $$ A)\quad50<\left|x-250\right|<180 $$ 
-
- $$ \mathrm{B})\quad|x-250|<50 $$ 
-
- $$  C)\ \left|x-250\right|>50 $$ 
-
- $$ D)\ \left|x-200\right|>150 $$ 
-
- $$ \mathsf{E})\ \left|x-250\right|=50 $$ 
-
-Bir seminar için Roma'ya giden Sevtap gitmeden önce hava durumu açıklamalarına bakmıştır. Salı günü hava sıcaklığının (-4) derece olduğu, çarşambadan itibaren ise havanın ışınarak sıcaklığın biraz artacağı belirtilmiştir. Çarşamba günü kent genelinde hava sıcaklığı bir önceki güne göre 10 ila 14 derece artış gösterecektir.
-
-Bu bilgilere göre çarşamba günü kentteki sıcaklıkların alabileceği değer aralığını ifade eden şitsizlik aşağıdakilerden hangisidir?
-
- $$ A)\mid x-4\mid\leq10 $$ 
-
- $$ \mathrm{B})\ |x+4|\leq14 $$ 
-
- $$  C)\left|x-4\right|\leq14 $$ 
-
- $$ \mathsf{E})~|x+8|\leq2 $$ 
-
-x ve y gerçel sayıları için
-
- $$ \left|x\right|=x+2=\frac{\left|y\right|}{3-y} $$ 
-
-olduğuna göre, x + y toplamı kaçtir?
-
-A) $\frac{1}{2}$ B) $\frac{2}{3}$ C) $\frac{3}{4}$ D) $1$ E) $2$
-
-Tanim: a ve b tam sayi
-
- $$ \underbrace{a\cdot a\cdot a\cdot\ldots\cdot a}_{b\text{tane}}=\underset{\text{taban}}{a^{b}\to\text{kuvvet}} $$ 
-
-Örnek:  $ \underbrace{2\cdot2\cdot\ldots2}_{8\text{ tane}} = 2^8 $
-
-Örnek:  $ \underbrace{(-5)\cdot(-5)\ldots(-5)}_{10\text{tane}} = (-5)^{10} $
-
-Örnek:  $ \underbrace{a + a + a + \ldots + a}_{n\text{tane}} = n \cdot a $
-
-Örnek:  $ \underbrace{2+2+\ldots+2}_{8\text{tane}} = 2\cdot8 = 16 $
-
-1) Sifir harị tìm sayílarń sifirinć kuvvetí 1 dir.
-
-Özellikler
-
-Örnek:  $ 2^0 = 1, (-5)^0 = 1, (-7)^0 = 1 $
-
-Örnek:  $ \left(\frac{\sqrt{7}-\sqrt{5}}{2^8}\right)^0=1 $
-
-Örnek:  $ (-2)^4 = 2^4 = 16 $
-
-2) Negatif bir tam sayının çift kuvveti pozitiftir.
-
-Örnek:  $ (-3)^2 = 3^2 = 9 $
-
-Parantezin ônemi
-
-Örnek:
-
- $$ (-2)^{2}=2^{2}=4 $$ 
-
- $$ -2^{2}=-4 $$ 
-
-3) Toplama ve çıkarma işlemi yapılırken aynı üssün parantezine al. Veya en küçük üssün parantezine al.
-
-Örnek:  $ 2^6 + 2^7 + 2^8 = 2^6 (1 + 2^1 + 2^2) $
-
- $ = 2^6 \cdot (1 + 2 + 4) = 2^6 \cdot 7 $
-
-Örnek:  $ 5^{-4} + 5^{-5} + 5^{-6} = 5^{-6}(5^{2} + 5^{1} + 1) $
-
- $ =5^{-6}\cdot(25+5+1)=5^{-6}\cdot31 $
-
-Örnek:  $ 2^{-7} + 2^{-9} + 2^{-11} = 2^{-11}(2^4 + 2^2 + 1) $
-
- $$ 2^{-11}\cdot(16+4+1)=2^{-11}\cdot21 $$ 
-
-4) Üslú ifadelerde, tabanları aynı olan üslü ifadeler çarpılırken üsler toplanır.
-
- $$ \mathbf{a}^{x}\cdot\mathbf{a}^{y}=\mathbf{a}^{x+y} $$ 
-
-Örnek:  $ 2^{x-2} \cdot 2^{-x+5} = 2^{x-2-x+5} = 2^3 = 8 $
-
-Örnek:
-
- $$ 2^{-2}\cdot2^{-3}\cdot2^{-4}=2^{-2-3-4}=2^{-9} $$ 
-
-Örnek:  $ 2^{x+2} = 2^x \cdot 2^2 = 4 \cdot 2^x $
-
-Örnek:  $ 3^{x-1} = 3^x \cdot 3^{-1} = 3^x \cdot \frac{1}{3} = \frac{3^x}{3} $
-
-5) Bölme işlemi yapılırken, tabanlar aynı ise üstler çıkarılır.
-
- $ \frac{a^x}{a^y} = a^{x-y} $
-
-Örnek:  $ \frac{2^7}{2^5} = 2^{7-5} = 2^2 = 4 $
-
-Örnek:  $ \frac{3^{-2}}{3^{-1}} = 3^{-2+1} = 3^{-1} = \frac{1}{3} $
-
-6)  $ \left(\frac{a}{b}\right)^{x} = \frac{a^{x}}{b^{x}} $
-
-Örnek:  $ \left(\frac{2}{3}\right)^{-2}=\left(\frac{3}{2}\right)^{2}=\frac{3^{2}}{2^{2}}=\frac{9}{4} $
-
-7)  $  (a^x)^y = (a^y)^x = \underbrace{a^x \cdot y}_{|}  $ pozitiftir
-
-Örnek:  $ (2^3)^{-2} = 2^{-6} $
-
-Örnek:  $ (2^x)^{-3} \cdot (2^{x+1})^{-2} $
-
- $ = 2^{-3x} \cdot 2^{-2x-2} = 2^{-5x-2} $
-
-8) Tabanları aynı olan
+A)  $ \frac{1}{5} $ B)  $ \frac{2}{5} $ C)  $ \frac{3}

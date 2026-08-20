@@ -1,99 +1,209 @@
 # 2026 KPSS Matematik: İşlem Önceliği Sıralaması
 **Modül:** Modül 1: Temel Matematik & Dört İşlem
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-İşlem önceliği:
+} $ ise  $ \mathbf{n} = \mathbf{x} + \mathbf{y} $
 
-1. varsa kuvvet ifadeleri
+![Şekil/Grafik/Soru](images/image141.jpg)
 
-2. varsa parantez içi
+#### ORNEK
 
-3. varsa çarpma, bölme
+$$
 
-4. toplama, çıkarma işlemleri sırası ile yapılır.
+\begin{pmatrix}
 
-#### Örnekler:
+11 \\
 
- $$ \checkmark\quad(-5+7)^{2}=4\quad\checkmark12+5\cdot(-3)=-3 $$ 
+7
 
- $$ \begin{aligned}\checkmark\left(-5\right)\cdot\left(-3\right)+\left(-2\right)\cdot\left(+3\right)=15-6=9\end{aligned}\quad\begin{aligned}\checkmark\left(+15\right):\left(-3\right)+\left(-17\right)=-5-17=-22\end{aligned} $$ 
+\end{pmatrix}
 
-### C. TEMEL İŞLEMLER
+=
 
-1) DENKLEM CÖZME
+\begin{pmatrix}
 
-* Bir işlemde denklem çözümü yapılırken aynı cins ifadeler bir yerde toplanır. Burada dikkat edilmesi gereken şey eşitliğin karşısına geçen ifadenin işareti değişir.
+11 \\
 
-#### Tip-4
+4
 
- $$ 2x+3=x+11 $$ 
+\end{pmatrix}
 
-denklemini sağlayan x değeri kaçtır?
+\quad
 
-A) 6 B) 7 C) 8 D) 9 E) 10
+\begin{pmatrix}
 
-* İki bilinmeyenli bir denklem çözümü yapılıyorsa taraf tarafa toplanarak ya da çıkarılarak yok etme işlemi yapılır. Ya da yerine koyma yönetimi uygulanarak denklem çözülür.
+17 \\
 
-#### Tip - 5
+16
 
- $$ \begin{array}{l}x+y=12\\x-y=4\end{array} $$ 
+\end{pmatrix}
 
-denklemini sağlayan x değeri kaçtır?
+=
 
-A) 6 B) 7 C) 8 D) 9 E) 10
+\begin{pmatrix}
 
-#### TIP-6
+17 \\
 
-2x + y = 8
+1
 
- $$ x+y=15 $$ 
+\end{pmatrix}
 
-denklemini sağlayan y değeri kaçtır?
+\quad
 
-A) 16 B) 18 C) 20 D) 22 E) 24
+\begin{pmatrix}
 
-2) IÇLER DIŞLAR ÇARPIM
+8 \\
 
- $$ \frac{a}{b}=\frac{c}{d}\Rightarrow\boldsymbol{a}\cdot\boldsymbol{d}=\boldsymbol{b}\cdot\boldsymbol{c} $$ 
+8
 
-işlemine içler dışlar çarpımı yapma denir.
+\end{pmatrix}
+
+=
+
+\begin{pmatrix}
+
+8 \\
+
+0
+
+\end{pmatrix}
+
+$$
+
+$$
+
+\begin{pmatrix}
+
+n \\
+
+0
+
+\end{pmatrix}
+
++
+
+\begin{pmatrix}
+
+n \\
+
+1
+
+\end{pmatrix}
+
++
+
+\begin{pmatrix}
+
+n \\
+
+2
+
+\end{pmatrix}
+
++
+
+\begin{pmatrix}
+
+n \\
+
+3
+
+\end{pmatrix}
+
++
+
+\ldots +
+
+\begin{pmatrix}
+
+n \\
+
+n
+
+\end{pmatrix}
+
+= 2^n
+
+$$
+
+$$
+
+0 \text{ elemanli} \quad 1 \text{ elemanli} \quad 2 \text{ elemanli} \\
+
+\text{alt küme} \quad \text{alt küme} \quad \text{alt küme}
+
+$$
+
+Özalt küme: Kendisi hariç tüm alt kümerine denir.
+
+n elemanlı bir kümenin özalt küme sayısı = 2^{n} - 1 dir.
+
+A kümesinin alt küme sayısı B kümesinin alt küme sayısının 32 kat olduğunu göre, s(A) - s(B) farkı kaçtır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+
+A kümesinin özalt küme sayısı ile B kümesinin öz alt küme sayılarının toplamı 32 olduğunu göre s(A) + s(B) toplamı kaçtır?
+
+A) 3 B) 5 C) 6 D) 7 E) 8
+
+#### TIP-4
+
+A = {1, 2, 3, 4, 5}
+
+kümesinin alt kümelerinin kaç tanesinde
+
+1. 1 eleman olarak bulunur?
+
+##### II. 3 eleman olarak  $ \underline{\text{bulunmaz}} $?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;CEVAP: (16)&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;CEVAP: (16)&lt;/div&gt; &lt;/div&gt;
+
+III. 1 ve 2 eleman olarak bulunur?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;CEVAP: (8)&lt;/div&gt; &lt;/div&gt;
+
+IV. 2 ve 3 eleman olarak bulunur, 5 eleman olarak  $ \underline{\text{bulunmaz}} $?
+
+CEVAP: (4)
+
+#### tip-5
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="2"&gt;A = {a, b, c, d, e}&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;kümesinin 3 elemanlı alt kümelerinin kaç tanesinde&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;I. a eleman olarak bulunur?&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;CEVAP: (6)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;II. a ve b eleman olarak  $ \underline{\text{bulunmaz}} $?&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;CEVAP: (1)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;III. a bulunur, c  $ \underline{\text{bulunmaz}} $?&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;CEVAP: (3)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;IV. c ve d bulunur, e  $ \underline{\text{bulunmaz}} $?&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;CEVAP: (2)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+#### tip-6
+
+n elemanlı bir kümenin 2 elemanlı alt küme sayısı ile 5 elemanlı alt
+
+küme sayısı eşit olduğunu göre, bu kümenin 4 elemanlı kaç alt kümesi
+
+vardır?
+
+A) 26 B) 35 C) 28 D) 32 E) 36
+
+Evrensel Küme ve Tümleme
+
+![Şekil/Grafik/Soru](images/image142.jpg)
+
+A',  $ \overline{A} $: A'nın tümleyeni (yani A'nın dışindakiler)
+
+ $$ +\frac{\mathbf{s}(\mathsf{A})^{\prime}=\mathbf{y}}{\mathbf{s}(\mathsf{A})+\mathbf{s}(\mathsf{A})^{\prime}=\mathbf{x}+\mathbf{y}=\mathbf{s}(\mathsf{E})} $$ 
+
+ $$ \diamond\;\boxed{\mathbf{s}(\mathbf{A})+\mathbf{s}(\mathbf{A})^{\prime}=\mathbf{s}(\mathbf{E})} $$ 
+
+ $$ { \tiny \begin{array}{l l} { \mathsf{ s } ( \mathsf{ A } \cup \mathsf{ B } ) ^ { \prime } = \mathsf { s } ( \mathsf{ A } ^ { \prime } \cap \mathsf{ B } ^ { \prime } ) } \end{array} } $$ 
+
+ $$ \diamondsuit\ \mathsf{s}(\mathsf{A}\cap\mathsf{B})^{\prime}=\mathsf{s}(\mathsf{A}^{\prime}\cup\mathsf{B}^{\prime}) $$ 
+
+ $$ { \diamondsuit } \operatorname { s } ( A ^ { \prime } \cup \operatorname{B } ^ { \prime } ) = \operatorname {s } ( \operatorname {A } \cap \operatorname{B } ) ^ { \prime } $$ 
+
+ $$  ↳\mathbf{s}(\mathbf{A}^{\prime}\cap\mathbf{B}^{\prime})=\mathbf{s}(\mathbf{A}\cup\mathbf{B})^{\prime} $$ 
 
 #### tip-7
 
- $$ \frac{x-2}{x+1}=\frac{3}{2} $$ 
-
-denklemini sağlayan x değeri kaçtır?
-
-A) -7 B) -8 C) -9 D) -10 E) -11
-
-#### tip-8
-
- $$ 4-2x=\frac{3x-4}{-2} $$ 
-
-denklemini sağlayan x değeri kaçtır?
-
-A) 3 B) 4 C) 5 D) 6 E) 7
-
-3) PARANTEZ AÇMA
-
- $$ \boldsymbol{x}\cdot(\boldsymbol{a}+\boldsymbol{b}+\boldsymbol{c})\Rightarrow\boldsymbol{x}\cdot\boldsymbol{a}+\boldsymbol{x}\cdot\boldsymbol{b}+\boldsymbol{x}\cdot\boldsymbol{c} $$ 
-
-işleminde x, şekildeki gibi sırası ile çarpılarak parantez açılır.
-
-#### Örnekler;
-
-✓  $ 3 \cdot (x - 2) = 3x - 6 $
-
- $$ \begin{array}{r}{\checkmark\quad-2\cdot(-5-2y+x)=10+4y-2x}\end{array} $$ 
-
-#### tip-9
-
- $$ 2\cdot(2x-y+z)-3(y+2z-2x)-5\cdot(2x-y) $$ 
-
-ifadesinin esiti nedir?
-
-A) 2x B) y C) -y D) -2z E) -4z
-
-#### 4)
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;A, B ve C boş olmayan kümelerdir.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;s(A) + s(B)&amp;#x27; = 12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;s(B) + s(A)&amp;#x27; = 14&lt;/td&gt;&lt;td style='text-al

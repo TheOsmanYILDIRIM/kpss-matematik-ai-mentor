@@ -1,268 +1,221 @@
 # 2026 KPSS Matematik: Aritmetik Ortalama ve Geometrik Ortalama
 **Modül:** Modül 2: Cebir & Denklemler
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-aritmetik ortalaması 11 ise a + b toplaminin  $ \underline{\text{en büyük}} $ değeri kaçtır?
+zerlik oranına eşittir.
 
-A) 24 B) 25 C) 26 D) 27 E) 28
+ $$ \frac{h_{a}}{h_{d}}=\frac{h_{b}}{h_{e}}=\frac{h_{c}}{h_{f}}=k $$ 
 
-#### tip-28
+Karşılıklı açıortay uzunluklarının oranı, benzerlik oranına eşittir.
 
-Bir sınıftaki erkeklerin yaş ortalaması 12, kızların yaş ortalaması 18 dir.
+ $$ \frac{\eta_{A}}{\eta_{D}}=\frac{\eta_{B}}{\eta_{E}}=\frac{\eta_{C}}{\eta_{F}}=k $$ 
 
-Siniftaki erkeklerin sayısı kızların sayısının 2 katı ise tüm sinifin yaş ortalaması kaçtır?
+Karşılık kenarortay uzunluklarının oranı, benzerlik oranına eşittir.
 
-A) 13 B) 14 C) 15 D) 16 E) 17
+ $$ \frac{V_{a}}{V_{d}}=\frac{V_{b}}{V_{e}}=\frac{V_{c}}{V_{f}}=k $$ 
 
-( $ \sqrt{7}-2 $) ile ( $ \sqrt{7}+2 $)
+Karşılık çevreler oranı, benzerlik oranına eşittir.
 
-sayilarinin geometrik ortası kaçtır?
+ $$ \frac{\complement_{\mathcal{C}}(\text{ABC})}{\complement_{\mathcal{C}}(\text{DEF})}=k $$ 
 
-A) $\sqrt{3}$ B) $\sqrt{5}$ C) 3 D) 5 E) 7
+Karşılık iç teğet ve çevrel çemberlerinin yarıçapları oranı, benzerlik oranına eşittir.
 
-#### Tip-30
+ $$ \frac{r_{ABC}}{r_{DEF}}=\frac{R_{ABC}}{R_{DEF}}=k $$ 
 
-a ile b nin aritmetik ortası 6 dır.
+#### KURAL
 
-a ile geometrik ortası 2$\sqrt{3}$, b ile geometrik ortası 3$\sqrt{2}$ olan sayı kaçtır?
+Benzerlikte Alan
 
-A) $\frac{1}{2}$ B) 1 C) $\frac{3}{2}$ D) 2 E) $\frac{5}{2}$
+![Şekil/Grafik/Soru](images/image391.jpg)
 
-#### Tip-31
+![Şekil/Grafik/Soru](images/image392.jpg)
 
-1'den 65'e kadar numaralandırılmış 65 top, A ve B kutularına dağıtılıyor. Bu durumda A ve B kutularındaki topların numaralarının aritmetik ortalaması sırasıyla 30 ve 35 oluyor.
+![Şekil/Grafik/Soru](images/image393.jpg)
 
-Buna göre, A kutusundaki top sayısı kaçtır?
+Tip-25
 
-A) 24 B) 26 C) 28 D) 30 E) 32
+![Şekil/Grafik/Soru](images/image394.jpg)
 
-#### TIP-32
+ $$ \mathsf{m}\bigl(\widehat{\mathsf{BAD}}\bigr)=\mathsf{m}\bigl(\widehat{\mathsf{ADE}}\bigr) $$ 
 
-Bir şirkette çalışan 75 yaşındaki Metin Bey ve diğer çalışanların yaşlarının ortalaması 1 Ocak 2019 tarihinde 45 olarak hesaplanmıştır. Metin Bey, 2019 yılının sonunda emekli olup işten ayrıldıktan sonra bu şirkette çalışanların yaş ortalaması 1 Ocak 2020 tarihinde yine 45 olarak hesaplanmıştır.
+ $$ [\mathsf{B K}]\bot[\mathsf{A D}] $$ 
 
-Metin Bey'den başka işten ayrılan veya işe yeni alınan biri olmadığını göre, 1 Ocak 2019 tarihinde bu şirketteki toplam çalışan sayısı kaçtır?
+[EL]  $ \perp $ [AD]
 
-A) 25 B) 28 C) 31 D) 34 E) 37
+ $$ 3\left|\mathrm{BK}\right|=4\left|\mathrm{LE}\right| $$ 
 
-#### Tip-33
+|AD|=14cm
 
-Bir tezgâhta bulunan elma, mandalina ve portakalın kilogram türünden toplam ağırlıkları sırasıyla 5, 3 ve 2 sayılarıyla; bu meyvelerin kilogram satış fiyatları ise sırasıyla 1, 2 ve k sayılarıyla doğru orantılıdır.
+Yukaridaki verilere göre, | AC | kaç cm'dir?
 
-Bu meyvelerin bir kısmı satıldıktan sonra;
+A) 2 B) 4 C) 6 D) 8 E) 10
 
-• tezgâhta kalan elma, mandalina ve portakalın toplam ağırlıklarının birbirine eşit olduğu,
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-26&lt;/div&gt; &lt;/div&gt;
 
-- bu üç çeşit meyvenin her birinin satışından elde edilen gelirlerin birbirine eşit olduğu görülüyor.
+![Şekil/Grafik/Soru](images/image395.jpg)
 
-Buna göre, k kaçtır?
+ABC bir üçgen
 
-A) 4 B) 5 C) 6 D) 7 E) 8
+[DE]//[BC]
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//bb82364e-4ad6-4304-b425-9ac811b0c0a7/markdown_2/imgs/img_in_image_box_135_195_322_394.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A13Z%2F-1%2F%2F341e8bf96e46ee935a9a0d9e62dc2f8ea08620aa64feb9e817f37646b083e3ca" alt="Image" width="14%" /></div>
+2|BD|=|AD|
 
+A(BCED)=20 cm²
 
-Sıcaklık ölçü birimleri olan
+Yukaridaki verilere göre, A(ADE) kaç cm² dir?
 
-Fahrenheit (°F) ve Celcius (°C)
+A) 4 B) 8 C) 12 D) 16 E) 20
 
-arasindaki dönüşümler
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-27&lt;/div&gt; &lt;/div&gt;
 
- $ F = \frac{9}{5} \cdot C + 32 $ formülü
+![Şekil/Grafik/Soru](images/image396.jpg)
 
-kullanılarak hesaplanmaktadır.
+ABC bir üçgen
 
-Anil, okula gittikleri beş gün boyunca her gün aynı saatte sınıfın sıcaklığını Celsius olarak ölçüp bu beş günün ortalama sıcaklığını Celsius türünden bulması için görevlendirilmiştir. Bu ölçme işlemi için o anki havanın sıcaklığını hem Fahrenheit hem de Celsius türünden gösteren şekilde teromometre kullanılmıştır. Anil bu beş günün birinde okula gitmemiş, o günün ölçümünü sınıf arkadaşı Beril yapmıştır. Ancak Beril, o günün sıcaklığı için C değeri yerine yanlışlıkla F değerini listeye kaydetmiştir. Anil, listedeki değerlere göre bu beş günün ortalama sıcaklığına 26,4°C olarak hesaplamıştır.
+[DE]//[BC]
 
-Beril'in ölçüm yaptığı günün sıcaklık değeri Celsius'a çevrildikten sonra bu beş günlük ölçümün listedeki değerleri yukarıdaki gibi olduğuna göre, Anil hangi gün okula gitmemiştir?
+|AD|=3cm
 
-A) Pazartesi B) Sal C) Çarşamba D) Perşembe E) Cuma
+|DB|=2cm
 
+Yukaridaki verilere göre,  $ \frac{A(ADE)}{A(ABC)} $ oranı kaçtır?
 
+A)  $ \frac{1}{4} $ B)  $ \frac{4}{9} $ C)  $ \frac{9}{25} $ D)  $ \frac{16}{25} $ E)  $ \frac{36}{25} $
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Pazartesi</td><td style='text-align: center; word-wrap: break-word;'>Sali</td><td style='text-align: center; word-wrap: break-word;'>Çarşamba</td><td style='text-align: center; word-wrap: break-word;'>Perşembe</td><td style='text-align: center; word-wrap: break-word;'>Cuma</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Sıcaklık (°C)</td><td style='text-align: center; word-wrap: break-word;'>23</td><td style='text-align: center; word-wrap: break-word;'>17</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>31</td></tr></table>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-28&lt;/div&gt; &lt;/div&gt;
 
-#### Tip-35
+![Şekil/Grafik/Soru](images/image397.jpg)
 
-0 ile 100 arasında puan verilen bir sinava giren 10 öğrenciden 6 öğrencinin 50'den fazla, 70'ten az puan aldığı bilinmektedir.
+ABC üçgen,
 
-Buna göre, bu 10 öğrencinin sinavdan aldıkları puanların aritmetik ortalaması;
+[DE]//[BC]
 
-1. 25
+Alan(ADE) = 25 cm²
 
-II. 55
+Alan(BCED) = 24 cm²
 
-III. 85
+|AD| = 5 cm
 
-#### değerlerinden hangileri  $ \underline{\text{olamaz}} $?
+Yukaridaki verilere göre, |BD| kaç cm'dir?
 
-A) Yalnız I B) Yalnız III C) I ve II
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-D) I ve III E) II ve III
+TIP-29
 
-Bir sayının 2 fazlası = x + 2
+![Şekil/Grafik/Soru](images/image398.jpg)
 
-Bir sayının 2 katının 3 eksiği = 2x - 3
+ABC ve DEF eşkenar üçgen,
 
-Bir sayının yarısı ile kendisi toplanırsa =  $ \frac{x}{2} + x $
+|BE|=|EF|=|FC|
 
-Bir sayının karesinin 5 eksiği =  $ x^2 = 5 $
+Yukaridaki verilere göre,  $ \frac{Alan(ABE)}{Alan(DEF)} $ oranı kaçtır?
 
-Bir sayının 2 fazlasının yarısının 4 eksiği =  $ \frac{x + 2}{2} - 4 $
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-Bir sayının 1 fazlasının karesinin yarısı =  $ \frac{(x + 1)^2}{2} $
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ÖZELLIK&lt;/div&gt; &lt;/div&gt;
 
-#### Denklemleri tek değişken üzerine kurun.
+![Şekil/Grafik/Soru](images/image399.jpg)
 
-I) İki sayının toplamı 20'dir.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-30&lt;/div&gt; &lt;/div&gt;
 
- $$ \frac{1.sayi}{x}\quad\frac{2.sayi}{20-x} $$ 
+![Şekil/Grafik/Soru](images/image400.jpg)
 
-♦ Neyi soruyorsa ona x deyin.
+ $$ [{\mathsf{D E}}//[{\mathsf{F K}}]//[{\mathsf{B C}}] $$ 
 
-II) Ủc sayının toplamı 20'dir. Birinci sayı ikinci sayıya eşittir.
+ $$ \frac{\left|AD\right|}{3}=\frac{\left|DF\right|}{2}=\left|FB\right| $$ 
 
- $$ \begin{array}{l}\underline{\text{1.sayi}}\quad\underline{\text{2.sayi}}\quad\underline{\text{3.sayi}}\\ \times\quad x\quad x\quad20-2x\end{array} $$ 
+ $$ \mathrm{A l a n(F K E D)=16c m^{2}} $$ 
 
-Ardışık Sayılar: Ardışık iki terimi arasındaki farkı 1 olan sayılardır.
+Yukaridaki verilere göre, Alan(BCKF) kaç cm² dir?
 
-n, n + 1, n + 2 şeklinde yazılabilir.
+A) 8 B) 9 C) 10 D) 11 E) 12
 
-Ardişik Tek Sayılar: Ardişik iki terimi arasındaki farkı 2 olan sayıldır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-31&lt;/div&gt; &lt;/div&gt;
 
-n, n + 2, n + 4 şeklinde yazılabilir.
+![Şekil/Grafik/Soru](images/image401.jpg)
 
-Ardışık Çift Sayılar: Ardışık iki terimi arasındaki farkı 2 olan sayılardır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ABC bir üçgen&lt;/div&gt; &lt;/div&gt;
 
-n, n + 2, n + 4, ... şeklinde yazılabilir.
+ $$ [{\mathsf{D E}}//[{\mathsf{K L}}]//[{\mathsf{B C}}] $$ 
 
-#### Tip-1
+ $$ |AD|=|KB|=1cm $$ 
 
-Ardışık üç çift doğal sayının toplamı, küçük sayının 2 katının 22 fazlasına eşittir.
+ $$ DK=2cm $$ 
 
-Buna göre, küçük sayı kaçtır?
+ $$ A(KLED)=16cm^{2} $$ 
 
-A) 14 B) 16 C) 18 D) 20 E) 22
+Yukaridaki verilere göre, A(ABC) kaç cm² dir?
 
-#### TIP-2
+A) 2 B) 8 C) 16 D) 24 E) 32
 
-Ủc sayıdan birincisi ikincisinin 3 katı, üçüncüsünün ise yarısıdır.
+ÖZELLİK
 
-Bu üç sayının toplamı 60 olduğunu göre, üçüncü sayı kaçtır?
+![Şekil/Grafik/Soru](images/image402.jpg)
 
-A) 12 B) 18 C) 24 D) 30 E) 36
+![Şekil/Grafik/Soru](images/image403.jpg)
 
-#### TIP-3
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-32&lt;/div&gt; &lt;/div&gt;
 
-Bir markette bir kısmı 2 kg'lık, diğerleri ise 5 kg'lık paketler hâlinde olan toplam 30 paket pirinç vardır.
+![Şekil/Grafik/Soru](images/image404.jpg)
 
-Markette toplam 99 kg pirinç olduğuna göre, 2 kg'lık kaç paket vardır?
+ $$ [AB]//[EF]//[DC] $$ 
 
-A) 14 B) 15 C) 16 D) 17 E) 18
+ $$ \frac{Alan(ABFE)}{Alan(ABCD)}=\frac{3}{8} $$ 
 
-#### TIP-4
+| AB | = 9 cm
 
-Bir araç şehir içi yollarda km başına 0,2 TL, şehirler arası yollarda km başına 0,15 TL benzin yakıyor.
+Yukaridaki verilere göre,  $ |EF|=x $ kaç cm'dir?
 
-Bu araç şehir içi ve şehirler arası yollarda toplam 300 km gittiğinde 52 TL'lik benzin yakıtına göre, şehir içi yolda kaç km gitmiştir?
+A)  $ \sqrt{6} $ B)  $ 2\sqrt{6} $ C)  $ 3\sqrt{6} $ D)  $ 4\sqrt{6} $ E)  $ 5\sqrt{6} $
 
-A) 120 B) 130 C) 140 D) 150 E) 160
+![Şekil/Grafik/Soru](images/image405.jpg)
 
-#### Tip - 5
+##### TIP-33
 
-Bir sınıftaki öğrenciler sıralara 3'er kişi otururlarsa 5 kişi ayakta kalıyor.
+ $$ [{\mathsf{D C}}]\mathbin{//}[{\mathsf{E F}}]\mathbin{//}[{\mathsf{D C}}] $$ 
 
-Sıralara 5'er kişi otururlarsa 3 sıra boş kalıyor.
+ $$ \mathsf{A}(\mathsf{DCEF})=\mathsf{S}_{1}\lor\mathsf{e}\mathsf{A}(\mathsf{EFBA})=\mathsf{S}_{2} $$ 
 
-Buna göre bu sınıfta kaç öğrenci vardır?
+ $$ \mathsf{S}_{1}=\mathsf{S}_{2} $$ 
 
-A) 35 B) 38 C) 45 D) 48 E) 55
+ $$ |DC|=3\ cm $$ 
 
-#### TIP-6
+|AB| = 9 cm
 
-Bir sınıftaki öğrenciler sıralara 2'ser kişi otururlarsa 4 kişi ayakta kalıyor. 5'er kişi otururlarsa 2 Sıra boş kalıyor ve 1 Sıradı da 1 Kışlı oturuyor.
+Yukaridaki verilere göre, x kaçtır?
 
-Buna göre, bu sınıfta kaç öğrenci vardır?
+A)  $ 2\sqrt{5} $ B)  $ 3\sqrt{5} $ C)  $ 4\sqrt{5} $ D)  $ 5\sqrt{5} $ E)  $ 6\sqrt{5} $
 
-A) 16 B) 18 C) 20 D) 26 E) 32
+#### Konveks Çokgenlerin Özellikleri
 
-##### TIP-7
+## n kenarlı bir konveks çokgende
 
-Kâmil bir merdiven basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er iniyor.
+1. İç açıların ölçüleri toplamı (n-2) · 180° dir.
 
-Kâmil'in iniş ve çıkışta toplam attığı adım sayısı basamak sayısından 10 eksik ise merdiven kaç basamaklıdır?
+2. Dịs açilarin ölçüleri toplamı 360° dir.
 
-A) 40 B) 50 C) 60 D) 65 E) 70
+3. Toplam köşegen sayısı  $ \frac{n \cdot (n - 3)}{2} $ dir.
 
-Tip-8
+### Düzgün Çokgenler
 
-Bir merdivenin basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er inen Alper inişte ve çıkışta toplam 35 adım atmıştır.
+Tüm kenarları ve iç açıları (veya dış açıları) birbirine eşit olan çokgenlere düzgün çokgenler denir.
 
-Buna göre, Alper iniste kaç adım atmıştır?
+![Şekil/Grafik/Soru](images/image406.jpg)
 
-A) 10 B) 14 C) 16 D) 20 E) 25
+![Şekil/Grafik/Soru](images/image407.jpg)
 
-#### tip-9
+![Şekil/Grafik/Soru](images/image408.jpg)
 
-Bir palyaço 5 adım ileri 1 adım geri giderek ilerliyor.
+#### Düzgün Çokgenlerin Özellikleri
 
-Palyaço 44 adim attiginda bulunduğu noktadan kaç adim ilerlemiş olur?
+1. İç açılarının ölçülerinin toplamı (n-2)·180° dir.
 
-A) 27 B) 28 C) 29 D) 30 E) 31
+## n kenarlı bir düzgün çokgenin
 
-##### Tip-10
+2. Dịs açilarinin ölçülerinin toplamı 360° dir.
 
-Bir mehter takımı 3 adım ileri, 1 adım geri giderek kortejde ilerliyor.
+3. Bir dış açısının ölçüsü  $ \frac{360^{\circ}}{n} $ dir.
 
-Bu mehtir takımı bulunduğu noktadan 27 adım ileri gittiğine göre,  $ \underline{\text{en az}} $ kaç adım atmıştır?
-
-A) 30 B) 32 C) 46 D) 48 E) 51
-
-#### TIP-11
-
-Birlikte yemeğe giden 15 öğrenci hesabı aralarında eşit olarak bölüşmeyi planlıyorlar.
-
-Öğrencilerden 5 tanesinin parası olmadığı için, diğerleri 3'er TL daha fazla verdiğine göre, hesap kaç TL'dir?
-
-A) 70 B) 75 C) 80 D) 85 E) 90
-
-#### Tip-12
-
-Bir davette konuklara kuru pasta ikram edildiğinde kişi başına 10 tane kuru pasta düşmektedir. Bu davete 3 konuk daha gelirse kişi başına 9 kuru pasta düşsecektir.
-
-Buna göre, bu davette toplam kaç kuru pasta ikram edilmiştir?
-
-A) 150 B) 200 C) 270 D) 300 E) 350
-
-#### Tip-13
-
-Bir miktar şeker bir grup çocuğa esit olarak paylaştırıldığında çocuk başına 15 şeker düşüyor. Eğer iki çocuk 9'ar şeker alırsa diğer çocuklara 16'şar şeker kalıyor.
-
-Buna göre, grupta kaç çocuk vardır?
-
-A) 12 B) 13 C) 14 D) 15 E) 16
-
-#### TiP-14
-
-Temel elindeki fındıkları kendisine ve arkadaşlarına eşit miktarda dağıttığında kişi başına 20 fındık düşüyor. Eğer arkadaşlarına 15 fındık verirse kendisine 55 fındık kalıyor.
-
-Buna göre, Temel'in kaç fındığı vardır?
-
-A) 120 B) 130 C) 150 D) 160 E) 180
-
-#### Tip-15
-
-Bir oyunda kurallara göre oyuncular her doğru cevap için 30 puan kazanıyor, her yanlış cevaptan 40 puan kaybediyor.
-
-20 soruya cevap veren bir oyuncu 320 puan kazandığına göre, doğru cevapların sayısı kaçtır?
-
-A) 15 B) 16 C) 17 D) 18 E) 19
-
-#### TIP-16
-
-Doğru yapılan her soruya 5 puanın verildiği, 4 yanlışın da bir doğruyu götürdüğü 80 soruluk bir sınava katılan bir öğrenci 225 puan alıyor.
-
-Öğrenci bütün soruları işaretlediğine göre, doğru yaptığı soru sayıkaçtır?
-
-A) 52 B) 56 C) 60 D) 63 E) 65
+4. B

@@ -1,447 +1,323 @@
 # 2026 KPSS Matematik: Çemberde Açılar (Merkez, Çevre, Teğet-Kiriş) ve Çemberde Uzunluk
 **Modül:** Modül 5: Geometri
-> Kaynak: İlyas Güneş 2026 Video Ders Notu
+> Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-CEMBERDE AÇILAR
+{array}{l} \textbf{B)}2x+y-1=0 \end{array} $$ 
 
-O noktasi çemberin merkezi olmak üzere merkez açı gördüğü yayın ölçüsüne eşittir.
+ $$ \begin{aligned}C)2x-y-1=0\end{aligned} $$ 
 
- $$ m(\widehat{AB})=\alpha\operatorname{ise} $$ 
+ $$ D)x-2y-1=0 $$ 
 
- $ m(\widehat{AOB}) = \alpha \, \mathrm{d}lr. $
+ $$ \mathsf{E})x-2y+1=0 $$ 
 
-Aynı yayı görev açıların ölçüleri birbirine eşittir.
+### b. iki Noktasi Bilinen Doğru Denkleminin Bulunması
 
-#### UYARI
+İki nokta yardımıyla önce eğim bulunur. Sonra noktalandan herhangi biri ve eğim kullanılarak doğru denklemi bulunur. A( $ x_{1} $,  $ y_{1} $), B( $ x_{2} $,  $ y_{2} $) olan doğrunun denklemi
 
-<div style="text-align: center;"><div style="text-align: center;">b)</div> </div>
+ $$ \frac{y-y_{1}}{x-x_{1}}=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\quad\text{dir.} $$ 
 
+#### tip-8
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_1/imgs/img_in_image_box_87_636_244_824.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F1a3999e9a2d3e977c1568d5cc7b2e95d258df2db720995e537b2e88563d3d0bb" alt="Image" width="11%" /></div>
+A(1, 3) ve B(-1, 2) noktalarından geçen doğrunun denklemi nedir?
 
+A)  $ 2x - y - 5 = 0 $ B)  $ 2y - x - 5 = 0 $
 
- $ m(\widehat{AB}) = 2\alpha $ ise
+C)  $ x - y - 5 = 0 $ D)  $ 2x + y - 5 = 0 $
 
-C noktasi çemberin üzerinde olmak üzere, çevre açı gördüğü yayın ölçüsünün yarısına eşittir.
+ $$ \mathsf{E})x+y-4=0 $$ 
 
- $$ m\left(\widehat{ACB}\right)=\alpha\quad dir. $$ 
+Tip-9
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_1/imgs/img_in_image_box_717_414_895_593.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2Fd8bfa877eb36f24b848e27d5b181ccda66d7bb3f12f13303355671617d6e9cbd" alt="Image" width="13%" /></div>
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;A(1, 3) , (2, k) noktalarindan geçen doğru y eksenini (0, 3) noktasında kestiğine göre, k kaçtir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
+c. Eksenleri Kestiği Noktaları Bilinen Doğru Denklemleri
 
-Çapı gören çevre açının ölçüsü 90° dir.
+Bir d doğrusu x eksenini a noktasında, y eksenini de b noktasında keserse bu doğrunun denklemi:
 
-[AB] çemberinin çapı ise
+d:  $ \frac{x}{a} + \frac{y}{b} = 1 $ şeklinde bulunur.
 
- $$ m(\widehat{ABC})=90^{\circ}dir. $$ 
+ $$ \frac{x}{4}+\frac{y}{8}=1\ ,\ \frac{x}{2}+\frac{y}{3}=1 $$ 
 
-<div style="text-align: center;"><div style="text-align: center;">d)</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_1/imgs/img_in_image_box_711_618_909_792.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F08a74686b961bfb6c38b852ba4c1d7d487473136995a99bc80e41e158c7f4f5b" alt="Image" width="14%" /></div>
-
-
-AC doğrusu A noktasında çembere teğet, [AB] kiriştir.
-
-BAC teğet - kiriş açısının ölçüsü, gördüğü yayın açı ölçüsünün yarısına eşittir.
-
- $ m(\widehat{AB}) = 2\alpha $ olsun.
-
- $ m(\widehat{BAC}) = \alpha \, olur. $
-
-#### UYARI
-
-Aynı yayı görev açının ölçüsüyle teğet kiriş açının ölçüleri birbirine eşittir.
-
-<div style="text-align: center;"><div style="text-align: center;">tip-1</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_2/imgs/img_in_image_box_70_365_291_543.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A17Z%2F-1%2F%2F3503f05f21717a5353f82ae70e49b6755989032f4b29af0ea4f3011c1bf61f36" alt="Image" width="16%" /></div>
-
-
-Şekilde [AB] kiriş, AC doğrusu A noktasında çembere teğettir. D noktası çemberin üzerin-dedir.
-
- $$ m\left(\widehat{BAC}\right)=30^{\circ} $$ 
-
-### Buna göre, m(  $ \widehat{ADB} $ ) kaç derecedir?
-
-A) 10 B) 20 C) 30 D) 40 E) 60
-
-<div style="text-align: center;"><div style="text-align: center;">e)</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_2/imgs/img_in_image_box_711_141_910_297.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A17Z%2F-1%2F%2F9978fc1f928c2e5c489305e779425c76272987de66d52f64b6e2e2737a15c591" alt="Image" width="14%" /></div>
-
-
-Şekildeki O noktası çemberin merkezidir. Çemberde merkezden teğetin değme noktasına çizilen yarıçap teğete diktir. AB doğrusu O noktasında çembere teğet olmak üzere
-
-t)
-
- $ m(\widehat{OAB}) = 90^\circ $ dir.
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_2/imgs/img_in_image_box_789_313_932_453.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A17Z%2F-1%2F%2Fddcbbf65344e30d4a776c7f9f32ff8835057b6027c24480b243570992b6bd7bf" alt="Image" width="10%" /></div>
-
-
-A noktası çemberin içinde rastgele bir noktasıdır.
-
-g)
-
- $$ \alpha=\frac{m(\widehat{BC})+m(\widehat{DE})}{2}\quad\mathrm{olur}. $$ 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_2/imgs/img_in_image_box_713_475_938_620.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A17Z%2F-1%2F%2F3ca749e0a7861a759032545285ff9f083aea44b9af6b3f84d8d095ee6e08ec7e" alt="Image" width="16%" /></div>
-
-
- $$ m\left(\widehat{BPD}\right)=\alpha $$ 
-
- $$ \alpha=\frac{m(\widehat{BD})-m(\widehat{AC})}{2} $$ 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_2/imgs/img_in_image_box_714_648_953_861.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A17Z%2F-1%2F%2F810a855489e31800ae3df8580be4a7c6b50d2f249cb38fb102edff1975fa4f57" alt="Image" width="17%" /></div>
-
-
-A ve B teğet değme noktaları
-
-m $ \left(\widehat{AOB}\right)=\alpha $ ise
-
- $ \alpha + m(\widehat{AB}) = 180^{\circ} $ dir.
-
-<div style="text-align: center;"><div style="text-align: center;">Tip-2</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_3/imgs/img_in_image_box_93_169_255_324.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A18Z%2F-1%2F%2F55d08f71e19e4bed3bc84f7ed192527ef2379ab72efd5614f7393aec855a4d06" alt="Image" width="12%" /></div>
-
-
-O merkezli çemberde [AO]//[BC]
-
-m(OCB) = 60°
-
-Yukaridaki verilere göre, m( $ \widehat{OAB} $) kaç derecedir?
-
-A) 40 B) 50 C) 60 D) 70 E) 80
-
-<div style="text-align: center;"><div style="text-align: center;">Tip-3</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_3/imgs/img_in_image_box_65_515_310_744.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A18Z%2F-1%2F%2Fd3defda8f74e411692c50525ce476c8d2aef09945a5312f729b0a1a6c4e6f87e" alt="Image" width="18%" /></div>
-
-
- $  \text{m}(\widehat{\mathbf{B}})=10^\circ  $
-
- $  \text{m}(\widehat{\mathbf{C}})=40^\circ  $
-
-Yukaridaki verilere göre, m($\widehat{\mathbf{A}}$) = x kaç derecedir?
-
-A) 50 B) 60 C) 65 D) 70 E) 90
-
-<div style="text-align: center;"><div style="text-align: center;">Tip-4</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_3/imgs/img_in_image_box_689_171_945_338.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A19Z%2F-1%2F%2F60b1b2e4fa5a19ff627ab2147b8da1bb8f0a30b369584eb42755a3f4965529b1" alt="Image" width="19%" /></div>
-
-
-Şekilde
-
-m($\widehat{BAC}$) = 60°
-
-m($\widehat{BEC}$) = 84°
-
-m($\widehat{BPC}$) = x
-
-Yukaridaki verilere göre, x kaç derecedir?
-
-A) 10 B) 20 C) 30 D) 36 E) 45
-
- $$ Tip-5 $$ 
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b4820f55-9dc9-4b0e-9305-1b62d3b6fbe5/markdown_3/imgs/img_in_image_box_685_575_935_675.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A19Z%2F-1%2F%2F3995612c13d0cf5bd7a4c65b25dd49bd12cafb907d3932a68cf3ec88e7849834" alt="Image" width="18%" /></div>
-
-
-O merkezl çemberin yarıçapı | BE | uzunluğuna eşittir.
-
- $ m(\widehat{ACB}) = 69^{\circ} $
-
- $ m(\widehat{ABC}) = x $
-
-Yukaridaki verilere göre, x kaç derecedir?
+doğruları ve eksenler arasında kalan bölgenin alanı aşağıdakilerden hangisidir?
 
 A) 10 B) 11 C) 12 D) 13 E) 14
 
-<div style="text-align: center;"><div style="text-align: center;">TIP-6</div> </div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-11&lt;/div&gt; &lt;/div&gt;
 
+![Şekil/Grafik/Soru](images/image577.jpg)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_0/imgs/img_in_image_box_56_191_230_367.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F7172d4980523a87d1634712e77aa6ed85bd10b2ccd0079b804294eeacf5492dc" alt="Image" width="13%" /></div>
+$ekilde
 
+AB ⊥ BC
 
-O merkezli çemberde
+A(0, 3) ⊥ BC
 
- $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{E C}\end{array}\right| $$ 
+B(2, 0)
 
- $$ m\left(\widehat{A O C}\right)=30^{\circ} $$ 
+Yukaridaki şekilde BC doğrusunun denklemi aşağıdakilerden hangisidir?
 
- $$ m\left(\widehat{BEA}\right)=50^{\circ} $$ 
+A)  $ 2x + y + 4 = 0 $
 
-Yukaridaki verilere göre, m($\widehat{EBA}$) kaç derecedir?
+B)  $ 3x + 2y - 4 = 0 $
 
-A) 65 B) 70 C) 75 D) 80 E) 85
+C)  $ 3x + 2y + 4 = 0 $
 
-<div style="text-align: center;"><div style="text-align: center;">tip-7</div> </div>
+D) 3y - 2x + 4 = 0
 
+E) 3y - 2x - 4 = 0
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_0/imgs/img_in_image_box_63_624_298_783.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F5028d7492e02a2957204af5e13720cef2c8e8396d4f135c426887aab55505f0f" alt="Image" width="17%" /></div>
+### 8. DENKLEMİ VERİLEN DOGRUNUN GRAFİGİ
 
+x = 0 için doğrunun y eksenin kestiği nokta bulunur.
 
-O₁ merkezil çemberin yarıçapı 2√2 cm,
+y = 0 için doğrunun x eksenini kestiği nokta bulunur.
 
-O merkezli çemberin yarıçapı
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-12&lt;/div&gt; &lt;/div&gt;
 
-2 cm'dir.
+ $$ -x+2y=5 $$ 
 
-Yukaridaki verilere göre, m($\widehat{ACB}$) = α kaç derecedir?
+doğrusunun grafibi aşağıdakilerden hangisidir?
 
-A) 15 B) 20 C) 25 D) 30
+![Şekil/Grafik/Soru](images/image578.jpg)
 
-### 2. CEMBERDE UZUNLUK VE KUVVET
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_0/imgs/img_in_image_box_701_214_862_372.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F69cd40ee0787fca6eb3f4bd211294cf7541a60a2948c08b313f7f4737a2e512e" alt="Image" width="12%" /></div>
+![Şekil/Grafik/Soru](images/image579.jpg)
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)&lt;/div&gt; &lt;/div&gt;
 
-O merkezli çemberin yarıçap uzunluğu r olsun.
+![Şekil/Grafik/Soru](images/image580.jpg)
 
-Çevre = 2πr dir.
+![Şekil/Grafik/Soru](images/image581.jpg)
 
-b)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_0/imgs/img_in_image_box_710_451_870_611.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2Fa2d2ad03e5e68220a745f4c25dc156c830380a4d607765acdb40705e10cf59d0" alt="Image" width="12%" /></div>
+![Şekil/Grafik/Soru](images/image582.jpg)
 
+### 9. PARALEL DOGRULAR
 
-O merkezli çemberde
+Aynı düzlemde bulunan ve kesişmeyen doğrulara paralel doğrular denir. Parallel doğruların eğimleri birbirine eşittir.
 
-AB yayının uzunluğu
+ $$ \mathsf{d}_{1}//\mathsf{d}_{2}\mathrm{~i s e~}\mathsf{m}_{\mathsf{d}_{1}}=\mathsf{m}_{\mathsf{d}_{2}} $$ 
 
-$|\widehat{AB}|=\frac{\alpha}{360^{\circ}}\cdot2\pi r$ dir.
+#### TIP-13
 
-c)
+ $$ (a+1)x+4y+2=0 $$ 
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_0/imgs/img_in_image_box_716_672_969_864.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2Fc8444ff8dca6cb57cb92638c02818dc88219f3b064f30af74d2168abe4da9412" alt="Image" width="18%" /></div>
+ $$ 2x-3y+1=0 $$ 
 
+denklemleriyle verilen doğrular birbirine paralel olduğunu göre, a nın değeri kaçtır?
 
-Şekilde A ve B noktaları teğet
+A)  $ \frac{7}{3} $ B)  $ \frac{5}{3} $ C)  $ \frac{-11}{3} $ D)  $ \frac{-7}{3} $ E)  $ \frac{-5}{3} $
 
-değme noktaları ise,
+### 10. BIRBIRINE DIK DOGRULAR
 
-|PA|=|PB| dir.
+Birbirini dik kesen doğruların eğimleri çarpımı - 1 dir.
 
-<div style="text-align: center;"><div style="text-align: center;">d)</div> </div>
+$d_{1}\perp d_{2}$ ise $m_{d_{1}}\cdot m_{d_{2}}=-1$
 
+#### Tip-14
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_1/imgs/img_in_image_box_157_127_341_327.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F51bbfd8ba64b617c44ada2419a48aeb0af4a5d4a9bdf9025f8ea3afcd035df2d" alt="Image" width="13%" /></div>
+ $$ x-(n+1)y=0 $$ 
 
+ $$ 2x+3y+6=0 $$ 
 
-<div style="text-align: center;"><div style="text-align: center;">e)</div> </div>
+denklemleriyle verilen doğrular birbirini dik kesiyor.
 
+Buna göre, nın değeri kaçtır?
 
-Bir çemberde merkezden teğete inen doğru parçaları diktir.
+A)  $ \frac{-1}{3} $ B)  $ \frac{-1}{2} $ C)  $ \frac{1}{2} $ D)  $ \frac{1}{3} $ E) 1
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_1/imgs/img_in_image_box_118_415_282_570.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F3df73346f9f5764a76bfc90c364a90d3f2b1a77fe99df844332131c06b319af1" alt="Image" width="12%" /></div>
+#### TIP-15
 
+x + 3y - 1 = 0 doğrusuna dik ve (4, -2) noktasından geçen doğrunun
 
-Bir çemberde merkezden eşit uzaklıkta bulunan kirişlerin uzunlukları birbirine eşittir.
+x eksenini kestiği noktanın apsisi kaçtır?
 
-Şekilde; | AB | = | CD | dir.
+A)  $ \frac{1}{3} $ B)  $ \frac{7}{3} $ C)  $ \frac{10}{3} $ D)  $ \frac{11}{3} $ E)  $ \frac{14}{3} $
 
-t)
+11. ÖZEL DOČRULAR
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_1/imgs/img_in_image_box_139_674_295_828.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F807df3d258258803b59595e7ea9b27b74752f1038ceb684b956ab12e376ade6d" alt="Image" width="11%" /></div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a)&lt;/div&gt; &lt;/div&gt;
 
+![Şekil/Grafik/Soru](images/image583.jpg)
 
-Bir çemberde, çemberin merkezinden, herhangi bir kirişin orta noktasına çizilen doğru parçası kirişe diktir.
+![Şekil/Grafik/Soru](images/image584.jpg)
 
-g) Tegetler Dörtgeni: Bir çembere dört kenarından teğet olan dörtgene teğetler dörtgeni denir.
+x eksenine paralel olan doğruların eğimleri 0 dır.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_1/imgs/img_in_image_box_722_195_967_444.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F67c5e7b6d22800acd6a4839911ddf84b27a186502ac7ea7ca6b376b22d505bd8" alt="Image" width="18%" /></div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;b)&lt;/div&gt; &lt;/div&gt;
 
+![Şekil/Grafik/Soru](images/image585.jpg)
 
-Teğetler dörtgeninden karşılıklı kenar uzunlukları toplamı birbirine eşittir.
+![Şekil/Grafik/Soru](images/image586.jpg)
 
- $ a + b = c + d $
+x = -2 doğrusunda
 
-h) Kirişler Dörtgeni: Köşeleri aynı çember üzerinde bulunan dörtgene dinir.
+Eğim tanımsızdır.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_1/imgs/img_in_image_box_720_624_902_811.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F8442b8b067296738c292e48ea7426b4c171102316087c24d5807871b7b53a3fd" alt="Image" width="13%" /></div>
+![Şekil/Grafik/Soru](images/image587.jpg)
 
+![Şekil/Grafik/Soru](images/image588.jpg)
 
-Kirişler dörtgeninde karşılıklı açıların toplamı 180° dir.
+x eksenine dik olan doğruların eğimleri olmaz.
 
- $$ m(\widehat{\boldsymbol{A}})+m(\widehat{\boldsymbol{C}})=180^{\circ} $$ 
+x ekseni aynı zamanda y = 0
 
- $$ m(\widehat{D})+m(\widehat{B})=180^{\circ} $$ 
+doğrusudur. Eğim sifirdir.
 
-Çemberde Kuvvet Özellikleri
+y ekseni aynı zamanda x = 0
 
-<div style="text-align: center;"><div style="text-align: center;">1.</div> </div>
+doğrusudur. Eğim tanımsızdır.
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;c)&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_2/imgs/img_in_image_box_89_202_324_400.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F18dbc030b1fbecba6ec680fb0ded4c8f60289eeac4dd93d1b1b89a30254be56d" alt="Image" width="17%" /></div>
+![Şekil/Grafik/Soru](images/image589.jpg)
 
+y = x doğrusuna aynı zamanda
 
-<div style="text-align: center;"><div style="text-align: center;">tip-8</div> </div>
+1. açıortay doğrusu denir.
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;d)&lt;/div&gt; &lt;/div&gt;
 
- $$ |PA|^{2}=|PB|\cdot|PC|\quad dir. $$ 
+![Şekil/Grafik/Soru](images/image590.jpg)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_2/imgs/img_in_image_box_63_467_277_638.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F272a7d4db778eb793aa3556c1a89fec5a84f7dd80cac7b46be8b54f92d6ff571" alt="Image" width="16%" /></div>
+y = -x doğrusuna aynı zamanda
 
+2. açıortay doğrusu denir.
 
- $ \left|PB\right|=4\ cm $
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
 
- $ \left|BC\right|=5\ cm $
+![Şekil/Grafik/Soru](images/image591.jpg)
 
-Yukaridaki verilere göre, |PA| = x kaç cm'dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 24&lt;/div&gt; &lt;/div&gt;
 
-A) 3 B) 4 C) 5 D) 6 E) 7
+A) 20
 
-<div style="text-align: center;"><div style="text-align: center;">2.</div> </div>
+Şekildeki analitik düzlemde eksenleri kesen d₁ ve d₂ doğruları ile x ekseni arasında kalan taralı bölgenin alanı kaç birim karedir?
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C) 25&lt;/div&gt; &lt;/div&gt;
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_2/imgs/img_in_image_box_697_148_919_311.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F63b59de1d3abb1d0427c984bfc873ec71bb4b1f80d4bf1e8165a05c720a194b6" alt="Image" width="16%" /></div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D) 26&lt;/div&gt; &lt;/div&gt;
 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 28&lt;/div&gt; &lt;/div&gt;
 
- $ |PA| \cdot |PB| = |PC| \cdot |PD| $ dir.
+TIP-17
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_2/imgs/img_in_image_box_682_489_940_659.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A15Z%2F-1%2F%2F83e9c1b871890a536bb1afc9fe8010ff3f9bb12d93afe5430aaff2c459fd01cb" alt="Image" width="19%" /></div>
+ $ 4x - 3y + 6 = 0 $
 
+x-1=0
 
- $ \left| PA \right| = 4 \, \text{cm} $
+denklemleriyle verilen doğruların açıortay denklemi aşağıdakilerden hangisidir?
 
- $ \left| AB \right| = 2 \, \text{cm} $
+A)  $ x + 3y = -1 $ B)  $ x - 3y = 1 $ C)  $ x + 2y = 1 $ D)  $ x + 3y = 11 $ E)  $ x + y = 11 $
 
- $ \left| PC \right| = 3 \, \text{cm} $
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-18&lt;/div&gt; &lt;/div&gt;
 
-Yukaridaki verilere göre, |CD|=x kaç cm'dir?
+![Şekil/Grafik/Soru](images/image592.jpg)
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+ABCD bir kare
 
-<div style="text-align: center;"><div style="text-align: center;">3.</div> </div>
+B \in [ED]
 
+E(0,4)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_3/imgs/img_in_image_box_96_128_264_292.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F97aa05b73d49629d7075cf003de68e12a09b82225a439f355efd7a2db712ed28" alt="Image" width="12%" /></div>
+D(3,0)
 
+#### Yukarıdaki verilere göre, karenin bir kenar uzunluğu kaçtır?
 
- $ |AP| \cdot |PB| = |CP| \cdot |PD| $ dir.
+A) 1 B)  $ \frac{3}{2} $ C)  $ \frac{12}{5} $ D) 2 E)  $ \frac{12}{7} $
 
-<div style="text-align: center;"><div style="text-align: center;">Tip-10</div> </div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-19&lt;/div&gt; &lt;/div&gt;
 
+2x + 3y + 7 = 0 doğrusuna paralel olan ve orijinden geçen doğru denklemi aşağıdakilerden hangisidir?
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_3/imgs/img_in_image_box_64_577_249_761.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F444c77bb49a3b8a14107388375d889a81b02d3840f774685a7661db01465c509" alt="Image" width="13%" /></div>
+A) 2x + 3y = 0
 
+B) 2x - 3y = 0
 
- $$ |PC|=6cm $$ 
+C) 3x + 2y = 0
 
- $$ \left|BP\right|=\left|PD\right|=x $$ 
+D) 3x - 2y = 0
 
-Yukaridaki verilere göre, x kaç cm'dir?
+F) 2x + 1y = 0
 
-A) $\sqrt{2}$ B) $\sqrt{3}$ C) $2\sqrt{2}$ D) $2\sqrt{3}$ E) $3\sqrt{3}$
+Şekilde A noktasının koordinatları arasında 3p = 4q bağıntısı vardır.
 
-#### Tip-11
+![Şekil/Grafik/Soru](images/image593.jpg)
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_3/imgs/img_in_image_box_688_169_855_337.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F46f471700d31d562f4db46d91685aee0cd6e22cbb035e6ad63cf614c85fe0845" alt="Image" width="12%" /></div>
+Buna göre, ABCD paralelenenarının alanı kaç br² dir?
 
+A) $\frac{4}{3}$ B) $\frac{8}{3}$ C) $\frac{16}{3}$ D) $4$ E) $5$
 
-## O merkezli çemberde
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-21&lt;/div&gt; &lt;/div&gt;
 
- $$ \left|AB\right|=\left|CD\right|=10cm $$ 
+![Şekil/Grafik/Soru](images/image594.jpg)
 
- $$ |OF|=(2x-1)cm $$ 
+Şekildeki dik koordinat düzleminde verilen  $ d_{1} $ ve  $ d_{2} $ doğruları birbirine diktir
 
- $ |OE|=(x+2) $ cm
+Buna göre,  $ d_{1} $ doğrusunun x eksenini kestiği noktanın apsisi kaçtır?
 
-Yukaridaki verilere göre, çemberin yarıçapı kaç cm'dir?
+A) 2 B) 4 C) 6 D) 8 E) 10
 
-A)  $ 2\sqrt{2} $ B)  $ 3\sqrt{2} $ C)  $ 4\sqrt{2} $ D)  $ 5\sqrt{2} $ E)  $ 6\sqrt{2} $
+### 12. SIMETRI
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//ccf20c25-1ef9-4a7c-a454-3b83ebcc3e61/markdown_3/imgs/img_in_image_box_684_537_975_709.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A16Z%2F-1%2F%2F7edd3ceba523b52473202dd5332e568a38b549b8ac71d2ee587d5a3f7a60683f" alt="Image" width="21%" /></div>
+a) Noktanin ekseniere ve özel doğrulara göre simetriği
 
+![Şekil/Grafik/Soru](images/image595.jpg)
 
- $$ \left|O_{1}O_{2}\right|=13cm $$ 
+Bir noktanın x eksenine göre simetriği alınırken ordinatın işareti değişir.
 
-Yukaridaki O_{1} ve O_{2} merkezli ayrık çemberlerden O_{2} merkezli çemberin yarıçapı 3 cm olduğuna göre, O_{1} merkezli çemberin yarıçapı kaç cm'dir?
+Bir noktanın y eksenine göre simetriği alınırken apsisin işareti değişir.
 
-A) 8 B) 10 C) 12 D) 14 E) 15
+Bir noktanın orijine göre simetriği alınırken hem apsis hem de ordinatının işareti değişir.
 
-<div style="text-align: center;"><div style="text-align: center;">TIP-13</div> </div>
+A(x, y) noktasının y = x doğrusuna göre simetriği B(x, y) dir.
 
+A(x, y) noktasının y = -x doğrusuna göre simetriği B(-y, -x) dir.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//e81b5fa3-c12f-495a-86c3-b1e54e19f4b4/markdown_0/imgs/img_in_image_box_60_189_259_307.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2Fff4222cac2a6df98c4b1c89ef156e5f08d78085930ce6664ccaee0448b655452" alt="Image" width="14%" /></div>
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
 
+Analitik düzlemde, A(-1, 2) noktasının orijine göre simetriği B, y eksenine göre simetriği C olduğuna göre, lACl kaç birimdir?
 
-ABC bir dik üçgen
+A)  $ \sqrt{2} $ B) 2 C)  $ \sqrt{3} $ D) 4 E) 5
 
-|AC|=3cm
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-23&lt;/div&gt; &lt;/div&gt;
 
- $ |BD|=1\text{cm} $
+A(1, 3) noktasının y = x doğrusuna göre simetriği B ve B'nin Ox eksenine göre simetriği C ise lACl uzunluğu kaç birimdir?
 
- $ |BE|=x\ cm $
+A)  $ \sqrt{5} $ B)  $ 2\sqrt{5} $ C)  $ 3\sqrt{5} $
 
-Şekildeki A merkezli çember yayı ABC üçgenini E noktasında kesmektedir
+D)  $ 4\sqrt{5} $ E)  $ 5\sqrt{5} $
 
-Buna göre, |BE| = x kaç cm'dir?
+### b) Noktanın noktaya göre simetriği
 
-A) 1,1 B) 1,2 C) 1,3 D) 1,4 E) 1,6
+![Şekil/Grafik/Soru](images/image596.jpg)
 
-<div style="text-align: center;"><div style="text-align: center;">Tip-14</div> </div>
+A( $ x_{1} $,  $ y_{1} $) noktasının B(a, b) noktasına göre simetriği olan
 
+A'( $ 2a - x_{1} $,  $ 2b - y_{1} $) olur.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//e81b5fa3-c12f-495a-86c3-b1e54e19f4b4/markdown_0/imgs/img_in_image_box_65_601_216_755.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F59a22db990c8a8d34ebb624510c864f7ce6f6f132ff668cb65348825fdcea1ea" alt="Image" width="11%" /></div>
+c) Noktanin doğruya göre simetriği
 
+![Şekil/Grafik/Soru](images/image597.jpg)
 
-O merkezli çemberde
+Analitik düzlemde, A(1, 3) noktasının x - y - 3 = 0 doğrusuna göre simetriği olan nokta aşağıdakilerden hangisidir?
 
- $$ \left|E B\right|=8\mathrm{c m} $$ 
+A) (1, 2) B) (-1, 3) C) (6, -2) D) (0, 4) E) (2, 3)
 
-|OE|=5 cm
+3. A noktasının H noktasına göre simetriği bulunur.
 
- $ |OA|=x\ cm $
+2. H noktasının koordinatları bulunur.
 
-Yukaridaki verilere göre, |OA| = x kaç cm'dir?
+A(x₁, y₁) noktasının ax + by + c = 0 doğrusuna göre simetriğini bulmak için;
 
-A)  $ \sqrt{41} $ B)  $ \sqrt{55} $ C)  $ 3\sqrt{7} $ D)  $ 3\sqrt{11} $ E)  $ 2\sqrt{21} $
+1. AA¹ doğrusunun eğimi bulunur.
 
-<div style="text-align: center;"><div style="text-align: center;">TIP-15</div> </div>
+Tip-25
 
+A(1, 2) noktasının x - 2y = 0 doğrusuna göre simetriği olan noktanın koordinatları toplamı kaçtır?
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//e81b5fa3-c12f-495a-86c3-b1e54e19f4b4/markdown_0/imgs/img_in_image_box_679_185_851_341.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F5e55f055467952708b06775f18c62c3dcdf1be819b11227c7b1478291021af09" alt="Image" width="12%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">A) 11</div> </div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">B) 12</div> </div>
-
-
-Birbirine dıştan teğet üç eş çemberlerin yarıçapları 1 cm olmak üzere çemberlerin çevresini saran telin uzunluğu kaç birimdir? (π = 3 alınız.)
-
-<div style="text-align: center;"><div style="text-align: center;">E) 15</div> </div>
-
-
-tip-16
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//e81b5fa3-c12f-495a-86c3-b1e54e19f4b4/markdown_0/imgs/img_in_image_box_677_597_902_770.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-20T12%3A02%3A14Z%2F-1%2F%2F1c2e224e6a1792bd0562a20ee3a0e54cc04b80d5c599067b7381e22f7a936a75" alt="Image" width="16%" /></div>
-
-
-[CA çembere A noktasında teğettir.
-
-AC|=6cm
-
- $$ |CD|=4cm $$ 
-
- $$  AD\mid=5\;cm $$ 
-
- $$ \left|AB\right|=x\ cm $$ 
-
-Yukaridaki verilere göre, x kaç cm'dir?
-
-A) $\frac{13}{2}$ B) 7 C) $\frac{15}{2}$ D) 8 E) $\frac{17}{2}$
-
-### 3.
+A)  $ \frac{1}{5} $ B)  $ \frac{3}{5} $ C)  $ \frac{7}{5} $ D)  $ \frac{9}{5} $ E)  $ \frac{11}{5} $

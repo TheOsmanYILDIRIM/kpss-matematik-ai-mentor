@@ -27,6 +27,13 @@ export const MathText = ({ text }) => {
       }
     });
 
+    // Replace ![alt](images/...) markdown images with responsive HTML img tags
+    const baseUrl = import.meta.env.BASE_URL || '/';
+    processed = processed.replace(/!\[(.*?)\]\((images\/[^)]+)\)/g, (match, alt, src) => {
+      const fullSrc = `${baseUrl.endsWith('/') ? baseUrl : baseUrl + '/'}${src}`;
+      return `<div class="my-3 flex flex-col items-center justify-center p-2 rounded-xl bg-slate-950/60 border border-slate-800"><img src="${fullSrc}" alt="${alt}" class="max-h-64 rounded-lg object-contain shadow-md" loading="lazy"/><span class="text-[10px] text-slate-500 mt-1">${alt}</span></div>`;
+    });
+
     // Render basic bold and newlines
     processed = processed.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     processed = processed.replace(/\n/g, '<br/>');
