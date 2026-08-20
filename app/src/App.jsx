@@ -223,19 +223,19 @@ export default function App() {
       {/* Main Content Area */}
       <main className="flex-1 flex flex-col h-full overflow-hidden relative">
         {/* Top Header */}
-        <header className="h-14 border-b border-slate-800 px-6 flex items-center justify-between bg-slate-900/50 backdrop-blur">
-          <div className="flex items-center gap-3">
-            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
-              State: {appState.workflowState}
+        <header className="h-14 border-b border-slate-800 px-4 md:px-6 flex items-center justify-between bg-slate-900/50 backdrop-blur shrink-0">
+          <div className="flex items-center gap-2 md:gap-3 overflow-hidden">
+            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] md:text-xs font-medium bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 whitespace-nowrap">
+              {appState.workflowState}
             </span>
             {appState.activeSession.currentUnitTitle && (
-              <span className="text-sm font-semibold text-slate-300">
+              <span className="text-xs md:text-sm font-semibold text-slate-300 truncate">
                 📖 {appState.activeSession.currentUnitTitle}
               </span>
             )}
           </div>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 shrink-0">
             <button 
               onClick={handleResetProgress}
               className="p-1.5 text-slate-400 hover:text-rose-400 transition-colors" 
@@ -248,9 +248,9 @@ export default function App() {
 
         {/* Tab 1: Mentor & Scaffolding Chat */}
         {activeTab === 'mentor' && (
-          <div className="flex-1 flex flex-col h-[calc(100vh-3.5rem)]">
+          <div className="flex-1 flex flex-col min-h-0 overflow-hidden">
             {/* Chat Messages Scroll Area */}
-            <div className="flex-1 overflow-y-auto p-4 md:p-6 space-y-4">
+            <div className="flex-1 overflow-y-auto p-4 md:p-6 space-y-4 min-h-0">
               {appState.activeSession.chatHistory.length === 0 ? (
                 <div className="max-w-xl mx-auto my-12 text-center space-y-6">
                   <div className="w-16 h-16 rounded-2xl bg-indigo-600/20 border border-indigo-500/30 flex items-center justify-center mx-auto text-indigo-400 shadow-xl">
@@ -525,6 +525,49 @@ export default function App() {
             </div>
           </div>
         )}
+
+        {/* Mobile Bottom Navigation Bar */}
+        <nav className="md:hidden h-14 border-t border-slate-800 bg-slate-900/90 backdrop-blur grid grid-cols-4 items-center shrink-0 z-20">
+          <button
+            onClick={() => setActiveTab('mentor')}
+            className={`flex flex-col items-center justify-center gap-1 h-full text-[10px] font-medium transition-colors ${
+              activeTab === 'mentor' ? 'text-indigo-400' : 'text-slate-400 hover:text-slate-200'
+            }`}
+          >
+            <MessageSquare className="w-4 h-4" />
+            <span>Mentor</span>
+          </button>
+
+          <button
+            onClick={() => setActiveTab('curriculum')}
+            className={`flex flex-col items-center justify-center gap-1 h-full text-[10px] font-medium transition-colors ${
+              activeTab === 'curriculum' ? 'text-indigo-400' : 'text-slate-400 hover:text-slate-200'
+            }`}
+          >
+            <BookOpen className="w-4 h-4" />
+            <span>Müfredat</span>
+          </button>
+
+          <button
+            onClick={() => setActiveTab('analysis')}
+            className={`flex flex-col items-center justify-center gap-1 h-full text-[10px] font-medium transition-colors ${
+              activeTab === 'analysis' ? 'text-indigo-400' : 'text-slate-400 hover:text-slate-200'
+            }`}
+          >
+            <TrendingUp className="w-4 h-4" />
+            <span>Eksikler</span>
+          </button>
+
+          <button
+            onClick={() => setActiveTab('settings')}
+            className={`flex flex-col items-center justify-center gap-1 h-full text-[10px] font-medium transition-colors ${
+              activeTab === 'settings' ? 'text-indigo-400' : 'text-slate-400 hover:text-slate-200'
+            }`}
+          >
+            <SettingsIcon className="w-4 h-4" />
+            <span>Ayarlar</span>
+          </button>
+        </nav>
       </main>
     </div>
   );
