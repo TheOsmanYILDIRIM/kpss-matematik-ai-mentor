@@ -4,6 +4,12 @@ Bu depo, **2026 Yargı Yayınları İlyas Güneş Matematik Video Ders Notu** i�
 
 ---
 
+## 🌐 Canlı Web Uygulaması
+Doğrudan tarayıcınız üzerinden kullanmak için:
+👉 **[https://theosmanyildirim.github.io/kpss-matematik-ai-mentor/](https://theosmanyildirim.github.io/kpss-matematik-ai-mentor/)**
+
+---
+
 ## 🎯 Projenin Amacı ve Özellikleri
 
 - **Sıfır Halüsinasyon (Zero Halucination):** Yapay zeka yalnızca kaynak kitaptaki kural, formül ve soru kalıplarına bağlı kalır.
@@ -26,6 +32,7 @@ Bu depo, **2026 Yargı Yayınları İlyas Güneş Matematik Video Ders Notu** i�
 ├── mufredat_takip.md           # 50 konuluk KPSS müfredat kontrol listesi
 ├── index.json                  # Konu başlıkları ve ünite indeksleri
 ├── kpss_matematik_tam_metin.md # PaddleOCR ile çıkarılmış eksiksiz LaTeX formüllü ders notu
+├── app/                        # React + Tailwind + KaTeX Web Uygulaması kaynak kodları
 └── units/                      # Ünite bazlı ayrıştırılmış çalışma modülleri
 ```
 
