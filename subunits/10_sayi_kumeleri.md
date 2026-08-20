@@ -1,183 +1,223 @@
-# 2026 KPSS Matematik: Sayı Kümeleri (Rakam, Doğal Sayı, Tam Sayı, Reel Sayı)
+# 2026 KPSS Matematik: Sayı Kümeleri (Rakam, Doğal Sayı, Tam Sayı, Reel)
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-gt;
+1. Rakam: Sayilari ifade etmeye yarayan sembollere denir.
 
-b) Kaç tanesi B ile başlar, Ş ile biter?
+A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} kümesinin elemanlarıdır.
 
-A) 14 B) 18 C) 20 D) 23 E) 27
+2. Sayma sayilari: S = {1, 2, 3, ...} şeklinde giden sayilardır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-12&lt;/div&gt; &lt;/div&gt;
+3. Doğal sayılar: N = {0, 1, 2, 3, ...} şeklinde giden sayılardır. N ile gösterilir.
 
-Beş madenî para havaya atiliyor.
+4. Tam sayilar:
 
-Yere düştüklerinde 3 yazı, 2 tura kaç farklı şekilde gelebilir?
+ $$ \begin{array}{c}Z=\{\underbrace{-\infty,\;\ldots-2,-1,}_{negatif~tam~sayi}\;\bigg|\;\underbrace{0,\;1,2,\;\ldots\;\infty}_{pozitif~tam~sayi}\}\quad\uplus\quad\\ i\uplus a r e t s i z d i r\end{array} $$ 
 
-A) 5 B) 10 C) 20 D) 80 E) 120
+Z ile gösterilir.
 
-#### TIP-13
+5. Rasyonel sayilar: a ve b (b ≠ 0) tam sayı olmak üzere  $ \frac{a}{b} $ şeklinde ifade edilen sayilardır. Q ile gösterilir.
 
-![Şekil/Grafik/Soru](images/image154.jpg)
+6. irrasyonel sayilar:  $ \theta' = \left\{ \sqrt{2}, \frac{1}{\sqrt{3}}, e, \pi \right\} $ şeklinde ifade edilen sayilardır.  $ \theta' $ ile gösterilir.
 
-Yukaridaki şekilde A ile B arasındaki yollar verilmiştir.
+7. Reel sayilar: Rasyonel sayilar ile irrasyonel sayılar kümesinin birleşimin-den oluşan sayılar kümesidir. R ile gösterilir.
 
-Buna göre, A'dan B'ye  $ \underline{\text{en kisa}} $ kaç farklı yol vardır?
+#### tip-1
 
-A) 23 B) 26 C) 30 D) 32 E) 35
+a, b ve c rakamdir.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-14&lt;/div&gt; &lt;/div&gt;
+Buna göre, 3a + 2b - c ifadesinin  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-Bir kedi, şekildeyol zolaşmesinde bulunan girişten giriptan bir ayımında yalnızca ok yönündeki yolları takip ederek ve geçtiği yoldan bir daha geçmeden düzeneğin sağ üst köşesinde bulunan çıktılan çıkkıcaktır.
+CEVAP: 45, -9
 
-![Şekil/Grafik/Soru](images/image155.jpg)
+a ve b doğal sayılardır.
 
-Bu kedi, peynirin bulunduğu yoldan geçecek biçimde çıkışa kaç farklı şekilde ulaşabilir?
+ $$ a+b=10 $$ 
 
-A) 6 B) 9 C) 10 D) 12 E) 15
+oldu�una gõre, a ⋅ b çarpiminin  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değeri kaçtir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-15&lt;/div&gt; &lt;/div&gt;
-
-Bir anaokulunda; turuncu renkli küplerden oluşan dört basamaklı bir oyuncağın en üst basamağında bulunan bir çocuk, şekilde gösterilen gri renkli minderlerden herhangi birine ulaşmak istemektedir.
-
-![Şekil/Grafik/Soru](images/image156.jpg)
-
-Bu çocuk ilk üç adında, bulunduğu küple ortak ayrıta sahip olan bir basamak aşağıdaki küplerden herhangi birine, son adında ise bulunduğu küple ortak ayrıta sahip olan minderlerden herhangi birine ziplayacaktır.
-
-Buna göre, bu çocuk minderlere kaç farklı yoldan ulaşabilir?
-
-A) 8 B) 12 C) 16 D) 18 E) 20
-
-### MATEMATIK
-
-### KOMBINASYON
-
- $ \binom{n}{r} $: n tane nesnenin r farkli  $ \underline{\text{seçimidir}} $.
-
- $$ \binom{n}{r} = \frac{n!}{(n-r)! \cdot r!} $$ 
-
- $$ \binom{5}{2}=\frac{5\cdot4}{2\cdot1}=10 $$ 
-
- $$ \binom{7}{3}=\frac{7\cdot\not\beta\cdot5}{\not\beta\cdot2\cdot1}=35 $$ 
-
- $$ \left(\frac{9}{2}\right)=\frac{9\cdot\frac{4}{8}}{2\cdot1}=36 $$ 
-
- $$ \binom{7}{0}=1,\quad\binom{5}{5}=1 $$ 
-
- $ \binom{n}{x} = \binom{n}{y} $ ise  $ n = x + y $
-
-Örnek:  $ \binom{7}{6} = \binom{7}{1} $
-
-令  $ \begin{cases} \binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \ldots + \binom{n}{n} = 2^n \end{cases} $
-
-### Geometrik Kavramlar
-
-1) n tane farklı noktadan
-
- $ \binom{n}{2} $ kadar doğru geçer.
-
-3) n tane nokta  $ \binom{n}{3} $ kadar üçgen oluşturur.
-
-2) n tane doğru  $ \binom{n}{2} $ kadar noktada kesişir.
-
-4) n tane kịi (n) kadar tokalạr.
-
-Tip-1
-
-10 kişinin bulunduğu bir gruptan 6 kişilik bir ekip kaç farklı şekilde seçilebilir?
-
-A) 120 B) 140 C) 150 D) 180 E) 210
-
-#### TIP-2
-
-7 kişinin bulunduğu bir sınıfta 1 başkan, 1 başkan yardımcısı seçilecektir.
-
-Buna göre, kaç farklı seçim yapılabilir?
-
-A) 21 B) 30 C) 35 D) 36 E) 42
+CEVAP: 25,0
 
 #### Tip-3
 
-4 erkek, 3 kiz arasından 2 erkek, 1 kiz olacak şekilde bir ekip oluşturulacaktır.
+a ve b doğal sayı, x reel sayıdır.
 
-Buna göre, kaç farklı ekip oluşturulabilir?
+a = 11 - x
 
-A) 16 B) 18 C) 20 D) 22 E) 26
+b = x + 13
 
-#### tip-4
+ifadeleri veriliyor.
 
-3 kiz, 2 erkek arasından  $ \underline{\text{en az}} $ 2'si kiz olan 3 kişilik bir ekip kaç farklı şekilde oluşturulabilir?
+Buna göre, a · b çarpımının  $ \underline{\text{en büyük}} $ değeri kaçtır?
 
-A) 1 B) 2 C) 3 D) 5 E) 7
+A) 24 B) 56 C) 88 D) 120 E) 144
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+
+a ve b doğal sayıdır.
+
+a · b = 18
+
+olduğuna göre, a + b toplamının  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değerinin toplamı kaçtır?
+
+A) 9 B) 14 C) 28 D) 32 E) 36
 
 #### TIP-5
 
-5 kişinin bulunduğu bir ekipte Ahmet ve Burak vardır. Bunlar biri 3 kişilik diğerisi 2 kişilik bir asansöre binecektir.
+a ve b tam sayıdır.
 
-Ahmet ile Burak farklı asansörlerde olacak şekilde asansöre kaç farklı şekilde binebilirler?
+a  $ \cdot $ b = 12
 
-A) 2 B) 4 C) 6 D) 10 E) 12
+olduġuna għoré, a + b toplaminn  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değerinin toplamı kaçtir?
 
-#### Tip-6
+A) 20 B) 17 C) 10 D) 5 E) 0
 
-5 farklı dersten 2 tanesi aynı saatte verilmektedir.
+#### TIP-6
 
-Üç ders seçmek isteyen bir öğrenci kaç farklı seçim yapabilir?
+a, b ve c tam sayıdır.
 
-A) 5 B) 7 C) 11 D) 16 E) 20
+ $ a \cdot b = 12 $
+
+ $ b \cdot c = 16 $
+
+olduğuna göre, a + b + c toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
+
+A) - 29 B) -25 C) 20 D) 27 E) 29
 
 #### tip-7
 
-![Şekil/Grafik/Soru](images/image157.jpg)
+a, b ve c negatif tam sayilardır.
 
-Yukaridaki 7 nokta kullanılarak kaç farklı üçgen çizilebilir?
+ $ \frac{a}{b}=\frac{2}{3} $ ,  $ \frac{b}{c}=\frac{4}{5} $
 
-A) 20 B) 25 C) 30 D) 32 E) 36
+olduğuna göre, a + b + c toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
 
-#### Tip-8
+A) - 20 B) -27 C) -30 D) -35 E) -42
 
-![Şekil/Grafik/Soru](images/image158.jpg)
+#### tip-8
 
-Yukaridaki şekilde, birbirine paralel üç doğru ile yine birbirine paralel dört doğrunun kesişiminden oluşan kaç farklı paralelenkar vardır?
+a, b ve c sifirdan farklı doğal sayılardır.
 
-A) 8 B) 10 C) 16 D) 18 E) 20
+2a = 3b
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-9&lt;/div&gt; &lt;/div&gt;
+4b = 5c
 
-![Şekil/Grafik/Soru](images/image159.jpg)
+olduğuna göre, a + b + c toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-Yukaridaki şekilde kaç tane farklı dikdörtgen vardır?
+A) 17 B) 25 C) 30 D) 32 E) 33
 
-A) 40 B) 50 C) 60 D) 80 E) 100
+##### TIP-9
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-10&lt;/div&gt; &lt;/div&gt;
+a, b, c ve d doğal sayılardır.
 
-![Şekil/Grafik/Soru](images/image160.jpg)
+ $ a - b = 1 $
 
-Yukaridaki şekilde kaç tane farklı kare vardır?
+b - c = 2
 
-A) 30 B) 45 C) 60 D) 75 E) 100
+c - d = 3
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-11&lt;/div&gt; &lt;/div&gt;
+olduğuna göre, a + b + c + d toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-![Şekil/Grafik/Soru](images/image161.jpg)
+A) 10 B) 12 C) 14 D) 16 E) 18
 
-Yukaridaki şekilde bir köşesi A olan kaç farklı üçgen vardır?
+#### Tip-10
 
-A) 10 B) 20 C) 30 D) 40 E) 50
+a, b ve c tam sayilardır.
 
-TIP-12
+a - b = c
 
-![Şekil/Grafik/Soru](images/image162.jpg)
+oluguna göre, 3a + b + c toplamının sonucu aşağıdakilerden hangisi olabilir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A&lt;/div&gt; &lt;/div&gt;
+A) 11 B) 17 C) 22 D) 26 E) 36
 
-Yukaridaki şekilde K dan başlayıp A ya gelecek şekilde kaç farklı KONUŞMA kelimesi okunabilir?
+#### Tip-11
 
-A) 10 B) 20 C) 30 D) 45 E) 60
+a, b ve c farklı doğal sayılardır.
 
-#### Tip-13
+3a + 2b + c = 47
 
-Aylin; evinin oturma odasına, salonuna ve mutfağına asmak üzere 6 farklı tablo satın almıştır. B
+denklemini sağlayan  $ \underline{\text{en büyük}} $ b sayısı kaçtır?
+
+A) 20 B) 21 C) 22 D) 23 E) 24
+
+##### Tip-12
+
+a ve b doğal sayılardır.
+
+3a + 5b = 25
+
+denklemini sağlayan kaç farklı b sayısı vardır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+##### TIP-13
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;a ve b pozitif tam sayıdır.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;2a + 3b = 20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;denklemini sağlayan kaç farklı (a, b) ikilisi vardır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+TIP-14
+
+a ve b doğal sayıdır.
+
+2a + 5b = 47
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;denklemini sağlayan kaç farklı (a, b) ikilisi vardır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-15&lt;/div&gt; &lt;/div&gt;
+
+x tam sayıdır.
+
+ $$ \begin{array}{r} x+8 \\ \times \quad 8 \\ \hline x \end{array} $$ 
+
+ifadesini tam sayı yapan kaç farklı x değeri vardır?
+
+A) 4 B) 6 C) 8 D) 10 E) 12
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-16&lt;/div&gt; &lt;/div&gt;
+
+x tam sayıdır.
+
+ $$ \frac{x+7}{x+1} $$ 
+
+ifadesini tam sayı yapan kaç farklı x değeri vardır?
+
+A) 4 B) 5 C) 6 D) 7 E) 8
+
+##### TIP-17
+
+x tam sayıdır.
+
+ $$ \frac{2x-7}{x-2} $$ 
+
+ifadesini tam sayı yapan kaç farklı x tam sayı değeri vardır?
+
+A) 4 B) 5 C) 6 D) 7 E) 8
+
+TiP-18
+
+![Şekil/Grafik/Soru](images/image3.jpg)
+
+işleminin sonucu kaçtır?
+
+A) 6128 B) 6348 C) 6928
+
+D) 7038 E) 7638
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-19&lt;/div&gt; &lt;/div&gt;
+
+Aşağıdaki şekilde bir rafi tamamen dolduran ve her birinin kalınlığı tam sayı cinsinden a, b ve c olan A, B ve C kitaplarının görünmü verilmiştir.
+
+![Şekil/Grafik/Soru](images/image4.jpg)
+
+Buna göre, a + b + c toplamı aşağıdakilerden hangisi olabilir?
+
+A) 11 B) 16 C) 18 D) 26 E) 30
+
+#### TIP-20
+
+Aşağıda Şekil-I'de her bir silginin fiyati 5 TL olan x tane silgi ve Şekil-II'de her bir silginin fiyati 3 TL olan y tane silgi bulunan iki farklı kutunun görünümü verilmiştir.
+
+![Şekil/Grafik/Soru](images/image5.jpg)
+
+![Şekil/Grafik/Soru](images/image6.

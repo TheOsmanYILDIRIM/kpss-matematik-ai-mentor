@@ -1,203 +1,73 @@
-# 2026 KPSS Matematik: Mutlak Değer Tanımı ve Dışarı Çıkarma Kuralları
+# 2026 KPSS Matematik: Mutlak Değer Tanımı ve Özellikleri
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-7 B) 75 C) 76 D) 77 E) 78
+mutlak değerce küçük olan kesirlerdir.
 
-Tip-5
+ $$ \frac{a}{b}=\frac{1}{2},\frac{-1}{7},\frac{-3}{5} $$ 
 
-iki tanesi 20 den büyük dört farklı doğal sayının toplamı 80 ise bu sayılardan  $ \underline{\text{en büyüğü}} $  $ \underline{\text{en çok}} $ kaçtır?
+2- Bileşik Kesir
 
-A) 55 B) 56 C) 57 D) 58 E) 59
+Payi paydasindan mutlak değerce büyük ya da eşit olan kesirlerdir.
 
-Dört farklı doğal sayının toplamı 43 ise bu sayılardan  $ \underline{\text{en küçüğü en çok kaçtır}} $?
+ $$ \frac{a}{b}=\frac{7}{3},\frac{-2}{1},5,1 $$ 
 
-A) 9 B) 10 C) 11 D) 12 E) 13
+3- Tam Sayiti Kesir
 
-TIP-6
+ $$ a\frac{b}{c}=a+\frac{b}{c}=\frac{c\cdot a+b}{c} $$ 
 
-tip-7
+Örnek;  $ 2\frac{3}{5} = 2 + \frac{3}{5} = \frac{2 \cdot 5 + 3}{5} = \frac{13}{5} $
 
-Beş farklı doğal sayının toplamı 100 ise bu sayılardan  $ \underline{\text{en büyükü}} $ en az kaçtır?
+ $$ \ast-a\frac{b}{c}=-\left(a+\frac{b}{c}\right) $$ 
 
-A) 18 B) 19 C) 20 D) 21 E) 22
+ $$ \begin{aligned}\ddot{Ornek};-2\frac{3}{7}&amp;=-\left(2+\frac{3}{7}\right)\\&amp;=-\left(\frac{2\cdot7+3}{7}\right)\\&amp;=\frac{-17}{7}\end{aligned} $$ 
 
-TİP - 8
+4- Sabit Kesir
 
-rakamları birer kez kullanılarak yazilabilecek üç basamaklı rakamları
+ $$ \frac{a x+b}{c x+d}\Rightarrow\frac{a}{c}=\frac{b}{d} $$ 
 
-farklı üç farklı doğal sayının toplamı  $ \underline{\text{en çok}} $ kaçtır?
+Örnek;  $ \frac{2x-k}{-6x+3} $ sabit kesir ise k kaçtır?
 
-A) 1756 B) 1985 C) 2556
+ $$ \frac{2}{-6}\times\frac{-k}{3}\Rightarrow6k=6\Rightarrow k=1\text{dir}. $$ 
 
-D) 2700 E) 2786
+### NOT
 
-0,1,2,...,9
+Sayının üstünde eksi varsa ters çevir.
 
-#### Tip-9
+ $$ \left(\frac{a}{b}\right)^{-x}=\left(\frac{b}{a}\right)^{x}=\frac{b^{x}}{a^{x}} $$ 
 
-ab ve ba iki basamaklı doğal sayılardır.
+Örnekler  $ 2^{-1} = \frac{1}{2} $
 
-ab + ba = 44
+ $$ *\left(\frac{3}{2}\right)^{-2}=\left(\frac{2}{3}\right)^{2}=\frac{2^{2}}{3^{2}}=\frac{4}{9} $$ 
 
-denklemini sağlayan kaç farklı ab sayısı vardır?
+## b. Rasyonel Sayilarda Dört işlem
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+1- Toplama - Çıkarma
 
-abc ve cba üç basamaklı doğal sayılardır.
+Toplama çıkarma işlemi yapılırken paydalar eşitlenir.
 
-abc - cba = 297
+ $$ \frac{\mathbf{a}}{\mathbf{b}}(\mathbf{d})+\frac{\mathbf{c}}{\mathbf{d}}(\mathbf{b})=\frac{\mathbf{a}\cdot\mathbf{d}+\mathbf{c}\cdot\mathbf{b}}{\mathbf{b}\cdot\mathbf{d}} $$ 
 
-denklemini sağlayan kaç farklı abc sayısı vardır?
+Örnek;  $ \frac{1}{3} + \frac{2}{7} - \frac{1}{2} = \frac{14 + 12 - 21}{3 \cdot 7 \cdot 2} = \frac{5}{42} $
 
-A) 6 B) 10 C) 20 D) 46 E) 60
+### 2- Carpma işlemi
 
-#### TIP-11
+Çarpma işleminde pay ile pay, payda ile payda çarpılır.
 
-İki basamaklı bir doğal sayının rakamları yer değiştirildiğinde sayı 36 küçülüyor.
+ $ \frac{a}{b} \cdot \frac{c}{d} = \frac{a \cdot c}{b \cdot d} $
 
-Buna göre, bu koşula uyan kaç farklı sayı vardır?
+3- Bölme işlemi
 
-A) 3 B) 4 C) 5 D) 6 E) 7
+Bölme işlemi yapılırken birinci sayı aynen durur, ikinci sayı ters çevrilerek çarpım durumuna getirilir.
 
-#### TIP-12
+I)  $ \frac{a}{b} : \frac{c}{d} = \frac{a}{b} \cdot \frac{d}{c} = \frac{a \cdot d}{b \cdot c} $
 
-abc üç basamaklı doğal sayı, x reel sayıdır.
+II)  $ \frac{\frac{a}{b}}{\frac{c}{d}} = \frac{a}{b} \cdot \frac{d}{c} = \frac{a \cdot d}{b \cdot c} $
 
- $ a \cdot x = 1,5 $
+III)  $ \frac{a}{b} = a \cdot \frac{c}{b} = \frac{a \cdot c}{b} $
 
- $ b \cdot x = 2,6 $
+1) Varsa parantez ici
 
- $ c \cdot x = 12 $
-
-olduğuna göre (abc) · x ifadesinin değeri kaçtır?
-
-A) 150 B) 168 C) 178 D) 188 E) 196
-
-#### TIP-13
-
-ab ve cd iki basamaklı doğal sayılardır.
-
-ab · cd çarpımında a sayısı 2 azaltılıp, c sayısı 2 artırılırsa çarpımının sonucu 200 azalıyor.
-
-Buna göre, ab – cd kaçtır?
-
-A) 10 B) 15 C) 20 D) 25 E) 30
-
-#### Tip-14
-
-Tersten yazılışları ve okunuşları olan sayılara "palindromal sayı" denir. Örneğin; 101, 2112, ...
-
-Bu tanıma uyan üç basamaklı kaç farklı palindromal doğal sayı vardır?
-
-A) 100 B) 90 C) 80 D) 70 E) 60
-
-#### Tip-15
-
-Birler basamağı A olan iki basamaklı tüm farklı doğal sayıların toplamı 495 ise A kaçtır?
-
-A) 11 B) 9 C) 7 D) 5 E) 3
-
-#### MATEMATIK
-
-#### Tip-16
-
-ab iki basamaklı doğal sayısı rakamları toplamının x+1 katı, ba iki basamaklı doğal sayısı rakamları toplamının x katı olduğunu göre, x kaçtır?
-
-A) 8 B) 7 C) 6 D) 5 E) 4
-
-#### TIP-17
-
-AB ve CB iki basamaklı, DDD üç basamaklı doğal sayılardır.
-
-AB · CB = DDD
-
-olduğuna göre, A + B + C + D toplamı kaçtir?
-
-A) 19 B) 20 C) 21 D) 22 E) 23
-
-Bir doğal sayının karesi olan abc üç basamaklı sayısının rakamları birer artırıldığında oluşan sayı yine başka bir doğal sayının karesi oluyor.
-
-Buna göre, a + b + c toplamı kaçtır?
-
-A) 15 B) 16 C) 17 D) 18 E) 19
-
-#### Tip-18
-
-#### tip-19
-
-A, B ve C birer rakam olmak üzere,
-
-AB5
-
-+ CAB
-
-1008
-
-Buna göre, A + B + C toplamı kaçtır?
-
-A) 9 B) 10 C) 11 D) 12
-
-toplama işlemi veriliyor.
-
-#### TIP-20
-
-A, B ve C birer rakam olmak üzere,
-
- $$ \begin{aligned}A&amp;2B\\-&amp;C A4\\&amp;B38\end{aligned} $$ 
-
-olduğuna göre, A + B + C toplamı kaçtir?
-
-A) 13 B) 14 C) 15 D) 16 E) 17
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-21&lt;/div&gt; &lt;/div&gt;
-
-ab iki basamaklı, cde üç basamaklı doğal sayılardır.
-
- $$ \begin{aligned}&amp;\underline{x\quad a b}\\&amp;\underline{c d e}\\&amp;+---\\&amp;\underline{4212}\end{aligned} $$ 
-
-olduġuna gõre, a + b + c + d + e toplami kaċtir?
-
-A) 18 B) 19 C) 20 D) 21 E) 22
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
-
-ab iki basamaklı bir doğal sayıdır.
-
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;a b&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x 37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;---&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+ --&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;200&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-Yukaridaki çarpma işleminde basamaklar alt alta gelecek biçimde hatalı yazılarak sonuç 200 bulunmuştur.
-
-Buna göre, işlemin doğru sonucu kaçtır?
-
-A) 520 B) 600 C) 640 D) 740 E) 860
-
-##### Tip-23
-
-Ela abc üç basamaklı doğal sayısı ile 42 sayısını aşağıdaki gibi yanlaşarıyor.
-
-![Şekil/Grafik/Soru](images/image16.jpg)
-
-Ela, çarpma işlemi yaparken işlemin ikinci satırındaki sayının yüzler basamağını yanlışlıkla birinci satırdaki sayının onlar basamağının altına gelecek şekilde yukarıdaki gibi yazıyor.
-
-Buna göre, a + b + c toplamı kaçtır?
-
-A) 3 B) 4 C) 5 D) 6 E) 7
-
-#### Tip-24
-
-a, b ve c rakamdır.
-
-Buna göre, a &lt; b &lt; c koşulunu sağlayan kaç farklı cba üç basamaklı doğal sayısı vardır?
-
-A) 196 B) 120 C) 105 D) 100 E) 96
-
-#### Tip-25
-
-Rakamlari birbirinden farklı dört basamaklı bir doğal sayının, birler basamağındaki rakam diğer basamaklarında bulunan rakamların toplamına eşitse bu sayıya etkileşimli sayı denir.
-
-Örneğin; 1236 sayısında 6 = 1 + 2 + 3 olduğunudan 1236 bir etkileşimli sayıdır.
-
-Buna göre,  $ \underline{\text{en büyük}} $ etkileşimli sayı ile  $ \underline{\text{en
+c.

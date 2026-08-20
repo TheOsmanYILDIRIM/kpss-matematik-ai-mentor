@@ -1,253 +1,171 @@
-# 2026 KPSS Matematik: Mutlak Değerli Denklemler ve Eşitsizlikler
+# 2026 KPSS Matematik: Mutlak Değerli Denklemler & Eşitsizlikler
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-üçgende yükseklik, kenarortay ve açıortay uzunlukları eşittir.
+text-align: center; word-wrap: break-word;'&gt;Cuma&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Sıcaklık (°C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;23&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;17&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;20&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;31&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-![Şekil/Grafik/Soru](images/image281.jpg)
+#### Tip-35
 
- $$ \mathsf{V}_{\mathsf{a}}=\mathsf{h}_{\mathsf{a}}=\mathsf{n}_{\mathsf{a}} $$ 
+0 ile 100 arasında puan verilen bir sinava giren 10 öğrenciden 6 öğrencinin 50'den fazla, 70'ten az puan aldığı bilinmektedir.
 
-![Şekil/Grafik/Soru](images/image282.jpg)
+Buna göre, bu 10 öğrencinin sinavdan aldıkları puanların aritmetik ortalaması;
 
-ABC eşkenar üçgen olmak üzere, P noktasından kenarlara çizilen dikmelerin toplamı üçgenin yüksekliğine eşittir. Yani,
+1. 25
 
- $$ \left|AH\right|=\left|EP\right|+\left|PD\right|+\left|PF\right| $$ 
+II. 55
 
-#### UYARI
+III. 85
 
-![Şekil/Grafik/Soru](images/image283.jpg)
+#### değerlerinden hangileri  $ \underline{\text{olamaz}} $?
 
-P eşkenar üçgen üzerinde olmak üzere P noktasından kenarlara çizilen paralellerin toplamı üçgenin bir kenar uzunluğuna eşittir. Yani,
+A) Yalnız I B) Yalnız III C) I ve II
 
- $$ \left|AB\right|=\left|PS\right|+\left|PR\right|+\left|PT\right| $$ 
+D) I ve III E) II ve III
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
+Bir sayının 2 fazlası = x + 2
 
-![Şekil/Grafik/Soru](images/image284.jpg)
+Bir sayının 2 katının 3 eksiği = 2x - 3
 
-$ekilde;
+Bir sayının yarısı ile kendisi toplanırsa =  $ \frac{x}{2} + x $
 
- $$ \left|AB\right|=\left|AC\right|=15cm $$ 
+Bir sayının karesinin 5 eksiği =  $ x^2 = 5 $
 
- $$ \left|B C\right|=18c m $$ 
+Bir sayının 2 fazlasının yarısının 4 eksiği =  $ \frac{x + 2}{2} - 4 $
 
- $$ |CD|=7cm $$ 
+Bir sayının 1 fazlasının karesinin yarısı =  $ \frac{(x + 1)^2}{2} $
 
-Yukaridaki verilere göre, |AD|=x kaç cm'dir?
+#### Denklemleri tek değişken üzerine kurun.
 
-A) 16 B) 18 C) 20 D) 22 E) 24
+I) İki sayının toplamı 20'dir.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
+ $$ \frac{1.sayi}{x}\quad\frac{2.sayi}{20-x} $$ 
 
-![Şekil/Grafik/Soru](images/image285.jpg)
+♦ Neyi soruyorsa ona x deyin.
 
-Şekilde;
+II) Ủc sayının toplamı 20'dir. Birinci sayı ikinci sayıya eşittir.
 
- $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
+ $$ \begin{array}{l}\underline{\text{1.sayi}}\quad\underline{\text{2.sayi}}\quad\underline{\text{3.sayi}}\\ \times\quad x\quad x\quad20-2x\end{array} $$ 
 
- $$ |BD|=9cm $$ 
+Ardışık Sayılar: Ardışık iki terimi arasındaki farkı 1 olan sayılardır.
 
- $$ |C D|=6c m $$ 
+n, n + 1, n + 2 şeklinde yazılabilir.
 
-Yukaridaki verilere göre, | AC | = x kaç cm'dir?
+Ardişik Tek Sayılar: Ardişik iki terimi arasındaki farkı 2 olan sayıldır.
 
-A) 6 B)  $ 6\sqrt{5} $ C) 9 D)  $ 9\sqrt{5} $ E) 1
+n, n + 2, n + 4 şeklinde yazılabilir.
 
-tip-3
+Ardışık Çift Sayılar: Ardışık iki terimi arasındaki farkı 2 olan sayılardır.
 
-![Şekil/Grafik/Soru](images/image286.jpg)
+n, n + 2, n + 4, ... şeklinde yazılabilir.
 
-$ekilde;
+#### Tip-1
 
- $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{A C}\end{array}\right| $$ 
+Ardışık üç çift doğal sayının toplamı, küçük sayının 2 katının 22 fazlasına eşittir.
 
- $$ [\mathsf{D E}]\perp[\mathsf{A B}] $$ 
+Buna göre, küçük sayı kaçtır?
 
- $$ [\mathsf{D F}]\perp[\mathsf{A C}] $$ 
+A) 14 B) 16 C) 18 D) 20 E) 22
 
- $$ |DE|=4cm $$ 
+#### TIP-2
 
- $$ |DF|=8cm $$ 
+Ủc sayıdan birincisi ikincisinin 3 katı, üçüncüsünün ise yarısıdır.
 
- $$ m(\widehat{EDF})=150^{\circ} $$ 
+Bu üç sayının toplamı 60 olduğunu göre, üçüncü sayı kaçtır?
 
-Yukaridaki verilere göre, | AB | kaç cm'dir?
+A) 12 B) 18 C) 24 D) 30 E) 36
 
-A) 8 B) 12 C) 18 D) 24 E) 36
+#### TIP-3
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+Bir markette bir kısmı 2 kg'lık, diğerleri ise 5 kg'lık paketler hâlinde olan toplam 30 paket pirinç vardır.
 
-![Şekil/Grafik/Soru](images/image287.jpg)
+Markette toplam 99 kg pirinç olduğuna göre, 2 kg'lık kaç paket vardır?
 
-ABC eşkenar üçgen;
+A) 14 B) 15 C) 16 D) 17 E) 18
 
-[FD]⊥[AB]
+#### TIP-4
 
-|AE|=4 cm
+Bir araç şehir içi yollarda km başına 0,2 TL, şehirler arası yollarda km başına 0,15 TL benzin yakıyor.
 
-|BD|=12cm
+Bu araç şehir içi ve şehirler arası yollarda toplam 300 km gittiğinde 52 TL'lik benzin yakıtına göre, şehir içi yolda kaç km gitmiştir?
 
-Yukaridaki verilere göre, |ED|=x kaç cm'dir?
+A) 120 B) 130 C) 140 D) 150 E) 160
 
-A) 4 B) $4\sqrt{3}$ C) 6 D) $6\sqrt{3}$ E) 8
+#### Tip - 5
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 5&lt;/div&gt; &lt;/div&gt;
+Bir sınıftaki öğrenciler sıralara 3'er kişi otururlarsa 5 kişi ayakta kalıyor.
 
-![Şekil/Grafik/Soru](images/image288.jpg)
+Sıralara 5'er kişi otururlarsa 3 sıra boş kalıyor.
 
-ABC eşkenar üçgen;
+Buna göre bu sınıfta kaç öğrenci vardır?
 
-[DE]⊥[BC]
+A) 35 B) 38 C) 45 D) 48 E) 55
 
-|AE|=2cm
+#### TIP-6
 
-| BD | = 8 cm
+Bir sınıftaki öğrenciler sıralara 2'ser kişi otururlarsa 4 kişi ayakta kalıyor. 5'er kişi otururlarsa 2 Sıra boş kalıyor ve 1 Sıradı da 1 Kışlı oturuyor.
 
-Yukaridaki verilere göre,  $ \zeta(\widehat{ABC}) $ kaç cm'dir?
+Buna göre, bu sınıfta kaç öğrenci vardır?
 
-A) 15 B) 28 C) 35 D) 42 E) 46
+A) 16 B) 18 C) 20 D) 26 E) 32
 
-Tip-6
+##### TIP-7
 
-![Şekil/Grafik/Soru](images/image289.jpg)
+Kâmil bir merdiven basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er iniyor.
 
-Şekilde ABC dik üçgen DEF eşkenar
+Kâmil'in iniş ve çıkışta toplam attığı adım sayısı basamak sayısından 10 eksik ise merdiven kaç basamaklıdır?
 
-üçgen;
+A) 40 B) 50 C) 60 D) 65 E) 70
 
-A(DEF) = 16√3 cm
+Tip-8
 
-Yukaridaki verilere göre, | AB | kaç cm'dir?
+Bir merdivenin basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er inen Alper inişte ve çıkışta toplam 35 adım atmıştır.
 
-A) 16 B)  $ 20\sqrt{3} $ C)  $ 16\sqrt{3} $ D) 24 E)  $ 24\sqrt{3} $
+Buna göre, Alper iniste kaç adım atmıştır?
 
-tip-7
+A) 10 B) 14 C) 16 D) 20 E) 25
 
-![Şekil/Grafik/Soru](images/image290.jpg)
+#### tip-9
 
-ABC eşkenar üçgen
+Bir palyaço 5 adım ileri 1 adım geri giderek ilerliyor.
 
-A, C ve D doğrusal
+Palyaço 44 adim attiginda bulunduğu noktadan kaç adim ilerlemiş olur?
 
-|AE| = |ED|
+A) 27 B) 28 C) 29 D) 30 E) 31
 
-|CD| = 2 cm
+##### Tip-10
 
-Yukaridaki verilere göre, |BE| = x kaç cm'dir?
+Bir mehter takımı 3 adım ileri, 1 adım geri giderek kortejde ilerliyor.
 
-A)  $ \frac{1}{2} $ B) 1 C)  $ \frac{3}{2} $ D) 2 E) 3
+Bu mehtir takımı bulunduğu noktadan 27 adım ileri gittiğine göre,  $ \underline{\text{en az}} $ kaç adım atmıştır?
 
-AÇIORTAY
+A) 30 B) 32 C) 46 D) 48 E) 51
 
-![Şekil/Grafik/Soru](images/image291.jpg)
+#### TIP-11
 
-Bir açının ölçüsünü iki eşit parçaya ayıran doğru parçasına açıortay denir. Açıortay doğrusu üzerinde alınan bir noktanın kollarına olan dik uzaklığı birbirine eşittir.
+Birlikte yemeğe giden 15 öğrenci hesabı aralarında eşit olarak bölüşmeyi planlıyorlar.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 1&lt;/div&gt; &lt;/div&gt;
+Öğrencilerden 5 tanesinin parası olmadığı için, diğerleri 3'er TL daha fazla verdiğine göre, hesap kaç TL'dir?
 
-![Şekil/Grafik/Soru](images/image292.jpg)
+A) 70 B) 75 C) 80 D) 85 E) 90
 
-A) 9
+#### Tip-12
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 12&lt;/div&gt; &lt;/div&gt;
+Bir davette konuklara kuru pasta ikram edildiğinde kişi başına 10 tane kuru pasta düşmektedir. Bu davete 3 konuk daha gelirse kişi başına 9 kuru pasta düşsecektir.
 
- $$ m\left(\widehat{BAC}\right)=m\left(\widehat{CAD}\right) $$ 
+Buna göre, bu davette toplam kaç kuru pasta ikram edilmiştir?
 
- $$ \left|CD\right|\bot\left|AD\right| $$ 
+A) 150 B) 200 C) 270 D) 300 E) 350
 
- $$  AD=9cm $$ 
+#### Tip-13
 
- $$ \left|AB\right|=14cm $$ 
+Bir miktar şeker bir grup çocuğa esit olarak paylaştırıldığında çocuk başına 15 şeker düşüyor. Eğer iki çocuk 9'ar şeker alırsa diğer çocuklara 16'şar şeker kalıyor.
 
- $$ \left|AC\right|=15cm $$ 
+Buna göre, grupta kaç çocuk vardır?
 
-Yukaridaki verilere göre, |BC| kaç cm'dir?
+A) 12 B) 13 C) 14 D) 15 E) 16
 
-13 D) 15 E) 17
+#### TiP-14
 
-tip-2
-
-![Şekil/Grafik/Soru](images/image293.jpg)
-
-ABC üçgen, [BN] açıortay;
-
-[NE]  $ \perp $ [BC]
-
-| AB | = 10 cm
-
-|EN|=6cm
-
-Yukaridaki verilere göre, Alan ( $ \widehat{ABN} $) kaç cm $ ^{2} $ dir?
-
-A) 10 B) 15 C) 20 D) 25 E) 30
-
-tip-3
-
-![Şekil/Grafik/Soru](images/image294.jpg)
-
-ABC dik üçgen;
-
-[AB] $ \perp $[BC]
-
-[AD] açıortay
-
- $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
-
- $ |CD|=2\ cm $
-
-Yukaridaki verilere göre, |BD| kaç cm'dir?
-
-A)  $ \sqrt{2} $ B)  $ 2\sqrt{2} $ C)  $ 3\sqrt{2} $ D)  $ 4\sqrt{2} $ E)  $ 5\sqrt{2} $
-
-IC ACIORTAY TEOREMI
-
-![Şekil/Grafik/Soru](images/image295.jpg)
-
- $ \frac{c}{m} = \frac{b}{n} $ veya  $ \frac{c}{b} = \frac{m}{n} $
-
- $$ \left|\mathrm{AD}\right|=n_{A}=\sqrt{\mathbf{b}\cdot\mathbf{c}-\mathbf{m}\cdot\mathbf{n}} $$ 
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image296.jpg)
-
-ABD üçgen;
-
-[AN] açıortay
-
- $$ \left|AB\right|=14cm $$ 
-
- $$ |AC|=21cm $$ 
-
- $$ |B C|=25c m $$ 
-
-Yukaridaki verilere göre, |NC| kaç cm² dir?
-
-A) 5
-
-B) 10
-
-C) 15
-
-D) 20
-
-E) 25
-
-Tip-5
-
-![Şekil/Grafik/Soru](images/image297.jpg)
-
-ABC üçgen
-
-[BF] ve [AE] açıortaydır.
-
- $$ \left|AB\right|=4cm $$ 
-
- $$ |AC|=|BC|=6cm $$ 
-
-Yukaridaki verilere göre,  $ \frac{|EF|}{|BE|} $ oranı kaçtır?
-
-A)  $ \frac{1}{5} $ B)  $ \frac{2}{5} $ C)  $ \frac{3}
+Temel elindeki fındıkları kendisine ve arkadaşlarına eşit miktarda dağıttığında kişi başına 20 fı

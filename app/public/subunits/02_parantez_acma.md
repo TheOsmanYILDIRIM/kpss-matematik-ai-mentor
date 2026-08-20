@@ -1,123 +1,63 @@
 # 2026 KPSS Matematik: Parantez Açma ve İşaret Dağıtma
-**Modül:** Modül 1: Temel Matematik & Dört İşlem
+**Modül:** Modül 1: Temel Matematik
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+ac{1}{2}=4+1=5\\ \checkmark \quad 2^{-1}=\frac{1}{2} \quad \checkmark \quad \left(\frac{1}{3}\right)^{-2}=3^{2}=9 \quad \checkmark \quad \left(-\frac{2}{3}\right)^{-2}=\left(-\frac{3}{2}\right)^{2}=\frac{9}{4}\end{array} $
 
-![Şekil/Grafik/Soru](images/image101.jpg)
+#### TIP-13
 
-ABCD karedir. Hızları şekilde gibi olan iki araç A noktasından hareketle başlıyorlar.
+-2$\frac{1}{3}$+3$\frac{4}{3}$-2$\frac{10}{3}$
 
-iki araç ilk kez E noktasında karşılaştıklarına göre, ABCD karesinin bir kenarının uzunluğu kaç metredir?
+isleminin sonucu kaçtir?
 
-A) 25 B) 30 C) 35 D) 40 E) 50
-
-#### TIP-12
-
-Üç atlet aynı anda, aynı noktadan, aynı yöne doğru koşuyorlar. Birinci olan yarışı bitirdiğinde ikincinin 50 m, üçüncünün 110 m yolu kalıyor. İkinci atlet yarışı bitirdiğinde üçüncünün 70 m yolu kalıyor.
-
-Buna göre, koşulan pistin uzunluğu kaç m'dir?
-
-A) 350 B) 180 C) 300 D) 410 E) 380
-
-Tip-13
-
-![Şekil/Grafik/Soru](images/image102.jpg)
-
-Sabit hızla giden A ve B hareketlilerinin yol-zaman grafifi şekildeki gibi verilmiştir.
-
-Bu iki hareketli çevre uzunluğu 110 m olan dairesel bir pistte aynı noktadan aynı yöne grafikteki hızlarıyla hareket ettikten kaç dakika sonra yan yana gelirler?
-
-A) 13 B) 12 C) 11 D) 10 E) 9
+A) 3 B) $\frac{-1}{3}$ C) $\frac{-5}{3}$ D) $\frac{-10}{3}$ E) -15
 
 #### TIP-14
 
-Bir alişveriş merkezindeki yürüyen merdiven saatte 6 km hızla hareket etmektedir.
+ $$ (2^{-1}-5^{0}+1)^{-1}+(-2)^{3} $$ 
 
-Bir çocuk saatte 10 km hızla koşarak bu merdiveni 18 saniyede çıkıp indiğine göre, merdivenin boyu kaç metredir?
+işleminin sonucu kaçtır?
 
-A) 12 B) 21 C) 16 D) 19 E) 15
+A) 6 B) 4 C) -4 D) -5 E) -6
 
 #### Tip-15
 
-Hakan okulunda saat 09.00'da başlayacak olan dersine evden bir saat önceden çıkarak yürüme hizini 1 saatte okulda olacak şekilde planlıyor. Yolun yarısına geldiğinde ödev dosyasını evde unuttuğunu fark eden Hakan sabit hızla eve doğru koşarak dosyasını alıyor ve hiç durmadan aynı hızla koşarak tam zamanında dersine yetişiyor.
+ $$ \frac{41\frac{3}{7}-39\frac{2}{7}}{1\frac{1}{7}-1} $$ 
 
-Hakan, tüm hareketi boyunca ev ile okul arasında aynı yolu kullandığına göre, dosyasını evden saat kaçta almıştır?
+işleminin sonucu kaçtır?
 
-A) 8.30 B) 8.40 C) 8.45 D) 8.48 E) 8.50
+A) 15 B) 11 C) 9 D) 7 E) 3
 
-#### Tip-16
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip~16&lt;/div&gt; &lt;/div&gt;
 
-Bir dairesel pistteki iki yar rabasından biri saatte 8 tur atarken diğer 1 turu 6 dakikada atmaktadır. Arabalar aynı noktadan aynı anda yarışa başladıktan bir müddet sonra başlangıç noktasından beraber geçiyorlar.
+ $$ \frac{x-4}{3}-\frac{x-3}{4}=-\frac{1-x}{2} $$ 
 
-Bu ana kadar hızlı olan araba 70 km yol aldığına göre, yavaş olan arabanın hızı saatle kaç km'dir?
+denklemini sağlayan x değeri kaçtır?
 
-A) 104 B) 112 C) 110 D) 113 E) 117
+A)  $ \frac{1}{6} $ B)  $ \frac{1}{5} $ C)  $ -\frac{1}{5} $ D)  $ -\frac{1}{6} $ E)  $ -\frac{1}{12} $
 
-#### Tip-17
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-17&lt;/div&gt; &lt;/div&gt;
 
-![Şekil/Grafik/Soru](images/image103.jpg)
+1. 3 ○ -6
 
-Bir kenar uzunluğu 100 metre olan kare biçimindeki koşu parkurunun A köşesinde bulunan Aysun ve B köşesinde bulunan Bahar, parkur etrafında koşu yapacaktır.
+II. -6 ○ 2
 
-Aysun ve Bahar sabit hızlarla aynı anda birbirlerine doğru AB kenar üzerinde koşmaya başlıyor. Aysun B noktasına ilk kez ulaştığı anda Bahar toplam 300 metre koşuyor.
+III. 1 ○ 4
 
-Buna göre, Aysun ve Bahar'ın dördüncü kez karşılaştıkları noktanın Anoktasına olan uzaklığı kaç metredir?
+IV. 1 ○ -3
 
-A) 50 B) 75 C) 100 D) 125 E) 175
+ifadelerindeki boş dairelerin içine toplama (+), çıkarma (-), çarpma (x) ve bölme (:) sembolleri hangi sirayla yerleştirilirse üç işlemin sonucu da aynı sayıya eşit olur?
 
-#### Tip-18
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;I&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;II&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;III&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;IV&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-Dairesel bir parkurda hep aynı yönde sabit hızla hareket eden bir araç; Anoktasından harekete başladıktan
+##### TIP-18
 
-• 3 dakika sonra B noktasından 3. kez,
+Aşağıda kareler içerisinde bulunan ifadelere yukarıdan aşağıya doğru bağlı bulunduğu daire içerisindeki işlemler uygulanacaktır.
 
-• 8 dakika sonra B noktasından 7. kez
+![Şekil/Grafik/Soru](images/image2.jpg)
 
-Buna göre, bu araç A noktasından hareketle başladıktan kaç saniye sonra B noktasından  $ \underline{\text{ilk kez}} $ geçmiştir?
+Buna göre, x'in alabileceği değerler toplamı kaçtır?
 
-A) 30 B) 35 C) 40 D) 45 E) 50
-
-#### Tip-19
-
-![Şekil/Grafik/Soru](images/image104.jpg)
-
-Aynı evde oturan Aslı ve Beril, evlerinden bisikletleriyle farklı zamanlarda yola çıkıp aynı yolu kullanarak sabit hızlarla okula gitmişlerdir. Aslı, evden 08.00'de çıkıp 09.00'da okula ulaşmış, Beril ise evden 08.10'da çıkmasına rağmen 08.55'te okula ulaşmıştır.
-
-Buna göre, Aslı ile Beril saat kaçta karşılaşmıştır?
-
-A) 08.25 B) 08.30 C) 08.35
-
-D) 08.40 E) 08.45
-
-#### Tip-20
-
-Aralarında 60 km mesafe bulunan A ve B araçları sabit hızlarla birbirlerine doğru harekete başladıktan 20 dakika sonra karşılaşıyor. A aracı karşılaştıkları noktada dururken B aracı aynı hızla yoluna devam ediyor ve araçlar karşılaştıktan 45 dakika sonra aralarındaki mesafe yine 60 km oluyor.
-
-Buna göre, A aracının başlangıçtaki hızı saatte kaç km'dir?
-
-A) 90 B) 100 C) 105 D) 110 E) 120
-
-#### TIP-21
-
-A şehrinde yaşayan Kerem, B. Şehrindeki Asılı'yı ziyaret etmek istemektedir. Haritadan bu iki şehir arasındaki yolu belirleyen Kerem, planladığı bir saatlyola çıkış aracıyla saatle 100 km hızla giderse saat 09.00'da, saatle 60 km hızla giderse aynı gün saat 11.00'de B.şehrine varacağını hesapliyor.
-
-Buna göre, Kerem'in planladığı bu saatte yola çıkıp aynı gün saat 10.00'da B şehrine varması için aracının saatteki hızlı kaç km olmalıdır?
-
-A) 72 B) 75 C) 80 D) 85 E) 88
-
-Aşağıda görünümleri verilen A, B, C ve D isimli koşu pistlerinin uzunlukları sırasıyla 1, 2, 4 ve 8 sayıları ile doğru orantılıdır. Arzu sabit hızla koşarak A pistinde bir tam turu 36 dakikada, Deniz sabit hızla koşarak D pistinde bir tam turu 96 dakikada tamamlamıştır.
-
-![Şekil/Grafik/Soru](images/image105.jpg)
-
-Sonra, Arzu hizini iki katına çıkararak C pistinde sabit hızla, Deniz ise hizini yarıya düşürerek B pistinde sabit hızla koşmaya başlamıştır.
-
-Buna göre, son durumda bu iki kişinin bulundukları pistlerde bir tam turu tamamlama süreleri arasındaki fark kaç dakikadır?
-
-A) 24 B) 28 C) 32 D) 36 E) 40
-
-##### TIP-23
-
-Aşağıdaki şekilde, merkezleri ortak olan ve her birinin üzerinde eşit aralıklarla işaretlenmiş beş nokta bulunan dairesel iki koşu parkurundan büyük olanın y
+A) 1 B) 2 C) 3 D) 4 E) 5

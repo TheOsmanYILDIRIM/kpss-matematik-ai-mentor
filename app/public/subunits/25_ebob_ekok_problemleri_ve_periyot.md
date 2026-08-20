@@ -1,295 +1,223 @@
-# 2026 KPSS Matematik: EBOB-EKOK Problemleri ve Periyodik Tekrar Problemleri
+# 2026 KPSS Matematik: EBOB-EKOK Problemleri ve Periyodik Tekrarlar
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-ru](images/image367.jpg)
+$ 2\sqrt{2} + 3\sqrt{2} - 5\sqrt{3} - \sqrt{3} = $
 
-ABC ve ABD üçge
+ $ =(2+3)\sqrt{2}+(-5-1)\sqrt{3} $
 
-[EF] // [AD]
+ $ =5\sqrt{2}-6\sqrt{3} $
 
-[FG] // [BC]
+4) Kök içinden Sayı Çıkarma
 
-| AD | = 10 cm
+Kökün derecesine ulaşan sayı dışarı çıkar.
 
-| EF | = 4 cm
+ $$ \sqrt[n]{a^{n}\cdot b}=a\sqrt[n]{b} $$ 
 
-| FG | = 9 cm
+Örnek:  $ \sqrt{8} = \sqrt{2 \cdot 4} = \sqrt{2^2 \cdot 2} = 2\sqrt{2} $
 
-Yukaridaki verilere göre, |BC| = x kaç cm'dir?
+Örnek:  $ \sqrt{27} = \sqrt{3 \cdot 9} = 3\sqrt{3} $
 
-A) 3 B) 6 C) 9 D) 12 E) 15
+Örnek:  $ \sqrt{32} = \sqrt{2 \cdot 16} = 4\sqrt{2} $
 
-TIP-13
+Örnek:  $ \sqrt{75} = \sqrt{3 \cdot 25} = 5\sqrt{3} $
 
-![Şekil/Grafik/Soru](images/image368.jpg)
+#### Tip-8
 
-ABC ve DFC üçgen
+ $$ \sqrt{75}+\sqrt{300}-2\sqrt{48}+2\sqrt{12} $$ 
 
-[EK] // [FC]
+işleminin sonucu kaçtır?
 
-| AD | = | DK | = | KC |
+A) $9\sqrt{3}$ B) $10\sqrt{3}$ C) $11\sqrt{3}$ D) $12\sqrt{3}$ E) $13\sqrt{3}$
 
-Yukaridaki verilere göre,  $ \frac{|EK|}{|FB|} $ oranı kaçtır?
+tip-9
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+ $$ \frac{\sqrt{27}-\sqrt{48}+2\sqrt{3}}{\sqrt{12}-\sqrt{75}} $$ 
 
-#### UYARI
+isleminin sonucu kaçtır?
 
-![Şekil/Grafik/Soru](images/image369.jpg)
+A)  $ \sqrt{3} $ B) 1 C)  $ -\frac{1}{3} $ D) -1 E)  $ -\frac{3}{2} $
 
-ABC üçgeninde G ağırlık merkezi
+5) Köklüyü Üslüye Çevirme
 
-[DE]//[BC]ise
+ $$ \sqrt[b]{x^{a}}=x^{\frac{a}{b}} $$ 
 
- $$ \mathrm{AD}\mid=2\mid\mathrm{DB}\mid $$ 
+Örnek:
 
- $$ AE\mid=2\mid EC\mid $$ 
+ $$ \sqrt{2^{3}}=2^{\frac{3}{2}} $$ 
 
- $$ \mathsf{AF}\mid=2\mid\mathsf{FK}\mid $$ 
+Örnek:
 
-[DE], A noktasından [BC] tabanına çizilen bütün doğru parçalarını 2 birime 1 birim oranında böler.
+ $$ \sqrt[5]{2^{7}}=2^{\frac{7}{5}} $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-14&lt;/div&gt; &lt;/div&gt;
+Örnek:  $ 2^{\frac{2}{3}} = \sqrt[3]{2^2} $
 
-![Şekil/Grafik/Soru](images/image370.jpg)
+Örnek:  $ 2^{\frac{1}{3}} = 3\sqrt{2} $
 
-ABC bir üçgen
+#### TIP-10
 
- $$ [AC]//[DE] $$ 
+ $ \sqrt{2}\cdot\sqrt[3]{2}\cdot\sqrt[6]{2} $
 
-G, ağırlık merkezi
+işleminin sonucu kaçtır?
 
- $$ \left|AD\right|=x $$ 
+A) 1 B) 2 C)  $ \sqrt{2} $ D)  $ 2\sqrt{2} $ E)  $ 3\sqrt{2} $
 
-Yukaridaki verilere göre, |AD| = x kaç cm'dir?
+#### Tip-11
 
-A) 1
+ $$ \sqrt{60+\sqrt{11+\sqrt{29-\sqrt{16}}}} $$ 
 
-B) 2
-
-C) 3
-
-D) 4
-
-E) 5
-
-Tip-15
-
-![Şekil/Grafik/Soru](images/image371.jpg)
-
-G, ağırlik merkezi
-
-[GD] // [AB]
-
-| GD | = 4 cm
-
-| AB | = x
-
-ABC bir üçgen
-
-Yukaridaki verilere göre, |AB| = x kaç cm'dir?
-
-A) 4 B) 6 C) 8 D) 10 E) 12
-
-#### Tip-16
-
-![Şekil/Grafik/Soru](images/image372.jpg)
-
-G, ABC üçgenin ağırlık merkezi
-
- $$ [{\mathsf{D E}}]\mathbin{//}[{\mathsf{A B}}] $$ 
-
- $$ m\left(\widehat{BAC}\right)=90^{\circ} $$ 
-
- $$ |GD|=3cm $$ 
-
- $$ |BD|=5cm $$ 
-
-Yukaridaki verilere göre, |AC| kaç cm'dir?
-
-A) 8 B) 10 C) 12 D) 14 E) 16
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-17&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image373.jpg)
-
-ABC bir üçgen
-
-DEFG kare
-
-[AH]⊥[BC]
-
-| AH | = 3 cm
-
-|BC| = 4 cm
-
-#### Yukaridaki verilere göre, |DE| kaç cm'dir?
-
-A)  $ \frac{9}{7} $ B)  $ \frac{10}{7} $ C)  $ \frac{11}{7} $ D)  $ \frac{12}{7} $ E)  $ \frac{13}{7} $
-
-(i) İki farklı doğru, birbirine paralel doğrularla kesilirse, orantılı doğru parçaları elde edilir.
-
-Thales Teoremi
-
-KURAL
-
-![Şekil/Grafik/Soru](images/image374.jpg)
-
-![Şekil/Grafik/Soru](images/image375.jpg)
-
-veya
-
-![Şekil/Grafik/Soru](images/image376.jpg)
-
-![Şekil/Grafik/Soru](images/image377.jpg)
-
-![Şekil/Grafik/Soru](images/image378.jpg)
-
-(ii) Kesişen iki doğru, paralel iki doğru ile kesilirse, benzer üçgenler elde edilir.
-
-Tip-18
-
-![Şekil/Grafik/Soru](images/image379.jpg)
-
- $$ \begin{aligned}&amp;\left/\left[DC\right]\right/\left[EF\right]\end{aligned} $$ 
-
- $$ \frac{|DE|}{|EA|}=2 $$ 
-
- $$ \left|D C\right|=8c m $$ 
-
- $$ \mathsf{E F}\vert=12\mathsf{c m} $$ 
-
- $$ \mathsf{AB}\mid=x $$ 
-
-Yukaridaki verilere göre, |AB| = x kaç cm'dir?
-
-A) 13 B) 14 C) 15 D) 16 E) 17
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-19&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image380.jpg)
-
-[AD]//[BE]//[CF]
-
-3|AB|=2|BC|
-
-|DF| = 25 cm
-
- $$ \left|EF\right|=x $$ 
-
-Yukaridaki verilere göre, |EF|=x kaç cm'dir?
-
-A) 5 B) 10 C) 15 D) 20 E) 25
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-20&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image381.jpg)
-
-ABC bir üçgen
-
-[DE]//[BC]
-
- $$ |F E|=3c m $$ 
-
- $$ \left|BF\right|=6cm $$ 
-
- $$ AE=5cm $$ 
-
- $$ \left|EC\right|=x $$ 
-
-Yukaridaki verilere göre, |EC|=x kaç cm'dir?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
-TİP - 2 1
-
-![Şekil/Grafik/Soru](images/image382.jpg)
-
-[AB]//[CD]
-
-| AB | = 2 cm
-
- $ CD|=3\ cm $
-
-|AD|=20cm
-
-Yukaridaki verilere göre, |AE|=x kaç cm'dir?
-
-A) 4 B) 6 C) 8 D) 10 E) 12
-
-Tip-22
-
-![Şekil/Grafik/Soru](images/image383.jpg)
-
-ABC ve BFD üçgen
-
-[DF]//[BC]
-
- $$ \left|DE\right|=\left|EF\right| $$ 
-
- $$ AE=6,\left|EG\right|=3cm $$ 
-
-Yukaridaki verilere göre, | GC | = x kaç cm'dir?
-
-A) 3 B) 6 C) 9 D) 12 E) 15
-
-ÖZELLIK
-
-![Şekil/Grafik/Soru](images/image384.jpg)
-
-[AB]//[EF]//[CD]
-
-![Şekil/Grafik/Soru](images/image385.jpg)
-
-![Şekil/Grafik/Soru](images/image386.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-23&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image387.jpg)
-
-[DA] // [EF] // [BC]
-
- $$ |BC|=4cm $$ 
-
- $$ \left|AD\right|=x $$ 
-
- $$ \frac{\left|AF\right|}{\left|FB\right|}=\frac{3}{2} $$ 
-
-Yukaridaki verilere göre, |AD|=x kaç cm'dir?
+işleminin sonucu kaçtır?
 
 A) 2 B) 4 C) 6 D) 8 E) 10
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-24&lt;/div&gt; &lt;/div&gt;
+##### tip-12
 
-![Şekil/Grafik/Soru](images/image388.jpg)
+ $$ \frac{\sqrt[6]{2^{4}+2^{4}+2^{4}+2^{4}}}{\sqrt{2^{2}+2^{2}+2^{2}+2^{2}}} $$ 
 
-[AB]⊥[BC]
+isleminin sonucu kaçtır?
 
- $$ [E\mathsf{F}]\perp[B\mathsf{C}] $$ 
+A) $\frac{1}{2}$ B) 1 C) $\frac{3}{2}$ D) 2 E) 4
 
- $$ [\mathsf{DC}]\perp[\mathsf{BC}] $$ 
+#### TIP-13
 
- $$  DC|=5cm $$ 
+ $$ 5\cdot\sqrt{1-\frac{9}{25}}-3\cdot\sqrt{1-\frac{5}{9}}+2\sqrt{2+\frac{1}{4}} $$ 
 
- $$ \left|EF\right|=3cm $$ 
+işleminin sonucu kaçtır?
 
- $$ \left|\begin{array}{l}\boldsymbol{A}\boldsymbol{B}\end{array}\right|=x $$ 
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-### Yukaridaki verilere göre, | AB | = x kaç cm'dir?
+#### 6) Kök Derecelerini Eşitleme
 
-A)  $ \frac{13}{2} $ B)  $ \frac{15}{2} $ C)  $ \frac{17}{2} $ D)  $ \frac{19}{2} $ E)  $ \frac{21}{2} $
+ $$ \begin{aligned}\mathbf{a}\cdot\mathbf{b}\sqrt{\mathbf{x}^{\mathbf{b}}}\cdot\mathbf{b}\cdot\mathbf{a}\sqrt{\mathbf{y}^{\mathbf{a}}}&amp;=\mathbf{a}\cdot\mathbf{b}\sqrt{\mathbf{x}^{\mathbf{b}}}\cdot\mathbf{a}\cdot\mathbf{b}\sqrt{\mathbf{y}^{\mathbf{a}}}\\&amp;=\mathbf{a}\cdot\mathbf{b}\sqrt{\mathbf{x}^{\mathbf{b}}\cdot\mathbf{y}^{\mathbf{a}}}\end{aligned} $$ 
 
-KURAL
+Örn:  $ 2\cdot4\sqrt{3^4} = 8\sqrt{3^4} $
 
-Benzerlik Özellikleri
+Kök derecesi eşitleme çarpma işleminde kullanılır.
 
-![Şekil/Grafik/Soru](images/image389.jpg)
+Kök derecesi eşitleme siralama sorularında kullanılır.
 
-![Şekil/Grafik/Soru](images/image390.jpg)
+#### tip-15
 
- $$ \widehat{ABC}\sim\widehat{DEF}\Longleftrightarrow\frac{|AB|}{|DE|}=\frac{|AC|}{|DF|}=\frac{|BC|}{|EF|}=k $$ 
+ $$ a=12\sqrt{2} $$ 
 
-Karşılıklı yüksekliklerinin oranı, ben
+ $$ \mathbf{b}=36\sqrt{5} $$ 
+
+ $$ c=\sqrt[6]{3} $$ 
+
+a, b ve c nin siralaması nedir?
+
+A) a &lt; b &lt; c B) b &lt; a &lt; c C) c &lt; b &lt; a
+
+D) b &lt; c &lt; a E) c &lt; a &lt; b
+
+#### tip-14
+
+ $$ \sqrt{\frac{4}{25}+\frac{9}{49}-\frac{12}{35}} $$ 
+
+işleminin sonucu kaçtır?
+
+A) $\frac{3}{5}$ B) $\frac{1}{7}$ C) $\frac{1}{15}$ D) $\frac{1}{35}$ E) $\frac{1}{40}$
+
+#### TIP-16
+
+ $$ \sqrt[3]{x}&gt;\sqrt[5]{4} $$ 
+
+eşitsizliğini sağlayan  $ \underline{\text{en küçük}} $ x doğal sayısı kaçtır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+#### Tip-17
+
+ $$ \sqrt{2}\cdot\sqrt[3]{x}=6\sqrt{4} $$ 
+
+denklemini sağlayan x değeri kaçtır?
+
+A)  $ \frac{1}{\sqrt{2}} $ B)  $ \sqrt{2} $ C)  $ 2\sqrt{2} $ D)  $ \frac{3}{\sqrt{2}} $ E)  $ \frac{5}{\sqrt{2}} $
+
+#### Tip-18
+
+ $$ \sqrt[3]{9^{x-1}}=\sqrt{27^{x+1}} $$ 
+
+denklemini sağlayan x değeri kaçtır?
+
+A)  $ -\frac{1}{5} $ B)  $ -\frac{7}{5} $ C)  $ -\frac{9}{5} $ D)  $ -\frac{13}{5} $ E)  $ -\frac{17}{5} $
+
+Tip-19
+
+ $$ \sqrt{2\cdot\sqrt[3]{4}}=2^{1-x} $$ 
+
+esitiliğini sağlayan x değeri kaçtır?
+
+A)  $ \frac{1}{2} $ B)  $ \frac{1}{4} $ C)  $ \frac{1}{6} $ D)  $ \frac{1}{8} $ E)  $ \frac{1}{16} $
+
+7) Çarpma işlemi
+
+♦ Carpma işlemi yapılırken kök dereceleri eşit olmalı
+
+Örnek:  $ \sqrt{2} \cdot \sqrt{2} = \sqrt{4} = 2 $
+
+ $ \sqrt{a} \cdot \sqrt{b} = \sqrt{a \cdot b} $ (a ve b pozitif)
+
+♢  $ \boldsymbol{x}^{2}-\boldsymbol{y}^{2}=(\boldsymbol{x}-\boldsymbol{y})\cdot(\boldsymbol{x}+\boldsymbol{y}) $
+
+♢  $ \left(\sqrt{x} + \sqrt{y}\right) \cdot \left(\sqrt{x} - \sqrt{y}\right) = \sqrt{x^2} - \sqrt{y^2} = x - y $
+
+Örnek:  $ (\sqrt{7} - \sqrt{3}) \cdot (\sqrt{7} + \sqrt{3}) = \sqrt{7^2} - \sqrt{3^2} = 7 - 3 = 4 $
+
+TiP-20
+
+ $$ (2+\sqrt{3})\cdot(3-\sqrt{3}) $$ 
+
+işleminin sonucu kaçtır?
+
+A) 3
+
+B) 2
+
+C) $\sqrt{3}$
+
+D) $2+\sqrt{3}$
+
+E) $3+\sqrt{3}$
+
+#### TIP-21
+
+ $$ (2-3\sqrt{2})\cdot(2+3\sqrt{2}) $$ 
+
+işleminin sonucu kaçtır?
+
+A) -8 B) -10 C) -14 D) -16 E) -18
+
+TIP-22
+
+ $$ \sqrt{2}\cdot\sqrt{3}\cdot\sqrt{4}\cdots\sqrt{a}=12\sqrt{5} $$ 
+
+olduğuna göre, a değeri kaçtır?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+TIP-23
+
+ $$ \sqrt{5}-\sqrt{3}\cdot\sqrt[3]{\sqrt{5}}+\sqrt{3}\cdot\sqrt[6]{\sqrt{5}}+\sqrt{3} $$ 
+
+işleminin sonucu kaçtır?
+
+A) $\sqrt{2}$ B) $2\sqrt{2}$ C) 1 D) 2 E) 5
+
+TIP-24
+
+a ≥ 3 olmak üzere
+
+ $$ \sqrt{a-1}+\sqrt{a-3}=8 $$ 
+
+olduġuna gõre,  $ \sqrt{a-1}-\sqrt{a-3} $ ifadesinin sonucu kaçtır?
+
+A) 8 B) 6 C) 4 D)  $ \frac{1}{2} $ E)  $ \frac{1}{4} $
+
+8) Bölme
+
+♦ Paydada kök varsa rasyonel yapılmalı
+
+♦ Paydayi rasyonel yapma (

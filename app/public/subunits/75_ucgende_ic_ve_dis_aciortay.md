@@ -4,184 +4,84 @@
 
 ---
 
-üçüncü sayı kaçtır?
+açıortay
 
-A) 12 B) 18 C) 24 D) 30 E) 36
+m($\widehat{\mathrm{ACH}}$) = 130°
 
-#### TIP-3
+olduğuna göre, m(BCH) - m(BAC) farkı kaç derecedir?
 
-Bir markette bir kısmı 2 kg'lık, diğerleri ise 5 kg'lık paketler hâlinde olan toplam 30 paket pirinç vardır.
+A) 80 B) 90 C) 95 D) 100 E) 105
 
-Markette toplam 99 kg pirinç olduğuna göre, 2 kg'lık kaç paket vardır?
+![Şekil/Grafik/Soru](images/image224.jpg)
 
-A) 14 B) 15 C) 16 D) 17 E) 18
+[AB//DC, [DE//CF]
 
-#### TIP-4
+ $$ m(\widehat{BAE})=110^{\circ},m(\widehat{AED})=30^{\circ},m(\widehat{DCF})=x $$ 
 
-Bir araç şehir içi yollarda km başına 0,2 TL, şehirler arası yollarda km başına 0,15 TL benzin yakıyor.
+Yukaridaki verilere göre, x kaç derecedir?
 
-Bu araç şehir içi ve şehirler arası yollarda toplam 300 km gittiğinde 52 TL'lik benzin yakıtına göre, şehir içi yolda kaç km gitmiştir?
+A) 30 B) 40 C) 50 D) 60 E) 70
 
-A) 120 B) 130 C) 140 D) 150 E) 160
+TiP - 10
 
-#### Tip - 5
+![Şekil/Grafik/Soru](images/image225.jpg)
 
-Bir sınıftaki öğrenciler sıralara 3'er kişi otururlarsa 5 kişi ayakta kalıyor.
+d₁//d₂ ve [CD] açıortaydır.
 
-Sıralara 5'er kişi otururlarsa 3 sıra boş kalıyor.
+ $$ m(\widehat{ABC})=100^{\circ},m(\widehat{FED})=150^{\circ} $$ 
 
-Buna göre bu sınıfta kaç öğrenci vardır?
+olduğuna göre, m($\widehat{EDC}$) = x kaç derecedir?
 
-A) 35 B) 38 C) 45 D) 48 E) 55
+A) 50 B) 60 C) 70 D) 80 E) 90
 
-#### TIP-6
+1. Bir üçgenin iç açılarının ölçüleri toplamı 180° dir.
 
-Bir sınıftaki öğrenciler sıralara 2'ser kişi otururlarsa 4 kişi ayakta kalıyor. 5'er kişi otururlarsa 2 Sıra boş kalıyor ve 1 Sıradı da 1 Kışlı oturuyor.
+![Şekil/Grafik/Soru](images/image226.jpg)
 
-Buna göre, bu sınıfta kaç öğrenci vardır?
+ $$ a+b+c=180^{\circ} $$ 
 
-A) 16 B) 18 C) 20 D) 26 E) 32
+2. Bir üçgenin dış açılarının ölçülerinin toplamı 360° dir.
 
-##### TIP-7
+![Şekil/Grafik/Soru](images/image227.jpg)
 
-Kâmil bir merdiven basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er iniyor.
+ $$ a+b+c=360^{\circ} $$ 
 
-Kâmil'in iniş ve çıkışta toplam attığı adım sayısı basamak sayısından 10 eksik ise merdiven kaç basamaklıdır?
+3. Bir üçgende iki iç açının ölçüleri toplamı kendilerine komşu olmayan bir dış açının ölçüsüne eşitir.
 
-A) 40 B) 50 C) 60 D) 65 E) 70
+4. Hayalet uçak
 
-Tip-8
+![Şekil/Grafik/Soru](images/image228.jpg)
 
-Bir merdivenin basamaklarını 2'ser 2'ser çıkıp, 3'er 3'er inen Alper inişte ve çıkışta toplam 35 adım atmıştır.
+![Şekil/Grafik/Soru](images/image229.jpg)
 
-Buna göre, Alper iniste kaç adım atmıştır?
+ $$ \left(x=a+b+c\right) $$ 
 
-A) 10 B) 14 C) 16 D) 20 E) 25
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;5.&lt;/div&gt; &lt;/div&gt;
 
-#### tip-9
+![Şekil/Grafik/Soru](images/image230.jpg)
 
-Bir palyaço 5 adım ileri 1 adım geri giderek ilerliyor.
+![Şekil/Grafik/Soru](images/image231.jpg)
 
-Palyaço 44 adim attiginda bulunduğu noktadan kaç adim ilerlemiş olur?
+İki açıortayın kesiştigi noktadan üçüncü köşeye çizilen doğru açı ortay doğrusudur.
 
-A) 27 B) 28 C) 29 D) 30 E) 31
+![Şekil/Grafik/Soru](images/image232.jpg)
 
-##### Tip-10
+6.
 
-Bir mehter takımı 3 adım ileri, 1 adım geri giderek kortejde ilerliyor.
+![Şekil/Grafik/Soru](images/image233.jpg)
 
-Bu mehtir takımı bulunduğu noktadan 27 adım ileri gittiğine göre,  $ \underline{\text{en az}} $ kaç adım atmıştır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;1.&lt;/div&gt; &lt;/div&gt;
 
-A) 30 B) 32 C) 46 D) 48 E) 51
+![Şekil/Grafik/Soru](images/image234.jpg)
 
-#### TIP-11
+![Şekil/Grafik/Soru](images/image235.jpg)
 
-Birlikte yemeğe giden 15 öğrenci hesabı aralarında eşit olarak bölüşmeyi planlıyorlar.
+İki dış açıortayın kesiştigi noktadan üçüncü köşeye çizilen doğru açıortay doğrusudur.
 
-Öğrencilerden 5 tanesinin parası olmadığı için, diğerleri 3'er TL daha fazla verdiğine göre, hesap kaç TL'dir?
+Ⅱ.
 
-A) 70 B) 75 C) 80 D) 85 E) 90
+İki açıortayın kesim noktasından üçüncü köşeye çizilen doğru açıortaydır.
 
-#### Tip-12
+ $$ \boxed{\mathsf{x}=\frac{\mathsf{m}(\widehat{\mathsf{A}})}{2}} $$ 
 
-Bir davette konuklara kuru pasta ikram edildiğinde kişi başına 10 tane kuru pasta düşmektedir. Bu davete 3 konuk daha gelirse kişi başına 9 kuru pasta düşsecektir.
-
-Buna göre, bu davette toplam kaç kuru pasta ikram edilmiştir?
-
-A) 150 B) 200 C) 270 D) 300 E) 350
-
-#### Tip-13
-
-Bir miktar şeker bir grup çocuğa esit olarak paylaştırıldığında çocuk başına 15 şeker düşüyor. Eğer iki çocuk 9'ar şeker alırsa diğer çocuklara 16'şar şeker kalıyor.
-
-Buna göre, grupta kaç çocuk vardır?
-
-A) 12 B) 13 C) 14 D) 15 E) 16
-
-#### TiP-14
-
-Temel elindeki fındıkları kendisine ve arkadaşlarına eşit miktarda dağıttığında kişi başına 20 fındık düşüyor. Eğer arkadaşlarına 15 fındık verirse kendisine 55 fındık kalıyor.
-
-Buna göre, Temel'in kaç fındığı vardır?
-
-A) 120 B) 130 C) 150 D) 160 E) 180
-
-#### Tip-15
-
-Bir oyunda kurallara göre oyuncular her doğru cevap için 30 puan kazanıyor, her yanlış cevaptan 40 puan kaybediyor.
-
-20 soruya cevap veren bir oyuncu 320 puan kazandığına göre, doğru cevapların sayısı kaçtır?
-
-A) 15 B) 16 C) 17 D) 18 E) 19
-
-#### TIP-16
-
-Doğru yapılan her soruya 5 puanın verildiği, 4 yanlışın da bir doğruyu götürdüğü 80 soruluk bir sınava katılan bir öğrenci 225 puan alıyor.
-
-Öğrenci bütün soruları işaretlediğine göre, doğru yaptığı soru sayıkaçtır?
-
-A) 52 B) 56 C) 60 D) 63 E) 65
-
-Kuyruk: Baş + son – ikili sayılanlar
-
-1) Kuyruk 1 kişi üzerine kurulu ise
-
-![Şekil/Grafik/Soru](images/image74.jpg)
-
-#### KUYRUK SORULARI
-
-kuyruk = x + y - 1
-
-2) Kuyruk 2 kịi üzerine kurulu ise
-
-![Şekil/Grafik/Soru](images/image75.jpg)
-
-Kuyruk = x + y - k - 2  $ \Rightarrow $ en az
-
-Kuyruk = x + y + k  $ \Rightarrow $ en çok
-
-![Şekil/Grafik/Soru](images/image76.jpg)
-
-#### TiP-17
-
-Bir bilet kuyruğunda Seher baştan (2n + 6). sırada, sondan (n + 2). sıradadır.
-
-Kuyrukta toplam 85 kişi olduğunu göre, Seher baştan kaçinci sıradadır?
-
-A) 56 B) 57 C) 58 D) 59 E) 60
-
-#### TIP-18
-
-Bir kuyrukta Hakan baştan 30. sırada, Emre sondan 20. sıradadır. Aralarında 5 kişi vardır ve Emre başı daha yakındır.
-
-Buna göre, kuyrukta kaç kişi vardır?
-
-A) 42 B) 43 C) 44 D) 45 E) 46
-
-#### tip-19
-
-Bir yemek kuyruğunda Selim baştan 13. sırada, Mert sondan 20. sıradadır. İkisi arasında 3 kişi olduğunu göre, kuyrukta  $ \underline{\text{en az}} $ kaç kişi vardır?
-
-A) 24 B) 25 C) 26 D) 27 E) 28
-
-Kesir Problemlerinin Çözümü
-
-Kesir problemlerinde soruda verilen kesirlerin paydalarını çarparak bütün oluşturulur.
-
-Örnek: Bir ürünün önce  $ \frac{1}{3} $'ü, sonra  $ \frac{1}{2} $'si en son  $ \frac{1}{4} $'ü satılıyor.
-
-Ürün = 3 2 4 x = 24 x alınır.
-
-#### Tip-20
-
-Bir yay sıkıştırıldığında boyu  $ \frac{1}{4} $ oranında azalıyor, çekip uzatıldığında ise boyu  $ \frac{2}{5} $ oranında artiyor.
-
-Buna göre, çekilip uzatılmış hâldeki boyu 168 cm olan bu yayın sıkıştırılmış hâldeki boyu kaç cm'dir?
-
-A) 70 B) 78 C) 80 D) 90 E) 98
-
-#### TIP-21
-
- $ \frac{3}{7} $'si dolu olan bir depoya 15 m $ ^{3} $ su eklenince deponun  $ \frac{2}{3} $'ü dolmuş oluyor.
-
-Buna göre, depo t
+### 7.

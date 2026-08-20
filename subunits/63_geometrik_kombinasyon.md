@@ -1,189 +1,207 @@
-# 2026 KPSS Matematik: Geometrik Kombinasyon (Doğru, Üçgen ve Dörtgen Sayısı Bulma)
+# 2026 KPSS Matematik: Geometrik Kombinasyon (Doğru, Üçgen Sayısı)
 **Modül:** Modül 4: İleri Konular & Mantık
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-il/Grafik/Soru](images/image547.jpg)
+dan biri eşit olan dik üçgenlerin bir araya getirilmesiyle oluşmaktadır.
 
-### 2. DİKDÖRTGEN DİK PRİZMA
+Yukaridaki şekilde, kaçıncı üçgenin hipotenüsü tam sayıdır?
 
-Her bir yüzeyi dikdörtgen olan üç boyutlu geometrik şekle dikdörgenler prizması denir.
+A) 7 B) 8 C) 13 D) 15 E) 17
 
- $$ \mathbf{V}=\mathbf{a}\cdot\mathbf{b}\cdot\mathbf{c} $$ 
+### ÖKİT BAĞINTILARI
 
- $$ \mathsf{Y.A}=(2\mathsf{a}+2\mathsf{b})\cdot\mathsf{c}=2\mathsf{ac}+2\mathsf{bc} $$ 
+![Şekil/Grafik/Soru](images/image266.jpg)
 
- $$ \begin{aligned}\boldsymbol{A}&amp;=\boldsymbol{a}\cdot\boldsymbol{b}+\boldsymbol{a}\cdot\boldsymbol{b}+2\boldsymbol{a}\boldsymbol{c}+2\boldsymbol{b}\boldsymbol{c}\\&amp;=2(\boldsymbol{a}\cdot\boldsymbol{b}+\boldsymbol{a}\cdot\boldsymbol{c}+\boldsymbol{b}\cdot\boldsymbol{c})\end{aligned} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a&lt;/div&gt; &lt;/div&gt;
 
-Cisim köşegenî : e =  $ \sqrt{a^2 + b^2 + c^2} $
+olmak şartıyla;
 
-![Şekil/Grafik/Soru](images/image548.jpg)
+1.  $ h^2 = p \cdot k $
 
-#### tip-1
+2.  $ b^2 = k \cdot a $
 
-Bir dikdörtgenler prizmasının ayrıt uzunlukları 2, 3, 5 sayılarıyla orantılıdır. Bu prizmanın hacmi 810 cm³ olduğuına göre, alanı kaç cm² dir?
+3.  $ c^2 = p \cdot a $
 
-A) 558
+4.  $ a \cdot h = b \cdot c $
 
-B) 557
+5.
 
-C) 556
-
-D) 555
-
-E) 554
-
-Tip - 2
-
-![Şekil/Grafik/Soru](images/image549.jpg)
-
-Şekildeki dikdörtgen dik prizmada
-
- $$ \left|AB\right|=9cm $$ 
-
- $$ \left|BC\right|=12cm $$ 
-
- $$ \left|E B\right|=17c m $$ 
-
-Yukaridaki verilere göre, prizmanın hacmi kaç cm $ ^{3} $ tür?
-
-A) 360 B) 542 C) 864 D) 866 E) 1028
-
-#### TIP-3
-
-Ayrıtları tam sayı olan bir dikdörtgenler prizmasının farklı yüzeylerinin alanları sırasıyla 12 cm², 15 cm², 20 cm² dir.
-
-Buna göre, bu prizmanın hacmi kaç cm³ tür?
-
-A) 20 B) 30 C) 60 D) 140 E) 220
+ $$ \frac{1}{h^{2}}=\frac{1}{b^{2}}+\frac{1}{c^{2}} $$ 
 
 #### Tip-4
 
-Aşağıdakilerden hangisi bir şeklin eksen etrafında döndürülmesinden elde  $ \underline{\text{edilemez}} $?
+![Şekil/Grafik/Soru](images/image267.jpg)
 
-A) Kesik koni B) Küre C) Silindir
+Şekilde;
 
-D) Koni E) Dikdörtgenler prizmasi
+[AC]⊥[BD]
 
-Tip-5
+ $$ [\mathsf{BA}]\perp[\mathsf{AD}] $$ 
 
-![Şekil/Grafik/Soru](images/image550.jpg)
+ $$ \left|BC\right|=9cm $$ 
 
- $ |BC|=6\ cm $
+ $$ \left|AB\right|=15cm $$ 
 
- $ |AB|=8\ cm $
+Yukaridaki verilere göre, |AD| = x kaç cm'dir?
 
- $ |DE|=26\ cm $
+) 15 B) 20 C) 24 D) 36 E) 42
 
-Yukaridaki dikdörtgenler dik prizmasında verilenlere göre, A(BDE) kaç cm² dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-5&lt;/div&gt; &lt;/div&gt;
 
-A) 50 B) 60 C) 120 D) 240 E) 480
+![Şekil/Grafik/Soru](images/image268.jpg)
 
-### 3. KÜP
+Şekilde;
 
-Bütün ayrıtılarının uzunluğu birbirine eşit olan dik prizmaya küp denir.
+[AB]⊥[DC]
 
-![Şekil/Grafik/Soru](images/image551.jpg)
+[DE]⊥[EC]
 
-Küpte her bir yüzey karedir.
+|AE|=7cm
 
- $$ \mathsf{V}=\mathsf{a}\cdot\mathsf{a}\cdot\mathsf{a}=\mathsf{a}^{3} $$ 
+|DE|=5 $ \sqrt{2} $ cm
 
- $$ \mathsf{Y.A=4a\cdot a=4a^{2}} $$ 
+|DB|=5 cm
 
- $$ \mathrm{A}=\mathrm{a}^{2}+\mathrm{a}^{2}+4\mathrm{a}^{2}=6\mathrm{a}^{2} $$ 
+Yukaridaki verilere göre, |AC| = x kaç cm'dir?
 
-#### TIP-6
+A) 6
 
-Bir kenarı 2 cm olan küçük küpler kullanılarak hacmi  $ \underline{\text{en küçük}} $ olacak biçimde farklı bir küp oluşturuluyor.
+B) 10
 
-Bu küpün tüm yüzeyi kaç cm² dir?
+C) 11
 
-A) 24 B) 36 C) 64 D) 96 E) 98
+D) 12
 
-![Şekil/Grafik/Soru](images/image552.jpg)
+E) 13
 
-A) 12
+ÖZEL AÇILI ÜÇGENLER
 
-Yandaki küpün hacmi 64 cm³ olduğuna göre, taralı alan kaç cm² dir?
+1.  $ 30^{\circ}-60^{\circ}-90^{\circ} $ üçgeni
 
-B) 18 C)  $ 12\sqrt{2} $ D)  $ 16\sqrt{2} $ E)  $ 32\sqrt{2} $
+![Şekil/Grafik/Soru](images/image269.jpg)
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-8&lt;/div&gt; &lt;/div&gt;
+II.  $ 45^{\circ}-45^{\circ}-90^{\circ} $ üçgeni
 
-![Şekil/Grafik/Soru](images/image553.jpg)
+![Şekil/Grafik/Soru](images/image270.jpg)
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A) 6&lt;/div&gt; &lt;/div&gt;
+III. 15° - 75° - 90° üçgeni
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)  $ 6\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
+![Şekil/Grafik/Soru](images/image271.jpg)
 
-Şekildeki küpün hacmi 216 cm³ olduğunu göre, BA'D' üçgeninin alanı kaç cm² dir?
+Tip-6
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C) 15&lt;/div&gt; &lt;/div&gt;
+![Şekil/Grafik/Soru](images/image272.jpg)
 
- $$ 18{\sqrt{2}} $$ 
+Şekilde;
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-9&lt;/div&gt; &lt;/div&gt;
+ $$ m\left(\widehat{ABC}\right)=135^{\circ} $$ 
 
-![Şekil/Grafik/Soru](images/image554.jpg)
+ $$ \left|AB\right|=6\sqrt{2}cm $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)  $ 2\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
+ $$ \left|BC\right|=2cm $$ 
 
-Şekildeki küpün alanı 24 cm² olduğunu göre, taralı alan kaç cm² dir?
+Yukaridaki verilere göre, x kaç cm'dir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)  $ 3\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
+A) 4 B) 6 C) 8 D) 10 E) 13
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 42&lt;/div&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-7&lt;/div&gt; &lt;/div&gt;
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D) 36&lt;/div&gt; &lt;/div&gt;
+![Şekil/Grafik/Soru](images/image273.jpg)
 
- $$ 5{\sqrt{2}} $$ 
+Şekilde;
 
-## B. silindir
+ $$ [\mathsf{D A}]\perp[\mathsf{B A}] $$ 
 
-![Şekil/Grafik/Soru](images/image555.jpg)
+ $$ m\left(\widehat{ADC}\right)=60^{\circ} $$ 
 
-Alt ve üst tabanı daire olan dik prizmaya silindir denir.
+ $$ m(\widehat{ABC})=45^{\circ} $$ 
 
-Taban yarıçapı r, yüksekliği h olmak üzere
+ $$ |AD|=8cm $$ 
 
- $$ \mathsf{V}=\pi\cdot\mathsf{r}^{2}\cdot\mathsf{h} $$ 
+ $$ |DC|=4cm $$ 
 
- $$ \mathrm{Y.A}=2\pi\mathrm{r}\cdot\mathrm{h} $$ 
+Yukaridaki verilere göre | BC | = x kaç cm'dir?
 
- $$ \mathrm{A}=\pi r^{2}+\pi r^{2}+2\pi\mathrm{rh} $$ 
+A)  $ 6\sqrt{2} $ B)  $ 8\sqrt{2} $ C)  $ 10\sqrt{2} $ D)  $ 12\sqrt{2} $ E)  $ 14\sqrt{2} $
 
- $$ =2\pi r^{2}+2\pi r h $$ 
+ $$ \left|AD\right|=9cm $$ 
 
-#### TIP-10
+90° den geçen doğru kenarı, iki eşit parçaya bölüyorsa bu parçada bölüğü uzunluklara eşittir.
 
-Taban yariçapı 8 cm ve yüksekliği 9 cm olan bir silindirin hacmi, bir küpün hacmine eşittir.
+![Şekil/Grafik/Soru](images/image274.jpg)
 
-Küpün bir kenarının uzunluğu kaç cm'dir? (π = 3 alınız.)
+ $$ \left|\mathrm{BK}\right|=\left|\mathrm{KC}\right| $$ 
 
-A) 6 B) 8 C) 9 D) 12 E) 15
+![Şekil/Grafik/Soru](images/image275.jpg)
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+ $$ \left|DC\right|=4cm $$ 
 
-![Şekil/Grafik/Soru](images/image556.jpg)
+ $$ [\mathsf{A B}]\perp[\mathsf{B C}] $$ 
 
-Dik silindir biçimindeki bir madeni borunun dıştan yariçapı 4 cm, içten yariçapı 2 cm'dir.
+ $$ [\mathsf{B D}]\perp[\mathsf{A C}] $$ 
 
-Boş kısının hacmi 36π cm³ ise madeni kısının hacmi kaç cm³ tür?
+Muhteqem Üçlü
 
-A) $152\pi$
+tip-8
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) $144\pi$&lt;/div&gt; &lt;/div&gt;
+Şekildeki ABC üçgeninde;
 
-C) $108\pi$
+### NOT
 
-D) $106\pi$
+ $$ \left|AD\right|=\left|BD\right|=\left|DC\right|dir. $$ 
 
-E) $104\pi$
+Yukaridaki verilere göre, |DK| = x kaç cm'dir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-12&lt;/div&gt; &lt;/div&gt;
+A)  $ \sqrt{13} $ B)  $ 2\sqrt{13} $ C)  $ 3\sqrt{13} $ D)  $ 4\sqrt{13} $ E)  $ 5\sqrt{13} $
 
-![Şekil/Grafik/Soru](images/image557.jpg)
+tip-9
 
-&lt;div style="text-align: center;"
+![Şekil/Grafik/Soru](images/image276.jpg)
+
+Şekilde;
+
+ $$ [\mathsf{A B}]\perp[\mathsf{B C}] $$ 
+
+ $$ m\left(\widehat{ADC}\right)=30^{\circ} $$ 
+
+ $$ |BD|=8\sqrt{3}cm $$ 
+
+ $$ \left|CD\right|=8cm $$ 
+
+Yukaridaki verilere göre, | AC | = x kaç cm'dir?
+
+A) 6 B) 8 C) 10 D) 12 E) 16
+
+IKIZKENAR ÜÇGEN
+
+![Şekil/Grafik/Soru](images/image277.jpg)
+
+İki kenarı veya iki açısı eş olan üçgenlere ikizkenar üçgen denir.
+
+ $ |\mathrm{AB}| = |\mathrm{AC}| $ vs  $ \mathrm{s}(\widehat{\mathrm{B}}) = \mathrm{s}(\widehat{\mathrm{C}}) $ dir.
+
+![Şekil/Grafik/Soru](images/image278.jpg)
+
+ $$ \left|AB\right|=\left|AC\right|\Rightarrow\left|BH\right|=\left|ED\right|+\left|DF\right| $$ 
+
+![Şekil/Grafik/Soru](images/image279.jpg)
+
+P herhangi bir nokta,
+
+ $$ [\mathsf{P}\mathsf{R}]//[\mathsf{A}\mathsf{B}],[\mathsf{P}\mathsf{S}]//[\mathsf{A}\mathsf{C}]\;\mathsf{v e}\mid\mathsf{A}\mathsf{B}\mid=\mid\mathsf{A}\mathsf{C}\mid $$ 
+
+olmak üzere
+
+ $$ \left|PR\right|+\left|PS\right|=\left|AB\right|=\left|AC\right| $$ 
+
+EŞKENAR ÜÇGEN
+
+![Şekil/Grafik/Soru](images/image280.jpg)
+
+Iç açıları ve kenarları esit üçgene eşkenar üçgen denir.
+
+ $$ Alan=\frac{a^{2}\sqrt{3}}{4} $$ 
+
+Eşkenar üçgende yükseklik,

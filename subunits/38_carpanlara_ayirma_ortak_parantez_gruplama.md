@@ -1,163 +1,151 @@
-# 2026 KPSS Matematik: Ortak Çarpan ve Gruplandırma Yöntemiyle Çarpanlara Ayırma
+# 2026 KPSS Matematik: Ortak Çarpan ve Gruplandırma
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-ile Bölünebilme
+gruplandırma yapılarak çarpanlarına ayrılır.
 
-Birler basamağındaki rakamı 0 olan sayılar 10 ile tam bölünür.
+2) Gruplandirarak Carpanlara Ayirma
 
-Bir sayının birler basamağındaki rakam, o sayının 10 ile bölümünden kalındır.
+$$\begin{array}{l}\uparrow\quad\overbrace{ax+bx+ay+by}\quad\overbrace{x+y}\end{array}$$
 
-### 11 ile Bölünebilme
+$$=\quad x(a+b)+y(a+b)$$
 
-Sayının rakamları sağdan sola doğru, +,-, +,-, ... ile işaretlenerek toplanır. Toplamin 11 ile bölümünden artan, kalandır.
+$$=(a+b)(x+y)$$
 
-#### ARALARINDA ASAL CARPANLARA BÖLÜNEBİLME
+#### Tip-3
 
-Aralarında asal çarpanların her birine tam bölünen sayı, bunların çarpımına da tam bölünür.
+ $$ a^{3}+a^{2}-a-1 $$ 
 
-6 = 2 · 3 (2 ile 3 aralarında asaldır.) 2 ve 3 ile tam bölünen sayılar 6 ile tam bölünür.
+ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?
 
-12 = 3 · 4 (3 ile 4 aralarında asaldır.) 4 ve 9 ile tam bölünen sayılar 36 ile tam bölünür.
+A) a           B)  $ a + 1 $          C) 2a
 
-60 = 3 · 4 · 5 (3, 4, 5 ikişer ikişer aralarında asaldır.) 3, 4 ve 5 ile tam bölünen sayılar 60 ile tam bölünür.
+D) 2a-1        E) 2a-2
 
-##### TIP-1
+#### Tip-4
 
-1273 sayısının
+ $$ x+y=5 $$ 
 
-3 ile bölümünden kalan x,
+ $$ y+z=6 $$ 
 
-5 ile bölümünden kalan y,
+olduğuna göre, x·y + x·z + y² + y·z ifadesinin sonucu kaçtır?
 
-9 ile bölümünden kalan z'dir.
+A) 15 B) 20 C) 30 D) 45 E) 50
 
-A) -3 B) -2 C) 0 D) 3 E) 4
+ $$ (x-y)^{3}\cdot(a-b)^{2}-(y-x)^{2}\cdot(b-a)^{3} $$ 
 
- $$ (174)^{2}-(73)^{3}-(1907)^{2} $$ 
+ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?
 
-sayisinin 5 ile bölümünden kalan kaçtir?
+A)  $ x + y $ B)  $ a + b $ C) 2a - b
 
-A) 0 B) 1 C) 2 D) 3 E) 4
-
-##### TIP-4
-
- $$ 0!+1!+2!+3!+\ldots\ldots+100! $$ 
-
-sayisinin 5 ile bölümünden kalan kaçtir?
-
-A) 0 B) 1 C) 2 D) 3 E) 4
-
-TIP-5
-
-2! + 4! + 6! + ..... + 80!
-
-sayisinin 42 ile bölümünden kalan kaçtir?
-
-A) 26 B) 28 C) 30 D) 32 E) 35
-
-TiP-3
-
-232323 ... 2
-
-17 basamaklı doğal sayısının 9 ile bölümünden kalan kaçtir?
-
-A) 2 B) 3 C) 5 D) 6 E) 7
+D)  $ 2x + y $ E)  $ x - y - b + a $
 
 #### TIP-6
 
-x sayisinin 3 ile bölümünden kalan 2'dir.
+ $$ \frac{\sqrt{10}+\sqrt{15}}{2+\sqrt{6}} $$ 
 
-Buna göre,  $ x^{2} + 3x - 1 $ sayısının 3 ile bölümünden kalan kaçtır?
+ifadesinin sonucu nedir?
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+A)  $ \frac{\sqrt{5}}{3} $ B)  $ \frac{\sqrt{10}}{2} $ C)  $ \frac{\sqrt{5}}{2} $ D)  $ \frac{\sqrt{10}}{3} $ E)  $ \frac{\sqrt{5}}{\sqrt{6}} $
 
-#### tip-7
+tip-7
 
-2x3y dört basamaklı doğal sayısının 15 ile bölümünden kalan sifirdir.
+ $$ \frac{2+\sqrt{2}+\sqrt{10}+\sqrt{5}}{\sqrt{2}+1} $$ 
 
-Buna göre x + y toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
+işleminin sonucu kaçtır?
 
-A) 10 B) 11 C) 12 D) 13 E) 14
+A) $\sqrt{2}+1$ B) $\sqrt{5}+1$ C) $\sqrt{2}+\sqrt{5}$
 
-#### Tip-8
+D) $2+\sqrt{5}$ E) $\sqrt{2}+2$
 
-a21b dört basamaklı sayısının 5 ile bölümünden kalan 2, 9 ile bölümünden kalan 2 ise a + b toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
+3) $ax^{2}+bx+c$ Şeklindeki ifadeler
 
-A) 3 B) 5 C) 8 D) 10 E) 12
+#### ? ORNEK SORU
 
-#### TIP-9
+ $$ x^{2}+3x+2 $$ 
 
-x23y dört basamaklı sayının 5 ile bölümünden kalan 2'dir.
+ifadesinin çarpanları nelerdir?
 
-Bu sayının 11 ile tam bölünebilmesi için x'in alabileceği  $ \underline{\text{en büyük}} $ değer kaçtır?
+#### QÖZÜM
 
-A) 1 B) 4 C) 5 D) 6 E) 9
+ $$ x^{2}+3x+2 $$ 
 
-#### TIP-10
+ $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}\left.x\right.\end{array}\right.\\\left.\begin{array}{l}\left.\begin{array}{l}\downarrow\\2\\1\end{array}\right.\end{array}\right\}\left.x+2x=\right.\\\left.\begin{array}{l}\textcircled{3x}\end{array}\right.\\=\left(x+2\right)\left(x+1\right)\end{array} $$ 
 
-Bir pazarcı tanesi 45 liradan çift sayıda gömlek alıyor ve parasını ödiyor. Aldığı faturada iki rakam silik çıkarak dört basamaklı -17- sayısı yazıyor.
+![Şekil/Grafik/Soru](images/image60.jpg)
 
-Buna göre, silik çıkan iki rakamın farkı kaçtır?
+##### ÖRNEK SORU
 
-A) 4 B) 3 C) 2 D) 1 E) 0
+ $$ x^{2}+6x-7 $$ 
 
-#### Tip-11
+ifadesinin çarpanları nelerdir?
 
-Birden fazla ardışık pozitif tam sayının çarpımı olarak yazılabilen doğal sayılara faktörsel sayı denir.
+![Şekil/Grafik/Soru](images/image61.jpg)
 
-Buna göre, 5 ile tam bölünen iki basamaklı faktörsel sayıların toplamı kaçtır?
+#### ÇÖZÜM
 
-A) 140 B) 160 C) 180 D) 200 E) 220
+ $$ x^{2}+3x+2 $$ 
 
-#### TIP-12
+ $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}x\\\end{array}\right|_{\begin{array}{l}7\\-1\end{array}}\left.\begin{array}{l}\\\end{array}\right\}-x+7x=\textcircled{6}x\\=(x+7)(x-1)\end{array} $$ 
 
-Üç basamaklı ABA doğal sayısı 5 ile BAB doğal sayısı 12 ile tam bölünebilmektedir.
+![Şekil/Grafik/Soru](images/image62.jpg)
 
-Buna göre, A + B toplamı kaçtır?
+##### ÖRNEK SORU
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+ $$ x^{2}+6x+5 $$ 
 
-#### TIP-13
+ifadesinin çarpanları nelerdir?
 
-A, B ve C sıfırdan ve birbirinden farklı rakamlar olmak üzere,
+#### QÖZÜM
 
-ABC, ACB, BAC, BCA
+ $$ \begin{aligned}&amp;x^{2}+6x+5\\&amp;\quad5\quad1\\=(x+5)(x+1)\end{aligned} $$ 
 
-üç basamaklı doğal sayılarından ikisi 4'e, diğer ikisi 5'e tam bölümektedir.
+![Şekil/Grafik/Soru](images/image63.jpg)
 
-Buna göre, A + B + C toplamı kaçtır?
+##### ÖRNEK SORU
 
-A) 10 B) 11 C) 12 D) 13 E) 14
+ $$ x^{2}-8x+7 $$ 
 
-#### TIP-14
+ifadesinin çarpanları nelerdir?
 
-p ve r birbirinden farklı asal sayılar olmak üzere,
+#### QÖZÜM
 
-300 · r
+ $$ \begin{array}{c}x^{2}-8x+7\\-1\quad-7\\=(x-1)(x-7)\end{array} $$ 
 
-sayısı p sayısının bir tam sayı katıdır.
+#### ? ORNEK SORU
 
-Buna göre, p asal sayısı aşağıdaki sayılardan hangisini  $ \underline{\text{kesinlikle}} $ tam böler?
+ $$ 2x^{2}+7x+3 $$ 
 
-A) 12·r B) 18·r C) 20·r D) 30·r E) 45·r
+ifadesinin çarpanları nelerdir?
 
-#### TIP-15
+#### QÖZÜM
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x bir doğal sayı olmak üzere,&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 11&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 13&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6"&gt;$ \frac{10^{x}-22}{3} $ dçoğal sayısının rakamları toplamı 38&amp;#x27;dir. Buna göre, x kaçtır?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ $$ 2x^{2}+7x+3 $$ 
 
-#### Tip-16
+ $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}2x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\3\end{array}\right\}\\\underline{\quad\quad\quad\quad}\quad(2x+1)(x+3)\end{array}\left\{\begin{array}{l}6x+x=\textcircled{7}x\\\end{array}\right. $$ 
 
-Bir T.C. vatandaşının kimlik numarasının son rakamı soldan 10 basamağı toplamının 10 ile bölümünden kalan ile bulunur.
+![Şekil/Grafik/Soru](images/image64.jpg)
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="6"&gt;Son rakami 4 olan bir vatandaşın T.C. kimlik numarasının toplama aşağıdakilerden hangisi olabilir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 98&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 84&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 78&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 74&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 64&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+##### ÖRNEK SORU
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-17&lt;/div&gt; &lt;/div&gt;
+ $$ 3x^{2}-8x-3 $$ 
 
-Gözde 1'den 100'e kadar olan doğal sayıları sırasıyla aşağıdaki gibi defterine yazıyor.
+ifadesinin çarpanları nelerdir?
 
-![Şekil/Grafik/Soru](images/image27.jpg)
+#### ÇÖZÜM
 
-Sonrasın
+ $$ 3x^{2}-8x-3 $$ 
+
+ $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}3x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\-3\end{array}\right\}\\-9x+x=\textcircled{-8x}\\=\left(3x+1\right)\cdot\left(x-3\right)\end{array} $$ 
+
+ $$ \frac{x^{2}+3x+2}{x+1}+\frac{x^{2}-2x+1}{x-1} $$ 
+
+ifadesinin en sade hâli nedir?
+
+A)  $ x + 5 $ B) x - 3 C)  $ 2x + 1 $ D) x E) -x
+
+4) Özdeşlikler
+
+1)

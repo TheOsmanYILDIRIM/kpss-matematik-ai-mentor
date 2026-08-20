@@ -1,199 +1,185 @@
-# 2026 KPSS Matematik: Ardışık Sayıların Toplam Formülleri & Gauss Yöntemi
+# 2026 KPSS Matematik: Ardışık Sayıların Toplam Formülleri & Gauss
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-olduğu biliniyor.
+Ardisik Sayilarin Formülleri
 
-Buna göre, a kaçtır?
+1.  $ 1 + 2 + 3 + \ldots + n = \frac{n(n+1)}{2} $
 
-A) 2 B) 4 C) 5 D) 6 E) 8
+2.  $ 2 + 4 + 6 + \ldots + 2n = n \cdot (n+1) $
 
-#### TIP-17
+3.  $ 1 + 3 + 5 + \ldots + (2n - 1) = n^2 $
 
-f : R - \{a\} \to R - \{b\}
+##### Genel Toplam Formülü
 
-fonksiyon birebir ve örtendir.
+Toplam = Ortadaki sayı · Terim sayı
 
-f(x) = \frac{3x + 5}{2x + 4}
+#### Terim Sayisi
 
-Buna göre, a · b çarpımı kaçtır?
+Ardışık sonlu sayı dizilerinde,
 
-A) -2 B) -3 C) -6 D)  $ \frac{3}{2} $ E)  $ \frac{9}{4} $
+ $$  Terim sayi s=\frac{(Son terim)-(ilk terim)}{Ortak fark}+1 $$ 
 
-BILE$$KE FONKSIYON
+Ortadaki sayı =  $ \frac{\text{Son terim + İlk terim}}{2} $
 
-(fog)(x) = f(g(x))
+Toplam = Ortadaki sayı · Terim sayısı
 
-(gof)(x) = g(f(x))
+Ardışık toplam =  $ \frac{(\mathrm{lik}\ \mathrm{terim}+\mathrm{Son}\ \mathrm{terim})}{2} $ · (Terim sayısı)
 
-#### TIP-18
+#### Tip-5
 
-Reel sayilar kümesi üzerinde tanımlı f ve g fonksiyonları
+ $$ 1+2+3+\ldots\ldots+29 $$ 
 
-f(x) = 2x + 7
+toplaminin sonucu kaçtir?
 
-g(x) = 3x - 5
+A) 420 B) 430 C) 435 D) 450 E) 465
 
-olduğu biliniyor.
+##### TIP-6
 
-Buna göre, (fog)(3) kaçtır?
+Ardışık beş doğal sayının toplamı 75 ise bu sayılardan  $ \underline{\text{en küçüğü}} $ kaçtır?
 
-A) 7 B) 9 C) 13 D) 15 E) 18
+A) 12 B) 13 C) 14 D) 15 E) 16
 
-##### tip-19
+#### TIP-7
 
- $ f(x) = 2x + 1 $
+Ardışık 11 tek doğal sayının toplamı 143 ise bu sayılardan  $ \underline{\text{en büyükü kaçtır}} $?
 
-olduğuna göre, (fof)(3) kaçtir?
+A) 17 B) 19 C) 21 D) 23 E) 25
 
-A) 9 B) 11 C) 12 D) 14 E) 15
+Tip-8
 
-#### TIP-20
+Ardışık 43 tek sayının toplamı 43 ise bu sayılardan  $ \underline{\text{en küçüğü}} $ kaçtir?
 
-f(x) =  $ \begin{cases} x^2 + 1, &amp; x \text{ rasyonel değilse} \\ 2x - 1, &amp; x \text{ rasyonel ise} \end{cases} $
+A) -43 B) -41 C) -39 D) -37 E) -35
 
-biçiminde veriliyor.
+Tip-9
 
-Buna göre, (fof)(\sqrt{2}) kaçtır?
+Ardışık 6 çift sayının toplamı 66 ise bu sayılardan  $ \underline{\text{en büyüğü}} $ kaçtır?
 
-A) \sqrt{2} B) 3\sqrt{2} C) 3 D) 4 E) 5
+A) 11 B) 14 C) 16 D) 18 E) 20
 
-#### Tip-21
+Ardışık 5 doğal sayının toplamı A ise bu sayılardan  $ \underline{\text{en küçüğü}} $ nedir?
 
- $ f(x) = |x + 1| $
+A)  $ \frac{A-15}{5} $ B)  $ \frac{A-10}{5} $ C)  $ \frac{A-5}{5} $ D)  $ \frac{A}{5} $ E)  $ \frac{A+5}{5} $
 
- $ g(x) = |x + 3| $
+#### TiP-11
 
-esitliği veriliyor.
+1 den n'e kadar olan ardışık doğal sayıların toplamı x, 10 dan n'e kadar olan ardışık doğal sayıların toplamı y dir.
 
-(fog)(x) = 3 eşitliğini sağlayan x'ler toplamı kaçtır?
+ $ x + y = 145 $
 
-A) -6 B) -5 C) -4 D) -3 E) -2
+olduğuna göre, x kaçtır?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-22&lt;/div&gt; &lt;/div&gt;
+A) 95 B) 100 C) 115 D) 120 E) 125
 
-Aşağıda y = f(x) fonksiyonunun grafifi verilmiştir.
+#### TIP-12
 
-![Şekil/Grafik/Soru](images/image170.jpg)
+Bir öğrenci 3'ün katı olan ardışık pozitif doğal sayıları sırasıyla defterine yazıyor.
 
-Buna göre,  $ \frac{f^{-1}(0)+f(0)}{f^{-1}(7)} $ kaçtır?
+Buna göre, öğrencinin yazdığı 100. sayı kaçtır?
 
-A)  $ \frac{-1}{5} $ B)  $ \frac{-3}{2} $ C)  $ \frac{-2}{3} $ D)  $ \frac{2}{3} $ E)  $ \frac{5}{7} $
+A) 100 B) 150 C) 200 D) 260 E) 300
 
-#### TIP-23
+Tip-13
 
- $$ A=\{1,2,3,4,5\} $$ 
+ $ A = 2 \cdot 3 + 3 \cdot 4 + \ldots + 11 \cdot 12 $
 
- $$ f\colon A\to A $$ 
+ifadesinin her bir termininin birinci çarpanı 1 artırılırsa toplamın sonuçı kaç artar?
 
-olduğuna göre, f(1) + f(2) + f(3) toplamının alabileceği  $ \underline{\text{en büyük}} $ değerikaçtır?
+A) 60 B) 65 C) 70 D) 75 E) 80
 
-A) 6 B) 9 C) 12 D) 15 E) 18
+TiP-14
 
-#### TIP-24
+ $$ 2027-2026+2025-2024+...+1001 $$ 
 
-A = {1, 2, 3, 4, 5, 6}
+işleminin sonucu kaçtır?
 
-f: A → A ve f birebir ve örtendir.
+A) 1407 B) 1469 C) 1512 D) 1513 E) 1514
 
-f(x) = k - x ise k kaçtir?
+Bir öğrenci 1'den başlayıp belirli bir doğal sayıya kadar olan ardişik sayıları sırasıyla yazıp toplayıp sonucu 70 buluyor. İşlemi kontrol ederken bir sayıyı iki kez yazdığını fark ediyor.
 
-A) 7 B) 10 C) 11 D) 8 E) 9
+Buna göre, hangi sayıyı iki kez yazmıştır?
 
-TIP-25
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-a bir gerçel sayı olmak üzere, gerçel sayılar kümesi üzerinde tanımlı
+Tip-16
 
-f(x) = ax + 3
+1'den başlayıp 100'e kadar numaralandırılmış toplar bir torbaya atılıyor.
 
-g(x) = 3x + 1
+Torbadan çekilen bir topun üzerinde yazan sayının 5 ile bölünebilmesi için torbadan  $ \underline{\text{en az}} $ kaç top çekilmelidir?
 
-fonksiyonları, her x gerçel sayısı için,
+A) 20 B) 21 C) 75 D) 80 E) 81
 
-(fog)(x) = (gof)(x)
+tip-17
 
-eşitliğini sağlıyor.
+1'den 120'ye kadar numaralandırılmış bir kitapta toplam kaç tane rakam kullanılmıştır?
 
-Buna göre, a kaçtır?
+A) 240 B) 245 C) 246 D) 252 E) 258
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-18&lt;/div&gt; &lt;/div&gt;
 
-#### TIP-26
+A sayisi 1'den 80'e kadar sayıların yan yana yazılması ile oluşmaktadır. Bu sayının soldan 92. basamağidaki rakam kaçtır?
 
-Dik koordinat düzleminde f + g ve f − g fonksiyonların grafikleri şekilde verilmiştir.
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-![Şekil/Grafik/Soru](images/image171.jpg)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-19&lt;/div&gt; &lt;/div&gt;
 
- $ (f \cdot g)(a) = 8 $
+Elinde yeterince kutu bulunan Hale'nin her bir adında kutuları üstüste koyarak yaptığı kulelerin bazılarının görünmü aşağıdaki gibidir.
 
-olduğuna göre, b kaçtir?
+![Şekil/Grafik/Soru](images/image10.jpg)
+
+1.adim
+
+![Şekil/Grafik/Soru](images/image11.jpg)
+
+2.adim
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;3.adim&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image12.jpg)
+
+Hale her bir adında aynı düzende ve ardışık olacak biçimde tek sıra hâlinde kutuları üst üste diziyor.
+
+Buna göre, Hale'nin 15. adında yaptığı kulede kullandığı kutu sayıı kaçtır?
+
+A) 105 B) 110 C) 120 D) 124 E) 136
+
+##### Tip-20
+
+Aşağıdaki şekilde belirli bir kurala göre bir ipe dizilmiş turuncu ve beyaz boncukların görünmü verilmiştir.
+
+![Şekil/Grafik/Soru](images/image13.jpg)
+
+Bu ip içi boş olan kutuya konulduğunda ip üzerindeki bazı boncuklar şekilde gibi dışarda kalıyor.
+
+Buna göre, kutu içerisinde kalan  $ \underline{\text{görünmeyen}} $ beyaz boncuk sayısı  $ \underline{\text{görünmeyen}} $ turuncu boncuk sayısından kaç fazladır?
 
 A) 3 B) 4 C) 5 D) 6 E) 7
 
-#### TIP-27
+#### Tip-21
 
-Dik koordinat düzleminde [0, 3] aralığında tanımlı f(x) ve g(x) fonksiyonlarının grafikleri şekilde verilmiştir.
+A3 sayfalarından bir kitap oluştururken bu sayfalar üst üste konulup ortadan katlanarak A4 boyutunda bir kitap oluşturulur. Aşağıda A3 sayfalarından oluşturulan n sayfalık bir kitabın sayfa numaraları verilmiştir.
 
-![Şekil/Grafik/Soru](images/image172.jpg)
+![Şekil/Grafik/Soru](images/image14.jpg)
 
-Bir a ∈ (0, 1) sayısı için
+Buna göre, bu kitap kaç sayfadır?
 
-b = (fog)(a)
+A) 30 B) 31 C) 32 D) 33 E) 34
 
-c = (gof)(a)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
 
-olarak belirleniyor.
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;9&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;11&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;13&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;14&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;15&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-Buna göre; a, b ve c sayılarının doğru sıralanışı aşağıdakilerden hangisidir?
+Ardışık sayılar 1 den başlayarak şekildeki gibi 1. satırda 3, 2. satırda 5, 3. satırda 7 sayı olmak üzere her satırda bir önceki satırdan 2 fazla sayı olacak şekilde yazılıyor.
 
-A) a &lt; b &lt; c B) a &lt; c &lt; b C) b &lt; a &lt; c
+Aşağıdaki sayılardan hangisi 160 ile aynı satırdadır?
 
-D) b &lt; c &lt; a E) c &lt; a &lt; b
+A) 130 B) 142 C) 146 D) 169 E) 170
 
-a ve b gerçel sayılar olmak üzere, gerçel sayılar kümesi üzerinde f ve g fonksiyonları
+### VIDEO DERS NOTU
 
- $ f(x) = ax - b $
+## yarqi yayinevi
 
- $$ \mathrm{g}(\mathrm{x})=\mathrm{bx}-2 $$ 
-
-biçiminde tanımlanıyor.
-
-(f + g)(1) = f(1)
-
- $$ (f+g)(2)=g(2) $$ 
-
-olduġuna gõre, a · b çarpimi kaċċir?
-
-A) 2 B) 4 C) 6 D) 8 E) 10
-
-#### Tip-29
-
-Gökçen Öğretmen, matematik dersinde şöyle bir tanım yapmıştır:
-
-"Gerçel sayılar kümesi üzerinde tanımlı bir f fonksiyonu, her x gerçel sayısı için
-
- $ f(f(x)) = x $
-
-eşitliğini sağliyorsa bu fonksiyonya çetin fonksiyon denir."
-
-Buna göre, gerçel sayılar kümesi üzerinde tanımlı
-
-I.  $ f(x) = 1 + x $
-
-II.  $ f(x) = 1 - x $
-
-III.  $ f(x) = -x $
-
-fonksiyonlarından hangileri bir çetin fonksiyondur?
-
-A) Yalnız I B) Yalnız II C) Yalnız III
-
-D) I ve II E) II ve III
-
-##### tip-1
-
-Bir kâğida 1, 2, 3 ve 4 rakamları birer kez kullanılarak oluşturulan dört basamaklı bir ABCD doğal sayısı yazılıyor. Bu sayıyı bulmak isteyen dört kişinin yaptığı tahminler aşağıda verilmiştir.
-
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-al
+1'den n'e kadar olan doğal sayıların çarpımına n

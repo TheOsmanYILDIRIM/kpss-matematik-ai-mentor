@@ -4,270 +4,440 @@
 
 ---
 
-{5} $ D)  $ \frac{4}{5} $ E) 1
+üslü denklemlerin üsleri birbirine eşittir.
 
-TIP-6
+ $$ \left|\begin{array}{l}{a^{x}=a^{y}\Rightarrow x=y}\end{array}\right| $$ 
 
-![Şekil/Grafik/Soru](images/image298.jpg)
+Örnek:  $ 2^{x-1} = 8^x $ ise x kaçtır?
 
-ABC üçgen
+ $$ 2^{x-1}=2^{3x}\Rightarrow\widehat{x-1}=3x $$ 
 
-[AN] açıortay
+ $$ -1=3x-x $$ 
 
- $$ \left|AB\right|=6cm $$ 
+ $$ \frac{-1}{2}=\frac{2x}{2}\Rightarrow x=-\frac{1}{2} $$ 
 
- $$ |BN|=3cm $$ 
+9) Üsler eşitse
 
- $$ \left|NC\right|=2cm $$ 
+a^{x} = b^{x} ifadesinde
 
-Yukaridaki verilere göre, |AN| kaç cm'dir?
+1. x tek sayı ise a = b
 
-A) $\sqrt{2}$ B) $2\sqrt{2}$ C) $3\sqrt{2}$ D) $4\sqrt{2}$ E) $5\sqrt{2}$
+II. x Ịift sayi ise a = b ya da a = -b dir.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-7&lt;/div&gt; &lt;/div&gt;
+##### ÖRNEK SORU
 
-![Şekil/Grafik/Soru](images/image299.jpg)
+ $$ (x-1)^{4}=(2x+4)^{4} $$ 
 
-ABC üçgen
+ise x'in alabileceği değerler toplamı kaçtır?
 
- $$ \mathrm{m}(\widehat{\mathbf{A}})=2\mathrm{m}(\widehat{\mathbf{C}}) $$ 
+A) -4 B) -5 C) -6 D) -7 E) -8
 
- $$ \left|A B\right|=6\mathrm{c m} $$ 
+E)-8
 
-|AC|=9cm
+CEVAP: C
 
-Yukaridaki verilere göre, |BC| kaç cm'dir?
+10)  $ a^{x} = b^{y} $ (a \neq b  ve  aralarında asal ise)
 
-A) 3√10
+ $$ \boxed{x=y=0} $$ 
 
-B) 4√10
+#### ÖRNEK SORU
 
-C) 5√10
+ $$ 5^{x}+y-3=7^{x}-y+10\quad is $$ 
 
-D) 6√10
+x·y çarpımı kaçtır?
 
-E) 7√10
+A) $\frac{-91}{4}$ B) $\frac{-70}{4}$ C) $\frac{42}{4}$ D) $\frac{67}{4}$ E) $\frac{83}{4}$
 
-DİŞ AÇIORTAY TEOREMİ
+CEVAP: A
 
-![Şekil/Grafik/Soru](images/image300.jpg)
+#### ORNEK SORU
 
- $$ \frac{c}{b}=\frac{x}{y}\text{veya}\frac{y}{b}=\frac{x}{c} $$ 
+ $ 2^{x+1} = 6 $ veriliyor.
 
- $$ \left|\mathrm{AD}\right|=n_{A}^{1}=\sqrt{y\cdot x-b\cdot c} $$ 
+Buna göre,  $ 8^{x} $ kaçtır?
 
-#### tip-8
+A) 8 B) 16 C) 18 D) 27 E) 81
 
-![Şekil/Grafik/Soru](images/image301.jpg)
+11)  $ a^{b} = 1\ \text{ise} $
 
-ABD üçgeninde [AD] dış açıortay, B, C, D doğrusal
+1. b = 0 ancak a  $ \neq $ 0
 
- $$ \left|AB\right|=3cm $$ 
+II. a = 1
 
-Yukaridaki verilere göre, |DC| kaç cm'dir?
+III. a = -1 ancak b çift olmalı
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+### 2 ORNEK SORU
 
-tip-9
+ $$ (x-2)^{x-1}=1 $$ 
 
-![Şekil/Grafik/Soru](images/image302.jpg)
-
-ABD üçgen, B, A, E doğrusal, [AD] açıortay
-
- $$ \left|AB\right|=15cm $$ 
-
- $$ |AC|=9cm $$ 
-
- $$ |CD|=12cm $$ 
-
-Yukaridaki verilere göre, Çevre(ABC) kaç cm'dir?
-
-A) 30 B) 31 C) 32 D) 33 E) 34
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-10&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image303.jpg)
-
-C, B, F doğrusal [DE] ve [BA] açıortay
-
-|EB| = 4 cm
-
-|AE| = 6 cm
-
-|BC| = 12 cm
-
-Yukaridaki verilere göre, Çevre(ABC) kaç cm'dir?
-
-A) 25 B) 30 C) 35 D) 40 E) 45
-
-KURAL
-
-![Şekil/Grafik/Soru](images/image304.jpg)
-
-![Şekil/Grafik/Soru](images/image305.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image306.jpg)
-
-ABC üçgeninde [AK] iç açıortay,
-
-[AD] dış açıortay
-
-|BK| = 3 cm
-
-|KC| = 2 cm
-
-Yukaridaki verilere göre, |BD| kaç cm'dir?
-
-A) 12 B) 13 C) 14 D) 15 E) 16
-
-TiP-12
-
-![Şekil/Grafik/Soru](images/image307.jpg)
-
-ABC üçgen
-
-B, C, K doğrusal
-
-m($\widehat{BCE}$) = m($\widehat{ECD}$)
-
-m($\widehat{DCA}$) = m($\widehat{ACK}$)
-
-| BE | = 15 cm
-
-| ED | = 10 cm
-
-Yukaridaki verilere göre, |AD|=x kaç cm'dir?
-
-A) 30 B) 35 C) 40 D) 45 E) 50
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;KURAL-1&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image308.jpg)
-
-Üçgende kenarortayların kesim noktasına üçgenin ağırlık merkezi denir.
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image309.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;G, ABC üçüneninin ağırlık merkezidir.&lt;/div&gt; &lt;/div&gt;
-
-|BE|=18cm
-
- $$ |GD|=4cm $$ 
-
-Yukaridaki verilere göre,  $ \frac{|BG|}{|AD|} $ oranı kaçtır?
+sağlayan farklıxdegerlertoplamıkaçtır?
 
 A) 1 B) 2 C) 3 D) 4 E) 5
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
+CEVAP: D
 
-![Şekil/Grafik/Soru](images/image310.jpg)
+12)  $ a^x = b^y $,  $ a^k = b^m $ is  $ \left\{\frac{x}{k} = \frac{y}{m}\right\} $
 
-A) 8
+#### ORNEK SORU
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 10&lt;/div&gt; &lt;/div&gt;
+$$2^{x-1} = 27^2$$
 
-ABC üçgeninde
+$$8^x = 9$$
 
-[CE] ve [AD] kenarortay
+ise x kaçtır?
 
-tip-3
+A) $\frac{-1}{8}$ B) $\frac{-1}{4}$ C) $\frac{-1}{2}$ D) $\frac{1}{4}$ E) $\frac{1}{8}$
 
- $$ \left|\mathsf{E K}\right|=(x-1)\mathrm{c m} $$ 
+CEVAP: A
 
- $$ \left|K C\right|=\left(3x-6\right)c m $$ 
+Tip-1
 
- $$  AK=\left(2x+2\right)cm $$ 
+![Şekil/Grafik/Soru](images/image52.jpg)
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 8&lt;/div&gt; &lt;/div&gt;
+işleminin sonucu kaçtır?
 
-Yukaridaki verilere göre, | AD | kaç cm'dir?
+A) $3^{6}$ B) $3^{9}$ C) $3^{11}$ D) $3^{12}$ E) $3^{14}$
 
-C) 12 D) 15 E) 18
+Tip-2
 
-![Şekil/Grafik/Soru](images/image311.jpg)
+ $$ \frac{2^{x+2}\cdot2^{x-1}}{8^{x-2}\cdot8^{x-3}} $$ 
 
-G, ABC üçüneninin ağırlık merkezidir.
+işleminin sonucu kaçtır?
 
-A, G, F doğrusal
+A) 1 B) 2 C) 3 D) 4 E) 8
 
- $$ G K|=|K F|=|K C| $$ 
+#### TIP-3
 
- $$ \left|AK\right|+\left|BD\right|+\left|EC\right|=15cm $$ 
+ $$ \frac{5}{1-3^{x-y}}+\frac{5}{1-3^{y-x}} $$ 
 
-Yukaridaki verilere göre, GCF üçgeninin çevresi kaç cm'dir?
+işleminin sonucu kaçtır?
 
-C) 9 D) 10 E) 11
+A) 3 B) 5 C) 10 D) 15 E) 21
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;KURAL-2&lt;/div&gt; &lt;/div&gt;
+#### TIP-4
 
-![Şekil/Grafik/Soru](images/image312.jpg)
+ $$ \frac{5^{3}+5^{4}+5^{5}}{5^{-7}+5^{-8}+5^{-9}} $$ 
 
-D, E ve F noktalarını birleştirdiğimizde oluşan DEF üçgenin ağırlık merkezi ile ABC üçgeninin ağırlık merkezi aynıdır.
+işleminin sonucu kaçtır?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-4&lt;/div&gt; &lt;/div&gt;
+A)  $ 5^{10} $ B)  $ 5^{11} $ C)  $ 5^{12} $ D)  $ 5^{13} $ E)  $ 5^{14} $
 
-![Şekil/Grafik/Soru](images/image313.jpg)
+#### tip-6
 
-ABC üçgen,
+$$(-x^{3})^{-2}\cdot(-x^{5})^{-3}\cdot(-x^{4})^{-2}\cdot(-x^{4})$$
 
-[AD],[BE] kenarortay
+isleminin sonucu nedir?
 
-[FE]//[BC]
+A) $x^{-25}$ B) $x^{-23}$ C) $x^{-20}$ D) $x^{-15}$ E) $x^{-10}$
 
-olduğuna göre,  $ \frac{|KG|}{|AD|} $ oranı kaçtir?
+TIP-7
 
-A)  $ \frac{1}{6} $ B)  $ \frac{1}{3} $ C)  $ \frac{1}{2} $ D) 1 E) 3
+olduğuna göre, x kaçtır?
 
-##### Tip = 5
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-![Şekil/Grafik/Soru](images/image314.jpg)
+ $$ 2^{x+2}-2^{x}+2^{x-1}=56 $$ 
 
-ABC üçgen,
+ifadesinin sonucu nedir?
 
-D, E, F bulundukları kenarların orta
+A)  $ -a^{3} $ B)  $ -a^{4} $ C)  $ -a^{5} $ D)  $ a^{4} $ E)  $ a^{5} $
 
-noktalarıdır.
+#### tip-5
 
-[BE] ∩ [DE] = {E}
+ $ (-a)^{4} \cdot (-a)^{7} \cdot (a^{2})^{-3} $
 
-|PR| = 5 cm
+#### tip-8
 
-Yukaridaki verilere göre, |AF| kaç cm'dir?
+ $$ 2^{x}\cdot3^{y}=72 $$ 
 
-A) 21
+ $$ 2^{y}\cdot3^{x}=108 $$ 
 
-B) 24
+olduġuna gõre, x + y toplami kaċtir?
 
-C) 25
+A) 4 B)  $ \frac{9}{2} $ C) 5 D)  $ \frac{11}{2} $ E) 6
 
-D) 28
+#### Tip - 9
 
-E) 30
+ $$ \frac{1}{2^{4}+1}+\frac{1}{2^{3}+1}+\ldots+\frac{1}{2^{-4}+1} $$ 
 
-KURAL - 3
+işleminin sonucu kaçtır?
 
-Ağırlık Merkezinin Bulunması
+A) 4 B)  $ \frac{9}{2} $ C) 5 D)  $ \frac{7}{2} $ E) 6
 
-![Şekil/Grafik/Soru](images/image315.jpg)
+#### TIP-10
 
-1. [AD] ve [BE] kenarortay ise G ağırlık merkezidir.
+ $$ 2^{x}=10 $$ 
 
-![Şekil/Grafik/Soru](images/image316.jpg)
+olduğuna göre x, y ve z nin sıralaması nedir?
 
-![Şekil/Grafik/Soru](images/image317.jpg)
+A) x &lt; y &lt; z
 
-![Şekil/Grafik/Soru](images/image318.jpg)
+B) x &lt; z &lt; y
 
-2. [AD] kenarortay
+C) z &lt; x &lt; y
 
- $$ \left|\mathrm{BG}\right|=2x $$ 
+D) y &lt; x &lt; z
 
- $$ \left|GE\right|=x $$ 
+E) z &lt; y &lt; x
 
-ise G ägrlik merkezidir.
+#### Tip-11
 
-3.
+$$2^{x}=3$$
+
+$$3^{y}=5$$
+
+$$5^{z}=16$$
+
+olduġuna gõre, x·y·z ġarpimi kaċċir?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+#### Tip-12
+
+ $$ a=2^{75} $$ 
+
+ $$ \mathrm{b}=5^{45} $$ 
+
+ $$ c=6^{30} $$ 
+
+olduğuna göre a, b ve c'nin sıralaması nedir?
+
+A) a &lt; b &lt; c
+
+B) a &lt; c &lt; b
+
+C) b &lt; c &lt; a
+
+D) c &lt; b &lt; a
+
+E) c &lt; a &lt; b
+
+#### Tip-13
+
+ $$ 2^{x}+2^{y}=17 $$ 
+
+ $$ 2^{y}+2^{z}=33 $$ 
+
+ $$ 2^{x}+2^{z}=45 $$ 
+
+olduğuna göre x, y ve z'nin siralaması nedir?
+
+A) x &lt; y &lt; z
+
+B) y &lt; x &lt; z
+
+C) z &lt; x &lt; y
+
+D) y &lt; z &lt; x
+
+E) z &lt; y &lt; x
+
+#### TIP-14
+
+ $$ \frac{3^{8}-5\cdot3^{6}}{3^{n}}=36 $$ 
+
+esitliğini sağlayan n gerçel sayısı kaçtır?
+
+A) 2 B) 3 C) 4 D) 5 E) 6
+
+ $$ \frac{2^{6}+2^{8}+2^{10}}{8^{3}-8^{2}} $$ 
+
+işleminin sonucu kaçtır?
+
+A) 3 B) 4 C) 6 D) 7 E) 9
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
+
+ $$ \frac{2^{-2}}{4^{-1}+\frac{1}{m^{-1}}}=13^{-1} $$ 
+
+olduğuna göre, m kaçtir?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="6"&gt;işleminin sonucu kaçtır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 25&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 125&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 250&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 500&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 750&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6"&gt;TİP - 18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6"&gt;$ 9^{{x}} = 2 $&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6"&gt;olduğuna göre,  $ 18^{\frac{{3}}{{x+1}}} $ kaçtır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)  $ 3^{{2}} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)  $ 3^{{3}} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)  $ 3^{{5}} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)  $ 3^{{6}} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)  $ 3^{{8}} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-19&lt;/div&gt; &lt;/div&gt;
+
+ $$ 3^{x}=4^{y}=5^{z} $$ 
+
+olduğuna göre,  $ 3^{\frac{x}{y}} + 4^{\frac{y}{z}} $ toplamının sonucu kaçtır?
+
+A) 3 B) 6 C) 9 D) 12 E) 15
+
+#### Tip-20
+
+Birinci adında 9 sayısının karesini alan Deren, bu adım sonunda 9² sayısını elde ediyor. Deren, bundan sonraki her bir adımda, bir önceki adım sonunda elde ettiği sayının karesini alarak yeni bir sayı elde ediyor.
+
+Buna göre, Deren kaçıncı adım sonunda 81 $ ^{64} $ sayısını elde eder?
+
+A) 5 B) 6 C) 7 D) 8 E) 9
+
+##### TIP-21
+
+Internet üzerinden yapılan 6 turluk bir yarışmanın ilk turuna 1.000.000 yarışmacı katılıyor. Her turun sonunda, o tura katılan yarışmacıların 5'te 1'i eleniyor ve sadece kalan yarışmacıların tamamı bir sonraki tura katılıyor.
+
+Buna göre, 6. turun sonunda kalan yarışmacı sayısı kaçtır?
+
+A)  $ 2^{16} $ B)  $ 2^{18} $ C)  $ 2^{20} $ D)  $ 2^{22} $ E)  $ 2^{24} $
+
+#### TIP-22
+
+İki mercekle çalışan mikroskoplar; nesnelerin görüntüsünü, merceklerin büyütme oranlarının çarpımı kadar büyük gösterir.
+
+Örneğin merceklerinden birinin büyütme oranı 4 kat, diğerinin büyütme oranı ise 25 kat olan iki mercekle çalışan bir mikroskop, bakılan nesnenin görüntüsünü 100 kat büyük gösterir.
+
+Büyükluğü 6,25 x 10^{-4} mm olan bir nesnenin görüntüsü, büyükme oranları 8 kat ve 50 kat olan iki mercekli bir mikroskopta kaç mm görünür?
+
+A) 0,12 B) 0,25 C) 1 D) 5 E) 10
+
+Bir televizyon kanalında yayımlanan kamu spotu aşağıda gösterilmiştir.
+
+![Şekil/Grafik/Soru](images/image53.jpg)
+
+Bu kamu spotuna göre, kaç tane sigara paketine verilen para yerine yardım yapılırsa Türkiye'deki 81 ilin her birine 1 hastane yapılabilir?
+
+A)  $ 50^{4} $ B)  $ 75^{3} $ C)  $ 90^{6} $ D)  $ 150^{3} $ E)  $ 180^{2} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-24&lt;/div&gt; &lt;/div&gt;
+
+Eline bir oyun hamuru alan Burak, şekilde gösterildiği gibi her adında elindeki her bir oyun hamurunu 2 parçaya ayırıyor ve 3. adım sonunda 8 parça oyun hamuru elde ediyor.
+
+![Şekil/Grafik/Soru](images/image54.jpg)
+
+Burak başlangıçtan itibaren her adında, elindeki her bir oyun hamurunu 2 parçaya ayırarak 6. adım sonunda duruyor.
+
+Buna göre, bu oyunun  $ \underline{\text{son}} $ üç adımında elde edilen toplam oyun hamurunun  $ \underline{\text{ilk}} $ üç adımda elde edilen toplam oyun hamuru sayısına oranı kaçtir?
+
+A) 2 B) 4 C) 8 D) 16 E) 32
+
+## yarqi yayinevi
+
+Tanim: n &gt; 1 doğal sayı a =  $ \sqrt{x} $ şeklindeki ifadelerdir.
+
+Örnek:  $ \sqrt[2]{2} $,  $ \sqrt[3]{3} $
+
+ $$ \sqrt{0}=0 $$ 
+
+ $$ \sqrt{36}=6 $$ 
+
+ $$ \sqrt{1}=1 $$ 
+
+ $$ \sqrt{49}=7 $$ 
+
+ $$ \sqrt{4}=2 $$ 
+
+ $$ \sqrt{144}=12 $$ 
+
+ $$ \sqrt{169}=13 $$ 
+
+ $$ \sqrt{64}=8 $$ 
+
+ $$ \sqrt{9}=3 $$ 
+
+ $$ \sqrt{196}=14 $$ 
+
+ $$ \sqrt{81}=9 $$ 
+
+ $$ \sqrt{16}=4 $$ 
+
+ $$ \sqrt{100}=10 $$ 
+
+ $$ \sqrt{225}=15 $$ 
+
+ $$ \sqrt{25}=5 $$ 
+
+ $$ \sqrt{121}=11 $$ 
+
+Özellikler
+
+1)  $ \sqrt[n]{x} = \begin{cases} x \text{ reel} \text{ sayi}, &amp; n \text{ tek ise} \\ x \geq 0, &amp; n \text{ çift ise} \end{cases} $
+
+Örnek:  $ \sqrt[3]{-8} = \sqrt[3]{(-2)^3} = -2 $ Örnek:  $ \sqrt[2]{-4} \to bu $ şekilde olmaz. Örnek:  $ \sqrt{(-2)^2} = |-2| = 2 $
+
+TẬP - 1
+
+ $$ \sqrt{x-3} $$ 
+
+ifadesinin sonucu reel sayı belirttiğine göre x'in çözüm aralığı nedir?
+
+A) x ≥ 3
+
+B) x &gt; 3
+
+C) 17 &gt; x &gt; 1
+
+D) x &gt; 10
+
+E) x &gt; -3
+
+TiP - 2
+
+ $$ \sqrt{x-2}+\sqrt{7-x}+\sqrt[3]{x-5} $$ 
+
+ifadesinin sonucu reel sayı belirttiğine göre x'in alabileceği farklı doğal sayıların toplamı kaçtır?
+
+A) 23 B) 25 C) 27 D) 24 E) 30
+
+#### TIP-3
+
+ $$ \frac{\sqrt[4]{x-1}+\sqrt[6]{5-x}}{\sqrt[3]{x-4}} $$ 
+
+ifadesinin sonucu reel sayı belirttiğine göre, x kaç farklı tam sayı değerini alır?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+#### TIP-4
+
+ $$ \frac{\sqrt{x-2}+\sqrt{4-2x}+3x+5}{x+4} $$ 
+
+ifadesinin sonucu reel sayı belirttiğine göre işlemin sonucu kaçtır?
+
+A)  $ \frac{10}{3} $ B)  $ \frac{11}{6} $ C) 2 D) 3 E) 4
+
+2)  $ \sqrt[n]{x^n} = \begin{cases} x, &amp; n \text{ tek sayi ise} \\ |x|, &amp; n \text{ çift sayi ise} \end{cases} $
+
+Örnek:  $ \sqrt[3]{-8} = \sqrt[3]{(-2)^3} = -2 $
+
+Örnek:
+
+Örnek:
+
+ $$ \sqrt{(-2)^{2}}=|-2|=2 $$ 
+
+Örnek:
+
+ $$ \sqrt{(-4)^{2}}=|-4|=4 $$ 
+
+Örnek:  $ \sqrt{(x-y)^2} = |x-y| $
+
+ $$ \sqrt{x^{2}}=|\boldsymbol{x}| $$ 
+
+TIP-5
+
+ $$ \sqrt[3]{-27}-\sqrt{\left(-4\right)^{2}}+\sqrt{\left(-5\right)^{4}}-2\cdot\sqrt[3]{-8} $$ 
+
+işleminin sonucu kaçtır?
+
+A) 20 B) 21 C) 22 D) 23 E) 24
+
+TIP-6
+
+ $$ \sqrt{i}\sqrt[n]{\sim\sqrt[4]{-3\sqrt{8}}} $$ 
+
+işleminin sonucu kaçtır?
+
+A) 5 B) $2\sqrt{3}$ C) $5-2\sqrt{3}$
+
+D) $5-\sqrt{3}$ E) $\sqrt{3}$
+
+##### TIP-7
+
+x &lt; 0 &lt; y olmak üzere
+
+ $$ \sqrt{(x-y)^{2}}+\sqrt{x^{2}}-\sqrt[3]{y^{3}}+x $$ 
+
+ifadesinin sonucu nedir?
+
+A) x B) -x C) x + y D) 2x E) x - y
+
+#### 3)

@@ -1,194 +1,14 @@
-# 2026 KPSS Matematik: Faktöriyel Kavramı ve Sadeleştirme Taktikleri
+# 2026 KPSS Matematik: Faktöriyel Kavramı ve Sadeleştirmeler
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-B) 14 C) 28 D) 32 E) 36
+faktöriyel denir ve "n!" şeklinde gösterilir.
 
-#### TIP-5
+ $ 1\cdot2\cdot3\cdot4\cdots n=n! $
 
-a ve b tam sayıdır.
-
-a  $ \cdot $ b = 12
-
-olduġuna għoré, a + b toplaminn  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değerinin toplamı kaçtir?
-
-A) 20 B) 17 C) 10 D) 5 E) 0
-
-#### TIP-6
-
-a, b ve c tam sayıdır.
-
- $ a \cdot b = 12 $
-
- $ b \cdot c = 16 $
-
-olduğuna göre, a + b + c toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
-
-A) - 29 B) -25 C) 20 D) 27 E) 29
-
-#### tip-7
-
-a, b ve c negatif tam sayilardır.
-
- $ \frac{a}{b}=\frac{2}{3} $ ,  $ \frac{b}{c}=\frac{4}{5} $
-
-olduğuna göre, a + b + c toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
-
-A) - 20 B) -27 C) -30 D) -35 E) -42
-
-#### tip-8
-
-a, b ve c sifirdan farklı doğal sayılardır.
-
-2a = 3b
-
-4b = 5c
-
-olduğuna göre, a + b + c toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
-
-A) 17 B) 25 C) 30 D) 32 E) 33
-
-##### TIP-9
-
-a, b, c ve d doğal sayılardır.
-
- $ a - b = 1 $
-
-b - c = 2
-
-c - d = 3
-
-olduğuna göre, a + b + c + d toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
-
-A) 10 B) 12 C) 14 D) 16 E) 18
-
-#### Tip-10
-
-a, b ve c tam sayilardır.
-
-a - b = c
-
-oluguna göre, 3a + b + c toplamının sonucu aşağıdakilerden hangisi olabilir?
-
-A) 11 B) 17 C) 22 D) 26 E) 36
-
-#### Tip-11
-
-a, b ve c farklı doğal sayılardır.
-
-3a + 2b + c = 47
-
-denklemini sağlayan  $ \underline{\text{en büyük}} $ b sayısı kaçtır?
-
-A) 20 B) 21 C) 22 D) 23 E) 24
-
-##### Tip-12
-
-a ve b doğal sayılardır.
-
-3a + 5b = 25
-
-denklemini sağlayan kaç farklı b sayısı vardır?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
-##### TIP-13
-
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;a ve b pozitif tam sayıdır.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;2a + 3b = 20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;denklemini sağlayan kaç farklı (a, b) ikilisi vardır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-TIP-14
-
-a ve b doğal sayıdır.
-
-2a + 5b = 47
-
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;denklemini sağlayan kaç farklı (a, b) ikilisi vardır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-15&lt;/div&gt; &lt;/div&gt;
-
-x tam sayıdır.
-
- $$ \begin{array}{r} x+8 \\ \times \quad 8 \\ \hline x \end{array} $$ 
-
-ifadesini tam sayı yapan kaç farklı x değeri vardır?
-
-A) 4 B) 6 C) 8 D) 10 E) 12
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-16&lt;/div&gt; &lt;/div&gt;
-
-x tam sayıdır.
-
- $$ \frac{x+7}{x+1} $$ 
-
-ifadesini tam sayı yapan kaç farklı x değeri vardır?
-
-A) 4 B) 5 C) 6 D) 7 E) 8
-
-##### TIP-17
-
-x tam sayıdır.
-
- $$ \frac{2x-7}{x-2} $$ 
-
-ifadesini tam sayı yapan kaç farklı x tam sayı değeri vardır?
-
-A) 4 B) 5 C) 6 D) 7 E) 8
-
-TiP-18
-
-![Şekil/Grafik/Soru](images/image3.jpg)
-
-işleminin sonucu kaçtır?
-
-A) 6128 B) 6348 C) 6928
-
-D) 7038 E) 7638
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-19&lt;/div&gt; &lt;/div&gt;
-
-Aşağıdaki şekilde bir rafi tamamen dolduran ve her birinin kalınlığı tam sayı cinsinden a, b ve c olan A, B ve C kitaplarının görünmü verilmiştir.
-
-![Şekil/Grafik/Soru](images/image4.jpg)
-
-Buna göre, a + b + c toplamı aşağıdakilerden hangisi olabilir?
-
-A) 11 B) 16 C) 18 D) 26 E) 30
-
-#### TIP-20
-
-Aşağıda Şekil-I'de her bir silginin fiyati 5 TL olan x tane silgi ve Şekil-II'de her bir silginin fiyati 3 TL olan y tane silgi bulunan iki farklı kutunun görünümü verilmiştir.
-
-![Şekil/Grafik/Soru](images/image5.jpg)
-
-![Şekil/Grafik/Soru](images/image6.jpg)
-
-Bu iki kutu silgiden birer tane alan Kerem toplam 160 TL para ödüyor.
-
-Buna göre, x + y toplamı kaç farklı değer alır?
-
-A) 8 B) 9 C) 10 D) 11 E) 12
-
-## yarqi yayinevi
-
-Tek ve Çift Sayılar
-
-2 nin katı olan tam sayılara çift sayı, 2 nin katı olmayan tam sayılara tek sayı denir.
-
- $$ \mathcal{C}=\mathcal{C}\mathrm{i f}t\mathrm{s a y}i=\{\ldots,-4,-2,0,2,4,\ldots,2n,\ldots\} $$ 
-
- $$ \mathsf{T}=\mathsf{T e k}\ \mathsf{S a y i}=\{...,-3,-1,1,3,...,2n-1,...\} $$ 
-
- $$ \begin{align*}\begin{array}{l}T\pm T=\mathbb{C}\\T\pm\mathbb{C}=T\\\mathbb{C}\pm\mathbb{C}=\mathbb{C}\end{array}\end{align*} $$ 
-
- $$ \begin{array}{c}\mathsf{T}\cdot\mathsf{T}=\mathsf{T}\\\mathsf{T}\cdot\mathsf{C}=\mathsf{C}\\\mathsf{C}\cdot\mathsf{C}=\mathsf{C}\end{array} $$ 
-
-♢  $ \underbrace{\text{T}\cdot\text{T}\cdot\text{T}\ldots\text{T}}_{\text{n tane}} = \text{T}^n = \text{T} $ (n doğal sayı)
-
- $ \underbrace{\complement_{\mathbb{C}}\cdot\complement_{\mathbb{C}}\cdot\underbrace{\complement}_{\mathrm{n t a n e}}}_{\mathrm{n t a n e}} = \complement^{\mathrm{n}} = \complement $ (n pozitif doğal sayı)
-
-◇ 0!=1
+1.  $ 0! = 1 $
 
 1! = 1
 
@@ -196,212 +16,576 @@ Tek ve Çift Sayılar
 
 3! = 6
 
-##### TIP-1
+4! = 24
 
-I.  $ 8^{17} + 7^{15} $ II.  $ 17^{0} + 5^{3} $ III.  $ 16^{12} - 14^{2} $ IV.  $ 7^{-3} + 5^{6} $ V. 0! + 17! VI. 17! + 18!
+5! = 120
 
-Yukarida verilen ifadelerden kaç tanesi tek sayıdır?
+5! den sonraki tüm sayilarin sonunda sifir vardır.
 
-A) 2 B) 3 C) 4 D) 5 E) 6
+n! = n(n - 1)(n - 2) ... 1
 
-TIP-2
+II.  $ n! = n(n - 1)! $
 
-a tek, b ve c çift sayıdır.
+ $ 10! = 10 \cdot 9! = 10 \cdot 9 \cdot 8! $
 
-tek, b ve c qnt sayul
+ $ (2n + 1)! = (2n + 1) \cdot (2n)! $
 
-1. $2a+3b+c$
+ $ (2n)! = 2n \cdot (2n - 1)! $
 
-II. $3ab+c$
+#### Tip-1
 
-III. $a+b$
+ $$ 0!+1!+2!+\ldots+99! $$ 
 
-IV. $a^{b}$
+sayisinin birler basamağindaki rakam kaçtir?
 
-V. $(b+c)^{a}$
+A) 0 B) 1 C) 2 D) 3 E) 4
 
-ifadelerinden kaç tanesi  $ \underline{\text{her zaman}} $ çift sayıdır?
+TİP - 2
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+ $$ \frac{8!+7!}{6!} $$ 
 
-a, b ve c doğal sayılardır.
+ifadesinin sonucu kaçtır?
 
- $$ \frac{2a+b}{4}=c $$ 
+A) 56 B) 63 C) 70 D) 72 E) 80
 
-olduğuna göre, aşağıdakilerden hangisi  $ \underline{\text{kesinlikle}} $ doğrudur?
+tip-3
 
-A) a çift sayıdır. B) b çift sayıdır. C) c tek sayıdır.
+$\frac{10!+9!}{10!-9!}$
 
-D) c çift sayıdır. E) a + c çift sayıdır.
+ifadesinin sonucu kaçtır?
 
-#### Tip-4
+A) $\frac{11}{9}$ B) $\frac{10}{9}$ C) $\frac{8}{9}$ D) $\frac{7}{9}$ E) $\frac{5}{9}$
 
-a, b ve c tam sayilardır.
+TIP-4
 
-a·b + a·c = 27
+ $$ \frac{4!^{2}-3!^{2}}{4!^{2}+3!^{2}} $$ 
 
-oldu $ \underset{\cdot}{g} $una g $ \underset{\cdot}{o} $re, a $ \underset{\cdot}{s} $a $ \underset{\cdot}{g} $idakilerden hangisi  $ \underline{\text{her zaman}} $ do $ \underset{\cdot}{g} $rudur?
+işleminin sonucu kaçtır?
 
-A) a  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. B) b  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. C) c tek say $ \underset{\cdot}{i} $dr.
+A) $\frac{13}{17}$ B) $\frac{15}{17}$ C) $\frac{16}{17}$ D) $1$ E) $2$
 
-D) b·c  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. E) b + c  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr.
+#### tip-5
 
-#### Tip-5
+$$\frac{(n+1)!}{n!}+\frac{(n-2)!}{(n-3)!}=27\text{ise }n\text{kactir?}$$
 
-17 tane tam sayının toplamı tek sayı ise bu sayılardan  $ \underline{\text{en çok}} $ kaç tanesi çifttir?
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-A) 13 B) 14 C) 15 D) 16 E) 17
+#### TIP-6
 
- $$ x^{2}+5 $$ 
+ $$ \frac{(n-3)!+(5-n)!}{(3-n)!+(7-n)!} $$ 
 
-ifadesinin sonucu tek sayı ise aşağıdakilerden hangisi daima çifttir?
+ifadesinin sonucu kaçtır?
 
-A)  $ x + 7 $ B)  $ x^{3} + 4 $ C)  $ x^{5} + 1 $ D)  $ x^{4} + 6 $ E)  $ x^{9} - 4 $
+A) $\frac{1}{25}$ B) $\frac{2}{25}$ C) $\frac{3}{25}$ D) $\frac{4}{25}$ E) $\frac{6}{25}$
 
-#### Pozitif - Negatif Sayilar
+#### TIP-7
 
-Pozitif sayıların tüm kuvvetleri pozitiftir.
+47!
 
-Negatif sayıların tek kuvvetleri negatif, çift kuvvetleri pozitiftir.
+sayisinin sondan kaç basamağı sifirdir?
 
-* İşaret sorularında çift kuvvetli ifadeler sorudan atılır çünkü ifadenin işareti bilinmez, tek kuvvetli ifadelerin de kuvvetleri silinir.
+A) 8 B) 9 C) 10 D) 11 E) 12
 
-##### tip-7
-
-x, y ve z reel sayılardır.
-
- $$ x^{4}\cdot y^{5}\cdot z&lt;0 $$ 
-
- $$ x^{3}\cdot y^{4}&gt;0 $$ 
-
- $$ x\cdot z&lt;0 $$ 
-
-olduğuna göre x, y ve z nin işaretleri sırasıyla aşağıdakilerden hangisidir?
-
-A) +,-, -
-
-B) +,+, -
-
-C) -, +,-
-
-D) -, -, +
-
-E) +, +, +
+x! sayisinin sonundaki sifir sayisini bulmak için ya da x! - 1 sayisinin sonundaki dokuz sayısını bulmak için faktöriyeli sürekli sürekli 5'e böl.
 
 #### Tip-8
 
-a, b ve c sifirdan farklı doğal sayılardır.
+40! - 1
 
-I.  $ a^{2} + b^{2} + c^{2} $
+1) Sayılar ardışık ise çarpım durumuna getirilip içindeki tüm 5 sayısına bakılır.
 
-II.  $ (a+b)^{2} + c^{2} $
+sayısının sondan kaç basamağı dokuzdur?
 
-III.  $ a^{8} - b^{8} + c^{4} $
+A) 6 B) 7 C) 8 D) 9 E) 10
 
-ifadelerinden hangilerinin sonucu sifir olabilir?
+II) Sayılar ardışık değilse küçük sayıya bakilir.
 
-A) Yalnız I B) Yalnız III C) I ve II
+x! + y! sayisinin sonundaki sifir sayisini bulmak için;
 
-D) II ve III E) I, II ve III
+#### NOT
 
-##### Tip-9
+![Şekil/Grafik/Soru](images/image15.jpg)
 
-a ve b tam sayıdır.
+#### tip-9
 
- $$ 2a+3b=27 $$ 
+47! + 63!
 
-#### olduğuna göre,
+sayisinin sondan kaç basamağı sifirdir?
 
-1. a çift sayıdır.
+A) 10 B) 14 C) 18 D) 20 E) 24
 
-II. b tek sayıdır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-10&lt;/div&gt; &lt;/div&gt;
 
-III.  $ a \cdot b \geq 0 $ dir.
+23! + 24!
 
-#### ifadelerinden hangileri  $ \underline{\text{daima}} $ doğrudur?
+toplaminin sondan kaç basamağı sifirdir?
 
-A) Yalnız I B) Yalnız II C) Yalnız III
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-D) I ve II E) I ve III
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-11&lt;/div&gt; &lt;/div&gt;
 
-TIP-10
+47!-123
 
-a, b ve c birer tam sayı olmak üzere,
+sayisinin sondan beş basamağindaki rakamlar toplamı kaçtir?
 
- $ a + \frac{b}{c} $
+A) 37 B) 38 C) 39 D) 40 E) 41
 
-ifadesi bir tek tam sayıdır.
+#### Tip-12
 
-a çift tam sayı olduğunu göre,
+x, y ve A doğal sayıdır.
 
-1. a. b + c
+27! = 3^{x} \cdot 2^{y} \cdot A
 
-II. a + b + c
+ifadesinde x + y toplaminin alabilecegi  $ \underline{\text{en büyük}} $ değer kaçtır?
 
-III. a + b.c
+A) 36 B) 37 C) 38 D) 39 E) 40
 
-ifadelerinden hangileri  $ \underline{\text{her zaman}} $ çift sayıdır?
+#### TIP-13
 
-A) Yalnız I B) Yalnız II C) Yalnız III
+x ve A doğal sayılardır.
 
-D) I ve II E) II ve III
+23!=6^{x}\cdot A
 
-#### Tip-11
+ifadesinde x'in alabilecegi kaç farklı değer vardır?
 
-a, b ve c pozitif tam sayılar olmak üzere,
+A) 10 B) 9 C) 8 D) 7 E) 6
 
-a + a. b + a. b. c
+#### TIP-14
 
-ifadesı tek sayıdır.
+n ve A doğal sayılardır.
 
-Buna göre,
+17!=8^{n}\cdot A
 
-1. a
+ifadesinde n'in alabilecegi  $ \underline{\text{en büyük}} $ değer kaçtır?
 
-II. a + b. c
+A) 3 B) 4 C) 5 D) 6 E) 7
 
-III. b + b. c
+#### Tip-15
 
-ifadelerinden hangileri  $ \underline{\text{her zaman}} $ çifttir?
+n ve A doğal sayılardır.
 
-A) Yalnız I B) Yalnız II C) Yalnız III
+ $$ 22!=12^{n}\cdot A $$ 
 
-D) I ve II E) II ve III
+ifadesinde n'in alabilecegi  $ \underline{\text{en büyük}} $ değer kaçtır?
 
-TiP-12
+A) 5 B) 6 C) 7 D) 8 E) 9
 
-a, b ve c pozitif tam sayılar olmak üzere a . b + c ifadesinin bir çift sayıya, a + b . c ifadesinin bir tek tam sayıya eşit olduğu biliniyor.
+#### TIP-16
 
-Buna göre,
+n doğal sayı
 
-1.  $ b^{a} + c^{b} $
+17!
 
-II. a, b, c
+2^{n}
 
-III.  $ a + b + c $
+ifadesinin sonucu çift tam sayı ise n'in alabileceği  $ \underline{\text{en büyük}} $ değer kaçtır?
 
-ifadelerinden hangileri birer çift sayıya eşittir?
+A) 13 B) 14 C) 15 D) 16 E) 17
 
-A) Yalnız I B) Yalnız II C) I ve II
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-17&lt;/div&gt; &lt;/div&gt;
 
-D) II ve III E) I, II ve III
+8·8!-7!=63·(x-2)!
 
-##### Tip-13
+olduğuna göre x kaçtır?
 
-1'den 7'ye kadar numaralandırılmış toplar bir torbaya atılıyor. Bu torbadan Alper 3 top, Hatice 2 top alıyor. Alper elindeki toplara bakarak Hatice'ye şunu söylüyor: "Senin elindeki topların toplamı çifttir."
+A) 6 B) 7 C) 8 D) 9 E) 10
 
-Buna göre, Alper'in elindeki topların toplamı kaçtır?
+#### tip-18
 
-A) 12 B) 16 C) 18 D) 19 E) 20
+a ve b doğal sayılardır.
 
-#### tip-14
+a! = 6 ⋅ b!
 
-On katlı bir apartmanın ardışık numaralı her iki katı arasında eşit sayıda merdiven basamağı bulunmaktadır. Bu apartmanın farklı katlarında oturan Arda, Burak ve Cem'in oturdukları katlarla ilgili aşağıdakiler bilinmektedir.
+esitliğini sağlayan kaç farklı (a,b) ikilisi vardır?
 
-- Arda'nın oturduğu kat ile Burak'ın oturduğu kat arasındaki toplam basamak sayısı çifttir.
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-Burak'ın oturduğu kat ile Cem'in oturduğu kat arasındaki toplam basamak sayısı tektir.
+##### TIP-19
 
-Buna göre Arda, Burak ve Cem'in oturdukları katların numaraları aşağıdakilerden hangisi olabilir?
+111
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Arda&lt;/td&gt;&
+sayısı  $ \underline{\text{en küçük}} $ hangi pozitif tam sayı ile çarpılırsa sonuç bir tam sayının karesi olur?
+
+A) 7 B) 11 C) 33 D) 66 E) 77
+
+#### TIP-20
+
+x!
+
+sayısının sondan 6 ardışık basamağındaki sayılar sifir ise x kaç farklı değer alır?
+
+A) 2 B) 3 C) 4 D) 5 E) 6
+
+#### TIP-21
+
+Bir proje kapsamında deprem bölgesinde bulunan 13 ilde konutlar yapılacaktır. Bu 13 ilin her birinin 11 ilçesine, her bir ilçede her katında 4 daire bulunan 21 katlı 30 konut yapılacaktır.
+
+Buna göre, bu proje kapsamında yapılan toplam daire sayısı kaçtır?
+
+A)  $ \frac{13!}{10!} $ B)  $ \frac{14!}{10!} $ C)  $ \frac{14!}{9!} $ D)  $ \frac{15!}{10!} $ E)  $ \frac{15!}{9!} $
+
+## yarqi yayinevi
+
+Bir doğal sayının rakamlarının bulunduğu yere basamak denir.
+
+Rakamların bulunduğu basamaklara göre aldığı değere basamak değeri denir.
+
+Her rakamin kaç birlikten meydana geldiğini gösteren değere de bu rakamin sayı değeri denir.
+
+2214 Basamak Basamak Değeri Sayı Değeri
+
+10^{0} = birler  $ \longrightarrow $ 4  $ \cdot $ 1 = 4  $ \longrightarrow $ 4
+
+10^{1} = onlar  $ \longrightarrow $ 1  $ \cdot $ 10 = 10  $ \longrightarrow $ 1
+
+10^{2} = yüzler  $ \longrightarrow $ 2  $ \cdot $ 100 = 200  $ \longrightarrow $ 2
+
+10^{3} = binler  $ \longrightarrow $ 2  $ \cdot $ 1000 = 2000  $ \longrightarrow $ 2
+
+ $ ^{*}ab = 10a + b $
+
+* abc = 100a + 10b + c
+
+abcd = 1000a + 100b + 10c + d
+
+ $ ^{*}ab + ba = 11 (a + b) $
+
+*ab - ba = 9 (a - b)
+
+#### tip-1
+
+Dört farklı doğal sayının toplamı 120 ise bu sayılardan  $ \underline{\text{en büyükü en çok}} $ kaçtır?
+
+A) 117 B) 116 C) 115 D) 90 E) 87
+
+tip-2
+
+Beş tane iki basamaklı doğal sayının toplamı 430 ise bu sayılardan  $ \underline{\text{en küçüğü}} $  $ \underline{\text{en az}} $ kaçtir?
+
+A) 30 B) 34 C) 40 D) 42 E) 50
+
+Tip-3
+
+iki basamaklı üç farklı doğal sayının toplamının alabileceği kaç farklı değer vardır?
+
+A) 200 B) 249 C) 260 D) 262 E) 270
+
+#### Tip-4
+
+iki basamaklı rakamları farklı dört farklı doğal sayının toplamı 112 ise bu sayılardan  $ \underline{\text{en büyüğü}} $  $ \underline{\text{en çok}} $ kaçtır?
+
+A) 47 B) 75 C) 76 D) 77 E) 78
+
+Tip-5
+
+iki tanesi 20 den büyük dört farklı doğal sayının toplamı 80 ise bu sayılardan  $ \underline{\text{en büyüğü}} $  $ \underline{\text{en çok}} $ kaçtır?
+
+A) 55 B) 56 C) 57 D) 58 E) 59
+
+Dört farklı doğal sayının toplamı 43 ise bu sayılardan  $ \underline{\text{en küçüğü en çok kaçtır}} $?
+
+A) 9 B) 10 C) 11 D) 12 E) 13
+
+TIP-6
+
+tip-7
+
+Beş farklı doğal sayının toplamı 100 ise bu sayılardan  $ \underline{\text{en büyükü}} $ en az kaçtır?
+
+A) 18 B) 19 C) 20 D) 21 E) 22
+
+TİP - 8
+
+rakamları birer kez kullanılarak yazilabilecek üç basamaklı rakamları
+
+farklı üç farklı doğal sayının toplamı  $ \underline{\text{en çok}} $ kaçtır?
+
+A) 1756 B) 1985 C) 2556
+
+D) 2700 E) 2786
+
+0,1,2,...,9
+
+#### Tip-9
+
+ab ve ba iki basamaklı doğal sayılardır.
+
+ab + ba = 44
+
+denklemini sağlayan kaç farklı ab sayısı vardır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+abc ve cba üç basamaklı doğal sayılardır.
+
+abc - cba = 297
+
+denklemini sağlayan kaç farklı abc sayısı vardır?
+
+A) 6 B) 10 C) 20 D) 46 E) 60
+
+#### TIP-11
+
+İki basamaklı bir doğal sayının rakamları yer değiştirildiğinde sayı 36 küçülüyor.
+
+Buna göre, bu koşula uyan kaç farklı sayı vardır?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+#### TIP-12
+
+abc üç basamaklı doğal sayı, x reel sayıdır.
+
+ $ a \cdot x = 1,5 $
+
+ $ b \cdot x = 2,6 $
+
+ $ c \cdot x = 12 $
+
+olduğuna göre (abc) · x ifadesinin değeri kaçtır?
+
+A) 150 B) 168 C) 178 D) 188 E) 196
+
+#### TIP-13
+
+ab ve cd iki basamaklı doğal sayılardır.
+
+ab · cd çarpımında a sayısı 2 azaltılıp, c sayısı 2 artırılırsa çarpımının sonucu 200 azalıyor.
+
+Buna göre, ab – cd kaçtır?
+
+A) 10 B) 15 C) 20 D) 25 E) 30
+
+#### Tip-14
+
+Tersten yazılışları ve okunuşları olan sayılara "palindromal sayı" denir. Örneğin; 101, 2112, ...
+
+Bu tanıma uyan üç basamaklı kaç farklı palindromal doğal sayı vardır?
+
+A) 100 B) 90 C) 80 D) 70 E) 60
+
+#### Tip-15
+
+Birler basamağı A olan iki basamaklı tüm farklı doğal sayıların toplamı 495 ise A kaçtır?
+
+A) 11 B) 9 C) 7 D) 5 E) 3
+
+#### MATEMATIK
+
+#### Tip-16
+
+ab iki basamaklı doğal sayısı rakamları toplamının x+1 katı, ba iki basamaklı doğal sayısı rakamları toplamının x katı olduğunu göre, x kaçtır?
+
+A) 8 B) 7 C) 6 D) 5 E) 4
+
+#### TIP-17
+
+AB ve CB iki basamaklı, DDD üç basamaklı doğal sayılardır.
+
+AB · CB = DDD
+
+olduğuna göre, A + B + C + D toplamı kaçtir?
+
+A) 19 B) 20 C) 21 D) 22 E) 23
+
+Bir doğal sayının karesi olan abc üç basamaklı sayısının rakamları birer artırıldığında oluşan sayı yine başka bir doğal sayının karesi oluyor.
+
+Buna göre, a + b + c toplamı kaçtır?
+
+A) 15 B) 16 C) 17 D) 18 E) 19
+
+#### Tip-18
+
+#### tip-19
+
+A, B ve C birer rakam olmak üzere,
+
+AB5
+
++ CAB
+
+1008
+
+Buna göre, A + B + C toplamı kaçtır?
+
+A) 9 B) 10 C) 11 D) 12
+
+toplama işlemi veriliyor.
+
+#### TIP-20
+
+A, B ve C birer rakam olmak üzere,
+
+ $$ \begin{aligned}A&amp;2B\\-&amp;C A4\\&amp;B38\end{aligned} $$ 
+
+olduğuna göre, A + B + C toplamı kaçtir?
+
+A) 13 B) 14 C) 15 D) 16 E) 17
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-21&lt;/div&gt; &lt;/div&gt;
+
+ab iki basamaklı, cde üç basamaklı doğal sayılardır.
+
+ $$ \begin{aligned}&amp;\underline{x\quad a b}\\&amp;\underline{c d e}\\&amp;+---\\&amp;\underline{4212}\end{aligned} $$ 
+
+olduġuna gõre, a + b + c + d + e toplami kaċtir?
+
+A) 18 B) 19 C) 20 D) 21 E) 22
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
+
+ab iki basamaklı bir doğal sayıdır.
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;a b&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x 37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;---&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+ --&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;200&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+Yukaridaki çarpma işleminde basamaklar alt alta gelecek biçimde hatalı yazılarak sonuç 200 bulunmuştur.
+
+Buna göre, işlemin doğru sonucu kaçtır?
+
+A) 520 B) 600 C) 640 D) 740 E) 860
+
+##### Tip-23
+
+Ela abc üç basamaklı doğal sayısı ile 42 sayısını aşağıdaki gibi yanlaşarıyor.
+
+![Şekil/Grafik/Soru](images/image16.jpg)
+
+Ela, çarpma işlemi yaparken işlemin ikinci satırındaki sayının yüzler basamağını yanlışlıkla birinci satırdaki sayının onlar basamağının altına gelecek şekilde yukarıdaki gibi yazıyor.
+
+Buna göre, a + b + c toplamı kaçtır?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+#### Tip-24
+
+a, b ve c rakamdır.
+
+Buna göre, a &lt; b &lt; c koşulunu sağlayan kaç farklı cba üç basamaklı doğal sayısı vardır?
+
+A) 196 B) 120 C) 105 D) 100 E) 96
+
+#### Tip-25
+
+Rakamlari birbirinden farklı dört basamaklı bir doğal sayının, birler basamağındaki rakam diğer basamaklarında bulunan rakamların toplamına eşitse bu sayıya etkileşimli sayı denir.
+
+Örneğin; 1236 sayısında 6 = 1 + 2 + 3 olduğunudan 1236 bir etkileşimli sayıdır.
+
+Buna göre,  $ \underline{\text{en büyük}} $ etkileşimli sayı ile  $ \underline{\text{en küçük}} $ etkileşimli sayının farkı kaçtır?
+
+A) 5034 B) 5916 C) 6086 D) 7086 E) 8826
+
+#### TIP-26
+
+ABC üç basamaklı ve AC iki basamaklı doğal sayılar olmak üzere,
+
+ABC = 11 · AC
+
+eşitliğini sağlayan üç basamaklı ABC sayılarına ayrışık sayı denir. Örneğin;
+
+132 = 11 12
+
+olduğundan, 132 bir ayrıışık sayıdır.
+
+ABA bir ayrıışık sayı olduğunu göre, A rakamının alabileceği farklı değerlerin toplamı kaçtır?
+
+A) 3 B) 6 C) 10 D) 15 E) 21
+
+#### TIP-27
+
+Furkan, beşer yıl arayla boyunu duvarın hizasında ölçüyor ve duvara şekildeki gibi işaretleyip santimetre cinsinden üç basamaklı doğal sayılar olarak yazıyor.
+
+![Şekil/Grafik/Soru](images/image17.jpg)
+
+Furkan'ın boyunun ilk beş yıl 36 cm, ikinci beş yıl 40 cm uzadığı biliniyor.
+
+A, B ve C sifirdan farklı rakamlar olduğuna göre, A + B + C toplamı kaçtir?
+
+A) 15 B) 14 C) 13 D) 11 E) 10
+
+## yarqi yayinevi
+
+Tanim: x, 1'den büyük tam sayı olmak üzere;
+
+ $$ \mathbf{e})_{x}=\mathbf{a}\cdot\mathbf{x}^{2}+\mathbf{b}\cdot\mathbf{x}^{1}+\mathbf{c}\cdot\mathbf{x}^{0}+\mathbf{d}\cdot\mathbf{x}^{-1}+\mathbf{e}\cdot\mathbf{x}^{-2} $$ 
+
+![Şekil/Grafik/Soru](images/image18.jpg)
+
+x^{-2} ler basama $ \underset{\cdot}{g} $i
+
+x^{-1} ler basamağı
+
+x^{0} ler basamağı
+
+x¹ ler basamağı
+
+ $ x^{2} $ ler basama $ gi $
+
+biçiminde çözülenir.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 1&lt;/div&gt; &lt;/div&gt;
+
+a ve b, 7'lik sayma sisteminde birbirinden farklı birer rakamdır.
+
+Buna göre, a + b toplamının alabileceği  $ \underline{\text{en büyük}} $ değerin 10 tabanındaki değeri kaçtır?
+
+A) 9 B) 10 C) 11 D) 12 E) 13
+
+##### Tip-2
+
+3 sayı tabani olmak üzere,
+
+(2101) $ _{3} $
+
+sayisinin 10 tabanindaki değeri kaçtır?
+
+A) 36 B) 54 C) 64 D) 72 E) 90
+
+#### Tip-3
+
+x sayı tabani olmak üzere,
+
+(204) $ _{x} $ + (12x) $ _{6} $
+
+toplaminin 10 tabanındaki değeri kaçtır?
+
+A) 103 B) 104 C) 105 D) 106 E) 107
+
+10 Tabanından Farklı Bir Tabana Geçiş
+
+On tabanında verilen bir sayıyı hangi tabana çevirmek istiyorsak, bu sayı o tabana sürekli bölünür ve her bir işlemde bölümlere aynı işlem uygulanır. En sondaki bölümden başlanarak, kalanların sondan başla doğru yazılması istenen sayı bulunur.
+
+![Şekil/Grafik/Soru](images/image19.jpg)
+
+#### ORNEK
+
+21 sayısının 4 tabanındaki eşiti kaçtır?
+
+ $$ \begin{array}{c|c}{{{21}}}&amp;{{{4}}} \\{{{\hline20}}}&amp;{{{5}}}&amp;{{{4}}} \\{{{\hline\textcircled{1}}}}&amp;{{{\frac{4}{\textcircled{1}}}} \\\end{array} $$ 
+
+ $$ (21)_{10}=(111)_{4} $$ 
+
+##### Tip-4
+
+5 sayı tabanıdır.
+
+71 = (abc) $ _{5} $
+
+olduğuna göre, a + b + c toplamı kaçtir?
+
+A) 4 B) 5 C) 6 D) 7 E) 8
+
+##### tip-5
+
+x &gt; 4 olmak üzere,
+
+ $$ 3x^{2}+2x+3 $$ 
+
+sayısının x tabanındaki eşiti aşağıdakilerden hangisidir?
+
+A) 3023 B) 3203 C) 323 D) 321 E) 320
+
+#### TIP-6
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="6"&gt;2 $ ^{{8}} $ doğal sayısı 4 tabanına göre yazıldığında kaç basamaklı bir sayı elde edilir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+###

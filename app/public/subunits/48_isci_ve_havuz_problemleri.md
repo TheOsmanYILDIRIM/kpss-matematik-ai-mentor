@@ -1,137 +1,69 @@
-# 2026 KPSS Matematik: İşçi ve Havuz Problemleri (Birim Zamanda Yapılan İş)
+# 2026 KPSS Matematik: İşçi ve Havuz Problemleri
 **Modül:** Modül 3: Problemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-er;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+nür?
 
-Her iki tarafında da 0,5 cm mesafe olan 10 cm'lik bir cetvelin altına, her iki tarafında da 0,3 cm mesafe olan 6 cm'lik özdeş iki cetvel, aralarında boşluk birakılmadan üç uca birleştirilerek şekilde gibi soldan hızalanmıştır.
+A) 4 B) 5 C) 6 D) 7 E) 8
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;0&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;9&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;0&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;0&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+#### TIP-11
 
-Buna göre, 10 cm'lik cetvelin sağ kenarı 6 cm'lik cetvelin hangi noktasıyla hızalanmıştır?
+iki basamaklı doğal sayıların kaç tanesi 2 ile bölündüğü hâde 3 ile bölünmez?
 
-A) 4 B) 4,1 C) 4,2 D) 4,5 E) 4,8
+A) 30 B) 45 C) 35 D) 40 E) 50
 
-##### TIP-12
+#### tip-12
 
-Aşağıda eş karelerden oluşan bir şeklin içindeki bazı karelerin boyanması ile oluşan şeklin görünümü verilmiştir.
+A = {x | 10 &lt; x &lt; 120, x = 3k, k ∈ N}
 
-![Şekil/Grafik/Soru](images/image40.jpg)
+B = {y | 5 &lt; y &lt; 90, y = 5m, m ∈ N}
 
-Bu şekilde içerisinden  $ \underline{\text{en az}} $ kaç tane kare daha boyanmalı ki boyanan parçaların tüm parçalara oranı 0,36 olsun?
+olduğuna göre, S(A ∩ B) kaçtir?
 
-A) 3 B) 4 C) 5 D) 6 E) 8
+A) 5 B) 6 C) 9 D) 12 E) 15
 
-#### Tip-13
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-13&lt;/div&gt; &lt;/div&gt;
 
-Her bir bölmesi 4 eşit parçaya ayrılmış özel bir termometre ile günün aynı saatinde A, B ve C şehirlerinin sıcaklık ölçümleri santigrad cinsinden aşağıdaki gibidir.
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A = [2, 11)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;ve&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B = (-1, 4] kümeleri için&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;a) A \ B nedir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;CEVAP: [4, 11]&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;b) A  $ \cap $ B nedir?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-![Şekil/Grafik/Soru](images/image41.jpg)
+#### TIP-14
 
-![Şekil/Grafik/Soru](images/image42.jpg)
+A = {1, 2, 3}
 
-![Şekil/Grafik/Soru](images/image43.jpg)
+A \cup B = \{1, 2, 3, 4, 5\} veriliyor.
 
-Yapılan ölçümlerde A ile B şehirlerinin sıcaklık farkı 4,8°C'dir.
+Bu koşula uyan kaç farklı B kümesi vardır?
 
-Buna göre, C şehrinin sıcaklığı kaç santigrad derecedir?
+A) 4 B) 8 C) 16 D) 20 E) 32
 
-A) 9,8 B) 10 C) 10,2 D) 10,6 E) 11,4
+##### TIP-15
 
-### BASIT EŞİTSİZLIKLER
+A ⊂ B ⊂ C koşulunu sağlayan kaç farklı B kümesi vardır?
 
-a ve b sifirdan farklı reel sayılar olmak üzere,
+A) 16 B) 24 C) 32 D) 64 E) 80
 
- $$ \begin{aligned}ax+b&amp;&gt;0\\&amp;&lt;0\\&amp;\geq0\\&amp;\leq0\end{aligned} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
 
-şeklindeki ifadelerdir.
+![Şekil/Grafik/Soru](images/image146.jpg)
 
-Örneğin: x &gt; 2 ise
+Şekildeki taralı bölgyi aşağıdakilerden hangisi ifade eder?
 
-Örneğin:  $ x \leq 4 $ ise
+A) (B - A) ∩ C          B) (A ∩ B') \ (A ∩ B)          C) (A' \ B) ∩ C
 
-#### Özellikler
+D) (A ∩ B) ∩ B'          E) A ∩ B ∩ C
 
-1) Bir eşitsizliğin her tarafına aynı sayı eklenir ya da çıkarılırsa eşitsizlik bozulmaz.
+#### tip-17
 
-a &gt; b ise  $ a + c &gt; b + c $
+A ve B aynı E evrensel kümenin iki alt kümesidir.
 
-Örneğin: 5 &gt; 2 ise  $ \underbrace{5+3}_{8}&gt;\underbrace{2+3}_{5} $
+ $ s(A' \cap B) = 8 $
 
-2) Eşitsizlik pozitif bir sayı ile çarpılır ya da bölünürse yön değiştirmez.
+ $ s(A \cup B)' = 4 $ ve  $ s(E) = 13 $
 
-a &lt; b ve c &gt; 0 olsun.
+olduğuna göre, A nın eleman sayısı kaçtır?
 
-I) a  $ \cdot $ c &lt; b  $ \cdot $ c
+A) 1 B) 3 C) 4 D) 7 E) 10
 
-Örn: 5/2&lt;3 ise 10&lt;15
-
-II)  $ \frac{a}{c} &lt; \frac{b}{c} $
-
-Örn:  $ \frac{8}{2} &lt; \frac{16}{2} $ ise 4&lt;8
-
-Eşitsizlik negatif bir sayı ile çarpılır ya da bölünürse yön değiştirir.
-
-a &lt; b ve c &lt; 0 olsun.
-
-I) a ⋅ c &gt; b ⋅ c
-
-Örn: -2 / 4 &lt; 8 ise -8 &gt; -16
-
-II)  $ \frac{a}{c} &gt; \frac{b}{c} $ Örn:  $ \frac{4}{-2} &lt; \frac{8}{-2} $ ise -2 &gt; -4
-
-♦ y negatif bir sayı olsun.
-
-x · y &lt; y · z ise x &gt; z
-
-(Eşitsizlik negatif bir sayı ile sadeleşirse yön değiştirir.)
-
-♢ x·z &lt; y·z ve x &gt; y ise z &lt; 0 dir.
-
-4) Eşitsizlik ters çevrildiğinde yön değiştirir.
-
-x &lt; y &lt; 0 ya da 0 &lt; x &lt; y ise
-
- $$ \frac{1}{x}&gt;\frac{1}{y}dir. $$ 
-
-Örn: 2 &lt; 4 ise  $ \frac{1}{2} &gt; \frac{1}{4} $ tür.
-
-Eşitsizlik sorularında paydada değişken varsa bunu ters çevirerek üste al.
-
-Örn:  $ \frac{1}{x-1} &lt; 5 $ ise  $ \frac{x-1}{1} &gt; \frac{1}{5} $ olur.
-
-5)  $ x^{2}&lt;x $ ise 0&lt;x&lt;1 dir.
-
-6)  $ x &lt; x^{3} &lt; x^{2} $ ise -1 &lt; x &lt; 0 dir.
-
-#### tip-1
-
- $$ 2x-7&lt;x-6 $$ 
-
-ifadesini sağlayan farklı iki tam sayının toplamının  $ \underline{\text{en büyük}} $ değerikaçtır?
-
-A) -1 B) -2 C) -3 D) -4 E) -5
-
-#### TIP-2
-
- $$ \frac{x-1}{3}&gt;4 $$ 
-
-ifadesini sağlayan iki farklı tam sayının toplamının  $ \underline{\text{en küçük}} $ değerik açtır?
-
-A) 27 B) 28 C) 29 D) 30 E) 31
-
-#### Tip-3
-
- $$ \frac{x+2}{-2}\geq-3 $$ 
-
-ifadesini sağlayan kaç farklı doğal sayı vardır?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
-TiP-4
-
- $$ &lt;\frac{x+2}{-2}&lt;4 $$ 
-
-esitsizliğini sağlayan kaç farklı x tam sayı d
+###

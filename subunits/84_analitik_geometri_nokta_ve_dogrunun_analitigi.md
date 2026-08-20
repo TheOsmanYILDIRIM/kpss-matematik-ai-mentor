@@ -1,281 +1,383 @@
-# 2026 KPSS Matematik: Analitik Geometri: Noktanın Analitiği, Eğim, Doğru Denklemi
+# 2026 KPSS Matematik: Analitik Geometri: Nokta, Eğim ve Doğru Denklemleri
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-B) 900 C) 940 D) 960 E) 1000
+Analitik Geometri&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-#### Tip-18
+### 6. EỠIM
 
-x liraya alinan bir malın satış fiyati %30 kârlı y liraya, etiket fiyati y lira olan bir başka mal da %30 indirimle z liraya satılıyor.
+## a. Noktadan eğim bulma
 
-Buna göre, x, y ve z arasındaki ilişki nedir?
+A(x_{1}, y_{1}), B(x_{2}, y_{2}) noktaları verilsin. A ile B noktalarını birleştiren doğru parçasının eğimine m diyelim.
 
-A) x &lt; y &lt; z B) z &lt; x &lt; y C) y &lt; x &lt; z
+![Şekil/Grafik/Soru](images/image575.jpg)
 
-D) z &lt; y &lt; x E) x &lt; z &lt; y
+m =  $ \frac{y_2 - y_1}{x_2 - x_1} $ veya  $ \frac{y_1 - y_2}{x_1 - x_2} $ şeklinde bulunur.
 
-##### TiP-19
+ax + by + c = 0 şeklindeki doğru denklemini
 
-1 dolarin 2 lira olduğur bir zamanda bir bankaya lira olarak yatırılan paraya %30, dolar olarak yatırılan paraya ise %4 faz uygulanmaktadır. 1000 dolar olan bir kişi parasını lira olarak bankaya yatırıyor.
+### b. Denklemi bilinen doğrunun eğimini bulma
 
-Buna göre, yıl sonunda zarar etmemesi için 1 dolarin  $ \underline{\text{en çok}} $ kaç lira olması gerekir?
+ $$ ax+by+c=0\quad by=-ax-c $$ 
 
-A) 1,5 B) 2 C) 2,5 D) 3 E) 3,5
+ $$  y=\frac{-ax-c}{b}olur. $$ 
 
-#### TIP-20
+Burada eğim  $ m = -\frac{a}{b} $ dir.
 
-Biri diğerinin 3 katı olan iki paradan büyük olanı yıllık %25'ten 8 ay, diğerli yıllık %40'dan 6 ay fazide bırakılarak toplam 70 bin lira faiz alınıyor.
+ax + by + c = 0 şeklindeki denklemlerin eğimleri pratik olarak x in katsayısının y nin katsayısına oranının ters işaretlisi alınarak bulunur.
 
-Buna göre, bankaya yatırılan büyük para kaç bin liradır?
+#### ORNEK
 
-A) 300 B) 200 C) 100 D) 50 E) 25
+1.  $ 2x + 3y - 4 = 0 $ is  $ m = -\frac{2}{3} $
 
-#### MATEMATIK
+II.  $ x - 2y + 2 = 0 $ is  $ m = -\frac{1}{-2} = \frac{1}{2} $
 
-#### TIP-21
+Ⅲ.  $ x + y - 1 = 0 $ is  $ e \, m = -\frac{1}{1} = -1 $
 
-Bir seracının elinde özdeş 30 adet boş tahta kasa ve özdeş 20 adet boş plastik kasa bulunmaktadır. Seracı, sadece tahta kasaları kullanarak bu kasaların tamamını doldurduğunda topladığı domateslerin %60'ını, sadece plastik kasaları kullanarak bu kasaların tamamını doldurduğunda ise topladığı bu domateslerin %65'ini kasalara koymuş oluyor.
+IV.  $ -3x + 5y + 3 = 0 $ ise  $ m = -\frac{-3}{5} = \frac{3}{5} $ olur.
 
-Dolu bir tahta kasada 8 kilogram domates olduğuna göre, dolu bir plastik kasada kaç kilogram domates vardır?
+c. y = m ⋅ x + n şeklindeki doğru denklemi
 
-A) 9 B) 10 C) 11 D) 12 E) 13
+ $$ y=m\cdot x+n\Rightarrow E\text{g}im=m $$ 
 
-#### TIP-22
+![Şekil/Grafik/Soru](images/image576.jpg)
 
-Bir bakkalda bir kilogram kuru üzümün satış fiyati 8 TL'dir. Bu bakkal terazisinin yanlış tartması sonucunda, gerçekte 4 kilogram olan kuru üzümü 20 TL'ye satmıştır.
+##### ORNEK
 
-Buna göre, terazi bir kilogramda kaç gram eksik tartmıştır?
+I.  $ y = 2x + 3 $ is e m = 2
 
-A) 325 B) 350 C) 375 D) 400 E) 425
+Ⅱ.  $ y = -\frac{x}{2} + 4 $ is  $ m = -\frac{1}{2} $
 
-#### TIP-23
+### 7. DOGRU DENKLEMININ BULUNMASI
 
-Bir market alışverişini tamamladıktan sonra ödeme yapmak için kasaya gelen Arda'ya kasadaki görevli, aldığı ürünlerin toplam 45 TL tuttuğunu, fakat 50 TL ve üzeri alışverişlerde bazı ürünleri 2'ser TL daha ucuza alabileceğini söylுyor.
+a. Bir Noktasi ve Eğimi Bilinen Doğru Denkleminin Bulunması
 
-Bunun üzerine son bir ürün daha alan Arda, yalnızca önceden almış olduğu ürünlerden beş tanesine uygulanan bu indirimle görevliye toplam 43 TL ödüyor.
+Nokta $(x_{1}, y_{1})$ ve eğim m olsun.
 
-Buna göre, Arda'nın  $ \underline{\text{son}} $ aldığı ürünün fiyatı kaç TL'dir?
+Doğru denklemi $y - y_{1} = m(x - x_{1})$ şeklindedir.
 
-A) 5 B) 6 C) 7 D) 8 E) 9
+#### TIP-7
 
-#### TIP-24
+### A(2, 3) noktasından geçen ve eğimi 2 olan doğrunun denklemi nedir?
 
-Bir bakkalda satılan bir șiše meyve suyunun fiyati bir șiše maden suyunun fiyatının iki katı, bir șiše maden suyunun fiyati ise bir șiše suyun fiyatının iki katı kadardır.
+ $$ \begin{aligned}A)x+y-1=1\end{aligned} $$ 
 
-Bir gün içerisinde bu işceklerden; 60 işe su, 40 işe maden suyu ve bir miktar meyve suyu satan bakkal elde ettiği gelirin %30'unu su satışından sağlamıştır.
+ $$ \begin{array}{l} \textbf{B)}2x+y-1=0 \end{array} $$ 
 
-Buna göre, bakkal gün içerisinde kaç işe meyve suyu satmıştır?
+ $$ \begin{aligned}C)2x-y-1=0\end{aligned} $$ 
 
-A) 10 B) 15 C) 20 D) 25 E) 30
+ $$ D)x-2y-1=0 $$ 
 
-##### Tip-25
+ $$ \mathsf{E})x-2y+1=0 $$ 
 
-Elinde 20 kilogram çilek bulunan bir manav, çileğin kilogram satış fiyatını "9,a TL" olarak belirlemiş ve çırağına, çileğin etiketine "1 kg çilek 9,a TL" yazmasını söylemiştir. Çırak, etikete yazması gerekeni yanlışlıkla "1 kg çilek a,9 TL" olarak yazmış ve çileğin tamamını bu etiket fiyatından satmıştır.
+### b. iki Noktasi Bilinen Doğru Denkleminin Bulunması
 
-Eğer çileğin kilogram satış fiyati 9,a TL olsaydı, çileğin tamamının satışından elde edilen gelir 90 TL daha fazla olacaktı.
+İki nokta yardımıyla önce eğim bulunur. Sonra noktalandan herhangi biri ve eğim kullanılarak doğru denklemi bulunur. A( $ x_{1} $,  $ y_{1} $), B( $ x_{2} $,  $ y_{2} $) olan doğrunun denklemi
 
-Buna göre, a kaçtır?
+ $$ \frac{y-y_{1}}{x-x_{1}}=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\quad\text{dir.} $$ 
 
-A) 4 B) 5 C) 6 D) 7 E) 9
+#### tip-8
 
-#### TiP-26
+A(1, 3) ve B(-1, 2) noktalarından geçen doğrunun denklemi nedir?
 
-Dönem içerisinde öğrencilerine iki snav yapan bir öğretmen, her bir öğrencisinin 1. snav puanının %40'ı ile 2. snav puanının %60'ını toplayarak o öğrencisine ait dönem sonu puanını oluşturmak istemektedir. Ancak hesaplamada yaptığı bir hata sonucu öğrencilerinden Zeynep'in dönem sonu puanını, 1. snav puanının %60'ı ile 2. snav puanının %40'ını toplayarak hesaplamıştır. Öğretmen bu hatayı düzelttiğinde Zeynep'in dönem sonu puanı 2 artarak 81 olmuştur.
+A)  $ 2x - y - 5 = 0 $ B)  $ 2y - x - 5 = 0 $
 
-Buna göre, Zeynep'in 2. sınav puanı kaçtır?
+C)  $ x - y - 5 = 0 $ D)  $ 2x + y - 5 = 0 $
 
-A) 85 B) 88 C) 90 D) 92 E) 95
+ $$ \mathsf{E})x+y-4=0 $$ 
 
-##### Tip-27
+Tip-9
 
-Bir havaalanından, belirlenen bir günde, her biri farklı saatte kalkacak 5 uçak ile ilgili aşağıdakiler bilinmektedir.
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;A(1, 3) , (2, k) noktalarindan geçen doğru y eksenini (0, 3) noktasında kestiğine göre, k kaçtir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-• Uçaklardan her biri için eşit sayıda bilet satışa sunulmuştur.
+c. Eksenleri Kestiği Noktaları Bilinen Doğru Denklemleri
 
-Kalkacak ilk üç uçak için satışa sunulan biletlerin tamamı satılmıştır.
+Bir d doğrusu x eksenini a noktasında, y eksenini de b noktasında keserse bu doğrunun denklemi:
 
-Kalkacak ilk dört uçak için toplam satışa sunulan biletlerin %95'i, son dört uçak için toplam satışa sunulan biletlerin ise %85'i satılmıştır.
+d:  $ \frac{x}{a} + \frac{y}{b} = 1 $ şeklinde bulunur.
 
-Buna göre, kalkacak  $ \underline{\text{son}} $ uçak için satışa sunulan biletlerin yüzde kaçı satılmıştır?
+ $$ \frac{x}{4}+\frac{y}{8}=1\ ,\ \frac{x}{2}+\frac{y}{3}=1 $$ 
 
-A) 80 B) 75 C) 70 D) 65 E) 60
+doğruları ve eksenler arasında kalan bölgenin alanı aşağıdakilerden hangisidir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-28&lt;/div&gt; &lt;/div&gt;
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-Bir pizza dükkânının internet sitesinden seçtiği pizzaları sipariş etmek isteyen bir müşteri, ödeme ekranına geldiğinde aşağıdaki mesaj ile karşılaşır:
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-11&lt;/div&gt; &lt;/div&gt;
 
-![Şekil/Grafik/Soru](images/image91.jpg)
+![Şekil/Grafik/Soru](images/image577.jpg)
 
-Bu mesajdan sonra aynı pizzalar için mobil uygulama üzerinden sipariş veren bu müşteri, internet sitesinden sipariş verdiğinde ödemesi gereken toplam tutara göre %15 daha az ödeme yapmıştır.
+$ekilde
 
-Buna göre, son durumda müşterinin pizzalar için ödediği toplam tutarı kaç TL'dir?
+AB ⊥ BC
 
-A) 47 B) 48 C) 49 D) 50 E) 51
+A(0, 3) ⊥ BC
 
-##### TIP-29
+B(2, 0)
 
-Nevzat bilgisayarındaki bir dosyayı, her saniyede 32 MB dosya yüklenebilen ve içi boş olan 64 GB'lık bir belleğe yüklemek istiyor. Nevzat, yükleme işleminin %80'i tamamlandığı an bilgisayarında aşağıdaki görselle karşılaşıyor.
+Yukaridaki şekilde BC doğrusunun denklemi aşağıdakilerden hangisidir?
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;%80 tamamlandi&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Dosyalarım Belleğe Kopyalanıyor...&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Hedef : Belleğ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Kalan Süre : 3 dakika 12 saniye&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Hız : 32 MB/saniye&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;%80&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;İptal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+A)  $ 2x + y + 4 = 0 $
 
-Buna göre, dosya yüklemesi tamamlandığında bu bellekte kaç GB'lik boş yer kalır? (1 GB = 1024 MB)
+B)  $ 3x + 2y - 4 = 0 $
 
-A) 25 B) 27 C) 32 D) 34 E) 36
+C)  $ 3x + 2y + 4 = 0 $
 
-1.
+D) 3y - 2x + 4 = 0
 
-![Şekil/Grafik/Soru](images/image92.jpg)
+E) 3y - 2x - 4 = 0
 
-♦ 1 km = 1000 metre
+### 8. DENKLEMİ VERİLEN DOGRUNUN GRAFİGİ
 
-1 saat = 60 dk = 3600 sn
+x = 0 için doğrunun y eksenin kestiği nokta bulunur.
 
- $$ x=v\cdot t\quad\Rightarrow\quad\boxed{\frac{x}{v}=t} $$ 
+y = 0 için doğrunun x eksenini kestiği nokta bulunur.
 
-Bir araç bir yolda farklı hızlarla ilerliyorsa aldığı yolu hızına bölerseniz o yoldaki süreyi bulursunuz.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-12&lt;/div&gt; &lt;/div&gt;
 
-2. Zit yönde hareket
+ $$ -x+2y=5 $$ 
 
-![Şekil/Grafik/Soru](images/image93.jpg)
+doğrusunun grafibi aşağıdakilerden hangisidir?
 
-AB =  $ (v_{1} + v_{2}) \cdot t \rightarrow $ karşılaşma süresi
+![Şekil/Grafik/Soru](images/image578.jpg)
 
- $$ AC=v_{1}\cdot t $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
 
- $$ +\underbrace{CB=v_{2}\cdot t} $$ 
+![Şekil/Grafik/Soru](images/image579.jpg)
 
- $$ \mathsf{AC}+\mathsf{CB}=\mathsf{v}_{1}\cdot\mathsf{t}+\mathsf{v}_{2}\cdot\mathsf{t} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)&lt;/div&gt; &lt;/div&gt;
 
- $$ \mathsf{A}\mathsf{B}=(\mathsf{V}_{1}+\mathsf{V}_{2})\cdot\mathsf{t} $$ 
+![Şekil/Grafik/Soru](images/image580.jpg)
 
-Dairesel Pist
+![Şekil/Grafik/Soru](images/image581.jpg)
 
-![Şekil/Grafik/Soru](images/image94.jpg)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)&lt;/div&gt; &lt;/div&gt;
 
- $$ \mathrm{C e v r e}=(v_{1}+v_{2})\cdot t $$ 
+![Şekil/Grafik/Soru](images/image582.jpg)
 
-3. Aynı Yönde Hareket
+### 9. PARALEL DOGRULAR
 
-![Şekil/Grafik/Soru](images/image95.jpg)
+Aynı düzlemde bulunan ve kesişmeyen doğrulara paralel doğrular denir. Parallel doğruların eğimleri birbirine eşittir.
 
-AB =  $ (v_1 - v_2) \cdot t $ (yakalama süresi)
+ $$ \mathsf{d}_{1}//\mathsf{d}_{2}\mathrm{~i s e~}\mathsf{m}_{\mathsf{d}_{1}}=\mathsf{m}_{\mathsf{d}_{2}} $$ 
 
-Dairesel pist
+#### TIP-13
 
-![Şekil/Grafik/Soru](images/image96.jpg)
+ $$ (a+1)x+4y+2=0 $$ 
 
-Çevre =  $ (v_{1} - v_{2}) \cdot t $ (yakalama süresi)
+ $$ 2x-3y+1=0 $$ 
 
-4. Tren - Tünel Sorutarı
+denklemleriyle verilen doğrular birbirine paralel olduğunu göre, a nın değeri kaçtır?
 
-![Şekil/Grafik/Soru](images/image97.jpg)
+A)  $ \frac{7}{3} $ B)  $ \frac{5}{3} $ C)  $ \frac{-11}{3} $ D)  $ \frac{-7}{3} $ E)  $ \frac{-5}{3} $
 
-#### ♦ Bu sorularda dikkat edeceğiniz olay birimlerdir.
+### 10. BIRBIRINE DIK DOGRULAR
 
-5. Nehir - Rüzgâr - Yürüyen Merdiven
+Birbirini dik kesen doğruların eğimleri çarpımı - 1 dir.
 
-A1 ___ IB
+$d_{1}\perp d_{2}$ ise $m_{d_{1}}\cdot m_{d_{2}}=-1$
 
-Kayık  $ \rightarrow $ v
+#### Tip-14
 
-Akıntı  $ \rightarrow $ a
+ $$ x-(n+1)y=0 $$ 
 
-Kayık akıntı yönünde giderse;
+ $$ 2x+3y+6=0 $$ 
 
-AB = (v + a) · t₁ ⇒ t₁ =  $ \frac{AB}{v + a} $
+denklemleriyle verilen doğrular birbirini dik kesiyor.
 
-Kayık akıntıya ters yönde giderse;
+Buna göre, nın değeri kaçtır?
 
-AB = (v - a) · t_{2} \Rightarrow t_{2} = \frac{AB}{v - a}
+A)  $ \frac{-1}{3} $ B)  $ \frac{-1}{2} $ C)  $ \frac{1}{2} $ D)  $ \frac{1}{3} $ E) 1
 
-6. Ortalama Hiz
+#### TIP-15
 
- $$ V_{\mathrm{o r t}}=\frac{\mathrm{T o p l a m~y o l}}{\mathrm{T o p l a m~z a m a n}} $$ 
+x + 3y - 1 = 0 doğrusuna dik ve (4, -2) noktasından geçen doğrunun
 
-Alinan yollar�ise
+x eksenini kestiği noktanın apsisi kaçtır?
 
- $ v_{ort} = \frac{2 \cdot v_{1} \cdot v_{2}}{v_{1} + v_{2}} $
+A)  $ \frac{1}{3} $ B)  $ \frac{7}{3} $ C)  $ \frac{10}{3} $ D)  $ \frac{11}{3} $ E)  $ \frac{14}{3} $
 
-#### tip-1
+11. ÖZEL DOČRULAR
 
-Bir aracın saatte 60 km hızla 5 saatte gittiği yolu, 1 saat daha geçitmesi için, aracın hızla saatte kaç km olmalıdır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a)&lt;/div&gt; &lt;/div&gt;
 
-A) 30 B) 40 C) 50 D) 60 E) 70
+![Şekil/Grafik/Soru](images/image583.jpg)
 
-#### tip-2
+![Şekil/Grafik/Soru](images/image584.jpg)
 
-Aralarında 200 km mesafe olan A ve B kentlerinden, saatteki hızları sırasıyla 60 km ve V km olan iki araç aynı anda birbirine doğru harekete başlıyor.
+x eksenine paralel olan doğruların eğimleri 0 dır.
 
-İki araç hareketlerinden 2 saat sonra karşılaştıklarına göre, V kaçtır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;b)&lt;/div&gt; &lt;/div&gt;
 
-A) 30 B) 40 C) 50 D) 60 E) 70
+![Şekil/Grafik/Soru](images/image585.jpg)
 
-#### tip-3
+![Şekil/Grafik/Soru](images/image586.jpg)
 
-Bir araç, A kentinden B kentine saatte 60 km hızla gidip saatte 80 km hızla geri dönüyor.
+x = -2 doğrusunda
 
-Gidiş-dönüş toplam 14 saat sürdüğüne göre, AB kentleri arasındaki uzaklık kaç km dir?
+Eğim tanımsızdır.
 
-A) 350 B) 380 C) 420 D) 440 E) 480
+![Şekil/Grafik/Soru](images/image587.jpg)
 
-#### TIP-4
+![Şekil/Grafik/Soru](images/image588.jpg)
 
-Bir araç, A kentinden B kentine sabit bir hızla 8 saatte gidiyor. B kentinden A kentine hızını saatte 20 km artırarak 6 saatte geri dönüyor.
+x eksenine dik olan doğruların eğimleri olmaz.
 
-Buna göre, AB arası uzaklık kaç km'dir?
+x ekseni aynı zamanda y = 0
 
-A) 420 B) 440 C) 460 D) 480 E) 500
+doğrusudur. Eğim sifirdir.
 
-#### TiP-5
+y ekseni aynı zamanda x = 0
 
-![Şekil/Grafik/Soru](images/image98.jpg)
+doğrusudur. Eğim tanımsızdır.
 
-A ve B'den saatteki hızları sırasıyla  $ v_{1} $ km ve  $ v_{2} $ km olan iki araç aynı anda C'ye doğru hareketle başlıyor. A'dan hareket eden araç, B'den hareket eder araca 7 saat sonra yetişiyor.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;c)&lt;/div&gt; &lt;/div&gt;
 
-AB = 490 km ise  $ v_{1} - v_{2} $ kaçtır?
+![Şekil/Grafik/Soru](images/image589.jpg)
 
-A) 50 B) 60 C) 70 D) 80 E) 90
+y = x doğrusuna aynı zamanda
 
-#### tip-6
+1. açıortay doğrusu denir.
 
-Saatteki hızı 108 km olan bir tren 400 m uzunluğundaki bir tüneli 24 saniyede geçiyor.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;d)&lt;/div&gt; &lt;/div&gt;
 
-Buna göre, trenin boyu kaç m dir?
+![Şekil/Grafik/Soru](images/image590.jpg)
 
-A) 300 B) 320 C) 340 D) 360 E) 380
+y = -x doğrusuna aynı zamanda
 
-TỘP - 7
+2. açıortay doğrusu denir.
 
-130 km'lik bir yolun bir kısmını 20 km/sa, diğer kısmını 45 km/sa hızla giden bir araç tüm yolu 4 saatte bitirebildiğine göre 45 km/sa hızla gittiği yol kaç km dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
 
-A) 80 B) 90 C) 100 D) 110 E) 120
+![Şekil/Grafik/Soru](images/image591.jpg)
 
-#### TíP - 8
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 24&lt;/div&gt; &lt;/div&gt;
 
-Sabit hızla hareket eden bir tren 120 metre uzunluğundaki tüneli 2 dakikada, 20 metrelik köprüyü 40 saniyede geçiyor.
+A) 20
 
-Buna göre, trenin uzunluğu kaç metredir?
+Şekildeki analitik düzlemde eksenleri kesen d₁ ve d₂ doğruları ile x ekseni arasında kalan taralı bölgenin alanı kaç birim karedir?
 
-A) 10 B) 15 C) 20 D) 25 E) 30
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C) 25&lt;/div&gt; &lt;/div&gt;
 
-tip-9
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D) 26&lt;/div&gt; &lt;/div&gt;
 
-![Şekil/Grafik/Soru](images/image99.jpg)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 28&lt;/div&gt; &lt;/div&gt;
 
-Şekildeki A ve C kentlerinden aynı anda harekete başlayan iki araç birbirlerine doğru gittiklerinde B kentinde, aynı yöne gittiklerinde D kentinde karşılaşıyorlar.
+TIP-17
 
-Buna göre |CD| arası uzaklık kaç km'dir?
+ $ 4x - 3y + 6 = 0 $
 
-A) 120 B) 130 C) 140 D) 150 E) 160
+x-1=0
 
-![Şekil/Grafik/Soru](images/image100.jpg)
+denklemleriyle verilen doğruların açıortay denklemi aşağıdakilerden hangisidir?
 
-Çevresi 420 m olan bir çember üzerinde AB çapının üç noktalarından aynı anda harekete başlayan iki araç 9 dk sonra ikinci kez karşılaşıyorlar.
+A)  $ x + 3y = -1 $ B)  $ x - 3y = 1 $ C)  $ x + 2y = 1 $ D)  $ x + 3y = 11 $ E)  $ x + y = 11 $
 
-Bu araçlardan birinin dakikada hızı 20 m olduğunu göre, diğerinin hızı� dakikada kaç metredir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-18&lt;/div&gt; &lt;/div&gt;
 
-A) 40 B) 45 C) 50 D) 55 E) 60
+![Şekil/Grafik/Soru](images/image592.jpg)
 
-&lt;div style="text-align: center;"&gt
+ABCD bir kare
+
+B \in [ED]
+
+E(0,4)
+
+D(3,0)
+
+#### Yukarıdaki verilere göre, karenin bir kenar uzunluğu kaçtır?
+
+A) 1 B)  $ \frac{3}{2} $ C)  $ \frac{12}{5} $ D) 2 E)  $ \frac{12}{7} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-19&lt;/div&gt; &lt;/div&gt;
+
+2x + 3y + 7 = 0 doğrusuna paralel olan ve orijinden geçen doğru denklemi aşağıdakilerden hangisidir?
+
+A) 2x + 3y = 0
+
+B) 2x - 3y = 0
+
+C) 3x + 2y = 0
+
+D) 3x - 2y = 0
+
+F) 2x + 1y = 0
+
+Şekilde A noktasının koordinatları arasında 3p = 4q bağıntısı vardır.
+
+![Şekil/Grafik/Soru](images/image593.jpg)
+
+Buna göre, ABCD paralelenenarının alanı kaç br² dir?
+
+A) $\frac{4}{3}$ B) $\frac{8}{3}$ C) $\frac{16}{3}$ D) $4$ E) $5$
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-21&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image594.jpg)
+
+Şekildeki dik koordinat düzleminde verilen  $ d_{1} $ ve  $ d_{2} $ doğruları birbirine diktir
+
+Buna göre,  $ d_{1} $ doğrusunun x eksenini kestiği noktanın apsisi kaçtır?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+### 12. SIMETRI
+
+a) Noktanin ekseniere ve özel doğrulara göre simetriği
+
+![Şekil/Grafik/Soru](images/image595.jpg)
+
+Bir noktanın x eksenine göre simetriği alınırken ordinatın işareti değişir.
+
+Bir noktanın y eksenine göre simetriği alınırken apsisin işareti değişir.
+
+Bir noktanın orijine göre simetriği alınırken hem apsis hem de ordinatının işareti değişir.
+
+A(x, y) noktasının y = x doğrusuna göre simetriği B(x, y) dir.
+
+A(x, y) noktasının y = -x doğrusuna göre simetriği B(-y, -x) dir.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
+
+Analitik düzlemde, A(-1, 2) noktasının orijine göre simetriği B, y eksenine göre simetriği C olduğuna göre, lACl kaç birimdir?
+
+A)  $ \sqrt{2} $ B) 2 C)  $ \sqrt{3} $ D) 4 E) 5
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-23&lt;/div&gt; &lt;/div&gt;
+
+A(1, 3) noktasının y = x doğrusuna göre simetriği B ve B'nin Ox eksenine göre simetriği C ise lACl uzunluğu kaç birimdir?
+
+A)  $ \sqrt{5} $ B)  $ 2\sqrt{5} $ C)  $ 3\sqrt{5} $
+
+D)  $ 4\sqrt{5} $ E)  $ 5\sqrt{5} $
+
+### b) Noktanın noktaya göre simetriği
+
+![Şekil/Grafik/Soru](images/image596.jpg)
+
+A( $ x_{1} $,  $ y_{1} $) noktasının B(a, b) noktasına göre simetriği olan
+
+A'( $ 2a - x_{1} $,  $ 2b - y_{1} $) olur.
+
+c) Noktanin doğruya göre simetriği
+
+![Şekil/Grafik/Soru](images/image597.jpg)
+
+Analitik düzlemde, A(1, 3) noktasının x - y - 3 = 0 doğrusuna göre simetriği olan nokta aşağıdakilerden hangisidir?
+
+A) (1, 2) B) (-1, 3) C) (6, -2) D) (0, 4) E) (2, 3)
+
+3. A noktasının H noktasına göre simetriği bulunur.
+
+2. H noktasının koordinatları bulunur.
+
+A(x₁, y₁) noktasının ax + by + c = 0 doğrusuna göre simetriğini bulmak için;
+
+1. AA¹ doğrusunun eğimi bulunur.
+
+Tip-25
+
+A(1, 2) noktasının x - 2y = 0 doğrusuna göre simetriği olan noktanın koordinatları toplamı kaçtır?
+
+A)  $ \frac{1}{5} $ B)  $ \frac{3}{5} $ C)  $ \frac{7}{5} $ D)  $ \frac{9}{5} $ E)  $ \frac{11}{5} $

@@ -1,77 +1,45 @@
-# 2026 KPSS Matematik: Ondalıklı Sayılar, Virgül Kaydırma ve Kesirlerde Sıralama
+# 2026 KPSS Matematik: Ondalıklı Sayılar & Kesirlerde Sıralama
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-adında aynı düzende ve ardışık olacak biçimde tek sıra hâlinde kutuları üst üste diziyor.
+Ondalıklı Sayılar
 
-Buna göre, Hale'nin 15. adında yaptığı kulede kullandığı kutu sayıı kaçtır?
+ $$ ^{*}0,23232323\ldots\ldots=0,\overline{23} $$ 
 
-A) 105 B) 110 C) 120 D) 124 E) 136
+ $$ 0,~7525252.....=0,7~{\overline{{52}}} $$ 
 
-##### Tip-20
+ $$ ^{*}0,3+0,03+0,003=\cdots\cdots=0,33333\cdots\cdots=0,\overline{3} $$ 
 
-Aşağıdaki şekilde belirli bir kurala göre bir ipe dizilmiş turuncu ve beyaz boncukların görünmü verilmiştir.
+Devirli Ondalıkı Sayıyı Rasyonel Yapma
 
-![Şekil/Grafik/Soru](images/image13.jpg)
+Sayinin Tamami – Devretmeyen Kisim
 
-Bu ip içi boş olan kutuya konulduğunda ip üzerindeki bazı boncuklar şekilde gibi dışarda kalıyor.
+Virgülden sonra
 
-Buna göre, kutu içerisinde kalan  $ \underline{\text{görünmeyen}} $ beyaz boncuk sayısı  $ \underline{\text{görünmeyen}} $ turuncu boncuk sayısından kaç fazladır?
+Örnek: 0,
 
-A) 3 B) 4 C) 5 D) 6 E) 7
+Devreden sayi kadar 9
 
-#### Tip-21
+Devretmeyen sayi kadar 0
 
-A3 sayfalarından bir kitap oluştururken bu sayfalar üst üste konulup ortadan katlanarak A4 boyutunda bir kitap oluşturulur. Aşağıda A3 sayfalarından oluşturulan n sayfalık bir kitabın sayfa numaraları verilmiştir.
+ $$ \overline{15}=\frac{15-0}{99}=\frac{15}{99} $$ 
 
-![Şekil/Grafik/Soru](images/image14.jpg)
+Örnek: 2,
 
-Buna göre, bu kitap kaç sayfadır?
+ $$ \overline{72}=\frac{272-2}{99} $$ 
 
-A) 30 B) 31 C) 32 D) 33 E) 34
+Örnek: 32,
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-22&lt;/div&gt; &lt;/div&gt;
+ $$ 1\overline{3}\;=\frac{3213-321}{90} $$ 
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3. satir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \rightarrow $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;9&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;11&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;13&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;14&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;15&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \vdots $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+Örnek: 2,
 
-Ardışık sayılar 1 den başlayarak şekildeki gibi 1. satırda 3, 2. satırda 5, 3. satırda 7 sayı olmak üzere her satırda bir önceki satırdan 2 fazla sayı olacak şekilde yazılıyor.
+ $$ \overline{7}=2+\frac{7}{9} $$ 
 
-Aşağıdaki sayılardan hangisi 160 ile aynı satırdadır?
+Örnek: 1.
 
-A) 130 B) 142 C) 146 D) 169 E) 170
+ $$ \overline{32}=1+\frac{32}{99} $$ 
 
-### VIDEO DERS NOTU
-
-## yarqi yayinevi
-
-1'den n'e kadar olan doğal sayıların çarpımına n faktöriyel denir ve "n!" şeklinde gösterilir.
-
- $ 1\cdot2\cdot3\cdot4\cdots n=n! $
-
-1.  $ 0! = 1 $
-
-1! = 1
-
-2! = 2
-
-3! = 6
-
-4! = 24
-
-5! = 120
-
-5! den sonraki tüm sayilarin sonunda sifir vardır.
-
-n! = n(n - 1)(n - 2) ... 1
-
-II.  $ n! = n(n - 1)! $
-
- $ 10! = 10 \cdot 9! = 10 \cdot 9 \cdot 8! $
-
- $ (2n + 1)! = (2n + 1) \cdot (2n)! $
-
- $ (2n)! = 2n \cdot (2n - 1)! $
-
-#### Tip-1
+#### TI

@@ -1,213 +1,171 @@
 # 2026 KPSS Matematik: Sadeleştirme ve Oranlama Teknikleri
-**Modül:** Modül 1: Temel Matematik & Dört İşlem
+**Modül:** Modül 1: Temel Matematik
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-seçen 80 kişi olduğunu göre, her iki dersi de seçmeyen kaç öğrenci vardır?
+SADELEŞTIRME VE ORANLAMA
 
-A) 9 B) 10 C) 12 D) 13 E) 16
+Kesirli sayılarda pay ile paydanın ortak bir sayı ile bölünmesine sadeleştirme denir.
 
-#### Tip-21
+Oranlama ise iki ifadenin birbirine bölünmesidir.
 
-Bir sınıftaki öğrencilerin %60'ı matematikten başarılı ve %30'u biyolojiden başarılıdır. Yalnız biyolojiden başarılı olan 5 öğrenci vardır.
+a'nın b'ye oranı  $ \frac{a}{b} $ dir.
 
-Yalnız matematikten başarılı olan 12 öğrenci olduğunu göre, sınıfta hem matematik hem de biyolojiden başarılı olan kaç öğrenci vardır?
+Örnekler;
+
+ $$ \checkmark\ \frac{18}{10}=\frac{9}{5} $$ 
+
+ $$ \checkmark\;\frac{49}{13}\cdot\frac{26}{7}=14 $$ 
+
+ $$ \sqrt{\frac{5}{7}}\cdot\frac{9}{5}\cdot\frac{\frac{3}{21}}{\frac{18}{2}}=\frac{3}{2} $$ 
+
+TIP-10
+
+ $$ \frac{3}{7}\cdot777-\frac{2}{5}\cdot555+\frac{3}{2}\cdot444 $$ 
+
+işleminin sonucu kaçtır?
+
+A) 777 B) 666 C) 555 D) 444 E) 333
+
+#### Tip-11
+
+a ve b sifırdan farklı reel sayılardır.
+
+ $$ 5a=4b $$ 
+
+esitliğinde a'nın b'ye oranı kaçtır?
+
+A)  $ \frac{1}{5} $ B)  $ \frac{2}{5} $ C)  $ \frac{3}{5} $ D)  $ \frac{4}{5} $ E)  $ \frac{5}{4} $
+
+6) RASYONEL SAYILARDA DÖRT İŞLEM
+
+a. Toplama - Çikarma: Rasyonel sayılarda toplama çıkarma işlemi yapılırken payda eşitlenerek işlem yapılır.
+
+ $$ \frac{a}{b}+\frac{c}{d}=\frac{ad+bc}{b\cdot d}\quad dir. $$ 
+
+Örnekler;
+
+ $$ \begin{align*}\sqrt{}\ \frac{1}{2}+\frac{2}{3}&amp;=\frac{7}{6}\quad\sqrt{}\ \frac{1}{3}+\frac{3}{5}-3=\frac{-31}{15}\quad\sqrt{}\ \frac{1}{2}-\frac{1}{3}+\frac{1}{6}=\frac{1}{3}\\\sqrt{}\ 3+\frac{2}{5}&amp;=\frac{17}{5}\quad\sqrt{}\ \frac{5}{3}-4=\frac{-7}{3}\end{align*} $$ 
+
+b. Çarpma - Bölme: Rasyonel sayılarda çarpma işleminde paylar kendi içinde paydalar kendi içinde çarpılır.
+
+ $$ \frac{a}{b}\cdot\frac{c}{d}=\frac{a\cdot c}{b\cdot d}\quad dir. $$ 
+
+Bölme işlemi yapılırken bölme işaretinin hemen sağındaki ifade ters çevrilerek çarpım durumuna getirilir.
+
+ $$ \frac{a}{b}:\frac{c}{d}=\frac{a}{b}\cdot\frac{d}{c}\quad dir. $$ 
+
+Kesirli bölme işlemlerinde ise kesir çizgisinin üstündeki ifade aynen durur, kesir çizgisinin altındaki ifade ters çevrilerek çarpım durumuna getirilir.
+
+ $$ \frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b}\cdot\frac{d}{c} $$ 
+
+ $$ ^{*}\quad\frac{\overline{a}}{b\atop c}=\frac{a}{b}\cdot\frac{1}{c} $$ 
+
+ $$ \ast\quad\frac{a}{\underline{b}}\!=\!\frac{a}{1}\!\cdot\!\frac{c}{b}\! $$ 
+
+#### Örnekler;
+
+ $ \sqrt{\frac{\frac{2}{3}}{\frac{3}{2}}}=\frac{2}{3}\cdot\frac{2}{3}=\frac{4}{9} $  $ \sqrt{\frac{1}{2}}=\frac{1}{2}\cdot\frac{1}{3}=\frac{1}{6} $  $ \sqrt{\frac{3}{12}}=3\cdot\frac{2}{1}=6 $
+
+#### TIP-12
+
+ $$ \frac{1}{2}-\left(\frac{3}{5}-\frac{1}{3}+\frac{1}{7}\right)-\left(\frac{1}{3}-\frac{3}{5}-\frac{1}{7}-\frac{1}{2}\right) $$ 
+
+işleminin sonucu kaçtır?
+
+A) 0 B) 1 C) 2 D) 3 E) 4
+
+## c. Tam sayılı kesir - Negatif kuvvet:
+
+* a $ \underline{\text{b}} $ = a +  $ \underline{\text{b}} $ gibi ifadelere tam sayili kesir denir.
+
+* Bir sayının negatif kuvveti o sayının ters çevrileceği anlamına gelir.
+
+*  $ \left(\frac{a}{b}\right)^{-2} = \left(\frac{b}{a}\right)^{2} $ gibi
+
+Örnekler; ✓  $ 5\frac{2}{3}=5+\frac{2}{3}=\frac{17}{3} $ ✓  $ -2\frac{1}{4}=-\left(2+\frac{1}{4}\right)=-\frac{9}{4} $
+
+ $ \begin{array}{l}\checkmark \quad 11\frac{2}{3}+17\frac{1}{3}=11+\frac{2}{3}+17+\frac{1}{3}=11+17+\frac{2+1}{3}=28+1=29\\ \checkmark \quad 5\frac{3}{2}-1\frac{1}{2}=5+\frac{3}{2}-1-\frac{1}{2}=4+1=5\\ \checkmark \quad 2^{-1}=\frac{1}{2} \quad \checkmark \quad \left(\frac{1}{3}\right)^{-2}=3^{2}=9 \quad \checkmark \quad \left(-\frac{2}{3}\right)^{-2}=\left(-\frac{3}{2}\right)^{2}=\frac{9}{4}\end{array} $
+
+#### TIP-13
+
+-2$\frac{1}{3}$+3$\frac{4}{3}$-2$\frac{10}{3}$
+
+isleminin sonucu kaçtir?
+
+A) 3 B) $\frac{-1}{3}$ C) $\frac{-5}{3}$ D) $\frac{-10}{3}$ E) -15
+
+#### TIP-14
+
+ $$ (2^{-1}-5^{0}+1)^{-1}+(-2)^{3} $$ 
+
+işleminin sonucu kaçtır?
+
+A) 6 B) 4 C) -4 D) -5 E) -6
+
+#### Tip-15
+
+ $$ \frac{41\frac{3}{7}-39\frac{2}{7}}{1\frac{1}{7}-1} $$ 
+
+işleminin sonucu kaçtır?
+
+A) 15 B) 11 C) 9 D) 7 E) 3
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip~16&lt;/div&gt; &lt;/div&gt;
+
+ $$ \frac{x-4}{3}-\frac{x-3}{4}=-\frac{1-x}{2} $$ 
+
+denklemini sağlayan x değeri kaçtır?
+
+A)  $ \frac{1}{6} $ B)  $ \frac{1}{5} $ C)  $ -\frac{1}{5} $ D)  $ -\frac{1}{6} $ E)  $ -\frac{1}{12} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-17&lt;/div&gt; &lt;/div&gt;
+
+1. 3 ○ -6
+
+II. -6 ○ 2
+
+III. 1 ○ 4
+
+IV. 1 ○ -3
+
+ifadelerindeki boş dairelerin içine toplama (+), çıkarma (-), çarpma (x) ve bölme (:) sembolleri hangi sirayla yerleştirilirse üç işlemin sonucu da aynı sayıya eşit olur?
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;I&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;II&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;III&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;IV&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;:&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;+&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;-&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+##### TIP-18
+
+Aşağıda kareler içerisinde bulunan ifadelere yukarıdan aşağıya doğru bağlı bulunduğu daire içerisindeki işlemler uygulanacaktır.
+
+![Şekil/Grafik/Soru](images/image2.jpg)
+
+Buna göre, x'in alabileceği değerler toplamı kaçtır?
 
 A) 1 B) 2 C) 3 D) 4 E) 5
 
-#### MATEMATIK
+1. Rakam: Sayilari ifade etmeye yarayan sembollere denir.
 
-#### TIP-22
+A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} kümesinin elemanlarıdır.
 
-26 kişilik bir sınıfta ingilizce bilenlerin sayısı yalnız Almanca bilenlerin sayısının iki katı, yalnız Almanca bilenlerin sayısı Almanca ve İngilizce bilenlerin iki katıdır.
+2. Sayma sayilari: S = {1, 2, 3, ...} şeklinde giden sayilardır.
 
-Almanca veİngilizce bilenlerin sayısı, bu dilleri bilmeyenlerin sayısının iki katı olduğuına göre, İngilizce bilen kaç öğrenci vardır?
+3. Doğal sayılar: N = {0, 1, 2, 3, ...} şeklinde giden sayılardır. N ile gösterilir.
 
-A) 12 B) 13 C) 14 D) 16 E) 18
+4. Tam sayilar:
 
-#### Tip-23
+ $$ \begin{array}{c}Z=\{\underbrace{-\infty,\;\ldots-2,-1,}_{negatif~tam~sayi}\;\bigg|\;\underbrace{0,\;1,2,\;\ldots\;\infty}_{pozitif~tam~sayi}\}\quad\uplus\quad\\ i\uplus a r e t s i z d i r\end{array} $$ 
 
-Bir sınıfta fizik dersinden geçenler biyoloji dersinden geçememiştir. Biyoloji ve matematik dersinden kalan 5, fizik ve matematik dersinden kalan 8, sadece fizik ve sadece biyoloji dersinden geçen 11 öğrenci vardır.
+Z ile gösterilir.
 
-Buna göre üç dersten de geçemeyen kaç öğrenci vardır?
+5. Rasyonel sayilar: a ve b (b ≠ 0) tam sayı olmak üzere  $ \frac{a}{b} $ şeklinde ifade edilen sayilardır. Q ile gösterilir.
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+6. irrasyonel sayilar:  $ \theta' = \left\{ \sqrt{2}, \frac{1}{\sqrt{3}}, e, \pi \right\} $ şeklinde ifade edilen sayilardır.  $ \theta' $ ile gösterilir.
 
-#### TIP-24
-
-Bir sınıfta gözluksuz erkek öğrenci sayısı gözlüklü kız öğrenci sayısının 4 katından 1 eksik, gözluksuz kız öğrenci sayısı gözlüklü erkek öğrenci sayınının 2 katından 2 fazla ve gözluksuz öğrenci sayısı gözlüklü öğrenci sayısının 3 katıdır.
-
-Gözlüklü erkek öğrenci sayısı 5 olduğunu göre, sınıf mevcudu kaçtır?
-
-A) 32 B) 34 C) 36 D) 38 E) 40
-
-#### TIP-25
-
-Bir sinavda sorulan 3 sorudan  $ \underline{\text{en az}} $ birini cevaplayan 60 kişinin 36'sı birinci soruyu, 26'sı ikinci soruyu ve 34'ü üçüncü soruyu cevaplamıştır.
-
-Bu sınavdaki üç soruyu da cevaplayan 10 kişi olduğunu göre, yalnız ikisi soruyu cevaplayan kaç öğrenci vardır?
-
-A) 13 B) 16 C) 19 D) 20 E) 23
-
-#### Tip-26
-
-Almanca, Fransızca veİngilizce dillerinden en az birini bilenlerden oluşan
-
-44 kişilik bir toplulukta, yalnız bir dil bilenlerin sayısı birbirine eşittir. Her üç
-
-dili bilenler 4, İngilizce ve Almanca bilenler 5, Almanca ve Fransızca bilenler
-
-7 kişidir.
-
-Buna göre, bu toplulukta İngilizce bilenler kaç kişidir?
-
-A) 17 B) 16 C) 15 D) 13 E) 12
-
-#### TiP - 27
-
-Bir apartmandaki bazı daireler, cumartesi ve pazar günlerinden en az birinde yemek siparişi vermiştir. Bu apartmandaki dairelerden;
-
-cumartesi günü yemek siparişi vermeyen daire sayısının 7.
-
-pazar günü yemek siparişi vermeyen daire sayısının 5,
-
-cumartesi günü de pazar günü de yemek siparişi vermeyen daire sayısının 3
-
-olduğu görülmüştür.
-
-Bu apartmanda 15 daire bulunduğuna göre, her iki günde de yemek siparişi veren daire sayısı kaçtır?
-
-A) 2 B) 3 C) 4 D) 5 E) 6
-
-##### Tip-28
-
-Aşağıdaki Venn semasında A, B ve C sepetlerinde bulunan meyveler gösterilmiştir.
-
-![Şekil/Grafik/Soru](images/image148.jpg)
-
-Buna göre, [A ∩ B) \ C] ∪ [C \ (A ∪ B)] kümesinde hangi meyveler yer alır?
-
-A) Erik ve muz          B) Nar ve çilek          C) Erik ve elma
-
-D) Kiraz ve nar        E) Elma ve kiraz
-
-#### TIP-29
-
-Elemanlari harfler olan 8 elemanlı A kümesinin bazı elemanlarıyla "matematik" ve "otomatik" kelimeleri, elemanları harfler olan 7 elemanlı B kümesinin bazı elemanlarıyla "fizik" ve "müzik" kelimeleri yazılabilmektedir.
-
-Buna göre, A ∩ B kümesinin elemanlarıyla;
-
-1. etik,
-
-II. küme,
-
-III. mazi
-
-kelimelerinden hangileri  $ \underline{\text{kesinlikle yazılamaz}} $?
-
-A) Yalnız I B) Yalnız II C) Yalnız III
-
-D) I ve II E) I ve III
-
-##### TIP-30
-
-Onur, tamamı büyük harflerle yazılmış 80 kelimeden oluşan bir metin okumuş ve bu metinde bulunan "A" harflerinin toplam sayısını merak edip bunları saymıştır. Onur, bu sayına işleminde toplam 105 tane "A" harfi bulunduğunu görmüştür.
-
-Ayrıca, Onur her bir kelimenin  $ \underline{\text{en fazla}} $ 2 tane "A" harfi içerdiğini ve "A" harfi içeren kelime sayısının, "A" harfi içermeyen kelime sayısının 3 katı olduğunu fark etmiştir.
-
-Buna göre, Onur'un okuduğu metinde yalnızca 1 tane "A" harfi içeren kelime sayısı kaçtır?
-
-A) 12 B) 15 C) 18 D) 21 E) 24
-
-#### Tip-31
-
-Aşağıdaki Venn semasında;
-
-• A harfi ile başlayan isimler kümesi A.
-
-N harfi ile biten isimler kümesi N.
-
-5 harfli isimler kümesi B
-
-ile gösterilmiştir.
-
-![Şekil/Grafik/Soru](images/image149.jpg)
-
-Buna göre,
-
-K = {AÇELYA, AHMET, AYSUN, BEREN, KENAN, NERMIN}
-
-kümesinin elemanlarından kaç tanesi şekilde boyalı bölgeler ile gösterilen kümenin elemanıdır?
-
-##### i $ \S $LEM
-
-▲, *, ◑, ■ gibi sembollerle ifade edilen işlemlerdir.
+7. Reel sayilar: Rasyonel sayilar ile irrasyonel sayılar kümesinin birleşimin-den oluşan sayılar kümesidir. R ile gösterilir.
 
 #### tip-1
 
-Reel sayilarda ▲ işlemi
+a, b ve c rakamdir.
 
-x ▲ y = 2x + 3y - 1
-
-şeklinde tanımlanıyor.
-
-Buna göre, 2 ▲ 3 işleminin sonucu kaçtır?
-
-A) 6 B) 8 C) 10 D) 12 E) 14
-
-#### TIP-2
-
-Reel sayilarda ■ işlemi,
-
-a ■ b = a - b + 2
-
-şeklinde tanımlanıyor.
-
-Buna göre, (1 ■ 2) 4 işleminin sonucu kaçtır?
-
-A) -1
-
-B) -3
-
-C) 2
-
-D) 4
-
-E) 5
-
-#### TIP-3
-
-Reel sayilarda * işlemi,
-
-x * y = 2x - y + 3
-
-şeklinde tanımlanıyor.
-
-k * 1 = 2 * 3  olduğuna göre, k kaçtır?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
-#### Tip-4
-
-Reel sayilarda
-
-a 🍌 b = a - b + 1
-
-x ▲ y = 2x + 3y + 2
-
-işlemleri tanımlanıyor.
-
-Buna göre, (1 ● 2) ▲ (2 ● 4) işleminin sonucu kaçtır?
-
-A) -1
-
-B) 1
-
-C) 2
-
-D) 3
-
-E) 4
-
-#### Tip -
+Buna göre, 3a + 2b - c ifadesinin  $ \underline{\text{en büyük}} $ ve  $ \underline{\text{en küçük}} $ değeri kaçtır?

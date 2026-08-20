@@ -1,151 +1,107 @@
-# 2026 KPSS Matematik: Oran - Orantı Bağıntıları ve Orantı Sabiti (k)
+# 2026 KPSS Matematik: Oran - Orantı Bağıntıları & Orantı Sabiti (k)
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-(a, c, e)}{Ebob(b, d, f)} $
+oranti sabiti} $
 
-4) Aralarında asal ya da ardışık sayıların EBOB'ları 1, EKOK'ları sayıların çarpımıdır.
+1)  $ \frac{a+c}{b+d}=k \rightarrow \frac{1}{2}=\frac{2}{4}=\frac{1+2}{2+4}=\frac{3}{6} $
 
-5)  $ \underline{\text{Problem sorularinda}} $;
+2)  $ \frac{2a + 3c}{2b + 3d} = k \rightarrow \frac{3}{2} = \frac{2}{4}^{15} \frac{3 \cdot 1 + 2 \cdot 5}{2 \cdot 3 + 4 \cdot 5} = \frac{13}{26} $
 
-1. Parçadan bütüne gidiliyorsa
+3)  $ \frac{a^{2}}{b^{2}} = \frac{c^{2}}{d^{2}} = k^{2} \rightarrow \frac{a^{2} + c^{2}}{b^{2} + d^{2}} = k^{2} $
 
-- Tuğlalandan küp yapma
+TIP-1
 
-– Sayının bölenlerini verip sayıyı bulma gibi
+a, b ve c pozitif doğal sayılardır.
 
-yani birleştirme, birlikte zil çalma gibi yapım olayı varsa sorunun
+ $$ \frac{a}{b}=\frac{2}{3}\qquad\frac{b}{c}=\frac{3}{5} $$ 
 
-çözümü EKOK'tur.
+olduğuna göre, a + b + c toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-##### II. Bütün eşit parçalanıyorsa,
+A) 6 B) 8 C) 10 D) 12 E) 14
 
-– Tarla etrafina eșit aralikli ağaç dikme
+#### TIP-2
 
-- Çuvallardaki ürünleri esit ayırma
+a ve b pozitif tam sayılardır.
 
-- Ēubuklari eşit bölme
+ $$ \frac{2a+b}{3a-b}=\frac{5}{3} $$ 
 
-gibi eşit parçalama, bölme, kesme, ayırma gibi yıkım olayları varsa sorunun çözümünde EBOB kullanılır.
+olduġuna gõre,  $ \frac{a}{b} $ ifadesinin sonucu kaçtir?
 
-#### MATEMATIK
+A)  $ \frac{5}{3} $ B)  $ \frac{8}{9} $ C)  $ \frac{11}{6} $ D)  $ \frac{13}{9} $ E)  $ \frac{17}{9} $
 
-#### TIP-1
+TiP-3
 
-EKOK'ları 12 olan iki doğal sayının toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
+ $$ \frac{a}{b}=\frac{c}{d}=\frac{e}{f}=\frac{2}{5} $$ 
 
-A) 12 B) 18 C) 24 D) 36 E) 48
+olduġuna gõre,  $ \frac{a \cdot d \cdot f}{b \cdot c \cdot e} $ ifadesinin sonucu kaçtır?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-2&lt;/div&gt; &lt;/div&gt;
+A)  $ \frac{1}{2} $ B) 1 C)  $ \frac{5}{2} $ D)  $ \frac{25}{4} $ E)  $ \frac{36}{5} $
 
-EKOK'ları 36 olan farklı iki doğal sayının toplamı en çok kaçtır?
+TIP-4
 
-A) 36 B) 54 C) 72 D) 80 E) 108
+a ve b pozitif doğal sayılardır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+ $$ \frac{a}{4}=\frac{b}{9}=k $$ 
 
-EKOK'ları 45 olan farklı iki doğal sayının toplamının  $ \underline{\text{en küçük}} $ değerik  $ \underline{\text{kaçtır?}} $
+olduğuna göre,  $ \sqrt{a} + \sqrt{b} $ ifadesinin sonucu nedir?
 
-A) 10 B) 11 C) 12 D) 13 E) 14
+A) 3k B) 5k C)  $ 3\sqrt{k} $ D)  $ 5\sqrt{k} $ E)  $ 7\sqrt{k} $
 
-EKOK'ları 50 olan üç farklı doğal sayının toplamının  $ \underline{\text{en büyük}} $ değerik  $ \underline{\text{kaçtır}} $?
+#### Tip-5
 
-A) 50 B) 75 C) 80 D) 85 E) 90
+x, y ve z pozitif doğal sayıdır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 16&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 17&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 18&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 19&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 20&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-Tip-5
+#### TIP-6
 
-EBOB'lari 5 olan farklı iki pozitif doğal sayının toplamı  $ \underline{\text{en az}} $ kaçtır?
+ $ a \cdot x = b \cdot y = c \cdot z = 2 $
 
-A) 5 B) 15 C) 20 D) 30 E) 45
+ $$ \frac{1}{x}+\frac{1}{y}-\frac{1}{z}=4 $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-6&lt;/div&gt; &lt;/div&gt;
-
-EBOB'lari 4 olan beş farklı doğal sayının toplamı  $ \underline{\text{en az}} $ kaçtır?
-
-A) 40 B) 50 C) 60 D) 70 E) 80
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-7&lt;/div&gt; &lt;/div&gt;
-
-a ve b ardişik doğal sayilardır.
-
-EKOK (a, b) + EBOB (a, b) = 133
-
-olduğuna göre, a + b toplamı kaçtır?
-
-A) 10 B) 11 C) 23 D) 25 E) 36
-
-#### Tip-8
-
-a ve b aralarında asaldır.
-
-EKOK (a,b) = 300
-
- $ b + \frac{36}{a} = 28 $
-
-olduğuna göre, a + b toplamı kaçtr?
-
-A) 12 B) 15 C) 25 D) 37 E) 45
-
-#### Tip-9
-
-x doğal sayı ve x &lt; 27 veriliyor.
-
-EBOB (x,4) = 2
-
-koşulunu sağlayan kaç farklı x doğal sayısı vardır?
+olduğuna göre, a + b -c ifadesinin sonucu kaçtır?
 
 A) 4 B) 5 C) 6 D) 7 E) 8
 
-#### Tip-10
+ $$ 2a+3c+e=26 $$ 
 
- $$ \mathsf{A}=2^{3}\cdot3^{4}\cdot5^{1} $$ 
+TIP-8
 
- $$ \mathsf{B}=2^{2}\cdot3^{3}\cdot5^{2} $$ 
+olduğuna göre, f kaçtir?
 
- $$ \mathsf{C}=2\cdot3^{2} $$ 
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-olduġuna gõre,  $ \frac{EKOK(A,B,C)}{EBOB(A,B,C)} $ ifadesinin sonucu kaçtir?
+ $$ \frac{2a+k\cdot c}{2b-3d}=3 $$ 
 
-A) 800 B) 850 C) 900 D) 950 E) 1000
+ $$ \frac{a}{b}=\frac{c}{d}=3 $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+olduğuna göre, k kaçtır?
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;A, B ve C farklı doğal sayılardır.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;EBOB (A, B) = 2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;EBOB (A, C) = 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;EBOB (B, C) = 5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;ifadesini sağlayan  $ \underline{\text{en küçük}} $ A + B + C toplamı kaçtır?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 21&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 25&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 30&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 31&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 40&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+A) -3 B) -2 C) 0 D) 2 E) 3
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-12&lt;/div&gt; &lt;/div&gt;
+##### TIP-7
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Boyutları sırasıyla 3, 4 ve 5 m olan tuğlalardan içi dolu bir küp yapılacaktır. Bunun için  $ \underline{\text{en az}} $ kaç tuğla gerekir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 36 B) 360 C) 720 D) 260 E) 3600&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+ $$ \frac{a}{b}=\frac{c}{d}=\frac{e}{f}=2 $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-13&lt;/div&gt; &lt;/div&gt;
+TIP-9
 
-Bir sepetteki güller 2 şer, 3 er ve 5 er sayıldığında her seferinde 1 gül artmaktadır.
+ $$ \frac{x+y}{x}=\frac{2x+y}{y}=\frac{3z+y}{z}=k $$ 
 
-Sepetteki gül sayısı 200'den fazla olduğuına göre, bu sepette  $ \underline{\text{en az}} $ kaç gül vardır?
+olduğuna göre, k kaçtır?
 
-A) 211 B) 212 C) 215 D) 220 E) 230
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-#### tip-14
+Tip-10
 
-Üç farklı zil sırayla  $ \frac{2}{3} $,  $ \frac{4}{5} $ ve  $ \frac{6}{7} $ saatte bir çalmaktadır.
+ $$ \frac{a-1}{2}=\frac{b}{3}=\frac{c-1}{7} $$ 
 
-Üçü aynı anda saat 13.00'te çaldıktan sonra tekrar saat kaçta  $ \underline{\text{ilk kez}} $
+ $$ a+b+c=20 $$ 
 
-birlikte çalar?
+olduğuna göre, a kaçtir?
 
-A) 13.00 B) 15.00 C) 17.00
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-D) 23.00 E) 01.00
-
-#### Tip-15
-
-A iki basamaklı bir doğal sayıdır.
-
-A = 3x + 1 = 4y + 2 = 6z - 2
-
-olduğuna göre, bu koşula uygun  $ \underline{\text{en büyük}} $ A sayısının rakamlar toplamı kaçtır?
-
-A) 11 B) 12 C)
+####

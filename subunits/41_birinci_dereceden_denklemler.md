@@ -1,227 +1,249 @@
-# 2026 KPSS Matematik: I. Dereceden Bir ve İki Bilinmeyenli Denklem Sistemleri
+# 2026 KPSS Matematik: I. Dereceden Bir ve İki Bilinmeyenli Denklemler
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-da bu listeden her bir adında rastgele iki sayıyı seçip topluyor ve 9 ile kalanıni defterine yazıp topladığı iki sayıyı siliyor. Bu işlemi son adında iki sayı kalana kadar devam ettiriyor.
+I. DERECEDEN DENKLEMLER
 
-Gözde'nin yaptığı bu işlemlerin sonunda listede bıraktığı sayılardan biri 17, diğerisi x'tir.
+a sifirdan farklı bir reel sayı ve b reel sayı olmak üzere,
 
-Buna göre, son adında listede kalan x sayısı  $ \underline{\text{en az}} $ kaçtır?
+ $$ a x+b=0 $$ 
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+şeklindeki denklemlere x değişkenine bağlı birinci dereceden bir bilinmeyenli denklemler denir. Burada x denklemin köküdür.
 
-##### Tip-18
+§ ax + b = 0 ⇒ x = - $ \frac{b}{a} $  Çözüm kümesi: Ç.K =  $ \left\{-\frac{b}{a}\right\} $
 
-Aşağıda boyunun uzunluğu üç basamaklı a3b cm olan iki eşit uzunluğun ayı ayı 3 ve 5 cm'lik parçalara ayrılmasının görünmü verilmiştir.
+0 = 0, 1 = 1, 2 = 2 gibi ifadelerde çözüm kümesi sonsuz elemanlıdır.
 
-![Şekil/Grafik/Soru](images/image28.jpg)
+Yani Ç.K. = R'dir.
 
-![Şekil/Grafik/Soru](images/image29.jpg)
+0 = 1, 3 = 5 gibi ifadelerde ise çözüm kümesi boş kümedir. Yani Ç.K = O TİP - 1
 
-Buna göre, a + b toplaminin  $ \underline{\text{en büyük}} $ değeri kaçtır?
+a ve b birer tam sayı olmak üzere,
 
-A) 10 B) 12 C) 14 D) 16 E) 18
+ $$ (a-3)x^{2}+2x^{b-2}+4=0 $$ 
 
-#### Asal Çarpanlar
+denklemi birinci dereceden bir bilinmeyenli denklem olduğuna göre, + b toplamı kaçtır?
 
-x, y, z pozitif tam sayılar ve a, b, c birbirinden farklı asal sayılar olmak üzere,  $ A = a^x \cdot b^y \cdot c^z $ ifadeseine  $ A' $nın asal çarpanlarına ayrılması denir.
+A) 4 B) 5 C) 6 D) 7 E) 8
 
-### NOT
+tip-2
 
-x, y ve z pozitif tam sayılar ve a, b ve c birbirinden farklı asal sayılar olmak üzere,
+ $$ \frac{3x-1}{2}-\frac{4x-3}{3}=\frac{x+4}{4} $$ 
 
- $ A = a^{X} \cdot b^{Y} \cdot c^{Z} $
+olduğuna göre, x gerçel sayısı kaçtir?
 
-şeklinde asal çarpanlarına ayrılmış olan A doğal sayısının,
+A) -7 B) -6 C) -5 D) -4 E) -3
 
-1. Pozitif tam sayı bölenlerinin sayısı
+##### TIP-3
 
-P·b·s = (x + 1)(y + 1)(z + 1)
+ $$ \frac{x+a}{2}+\frac{x-a}{3}=2x+1 $$ 
 
-2. Negatif tam sayı bölenlerinin sayısı
+denkleminin kökü x = 1 olduğunu göre, a kaçtır?
 
-N·b·s = (x + 1)(y + 1)(z + 1)
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-3. Tam sayi bölenlerinin sayısı
+tip-4
 
-T·b·s = 2·(p·b·s)
+ $$ \frac{2}{x-1}-\frac{1}{x}+\frac{2}{x+1}=\frac{k}{x-2} $$ 
 
-4. Asal olmayan pozitif tam sayı bölenlerin sayısı A·O·P·B·S = P·B·S - {asal sayı adedi}
+denkleminin bir kökü {−1, 0, 1, 2, 3} kümesinin bir elemanıdır.
 
-##### tip-1
+denkleminin bir kökü {-1, 0, 1, 2, 3} kümesinin bir elemanıdır.
 
-60 sayisini tam bōlen kaç tane doğal sayı vardır?
+Buna göre, k değeri kaçtır?
 
-A) 12 B) 13 C) 15 D) 17 E) 19
+A)  $ \frac{1}{6} $ B)  $ \frac{3}{4} $ C)  $ \frac{5}{6} $ D)  $ \frac{7}{6} $ E)  $ \frac{11}{3} $
 
-#### Tip-2
+#### TIP-5
 
-120 sayisinin,
+ $$ (2a-4)x+4b+20=0 $$ 
 
-a) Pozitif tam sayı bölen sayısı kaçtır?
+denklemi, x'in bütün değerleri için sağlanmaktadır.
 
-b) Negatif tam sayı bölen sayısı kaçtır?
+Buna göre, a + b toplamı kaçtır?
 
-CEVAP: (16)
+A) -5 B) -4 C) -3 D) -2 E) -1
 
-c) Tam sayı bölenlerinin sayısı kaçtır?
+#### Birinci Dereceden iki Bilinmeyentli ifadeler
 
-CEVAP: (16)
+a ve b sifirdan farklı reel sayılar ve c reel sayı olmak üzere,
 
-CEVAP: (32)
+ $ ax + by + c = 0 $
 
-d) Asal olmayan pozitif tam bölen sayısı kaçtır?
+şeklindeki denklemlerdir. Bu denklem x ve y'nin bütün değerleri için sağlanıyorsa a = b = c = 0 olmalıdır.
 
-CEVAP: (13)
+#### TIP-6
 
-e) Pozitif tam sayı bölenlerinden kaç tanesi çift sayıdır?
+(a - 1)x + (b - 2)y + c + 3 = 0
 
-CEVAP: (12)
+denklemi her x ve y değeri için sağlandığına göre, a · b · c çarpımı kaçtır?
 
-f) 15'in katı olan kaç tane pozitif tam sayı böleni vardır?
+A) -6 B) -3 C) 0 D) 3 E) 6
 
-CEVAP: (4)
+Denkle Sistemi
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+ax + by + c = 0
 
-60 sayisinin,
+dx + ey + f = 0
 
-a) Pozitif bölenlerinden kaç tanesi çifttir?
+şeklinde en az iki tane bilinmeyenli denklemden oluşan sisteme iki bilinmeyenli denklem sistemi denir. Burada,
 
-A) 8 B) 7 C) 6 D) 5 E) 4
+ $ \frac{a}{d} = \frac{b}{e} = \frac{c}{f} $ ise çözüm kümesi sonsuz elemanlidir. Yani reel sayilardır.
 
-b) Pozitif bölenlerinden kaç tanesi 3 ile tam bölünür?
+ $ \frac{a}{d} \neq \frac{b}{e} $ ise çözüm kümesi tek elemanlidir.
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+ $ \frac{a}{d} = \frac{b}{e} \neq \frac{e}{f} $ ise çözüm kümesi boş kümedir.
 
-c) Pozitif bölenlerinin kaç tanesi 15'in katıdır?
+##### TIP-7
 
-A) 4 B) 6 C) 5 D) 2 E) 3
+$(a-1)x+2y=4$
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-4&lt;/div&gt; &lt;/div&gt;
+3x-by=2
 
- $$ 111^{2}+222^{2}+333^{2} $$ 
+denklem sisteminin çözüm kümesi sonsuz elemanlidir.
 
-sayisinin  $ \underline{\text{en büyük}} $ asal çarpanı ile  $ \underline{\text{en küçük}} $ asal çarpanının toplamı kaçtir?
+Buna göre, a + b toplamı kaçtır?
 
-A) 37 B) 39 C) 41 D) 43 E) 47
-
-#### Tip - 5
-
-A'nin 3 tane pozitif böleni olduğuna göre A kaç farklı değer alır?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
- $$ 8\cdot6^{x} $$ 
-
-sayısının 18 tane pozitif tam sayı böleni olduğuna göre x kaçtır?
-
-A) 2 B) 3 C) 4 D) 5 E) 6
-
-#### TIP-7
-
-x ve y pozitif doğal sayıdır.
-
- $$ 36\cdot x=y^{2} $$ 
-
-ifadesini sağlayan  $ \underline{\text{en küçük}} $ x + y toplamı kaçtır?
-
-A) 7 B) 10 C) 16 D) 20 E) 32
+A) 4 B) 5 C) 6 D) 7
 
 #### Tip-8
 
-a ve b pozitif doğal sayıdır.
+ $$ x=\frac{4y+8}{y-3} $$ 
 
-60 $ \cdot $a = b $ ^{2} $
+esitliğinde x'in hangi değeri için y  $ \underline{\text{bulunamaz}} $?
 
-denklemini sağlayan  $ \underline{\text{en küçük}} $ a + b toplamı kaçtır?
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-A) 15 B) 30 C) 45 D) 50 E) 60
+#### TIP-9
 
-#### tip-9
+a ve b gerçek sayıları için
 
-a ve b sifirdan farklı tam sayıdır.
+ $$ \frac{a+2}{b+1}=\frac{2}{3} $$ 
 
- $ 24 \cdot a = b^{2} $
+ $$ \frac{a-1}{b-2}=\frac{1}{3} $$ 
 
-denklemini sağlayan a + b toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
+olduğuna göre, a  b çarpımı kaçtır?
 
-A) -6 B) 6 C) 12 D) 18 E) 24
+A) 9 B) 10 C) 12 D) 15
 
-#### Tip-10
+#### TIP 10
 
-x doğal sayıdır.
+ $$ \frac{1}{a}+\frac{1}{b}=\frac{1}{3} $$ 
 
- $ \frac{60}{x} $
+ $$ \frac{1}{b}+\frac{1}{c}=\frac{1}{4} $$ 
 
-ifadesinin sonucu asal sayı ise x in alabileceği değerler toplamı kaçtır?
+ $$ \frac{1}{a}+\frac{1}{c}=\frac{1}{6} $$ 
 
-A) 10 B) 20 C) 44 D) 62 E) 76
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-##### Tip-11
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
 
-x pozitif bir tam sayı olmak üzere, x ten büyük en küçük asal sayıya “x in asal komşusu” denir ve A[x] ile gösterilir.
+a, b ve c pozitif geçel sayıları için
 
-Örneğin:
+ $$ 5a-2b-2c=0 $$ 
 
-A[4] = 5
+ $$ 5ab+5ac=8 $$ 
 
-A[11] = 13 gibi
+eşitlikleri sağlanmaktadır.
 
-Buna göre,
+Buna göre, a + b + c toplamı kaçtır?
 
-A[x] + A[y] = 13
+A) 5 B)  $ \frac{7}{5} $ C)  $ \frac{11}{5} $ D)  $ \frac{14}{5} $ E)  $ \frac{17}{5} $
 
-esitliğini sağlayan kaç tane (x, y) sıralı ikilisi vardır?
+##### TIP-12
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="5"&gt;x + 2y + 3z = 7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;2x + y + 4z = 11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;3x + y + 3z = 22&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="5"&gt;olduğuna göre, x + y + z toplamı kaçtir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 9&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+x ve y reel sayı olmak üzere:
+
+ $$ (2x+y-6)^{2}+|3x-y-14|=0 $$ 
+
+denklemini sağlayan x ve y değerleri için x·y çarpımı kaçtır?
+
+A) -10 B) -8 C) -6 D) 6 E) 8
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-14&lt;/div&gt; &lt;/div&gt;
+
+a ve b gerçel sayılar olmak üzere,
+
+a + 2b = 16
+
+ $ \frac{b-a}{a}=\frac{1}{2} $
+
+olduğuna göre, a + b toplamı kaçtir?
+
+A) 10 B) 12 C) 14 D) 16 E) 18
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-15&lt;/div&gt; &lt;/div&gt;
+
+ $$ \frac{x+2}{2}+\frac{2}{x+2}=\frac{2x+5}{4} $$ 
+
+esitliğini sağlayan x değeri kaçtır?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+#### Tip-16
+
+x gerçek sayısı için
+
+ $$ \frac{x-1}{\sqrt{x}+1}=\frac{x}{\sqrt{x}-1} $$ 
+
+olduğuna göre, x kaçtır?
+
+A) $\frac{1}{2}$ B) $\frac{1}{3}$ C) $\frac{1}{4}$ D) $\frac{1}{5}$ E) $\frac{1}{6}$
+
+TIP-17
+
+![Şekil/Grafik/Soru](images/image69.jpg)
+
+Şekilde verilen dairesel hücrenin içindeki sayı, ok ile gösterilen hücrelerdeki ifadelere eşittir.
+
+Buna göre, a kaçtır?
+
+A) 7 B) 9 C) 12 D) 14 E) 16
+
+#### tip-18
+
+x, y ve z birbirinden farklı pozitif tam sayılar olmak üzere,
+
+esitlikleri veriliyor.
+
+Buna göre, x + y + z toplamı kaçtır?
 
 A) 6 B) 7 C) 8 D) 9 E) 10
 
-#### TIP-12
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-19&lt;/div&gt; &lt;/div&gt;
 
-n bir pozitif tam sayı olmak üzere, ⓘ gösterimi ile n sayısının farklı asal bölenlerinin sayısı gösteriliyor. Ayrıca, m bir doğal sayı olmak üzere, ⬛ gösterimi ile m sayısının basamak sayısı gösteriliyor.
+Aşağıdaki tabloda bazı hücrelere sayılar yazılmıştır.
 
-x pozitif tam sayısı için,
+![Şekil/Grafik/Soru](images/image70.jpg)
 
-![Şekil/Grafik/Soru](images/image30.jpg)
+Bu tabloda yan yana olan her iki hücredeki sayının toplamı, bu iki hücre ile ortak noktası olan bir üst satırdaki hücreye yazılacaktır.
 
-esitliği sağlanıyor.
+Buna göre, n kaçtır?
 
-Buna göre, x sayısı aşağıdakilerden hangisi olabilir?
+A) 4 B) 6 C) 8 D) 10 E) 12
 
-A) 9 B) 11 C) 13 D) 15 E) 17
+##### Tip-20
 
-#### EBOB: En büyük ortak bölen demektir.
+Bir boy cetvelinde; Enes'in boyu 143,6 cm, kardeşi Burak'ın ise ayaklarının altına küp biçiminde bir kutu koyularak kutunun yüksekliği ile boyunun toplamı 122,8 cm olarak ölçülmüştür.
 
-Örnek:
+![Şekil/Grafik/Soru](images/image71.jpg)
 
- $$ \begin{array}{r|r}20&amp;\quad50&amp; \textcircled{10} \quad \rightarrow\text{EBOB}=10\\2&amp;\quad5&amp; \\ \hline \end{array} $$ 
+Enes'in boyu Burak'ın boyundan 28,2 cm  $ \underline{\text{daha fazla}} $ olduğuna göre, kutunun yüksekliği kaç cm'dir?
 
-EBOB (3, 9) = 3
+A) 7 B) 7,2 C) 7,4 D) 7,6 E) 7,8
 
-EBOB (8, 10) = 2
+# yarqi yayinevi
 
-➢ EBOB (a, b) = k ise
+Oran: İki ifadenin birbirine bölünmesidir.
 
- $ \frac{a}{k} $ ve  $ \frac{b}{k} $ tam sayıdır.
+Oranti: Birden fazla oranın bir araya gelmesinden oluşur.
 
-EBOB (a, b) = 2 ise
-
-![Şekil/Grafik/Soru](images/image31.jpg)
-
-aralarında asaldır.
-
-EKOK: En küçük ortak kat demektir.
-
- $$ \begin{array}{|c|c|c|}\hline{{\underline{{\mathcal{O r n e k}}}}:}}&amp;{{20}}&amp;{{15}}\\ \hline{{4}}&amp;{{3}}&amp;{{3}}\\ {{4}}&amp;{{1}}&amp;{{4}}\\ {{1}}&amp;{{}}&amp;{{}}\end{array} $$ 
-
-1) EBOB (a, b) ≤ a, b ≤ EKOK (a, b)
-
-EKOK = 5.3.4 = 60
+ $$ \frac{a}{b}=\frac{c}{d} $$ 
 
 Özellikler
 
-2)  $  \mathbf{a} \cdot \mathbf{b} = \text{EBOB} \, (\mathbf{a}, \mathbf{b}) \cdot \text{EKOK} \, (\mathbf{a}, \mathbf{b})  $
-
-3) EKOK  $ \left(\frac{a}{b}, \frac{c}{d}, \frac{e}{f}\right) = \frac{Ekok
+ $ \frac{a}{b} = \frac{c}{d} = k \rightarrow \text{

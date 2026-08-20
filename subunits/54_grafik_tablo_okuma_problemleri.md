@@ -1,185 +1,343 @@
-# 2026 KPSS Matematik: Grafik ve Tablo Okuma (Daire, Sütun ve Doğrusal Grafikler)
+# 2026 KPSS Matematik: Grafik ve Tablo Okuma (Daire, Sütun, Çizgi)
 **Modül:** Modül 3: Problemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-# NOT
+Doğrusal Grafikler
 
-Sorunun içi ile dışındaki ifade birbirine benziyorsa mutlağın tanımını kullan.
+![Şekil/Grafik/Soru](images/image112.jpg)
 
-#### TIP-18
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-1&lt;/div&gt; &lt;/div&gt;
 
-|x-2|=x-2
+Aşağıdaki grafikte, bir aracın aldığı yol ve deposunda kalan akaryakit miktarı verilmiştir.
 
-|x-7|=7-x
+Akaryakitin litresi 5 TL'dir.
 
-denklemini sağlayan x tam sayı değeri toplamı kaçtır?
+![Şekil/Grafik/Soru](images/image113.jpg)
 
-A) 24 B) 25 C) 26 D) 27 E) 28
+1. Bu araç 1 Litre akaryakit ile kaç km yol alır?
 
-![Şekil/Grafik/Soru](images/image50.jpg)
+A) 10 B) 15 C) 20 D) 25 E) 30
 
-##### NOT
+2. Verilen grafişe göre, 800 km yol alan bir araç kaç TL'lik akaryakitharcar?
 
-Mutlak değer içini sifir yapan değerlerde en küçüktür.
+A) 40 B) 100 C) 120 D) 200 E) 240
 
-Mutlaklar sirali ise ortadaki sayıyı sifir yapan değere bak.
+3. Aracin deposou 80 litre akaryakit aliyor.
 
-##### Tip-19
+Depo doldurulup yola çıkılırsa kaç km yol alınır?
 
- $ A = |x + 1| + |x + 2| + |x + 3| $
+A) 1200 B) 1400 C) 1600 D) 1800 E) 2000
 
-A'nin alabilecegi  $ \underline{\text{en küçük}} $ degeri kaçtir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-2&lt;/div&gt; &lt;/div&gt;
 
-A) 1 B) 2 C) 3 D) 4 E) 5 TiP - 2O
+![Şekil/Grafik/Soru](images/image114.jpg)
 
- $$ \frac{18}{\left|x-1\right|+\left|x-2\right|+\left|x-3\right|} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;'. Grafik&lt;/div&gt; &lt;/div&gt;
 
-ifadesinin  $ \underline{\text{en büyük}} $ değeri kaçtır?
+![Şekil/Grafik/Soru](images/image115.jpg)
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;II. Grafik&lt;/div&gt; &lt;/div&gt;
 
-Tip-21
+Yukaridaki I. grafikte undan elde edilen hamur miktari, II. grafikte ise hamurdan elde edilen ekmek miktarı gösterilmektedir.
 
-A = |x - 2| - |x - 7|
+Buna göre 2100 adet ekmek üretmek için kaç kg un gereklidir?
 
-A nın kaç farklı tam sayı değeri vardır?
+A) 300 B) 280 C) 250 D) 210 E) 200
 
-A) 8 B) 9 C) 10 D) 11 E) 12
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
 
-#### TIP-22
+![Şekil/Grafik/Soru](images/image116.jpg)
 
- $ |x + 2| + |x - 5| $
+Bir kişinin günlere göre uyuma sürelerini gösteren tablo aşağıda verilmiştir.
 
-ifadesinin alamayacağı doğal sayılar toplamı kaçtır?
+1. Buna göre, bu kişinin 7 gün boyunca uyuduğu toplam süre daire grafişle gösterildiğinde, çarşamba günü uyuduğu süreyi gösteren daire diliminin merkez açısı kaç derecedir?
 
-A) 21 B) 20 C) 15 D) 17 E) 7
+A) 60 B) 70 C) 72 D) 75 E) 80
 
-##### MATEMATIK
+2. Bu kişinin salı günü uyuduğu süre, cuma günü uyuduğu sürenin yüzde kaçıdır?
 
-##### TIP-23
+A) 75 B) 70 C) 67,5 D) 65 E) 62,5
 
-|x - 1| + |x - 5| = 4
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-4&lt;/div&gt; &lt;/div&gt;
 
-ifadesini sağlayan kaç farklı x tam sayı değeri vardır?
+![Şekil/Grafik/Soru](images/image117.jpg)
 
-A) 5 B) 4 C) 3 D) 2 E) 1
+Yukaridaki grafik A, B, C, D, E ürünlerinin satıldığı bir mağazada bu ürünlerin bir günün başlangıcındaki sayısını göstermektedir.
 
-##### TIP-24
+Gün sonunda ürünlerin her birinden eşit sayıda kalması için toplam  $ \underline{\text{en}} $  $ \underline{\text{az}} $ kaç adet ürün satılması gerekir?
 
-|x - 1| + |x - 5| = 6
+A) 18 B) 20 C) 23 D) 26 E) 29
 
-denklemini sağlayan kaç farklı x tam sayı değeri vardır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-5&lt;/div&gt; &lt;/div&gt;
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+Bir yörede yetiştirilen ürün miktarının dağıtımı aşağıdaki grafikte verilmiştir.
 
-##### TIP-25
+![Şekil/Grafik/Soru](images/image118.jpg)
 
-|x-1|+|x-5|=2
+1. Arpa üretimi, tüm üretimin yüzde kaçidir?
 
-denklemini sağlayan kaç farklı x tam sayı değeri vardır?
+A) 15 B) 20 C) 25 D) 30 E) 35
 
-A) 0 B) 1 C) 2 D) 3 E) 4
+2. Bu yörede yetiştirilen buğday miktarı nohut miktarından 150 ton fazlade arpa miktarı pirinç miktarından kaç ton fazladır?
 
-##### TIP-26
+A) 10 B) 20 C) 25 D) 30 E) 45
 
- $$ \frac{x^{2}+4}{\left|x+2\right|-3}\leq0 $$ 
+Tip - 6
 
-esitsizliğini sağlayan kaç farklı x tam sayı değeri vardır?
+![Şekil/Grafik/Soru](images/image119.jpg)
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+Yukaridaki grafik sabit hızla hareket eden bir aracın aldığı yola göre deposunda kalan benzin miktarını göstermektedir.
 
-#### tip-27
+1. Bu araç, deposunda bulunan 48 litre benzin ile kaç km yol alır?
 
- $ \frac{5}{4} $ kesrinin sayı doğru üzerinde  $ \frac{4}{3} $,  $ \frac{6}{5} $ ve  $ \frac{7}{6} $ kesirlerine olan uzaklıkları sırasıyla A, B ve C birimdir.
+A) 240 B) 230 C) 200 D) 180 E) 170
 
-Buna göre, aşağıdaki sıralamalardan hangisi doğrudur?
+2. Bu araç 360 km'lik bir mesafede kaç litre benzin harcar?
 
-A) A &lt; B &lt; C B) A = B &lt; C C) B &lt; A &lt; C
+A) 98 B) 86 C) 75 D) 72 E) 69
 
-D) B &lt; A = C E) B &lt; C &lt; A
+#### TIP-7
 
-#### TIP-28
+Bir mağazanın deposunda A, B, C ve D olmak üzere dört çeşit ürün vardır.
 
-x, y ve z tam sayılar için
+![Şekil/Grafik/Soru](images/image120.jpg)
 
- $$ \left|x+y\right|=2 $$ 
+Aşağıdaki dairesel grafiklerin birincisinde depodaki ürünlerin toplam sayısını ikincisinde ise depodaki ürünlerin toplam ağırlığının ürün çeşidine göre dağıtımı gösterilmiştir.
 
- $$ \left|y+z\right|=1 $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;1. Grafik&lt;/div&gt; &lt;/div&gt;
 
- $$ \left|z+3\right|=0 $$ 
+![Şekil/Grafik/Soru](images/image121.jpg)
 
-esitlikleri veriliyor.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;2. Gratik&lt;/div&gt; &lt;/div&gt;
 
-Buna göre, x aşağıdakilerden hangisi  $ \underline{\text{olamaz}} $?
+1. Bu depoda toplam 1200 tane ürün varsa bunların kaçı C ürünüdür?
 
-A) -6 B) -4 C) -2 D) 0 E) 2
+A) 250 B) 235 C) 190 D) 180 E) 175
 
-#### TIP-29
+2. D ürünlerinin toplam ağırlığı 100 kg ise bu depoda toplam kaç kg ürün vardır?
 
-a bir gerçel sayı olmak üzere,
+A) 1050 B) 950 C) 800 D) 760 E) 710
 
-|x - a| = a + 2
-
-eşitliğini sağlayan x gerçel sayılarının çarpımının -12 olduğu biliniyor.
-
-Buna göre, a kaçtır?
+3. Bir B ürünün ağırlığı, bir A ürünün ağırlığının kaç katıdır?
 
 A) 2 B) 3 C) 4 D) 5 E) 6
 
-#### Tip-30
+#### TIP-8
 
-a &lt; 0 &lt; b olmak üzere,
+Aşağıda bir arsanın dört kardeş arasındaki pay dağılımını gösteren daire grafiği verilmiştir.
 
-|a| + |a - b| = 6
+![Şekil/Grafik/Soru](images/image122.jpg)
 
-|b| + |b - a| = 5
+1. Hakan ve Burcu paylarından vazgeçmişlerdir ve bu paylar diğer kardeşler arasında eşit olarak paylaşılmıştır.
 
-esitlikleri veriliyor.
+Buna göre, Murat'ın payı yüzde kaç artııştır?
 
-Buna göre, a + b toplamı kaçtır?
+A) 55 B) 60 C) 65 D) 70 E) 75
 
-A) -2 B) -1 C) 0 D) 1 E) 2
+2. Toplam 3600 m² olan arsadaki kendi paylarının tamamını satan Burcu ve Doruk bu satıştan eşit miktarda para elde etmiştir.
 
-#### Tip-31
+Burcu kendi payının m² sini 120 TL'ye sattığına göre, Doruk kendi payının m² sini kaç TL'ye satmıştır?
 
-x bir tam sayı olmak üzere,
+A) 150 B) 180 C) 195 D) 200 E) 210
 
-|2x² - 5x - 7|
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-9&lt;/div&gt; &lt;/div&gt;
 
-ifadesi bir asal sayıya eşittir.
+![Şekil/Grafik/Soru](images/image123.jpg)
 
-Buna göre, x'in alabileceği değerlerin toplamı kaçtır?
+Yukaridaki grafikte, A ve B bitkilerinin boy-zaman grafigi verilmiştir.
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+Buna göre, B bitkisi ayda kaç cm büyükmektedir?
 
-#### Tip-32
+A) 6 B) 7 C) 8 D) 9 E) 10
 
-Sayı doğrusu üzerinde pozitif bir A sayısı şekilde gibi gösterilmiştir.
+##### Tip-10
 
-![Şekil/Grafik/Soru](images/image51.jpg)
+![Şekil/Grafik/Soru](images/image124.jpg)
 
-Sonra, bu sayı doğrusu üzerinde; O'a olan uzaklığı, A sayısının 0'a olan uzaklığının yarısına eşit olan sayılar işaretleniyor.
+Yukaridaki grafik, aynı yönde hareket eden A ve B hareketlilerinin zamana bağlı olarak aldıkları yolları göstermektedir.
 
-isaretlenen sayılardan birinin A sayısına uzaklığı 6 birim olduğunu göre, A sayısının alabileceği değerler toplamı kaçtır?
+1. Karşılaşmadan kaç saat sonra A ve B hareketlileri arasındaki mesafe 60 km olur?
 
-A) 15 B) 16 C) 18 D) 20 E) 21
+A) 3 B) 4 C) 5 D) 6 E) 7
 
-&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Tetkik adi&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Sonuc&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;$ \text{Unite} $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Referans Aralik&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Demir&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;86&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Ng/dL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;33 - 193&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Eritrosit&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;70 $ \times $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;fL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;75 - 100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Trombosit&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;- $ \times $&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;NL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;200 - 300&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+2. İlk hareketten 12 saat sonra aralarındaki mesafe kaç km olur?
 
-Özel bir hastanede kan değerlerini ölçüren İsa'nın test sonuçları yukarıda verilmiştir. Bu sonuçların altında "★" işareti varsa, bu o sonucun referans aralığı dışında olduğu anlamına gelmektedir. İsa'nın kan sonucu kâğındaki trombosit sayısı tam olarak okunamamıştır.
+A) 65 B) 78 C) 80 D) 83 E) 92
 
-Buna göre, İsa'nın kanındaki trombosit sayısını gösteren ifade aşağıdakilerden hangisidir?
+3. A hareketlisinin B hareketlisini 2 saat sonra yakalaması için A hizini kaç km artırmalıdır?
 
- $$ A)\quad50&lt;\left|x-250\right|&lt;180 $$ 
+A) 10 B) 15 C) 20 D) 25 E) 30
 
- $$ \mathrm{B})\quad|x-250|&lt;50 $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-11&lt;/div&gt; &lt;/div&gt;
 
- $$  C)\ \left|x-250\right|&gt;50 $$ 
+Mihriban okula gitmek için evden çıkıyor. Bir süre sonra ödev dosyasını evde unuttuğunu fark ediyor. Eve dönüp dosyasını evde bir süre arıyor. Dosyasını bulduktan sonra tekrar okula doğru yola çıkıyor.
 
- $$ D)\ \left|x-200\right|&gt;150 $$ 
+Bu öyküde anlatılan olayın kahramanı Mihriban'ın eve olan uzaklığının değişimini, zamana bağlı olarak gösteren grafik aşağıdakilerden hangisidir?
 
- $$ \mathsf{E})\ \left|x-250\right|=50 $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)&lt;/div&gt; &lt;/div&gt;
 
-Bir seminar için Roma'ya giden Sevtap gitmeden önce hava durumu açıklamalarına bakmıştır. Salı gün
+![Şekil/Grafik/Soru](images/image125.jpg)
+
+![Şekil/Grafik/Soru](images/image126.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image127.jpg)
+
+![Şekil/Grafik/Soru](images/image128.jpg)
+
+![Şekil/Grafik/Soru](images/image129.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-12&lt;/div&gt; &lt;/div&gt;
+
+Bir bölgedeki tarım arazisinin ne kadarının hangi ürün için kullanıldığını gösteren daire grafiği aşağıdadır.
+
+Narenciye ürünlerinin çeşitlerini göstermek için ayrıca başka bir daire grafik çizilmiştir.
+
+![Şekil/Grafik/Soru](images/image130.jpg)
+
+1. Bu bölgedeki mandalına için kullanılan arazi 250 dönüm ise misir için kullanılan alan kaç dönümdür?
+
+A) 810 B) 850 C) 900 D) 920 E) 950
+
+2. Bu bölgede kullanılan greyfurt için kullanılan arazi limon için kullanından 200 dönüm fazlaysa buğday için kullanılan arazi kaç dönümdür?
+
+A) 1300 B) 1440 C) 1740 D) 2000 E) 2400
+
+#### Tip-13
+
+Özdeş oksijen tüpleri kullanan Cihan ve Levent isimli dalgıçların denizde bulundukları derinliğin zamana göre değişimi ve oksijen tüplerinin doluluk yüzdelerinin zamana göre değişimi aşağıdaki doğrusal grafiklerde verilmiştir.
+
+![Şekil/Grafik/Soru](images/image131.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(dk)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image132.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(dk)&lt;/div&gt; &lt;/div&gt;
+
+1. Levent 15 metre derinlikte iken oksijen tüpünün yüzde kaçını kullanmıştır?
+
+A) 10 B) 12 C) 15 D) 18 E) 20
+
+2. 4. dakika sonunda Levent, Cihan'a göre kaç metre daha derindedir?
+
+A) 12 B) 10 C) 8 D) 6 E) 4
+
+### 3. Buna göre,
+
+1. Levent'in dalış hızı çıkış hızından büyüktür.
+
+II. Cihan, Levent'ten daha çok oksijen tüketmektedir.
+
+III. Cihan ile Levent'in dalış hızları arasındaki fark 1m/dk'dır.
+
+#### ifadelerinden hangileri doğrudur?
+
+A) Yalnız I
+
+B) Yalnız II
+
+C) I ve III
+
+D) II ve III
+
+E) I, II ve III
+
+#### Tip-14
+
+Tuna'nin A, B ve C adlarında sırasıyla 90, 120 ve 150 sayfa olan üç kitabı vardır. Bu üç kitabı farklı günlerde okumaya başlayan Tuna, her bir kitabı okumaya başladığı günden bitirdiği güne kadar her gün o kitaptan 30 sayfa okuyarak bitirmiştir.
+
+![Şekil/Grafik/Soru](images/image133.jpg)
+
+Yukaridaki grafikte Tuna'nin bu kitapları okumaya başladığı ilk günden itibaren her gün okuduğu toplam sayfası verilmiştir.
+
+Buna göre, Tuna'nın 1. gün ve 7. gün okuduğu kitaplar aşağıdakilerden hangisinde doğru olarak verilmiştir?
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1. gün&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7. gün&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-15&lt;/div&gt; &lt;/div&gt;
+
+Fatih'in belirli bir günde evden çıkış saatine göre işe varış süresinin gösterildiği aşağıdaki grafikte, 07.00 - 08.00 ve 08.00 - 09.00 saatleri arasındaki grafik gösterimleri doğrusaldır.
+
+![Şekil/Grafik/Soru](images/image134.jpg)
+
+08.00 ile 09.00 arasında bir saatte evden çıkan Fatih, tam bir saat önce evden çıksaydı işe varma süresi yine aynı olacaktı.
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 09.12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 09.15&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 09.18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 09.21&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 09.24&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
+
+Aşağıdaki grafikte, bir sporcunun üç saat boyunca yürüyerek ve koşarak aldığı mesafelerle ilgili bazı bilgiler verilmiştir.
+
+![Şekil/Grafik/Soru](images/image135.jpg)
+
+Bu sporcu, sabah saat 07.00'de başlayıp saatte 6 km sabit hızla yürümüş, sonra belirli bir anda hızını %50 artırarak sabit hızla saat 10.00'a kadar koşmuştur.
+
+Buna göre, sporcunun yürüyerek aldığı mesafe ile koşarak aldığı mesafenin toplamı kaç km'dir?
+
+A) 17 B) 18 C) 19 D) 20 E) 21
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-17&lt;/div&gt; &lt;/div&gt;
+
+Bir markette bir dondurma markasına ait çikolatalı, meyveli ve sade olmak üzere üç çeşit dondurma satılmaktadır. Aşağıda, belirli bir haftanın başında bu markette bulunan bu üç çeşit dondurmanın sayılarıyla ilgili bilgiler sütun grafişinde, belirlenen bu haftanın sonunda markette kalan bu üç çeşit dondurmanın sayıla dağıtımı ise daire grafişinde gösterilmiştir.
+
+![Şekil/Grafik/Soru](images/image136.jpg)
+
+![Şekil/Grafik/Soru](images/image137.jpg)
+
+Belirenen haftanın sonunda kalan bu üç çeşit dondurmanın toplam sayısının, bu hafta boyunca satılan bu üç çeşit dondurmanın toplam sayısına oranı  $ \frac{2}{3} $'tür.
+
+Buna göre, bu hafta boyunca çıkolatalı dondurma çeşidinden kaç adet satılmıştır?
+
+A) 45 B) 50 C) 60 D) 75 E) 80
+
+# MATEMATIK
+
+1.  $ \epsilon = elemanidir $.
+
+Elemanidir ifadeleri olduğu gibi gösterilir.
+
+2. ⊂ = Alt küme
+
+Alt küme ifadeleri { } içinde gösterilir.
+
+3. s(A): A kümesinin eleman sayıdır.
+
+tip-1
+
+## A = {1, 2, {3, 4}, 5} kümesi için
+
+1.  $ 1 \in A $
+
+II. {1, 2} ∈ A
+
+V. 1 ÁA
+
+VI. {1,2} Á A
+
+Ⅲ. {3, 4} ∈ A
+
+VII. {3, 4} Á A
+
+IV. {5} ∈ A
+
+VIII. s(A) = 5
+
+#### ifadelerinden kaç tanesi doğrudur?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+Alt küme: Bir kümenin elemanları ile yazılabilecek tüm kümeridir.
+
+n elemanli bir kümenin 2 $ ^{n} $ tane alt kümesi vardır.
+
+![Şekil/Grafik/Soru](images/image138.jpg)
+
+#### ORNEK
+
+A = {1, 2, 3} kümesinin alt

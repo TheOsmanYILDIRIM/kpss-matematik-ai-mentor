@@ -1,495 +1,493 @@
-# 2026 KPSS Matematik: Bileşke Fonksiyon ((f o g)(x)) ve Grafik Yorumlama
+# 2026 KPSS Matematik: Bileşke Fonksiyon ((fog)(x)) ve Grafikler
 **Modül:** Modül 4: İleri Konular & Mantık
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-uzunlukları eşit olduğunuan,
+f(g(x))
 
-A(ABCD) = a ⋅ h
+(gof)(x) = g(f(x))
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;b)&lt;/div&gt; &lt;/div&gt;
+#### TIP-18
 
-![Şekil/Grafik/Soru](images/image495.jpg)
+Reel sayilar kümesi üzerinde tanımlı f ve g fonksiyonları
 
-Eşkenar dörtgende köşegenler birbirini dik keser.
+f(x) = 2x + 7
 
- $$ \mathsf{A}(\mathsf{ABCD})=\frac{|\mathsf{AC}|\cdot|\mathsf{BD}|}{2} $$ 
+g(x) = 3x - 5
 
-![Şekil/Grafik/Soru](images/image496.jpg)
+olduğu biliniyor.
 
-Eşkenar dörtgenin köşegenleri aynı zamanda açıortay doğrularıdır.
+Buna göre, (fog)(3) kaçtır?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-33&lt;/div&gt; &lt;/div&gt;
+A) 7 B) 9 C) 13 D) 15 E) 18
 
-![Şekil/Grafik/Soru](images/image497.jpg)
+##### tip-19
 
-ABCD bir eşkenar dörtgen
+ $ f(x) = 2x + 1 $
 
-[DF] ⊥ [CB]
+olduğuna göre, (fof)(3) kaçtir?
 
-| CE | = | EB |
+A) 9 B) 11 C) 12 D) 14 E) 15
 
- $ m(\widehat{EFB}) = x $
+#### TIP-20
 
-Yukaridaki verilere göre, x kaç derecedir?
+f(x) =  $ \begin{cases} x^2 + 1, &amp; x \text{ rasyonel değilse} \\ 2x - 1, &amp; x \text{ rasyonel ise} \end{cases} $
 
-A) 15 B) 25 C) 30 D) 45 E) 60
+biçiminde veriliyor.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;6. DELTOID&lt;/div&gt; &lt;/div&gt;
+Buna göre, (fof)(\sqrt{2}) kaçtır?
 
-![Şekil/Grafik/Soru](images/image498.jpg)
+A) \sqrt{2} B) 3\sqrt{2} C) 3 D) 4 E) 5
 
-Tabanları çakışık iki ikizkenar üçgenin oluşturduğu dörtgene deltoid denir.
+#### Tip-21
 
-![Şekil/Grafik/Soru](images/image499.jpg)
+ $ f(x) = |x + 1| $
 
-Deltoidin kösegenleri birbirine diktir.
+ $ g(x) = |x + 3| $
 
-[AC] ⊥ [BD]
+esitliği veriliyor.
 
-b) Köşegenleri dik olduğundan alanı A(ABCD) =  $ \frac{1}{2} \cdot |AC| \cdot |BD| $
+(fog)(x) = 3 eşitliğini sağlayan x'ler toplamı kaçtır?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;c)&lt;/div&gt; &lt;/div&gt;
+A) -6 B) -5 C) -4 D) -3 E) -2
 
-![Şekil/Grafik/Soru](images/image500.jpg)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-22&lt;/div&gt; &lt;/div&gt;
 
-ABCD deltoidinde [AC] köşeğeni aynı zamanda A ve C açılarının açıortay doğrusudur.
+Aşağıda y = f(x) fonksiyonunun grafifi verilmiştir.
 
-d) ABD ve BCD ikizkenar üçgenlerinin tabanını oluşturan köşegen diğer köşegen tarafından iki esit parçaya bölünür.
+![Şekil/Grafik/Soru](images/image170.jpg)
 
-![Şekil/Grafik/Soru](images/image501.jpg)
+Buna göre,  $ \frac{f^{-1}(0)+f(0)}{f^{-1}(7)} $ kaçtır?
 
-Deltoidin farklı kenarlarının birlestiği köşelerdeki açıları eşittir.
+A)  $ \frac{-1}{5} $ B)  $ \frac{-3}{2} $ C)  $ \frac{-2}{3} $ D)  $ \frac{2}{3} $ E)  $ \frac{5}{7} $
 
- $$ \left(\widehat{ABC}\right)=m\left(\widehat{ADC}\right) $$ 
+#### TIP-23
 
-Deltoidin çevresi ise; a + a + b + b = 2a + 2b
+ $$ A=\{1,2,3,4,5\} $$ 
 
-= 2(a + b) dir.
+ $$ f\colon A\to A $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-34&lt;/div&gt; &lt;/div&gt;
+olduğuna göre, f(1) + f(2) + f(3) toplamının alabileceği  $ \underline{\text{en büyük}} $ değerikaçtır?
 
-![Şekil/Grafik/Soru](images/image502.jpg)
+A) 6 B) 9 C) 12 D) 15 E) 18
 
- $$ |C D|=5c m $$ 
+#### TIP-24
 
-Yukaridaki verilere göre, ABCD deltoidinin alanı kaç cm² dir?
+A = {1, 2, 3, 4, 5, 6}
 
-A) 7 B) 8 C) 15 D) 18 E) 21
+f: A → A ve f birebir ve örtendir.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-35&lt;/div&gt; &lt;/div&gt;
+f(x) = k - x ise k kaçtir?
 
-![Şekil/Grafik/Soru](images/image503.jpg)
+A) 7 B) 10 C) 11 D) 8 E) 9
 
-ABCD deltoid
+TIP-25
 
- $$ \left|\begin{array}{l}\mathsf{AE}\end{array}\right|=\left|\begin{array}{l}\mathsf{EB}\end{array}\right| $$ 
+a bir gerçel sayı olmak üzere, gerçel sayılar kümesi üzerinde tanımlı
 
- $$ |C F|=|F D| $$ 
+f(x) = ax + 3
 
- $$ \complement(ABCD)=20\ cm $$ 
+g(x) = 3x + 1
 
-Yukaridaki verilere göre, |OE| + |OF| kaç cm'dir?
+fonksiyonları, her x gerçel sayısı için,
 
-A) 5 B) 6 C) 8 D) 10 E) 12
+(fog)(x) = (gof)(x)
 
-![Şekil/Grafik/Soru](images/image504.jpg)
+eşitliğini sağlıyor.
 
-Düzlemde sabit bir noktadan eşit uzaklıkta olan noktaların kümesine çember denir.
+Buna göre, a kaçtır?
 
-O noktası çemberin merkezi ve [AB] çemberin çapıdır.
+A) 7 B) 8 C) 9 D) 10 E) 11
 
-| AB | = 2r çap uzunluğu | OA | = | OB | = r  
+#### TIP-26
 
-yariçap uzunluğudur.
+Dik koordinat düzleminde f + g ve f − g fonksiyonların grafikleri şekilde verilmiştir.
 
-a)
+![Şekil/Grafik/Soru](images/image171.jpg)
 
-![Şekil/Grafik/Soru](images/image505.jpg)
+ $ (f \cdot g)(a) = 8 $
 
-### 1. CEMBERDE AÇILAR
-
-O noktasi çemberin merkezi olmak üzere merkez açı gördüğü yayın ölçüsüne eşittir.
-
- $$ m(\widehat{AB})=\alpha\operatorname{ise} $$ 
-
- $ m(\widehat{AOB}) = \alpha \, \mathrm{d}lr. $
-
-Aynı yayı görev açıların ölçüleri birbirine eşittir.
-
-#### UYARI
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;b)&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image506.jpg)
-
- $ m(\widehat{AB}) = 2\alpha $ ise
-
-C noktasi çemberin üzerinde olmak üzere, çevre açı gördüğü yayın ölçüsünün yarısına eşittir.
-
- $$ m\left(\widehat{ACB}\right)=\alpha\quad dir. $$ 
-
-![Şekil/Grafik/Soru](images/image507.jpg)
-
-Çapı gören çevre açının ölçüsü 90° dir.
-
-[AB] çemberinin çapı ise
-
- $$ m(\widehat{ABC})=90^{\circ}dir. $$ 
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;d)&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image508.jpg)
-
-AC doğrusu A noktasında çembere teğet, [AB] kiriştir.
-
-BAC teğet - kiriş açısının ölçüsü, gördüğü yayın açı ölçüsünün yarısına eşittir.
-
- $ m(\widehat{AB}) = 2\alpha $ olsun.
-
- $ m(\widehat{BAC}) = \alpha \, olur. $
-
-#### UYARI
-
-Aynı yayı görev açının ölçüsüyle teğet kiriş açının ölçüleri birbirine eşittir.
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image509.jpg)
-
-Şekilde [AB] kiriş, AC doğrusu A noktasında çembere teğettir. D noktası çemberin üzerin-dedir.
-
- $$ m\left(\widehat{BAC}\right)=30^{\circ} $$ 
-
-### Buna göre, m(  $ \widehat{ADB} $ ) kaç derecedir?
-
-A) 10 B) 20 C) 30 D) 40 E) 60
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;e)&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image510.jpg)
-
-Şekildeki O noktası çemberin merkezidir. Çemberde merkezden teğetin değme noktasına çizilen yarıçap teğete diktir. AB doğrusu O noktasında çembere teğet olmak üzere
-
-t)
-
- $ m(\widehat{OAB}) = 90^\circ $ dir.
-
-![Şekil/Grafik/Soru](images/image511.jpg)
-
-A noktası çemberin içinde rastgele bir noktasıdır.
-
-g)
-
- $$ \alpha=\frac{m(\widehat{BC})+m(\widehat{DE})}{2}\quad\mathrm{olur}. $$ 
-
-![Şekil/Grafik/Soru](images/image512.jpg)
-
- $$ m\left(\widehat{BPD}\right)=\alpha $$ 
-
- $$ \alpha=\frac{m(\widehat{BD})-m(\widehat{AC})}{2} $$ 
-
-![Şekil/Grafik/Soru](images/image513.jpg)
-
-A ve B teğet değme noktaları
-
-m $ \left(\widehat{AOB}\right)=\alpha $ ise
-
- $ \alpha + m(\widehat{AB}) = 180^{\circ} $ dir.
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-2&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image514.jpg)
-
-O merkezli çemberde [AO]//[BC]
-
-m(OCB) = 60°
-
-Yukaridaki verilere göre, m( $ \widehat{OAB} $) kaç derecedir?
-
-A) 40 B) 50 C) 60 D) 70 E) 80
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image515.jpg)
-
- $  \text{m}(\widehat{\mathbf{B}})=10^\circ  $
-
- $  \text{m}(\widehat{\mathbf{C}})=40^\circ  $
-
-Yukaridaki verilere göre, m($\widehat{\mathbf{A}}$) = x kaç derecedir?
-
-A) 50 B) 60 C) 65 D) 70 E) 90
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image516.jpg)
-
-Şekilde
-
-m($\widehat{BAC}$) = 60°
-
-m($\widehat{BEC}$) = 84°
-
-m($\widehat{BPC}$) = x
-
-Yukaridaki verilere göre, x kaç derecedir?
-
-A) 10 B) 20 C) 30 D) 36 E) 45
-
- $$ Tip-5 $$ 
-
-![Şekil/Grafik/Soru](images/image517.jpg)
-
-O merkezl çemberin yarıçapı | BE | uzunluğuna eşittir.
-
- $ m(\widehat{ACB}) = 69^{\circ} $
-
- $ m(\widehat{ABC}) = x $
-
-Yukaridaki verilere göre, x kaç derecedir?
-
-A) 10 B) 11 C) 12 D) 13 E) 14
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-6&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image518.jpg)
-
-O merkezli çemberde
-
- $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{E C}\end{array}\right| $$ 
-
- $$ m\left(\widehat{A O C}\right)=30^{\circ} $$ 
-
- $$ m\left(\widehat{BEA}\right)=50^{\circ} $$ 
-
-Yukaridaki verilere göre, m($\widehat{EBA}$) kaç derecedir?
-
-A) 65 B) 70 C) 75 D) 80 E) 85
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-7&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image519.jpg)
-
-O₁ merkezil çemberin yarıçapı 2√2 cm,
-
-O merkezli çemberin yarıçapı
-
-2 cm'dir.
-
-Yukaridaki verilere göre, m($\widehat{ACB}$) = α kaç derecedir?
-
-A) 15 B) 20 C) 25 D) 30
-
-### 2. CEMBERDE UZUNLUK VE KUVVET
-
-![Şekil/Grafik/Soru](images/image520.jpg)
-
-O merkezli çemberin yarıçap uzunluğu r olsun.
-
-Çevre = 2πr dir.
-
-b)
-
-![Şekil/Grafik/Soru](images/image521.jpg)
-
-O merkezli çemberde
-
-AB yayının uzunluğu
-
-$|\widehat{AB}|=\frac{\alpha}{360^{\circ}}\cdot2\pi r$ dir.
-
-c)
-
-![Şekil/Grafik/Soru](images/image522.jpg)
-
-Şekilde A ve B noktaları teğet
-
-değme noktaları ise,
-
-|PA|=|PB| dir.
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;d)&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image523.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;e)&lt;/div&gt; &lt;/div&gt;
-
-Bir çemberde merkezden teğete inen doğru parçaları diktir.
-
-![Şekil/Grafik/Soru](images/image524.jpg)
-
-Bir çemberde merkezden eşit uzaklıkta bulunan kirişlerin uzunlukları birbirine eşittir.
-
-Şekilde; | AB | = | CD | dir.
-
-t)
-
-![Şekil/Grafik/Soru](images/image525.jpg)
-
-Bir çemberde, çemberin merkezinden, herhangi bir kirişin orta noktasına çizilen doğru parçası kirişe diktir.
-
-g) Tegetler Dörtgeni: Bir çembere dört kenarından teğet olan dörtgene teğetler dörtgeni denir.
-
-![Şekil/Grafik/Soru](images/image526.jpg)
-
-Teğetler dörtgeninden karşılıklı kenar uzunlukları toplamı birbirine eşittir.
-
- $ a + b = c + d $
-
-h) Kirişler Dörtgeni: Köşeleri aynı çember üzerinde bulunan dörtgene dinir.
-
-![Şekil/Grafik/Soru](images/image527.jpg)
-
-Kirişler dörtgeninde karşılıklı açıların toplamı 180° dir.
-
- $$ m(\widehat{\boldsymbol{A}})+m(\widehat{\boldsymbol{C}})=180^{\circ} $$ 
-
- $$ m(\widehat{D})+m(\widehat{B})=180^{\circ} $$ 
-
-Çemberde Kuvvet Özellikleri
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;1.&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image528.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-8&lt;/div&gt; &lt;/div&gt;
-
- $$ |PA|^{2}=|PB|\cdot|PC|\quad dir. $$ 
-
-![Şekil/Grafik/Soru](images/image529.jpg)
-
- $ \left|PB\right|=4\ cm $
-
- $ \left|BC\right|=5\ cm $
-
-Yukaridaki verilere göre, |PA| = x kaç cm'dir?
+olduğuna göre, b kaçtir?
 
 A) 3 B) 4 C) 5 D) 6 E) 7
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;2.&lt;/div&gt; &lt;/div&gt;
+#### TIP-27
 
-![Şekil/Grafik/Soru](images/image530.jpg)
+Dik koordinat düzleminde [0, 3] aralığında tanımlı f(x) ve g(x) fonksiyonlarının grafikleri şekilde verilmiştir.
 
- $ |PA| \cdot |PB| = |PC| \cdot |PD| $ dir.
+![Şekil/Grafik/Soru](images/image172.jpg)
 
-![Şekil/Grafik/Soru](images/image531.jpg)
+Bir a ∈ (0, 1) sayısı için
 
- $ \left| PA \right| = 4 \, \text{cm} $
+b = (fog)(a)
 
- $ \left| AB \right| = 2 \, \text{cm} $
+c = (gof)(a)
 
- $ \left| PC \right| = 3 \, \text{cm} $
+olarak belirleniyor.
 
-Yukaridaki verilere göre, |CD|=x kaç cm'dir?
+Buna göre; a, b ve c sayılarının doğru sıralanışı aşağıdakilerden hangisidir?
+
+A) a &lt; b &lt; c B) a &lt; c &lt; b C) b &lt; a &lt; c
+
+D) b &lt; c &lt; a E) c &lt; a &lt; b
+
+a ve b gerçel sayılar olmak üzere, gerçel sayılar kümesi üzerinde f ve g fonksiyonları
+
+ $ f(x) = ax - b $
+
+ $$ \mathrm{g}(\mathrm{x})=\mathrm{bx}-2 $$ 
+
+biçiminde tanımlanıyor.
+
+(f + g)(1) = f(1)
+
+ $$ (f+g)(2)=g(2) $$ 
+
+olduġuna gõre, a · b çarpimi kaċċir?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+#### Tip-29
+
+Gökçen Öğretmen, matematik dersinde şöyle bir tanım yapmıştır:
+
+"Gerçel sayılar kümesi üzerinde tanımlı bir f fonksiyonu, her x gerçel sayısı için
+
+ $ f(f(x)) = x $
+
+eşitliğini sağliyorsa bu fonksiyonya çetin fonksiyon denir."
+
+Buna göre, gerçel sayılar kümesi üzerinde tanımlı
+
+I.  $ f(x) = 1 + x $
+
+II.  $ f(x) = 1 - x $
+
+III.  $ f(x) = -x $
+
+fonksiyonlarından hangileri bir çetin fonksiyondur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+##### tip-1
+
+Bir kâğida 1, 2, 3 ve 4 rakamları birer kez kullanılarak oluşturulan dört basamaklı bir ABCD doğal sayısı yazılıyor. Bu sayıyı bulmak isteyen dört kişinin yaptığı tahminler aşağıda verilmiştir.
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4. ki $ \S $i&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+İkinci kişi, bu sayının  $ \underline{\text{sadece}} $ B rakamını bilmiş; diğer üç kişi ise hiçbir rakamını bilememiştir.
+
+Buna göre, ABCD sayısı kaçtır?
+
+A) 3214 B) 4132 C) 2134 D) 1234 E) 3412
+
+#### TIP-2
+
+Bireysel bir yarışmaya giren A, B, C, D ve E kişilerinin derecelerini 1, 2, 3, 4 ve 5 rakamlarını kullanarak tahmin etmeye çalışan Buket, Ceyda, Deniz, Leyla ve Müge adlı kişilerin tahminleri aşağıdaki tabloda verilmiştir.
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Buket&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Ceyda&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Deniz&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Leyla&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Müge&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+• A ve B'nin derecesini hiç kimse doğru tahmin edememiştir.
+
+• C ve D'nin derecelerini sadece Ceyda ve Deniz doğru tahmin etmiştir.
+
+E'nin derecesini herkes doğru tahmin etmiştir.
+
+Müge'nin sadece bir tahmini doğrudur.
+
+a) Yarişmada 1. olan kişi kimdir?
+
+A) E B) C C) A D) D E) B
+
+b) A, yarışmayı kaçinci sırada tamamlamıştır?
 
 A) 1 B) 2 C) 3 D) 4 E) 5
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;3.&lt;/div&gt; &lt;/div&gt;
+c) Eğer Müge'nin tüm tahminleri doğru olsaydı, 3 tahmini doğru olan kişiler kimler olurdu?
 
-![Şekil/Grafik/Soru](images/image532.jpg)
+A) Buket – Ceyda B) Buket – Deniz C) Ceyda – Deniz
 
- $ |AP| \cdot |PB| = |CP| \cdot |PD| $ dir.
+D) Deniz – Leyla E) Buket – Leyla
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-10&lt;/div&gt; &lt;/div&gt;
+#### tip-3
 
-![Şekil/Grafik/Soru](images/image533.jpg)
+Bir şehirdeki otobüs kullanımı için uygulanan tarife şu şekildedir.
 
- $$ |PC|=6cm $$ 
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Öğrenci&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Tam&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Tekli bilet fiyatı&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1,5 TL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2 TL&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&amp;#x27;lu bilet fiyatı&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;12,5 TL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;18 TL&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;20&amp;#x27;li bilet fiyatı&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;24 TL&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;35 TL&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
- $$ \left|BP\right|=\left|PD\right|=x $$ 
+a) Bu şehirde otobüse 154 defa binen bir kişi  $ \underline{\text{en az}} $ kaç lira öder?
 
-Yukaridaki verilere göre, x kaç cm'dir?
+A) 183 B) 185,5 C) 186 D) 186,5 E) 187
 
-A) $\sqrt{2}$ B) $\sqrt{3}$ C) $2\sqrt{2}$ D) $2\sqrt{3}$ E) $3\sqrt{3}$
+b) Öğrenci olan bir kişi öğrenci bileti yerine yanlışlıkla 5 tane tekli, 2 tane 10'lu ve 1 tane 20'li tam��let almıştır.
+
+Bu öğrencinin zararı kaç TL dir?
+
+A) 23 B) 23,5 C) 24,5 D) 25 E) 25,5
+
+#### tip-4
+
+K, L ve M takımlarının katıldığı bir futbol turnuvasında her takım diğer takımlarla birer maç yapmıştır.
+
+Bu turnuvadaki kurallar aşağıdaki gibidir.
+
+• Galip gelen takima 3 puan verilmekte, mağlup olan takım ise puan alamamaktadır.
+
+Beraberlik durumunda ise her iki takima 1'er puan verilmektedir.
+
+a) Buna göre, turnuva sonunda üç takımın puanları toplamı  $ \underline{\text{en az}} $ kaç olur?
+
+A) 4 B) 5 C) 6 D) 7 E) 8
+
+b) Bu turnuvada bir takımın puanı aşağıdakilerden hangisi  $ \underline{\text{olamaz}} $?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+c) Turnuva sonunda K takimi 4 puan, L takimi 2 puan aldigina göre, M takimi kaç puan almıştır?
+
+A) 1 B) 2 C) 3 D) 4 E) 6
+
+#### MATEMATIK
+
+#### tip-5
+
+Bir iş yerinde üç çeşit yazıcı bulunmaktadır. Bu yazıcılardan bir sayfa çıktı alma süreleri şöyledir.
+
+A yazıcısı = 6 saniye
+
+B yazıcısı = 4 saniye
+
+C yazıcısı = 3 saniye
+
+a) B yazicisindan 15 sayfa çıktı alınan sürede C yazicisindan kaç sayfa çıktı alınır?
+
+A) 10 B) 20 C) 30 D) 40 E) 50
+
+b) Aynı anda başlayarak bu üç yazıcidan 4 dakika boyunca çıktı alınıyor.
+
+Buna göre alınan çıktılar toplam kaç sayfadır?
+
+A) 140 B) 150 C) 160 D) 170 E) 180
+
+#### TIP-6
+
+Bir oyun parkindaki heyecan treninde 1'den 50'ye kadar numaralandırılmış ve yan yatma özelliğine sahip koltuklar bulunuyor. Bu trenin parkurdaki 1. turunda  $ \underline{\text{sadece}} $ 1 numaralı koltuk yan yatıyor. 2. turunda numarası 2'nin tam katı olan tüm koltuklar yan yatıyor. 3. turda numarası 3'ün tam katı olan tüm koltuklar yan yatıyor. Tren bu biçimde devam ederek 20. tur sonunda yolcularını indiriyor.  $ \underline{\text{Her bir tur sonunda}} $ ise yan yatan koltuklar normal konumlarına geliyor.
+
+a) Buna göre 18 ve 24 numaralı koltuklar kaç turda aynı anda yan yatmıştır?
+
+A) 7 B) 6 C) 5 D) 4 E) 3
+
+b) Aşağıda numarası verilmiş koltuklardan hangisi 20. tur sonunda sayıca diğerlerinden  $ \underline{\text{daha fazla}} $ yan yatmıştır?
+
+A) 45 B) 12 C) 40 D) 36 E) 30
+
+c) Buna göre 20. tur sonunda kaç koltuk  $ \underline{\text{sadece}} $ bir kez yan yatmıştır?
+
+A) 12 B) 10 C) 9 D) 7 E) 6
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-7&lt;/div&gt; &lt;/div&gt;
+
+Aşağıdaki şekilde çember ve karelerin içine şu kurala göre pozitif tam sayılar yazılıyor.
+
+Kuralı: Her bir karenin içine yazılan sayı, kendisine komşu olan iki çember içine yazılan sayıların çarpımına eşit olmalıdır.
+
+![Şekil/Grafik/Soru](images/image173.jpg)
+
+a)
+
+![Şekil/Grafik/Soru](images/image174.jpg)
+
+Yukaridaki şekle göre, çember içine yazılacak olan sayıların toplamı kaçtır?
+
+A) 5 B) 10 C) 15 D) 20 E) 25
+
+b)
+
+![Şekil/Grafik/Soru](images/image175.jpg)
+
+Yukaridaki şekle göre, A · B çarpımı kaçtır?
+
+A) 14 B) 16 C) 20 D) 21 E) 28
+
+c)
+
+![Şekil/Grafik/Soru](images/image176.jpg)
+
+Yukaridaki  $ \underline{\text{sekle}} $ göre, boş karenin içine  $ \underline{\text{aşağıdak}} $ı sayılardan hangisi  $ \underline{\text{yazılamaz}} $?
+
+A) 6 B) 24 C) 54 D) 72 E) 96
+
+![Şekil/Grafik/Soru](images/image177.jpg)
+
+Birim küplerle oluşturulmuş aşağıdaki yapının üstten, önden ve sol yandan görünümleri çizilmek isteniyor.
+
+Örneğin, bu yapıya önden bakıldığında aşağıda verilen şekildeki taranmış kareler görülür.
+
+Bu görünümün kâgıda çizilmiş ise şöyledir:
+
+![Şekil/Grafik/Soru](images/image178.jpg)
+
+![Şekil/Grafik/Soru](images/image179.jpg)
+
+a) Bu yapıya sol yandan bakıldığında kaç kare görülür?
+
+A) 3 B) 4 C) 5 D) 6 E) 7
+
+b) Bu yapının üstten görünümünün kâgida çizilmişi aşağıdakilerden hangisidir?
+
+A)
+
+![Şekil/Grafik/Soru](images/image180.jpg)
+
+B)
+
+C)
+
+![Şekil/Grafik/Soru](images/image181.jpg)
+
+![Şekil/Grafik/Soru](images/image182.jpg)
+
+D)
+
+![Şekil/Grafik/Soru](images/image183.jpg)
+
+E)
+
+![Şekil/Grafik/Soru](images/image184.jpg)
+
+c)
+
+![Şekil/Grafik/Soru](images/image185.jpg)
+
+Bu yapıdan harflerle belirtilen küplerin hangisi çıkarılırsa önden görünümün kâgıda çizilmişi  $ \underline{\text{değişmez}} $?
+
+A) A B) B C) C D) D E) E
+
+Aşağıda köşelerine 1, 2, 3 ve 4 numaraları verilen kare biçimindeki bir kâğidin iki adında döride katlanması gösterilmektedir.
+
+![Şekil/Grafik/Soru](images/image186.jpg)
+
+1. adim
+
+![Şekil/Grafik/Soru](images/image187.jpg)
+
+2.adim
+
+• Birinci adında kâğıt sağdan sola, ikinci adında ise aşağıdan yukarıya katlanıyor. Böylece 1, 2, 3 ve 4 numaralı köşeler çakıştırılıyor.
+
+Daha sonra kâğidin konumu  $ \underline{\text{değistirilmeden}} $ bazı parçalar kesilerek çıkarılıyor.
+
+a) Kesilen parçalar çıkarıldıktan sonra kâğıt, konumu değiştirilmeden katlandığı yerlerden tamamen açılıyor ve aşağıdaki görünüm elde ediliyor.
+
+![Şekil/Grafik/Soru](images/image188.jpg)
+
+Buna göre, kâğidin açılmadan önceki biçimi aşağıdakilerden hangisidir?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image189.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image190.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image191.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image192.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image193.jpg)
+
+b) İkinci adımdan sonra kâğıt, konumu  $ \underline{\text{değiştirilmeden}} $ aşağıdaki gibi kesiliyor.
+
+![Şekil/Grafik/Soru](images/image194.jpg)
+
+Buna göre, kesildikten sonra konumu değiştirilmeden katlandığı yerlerden tamamen açılan bu kâğidin görünümü aşağıdakilerden hangisidir?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image195.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image196.jpg)
+
+![Şekil/Grafik/Soru](images/image197.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image198.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image199.jpg)
+
+![Şekil/Grafik/Soru](images/image200.jpg)
+
+Yukaridaki üç adet zarin görünmeyen yüzlerindeki sayıların toplamı kaçtir?
+
+A) 21 B) 23 C) 40 D) 63 E) 65
 
 #### Tip-11
 
-![Şekil/Grafik/Soru](images/image534.jpg)
+![Şekil/Grafik/Soru](images/image201.jpg)
 
-## O merkezli çemberde
+Yukaridaki şekil O merkezi etrafında saatin tersi yönünde 315° çevrilirse aşağıdaki görünümlerden hangisi elde edilir?
 
- $$ \left|AB\right|=\left|CD\right|=10cm $$ 
+![Şekil/Grafik/Soru](images/image202.jpg)
 
- $$ |OF|=(2x-1)cm $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)&lt;/div&gt; &lt;/div&gt;
 
- $ |OE|=(x+2) $ cm
+![Şekil/Grafik/Soru](images/image203.jpg)
 
-Yukaridaki verilere göre, çemberin yarıçapı kaç cm'dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)&lt;/div&gt; &lt;/div&gt;
 
-A)  $ 2\sqrt{2} $ B)  $ 3\sqrt{2} $ C)  $ 4\sqrt{2} $ D)  $ 5\sqrt{2} $ E)  $ 6\sqrt{2} $
+![Şekil/Grafik/Soru](images/image204.jpg)
 
-![Şekil/Grafik/Soru](images/image535.jpg)
+![Şekil/Grafik/Soru](images/image205.jpg)
 
- $$ \left|O_{1}O_{2}\right|=13cm $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)&lt;/div&gt; &lt;/div&gt;
 
-Yukaridaki O_{1} ve O_{2} merkezli ayrık çemberlerden O_{2} merkezli çemberin yarıçapı 3 cm olduğuna göre, O_{1} merkezli çemberin yarıçapı kaç cm'dir?
+![Şekil/Grafik/Soru](images/image206.jpg)
 
-A) 8 B) 10 C) 12 D) 14 E) 15
+#### Tip-12
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-13&lt;/div&gt; &lt;/div&gt;
+Bir bilgisayar algoritması girilen a, b ve c tam sayıları için aşağıdaki adımları sırasıyla uyguluyor:
 
-![Şekil/Grafik/Soru](images/image536.jpg)
+1. adim: K = (a + b).c olarak hesapla ve 2. adima git.
 
-ABC bir dik üçgen
+2. adim: K değerî çift ise 3. adima, tek ise 4. adima git.
 
-|AC|=3cm
+3. adim: c'nin değerini 1 azalt ve 1. adima git.
 
- $ |BD|=1\text{cm} $
+4. adim: K'nin değerini ekrana yaz.
 
- $ |BE|=x\ cm $
+Bu algoritma, girilen a, b ve c tam sayıları için 4. adına hiçbir zaman geçememiştir.
 
-Şekildeki A merkezli çember yayı ABC üçgenini E noktasında kesmektedir
+#### Buna göre;
 
-Buna göre, |BE| = x kaç cm'dir?
+1. c çift sayıdır.
 
-A) 1,1 B) 1,2 C) 1,3 D) 1,4 E) 1,6
+II. a + b çift sayıdır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-14&lt;/div&gt; &lt;/div&gt;
+III. a. c Ịft sayidir.
 
-![Şekil/Grafik/Soru](images/image537.jpg)
+#### ifadelerinden hangileri  $ \underline{\text{her zaman}} $ doğrudur?
 
-O merkezli çemberde
+A) Yalnız I B) Yalnız II C) I ve II
 
- $$ \left|E B\right|=8\mathrm{c m} $$ 
+D) II ve III E) I, II ve III
 
-|OE|=5 cm
+## yarqi yayinevi
 
- $ |OA|=x\ cm $
-
-Yukaridaki verilere göre, |OA| = x kaç cm'dir?
-
-A)  $ \sqrt{41} $ B)  $ \sqrt{55} $ C)  $ 3\sqrt{7} $ D)  $ 3\sqrt{11} $ E)  $ 2\sqrt{21} $
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-15&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image538.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A) 11&lt;/div&gt; &lt;/div&gt;
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 12&lt;/div&gt; &lt;/div&gt;
-
-Birbirine dıştan teğet üç eş çemberlerin yarıçapları 1 cm olmak üzere çemberlerin çevresini saran telin uzunluğu kaç birimdir? (π = 3 alınız.)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 15&lt;/div&gt; &lt;/div&gt;
-
-tip-16
-
-![Şekil/Grafik/Soru](images/image539.jpg)
-
-[CA çembere A noktasında teğettir.
-
-AC|=6cm
-
- $$ |CD|=4cm $$ 
-
- $$  AD\mid=5\;cm $$ 
-
- $$ \left|AB\right|=x\ cm $$ 
-
-Yukaridaki verilere göre, x kaç cm'dir?
-
-A) $\frac{13}{2}$ B) 7 C) $\frac{15}{2}$ D) 8 E) $\frac{17}{2}$
-
-### 3.
+###

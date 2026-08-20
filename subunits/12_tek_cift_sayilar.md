@@ -1,107 +1,93 @@
-# 2026 KPSS Matematik: Tek ve Çift Sayıların Özellikleri & Çarpım Paritesi
+# 2026 KPSS Matematik: Tek ve Çift Sayıların Özellikleri & Parite
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
--6
+Tek ve Çift Sayılar
 
-2x + y = 8
+2 nin katı olan tam sayılara çift sayı, 2 nin katı olmayan tam sayılara tek sayı denir.
 
- $$ x+y=15 $$ 
+ $$ \mathcal{C}=\mathcal{C}\mathrm{i f}t\mathrm{s a y}i=\{\ldots,-4,-2,0,2,4,\ldots,2n,\ldots\} $$ 
 
-denklemini sağlayan y değeri kaçtır?
+ $$ \mathsf{T}=\mathsf{T e k}\ \mathsf{S a y i}=\{...,-3,-1,1,3,...,2n-1,...\} $$ 
 
-A) 16 B) 18 C) 20 D) 22 E) 24
+ $$ \begin{align*}\begin{array}{l}T\pm T=\mathbb{C}\\T\pm\mathbb{C}=T\\\mathbb{C}\pm\mathbb{C}=\mathbb{C}\end{array}\end{align*} $$ 
 
-2) IÇLER DIŞLAR ÇARPIM
+ $$ \begin{array}{c}\mathsf{T}\cdot\mathsf{T}=\mathsf{T}\\\mathsf{T}\cdot\mathsf{C}=\mathsf{C}\\\mathsf{C}\cdot\mathsf{C}=\mathsf{C}\end{array} $$ 
 
- $$ \frac{a}{b}=\frac{c}{d}\Rightarrow\boldsymbol{a}\cdot\boldsymbol{d}=\boldsymbol{b}\cdot\boldsymbol{c} $$ 
+♢  $ \underbrace{\text{T}\cdot\text{T}\cdot\text{T}\ldots\text{T}}_{\text{n tane}} = \text{T}^n = \text{T} $ (n doğal sayı)
 
-işlemine içler dışlar çarpımı yapma denir.
+ $ \underbrace{\complement_{\mathbb{C}}\cdot\complement_{\mathbb{C}}\cdot\underbrace{\complement}_{\mathrm{n t a n e}}}_{\mathrm{n t a n e}} = \complement^{\mathrm{n}} = \complement $ (n pozitif doğal sayı)
 
-#### tip-7
+◇ 0!=1
 
- $$ \frac{x-2}{x+1}=\frac{3}{2} $$ 
+1! = 1
 
-denklemini sağlayan x değeri kaçtır?
+2! = 2
 
-A) -7 B) -8 C) -9 D) -10 E) -11
+3! = 6
 
-#### tip-8
+##### TIP-1
 
- $$ 4-2x=\frac{3x-4}{-2} $$ 
+I.  $ 8^{17} + 7^{15} $ II.  $ 17^{0} + 5^{3} $ III.  $ 16^{12} - 14^{2} $ IV.  $ 7^{-3} + 5^{6} $ V. 0! + 17! VI. 17! + 18!
 
-denklemini sağlayan x değeri kaçtır?
+Yukarida verilen ifadelerden kaç tanesi tek sayıdır?
 
-A) 3 B) 4 C) 5 D) 6 E) 7
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-3) PARANTEZ AÇMA
+TIP-2
 
- $$ \boldsymbol{x}\cdot(\boldsymbol{a}+\boldsymbol{b}+\boldsymbol{c})\Rightarrow\boldsymbol{x}\cdot\boldsymbol{a}+\boldsymbol{x}\cdot\boldsymbol{b}+\boldsymbol{x}\cdot\boldsymbol{c} $$ 
+a tek, b ve c çift sayıdır.
 
-işleminde x, şekildeki gibi sırası ile çarpılarak parantez açılır.
+tek, b ve c qnt sayul
 
-#### Örnekler;
+1. $2a+3b+c$
 
-✓  $ 3 \cdot (x - 2) = 3x - 6 $
+II. $3ab+c$
 
- $$ \begin{array}{r}{\checkmark\quad-2\cdot(-5-2y+x)=10+4y-2x}\end{array} $$ 
+III. $a+b$
 
-#### tip-9
+IV. $a^{b}$
 
- $$ 2\cdot(2x-y+z)-3(y+2z-2x)-5\cdot(2x-y) $$ 
+V. $(b+c)^{a}$
 
-ifadesinin esiti nedir?
+ifadelerinden kaç tanesi  $ \underline{\text{her zaman}} $ çift sayıdır?
 
-A) 2x B) y C) -y D) -2z E) -4z
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-#### 4) PARANTEZE ALMA
+a, b ve c doğal sayılardır.
 
- $$ x\cdot\mathbf{a}+x\cdot\mathbf{b}+x\cdot\mathbf{c}\Rightarrow x\cdot(\mathbf{a}+\mathbf{b}+\mathbf{c}) $$ 
+ $$ \frac{2a+b}{4}=c $$ 
 
-işleminde x her bir terimde ortak olduğu için ortak çarpan parantezine alınarak ifade düzenlenir.
+olduğuna göre, aşağıdakilerden hangisi  $ \underline{\text{kesinlikle}} $ doğrudur?
 
-#### Örnekler;
+A) a çift sayıdır. B) b çift sayıdır. C) c tek sayıdır.
 
- $$ \swarrow\quad3x+2yx=x(3+2y) $$ 
+D) c çift sayıdır. E) a + c çift sayıdır.
 
- $$ \begin{array}{r} 6+2x-4y=2(3+x-2y) \end{array} $$ 
+#### Tip-4
 
- $$ \begin{array}{r}{\surd2a-4a b-6a c=2a(1\;-2b\;-3c)}\end{array} $$ 
+a, b ve c tam sayilardır.
 
-#### 5) SADELEŞTIRME VE ORANLAMA
+a·b + a·c = 27
 
-Kesirli sayılarda pay ile paydanın ortak bir sayı ile bölünmesine sadeleştirme denir.
+oldu $ \underset{\cdot}{g} $una g $ \underset{\cdot}{o} $re, a $ \underset{\cdot}{s} $a $ \underset{\cdot}{g} $idakilerden hangisi  $ \underline{\text{her zaman}} $ do $ \underset{\cdot}{g} $rudur?
 
-Oranlama ise iki ifadenin birbirine bölünmesidir.
+A) a  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. B) b  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. C) c tek say $ \underset{\cdot}{i} $dr.
 
-a'nın b'ye oranı  $ \frac{a}{b} $ dir.
+D) b·c  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr. E) b + c  $ \underset{\cdot}{c} $ift say $ \underset{\cdot}{i} $dr.
 
-Örnekler;
+#### Tip-5
 
- $$ \checkmark\ \frac{18}{10}=\frac{9}{5} $$ 
+17 tane tam sayının toplamı tek sayı ise bu sayılardan  $ \underline{\text{en çok}} $ kaç tanesi çifttir?
 
- $$ \checkmark\;\frac{49}{13}\cdot\frac{26}{7}=14 $$ 
+A) 13 B) 14 C) 15 D) 16 E) 17
 
- $$ \sqrt{\frac{5}{7}}\cdot\frac{9}{5}\cdot\frac{\frac{3}{21}}{\frac{18}{2}}=\frac{3}{2} $$ 
+ $$ x^{2}+5 $$ 
 
-TIP-10
+ifadesinin sonucu tek sayı ise aşağıdakilerden hangisi daima çifttir?
 
- $$ \frac{3}{7}\cdot777-\frac{2}{5}\cdot555+\frac{3}{2}\cdot444 $$ 
+A)  $ x + 7 $ B)  $ x^{3} + 4 $ C)  $ x^{5} + 1 $ D)  $ x^{4} + 6 $ E)  $ x^{9} - 4 $
 
-işleminin sonucu kaçtır?
-
-A) 777 B) 666 C) 555 D) 444 E) 333
-
-#### Tip-11
-
-a ve b sifırdan farklı reel sayılardır.
-
- $$ 5a=4b $$ 
-
-esitliğinde a'nın b'ye oranı kaçtır?
-
-A)  $ \frac{1}{5} $ B)  $ \frac{2}{5} $ C)  $ \frac{3}{5} $ D)  $ \frac{4}{5} $ E)  $ \frac{5}{4} $
-
-6)
+####

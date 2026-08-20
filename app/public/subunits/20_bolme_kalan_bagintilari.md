@@ -4,12 +4,28 @@
 
 ---
 
-lt;td style='text-align: center; word-wrap: break-word;'&gt;Burak&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Cem&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+Bölme işlemi yapılırken bölme işaretinin hemen sağındaki ifade ters çevrilerek çarpım durumuna getirilir.
 
-## yarqi yayinevi
+ $$ \frac{a}{b}:\frac{c}{d}=\frac{a}{b}\cdot\frac{d}{c}\quad dir. $$ 
 
-1 ve kendisinden başka pozitif böleni olmayan 1 den büyük doğal sayılara asal sayılar denir.
+Kesirli bölme işlemlerinde ise kesir çizgisinin üstündeki ifade aynen durur, kesir çizgisinin altındaki ifade ters çevrilerek çarpım durumuna getirilir.
 
- $$ A=\{2,3,5,7\ldots\} $$ 
+ $$ \frac{\frac{a}{b}}{\frac{c}{d}}=\frac{a}{b}\cdot\frac{d}{c} $$ 
 
-Asal sayılar içinde 2 den başka çift sayı yoktur.
+ $$ ^{*}\quad\frac{\overline{a}}{b\atop c}=\frac{a}{b}\cdot\frac{1}{c} $$ 
+
+ $$ \ast\quad\frac{a}{\underline{b}}\!=\!\frac{a}{1}\!\cdot\!\frac{c}{b}\! $$ 
+
+#### Örnekler;
+
+ $ \sqrt{\frac{\frac{2}{3}}{\frac{3}{2}}}=\frac{2}{3}\cdot\frac{2}{3}=\frac{4}{9} $  $ \sqrt{\frac{1}{2}}=\frac{1}{2}\cdot\frac{1}{3}=\frac{1}{6} $  $ \sqrt{\frac{3}{12}}=3\cdot\frac{2}{1}=6 $
+
+#### TIP-12
+
+ $$ \frac{1}{2}-\left(\frac{3}{5}-\frac{1}{3}+\frac{1}{7}\right)-\left(\frac{1}{3}-\frac{3}{5}-\frac{1}{7}-\frac{1}{2}\right) $$ 
+
+işleminin sonucu kaçtır?
+
+A) 0 B) 1 C) 2 D) 3 E) 4
+
+## c.

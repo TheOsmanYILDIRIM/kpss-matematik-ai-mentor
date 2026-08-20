@@ -1,183 +1,215 @@
-# 2026 KPSS Matematik: Özel Soru Tipleri: Kuyruk, Tel Kesme ve Mum Problemleri
+# 2026 KPSS Matematik: Kuyruk, Mum ve Tel Kesme Problemleri
 **Modül:** Modül 3: Problemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-ir iç açısının ölçüsü  $ \frac{(n-2)\cdot180^{\circ}}{n} $ dir.
+Kuyruk: Baş + son – ikili sayılanlar
 
-5. Bir kenar a ise  $ \boxed{Çevre = n \cdot a} $ dir.
+1) Kuyruk 1 kişi üzerine kurulu ise
 
-KURAL
+![Şekil/Grafik/Soru](images/image74.jpg)
 
-Kenar sayısı çift olan düzgün çokgenlerde karşılıklı kenarları paraleldir.
+#### KUYRUK SORULARI
 
-![Şekil/Grafik/Soru](images/image409.jpg)
+kuyruk = x + y - 1
 
-![Şekil/Grafik/Soru](images/image410.jpg)
+2) Kuyruk 2 kịi üzerine kurulu ise
 
-#### KURAL
+![Şekil/Grafik/Soru](images/image75.jpg)
 
-Kenar sayısı tek olan düzgün çokgenlerde bir kenardan karşı kenara çizilen dik karşı kenarı ortalar.
+Kuyruk = x + y - k - 2  $ \Rightarrow $ en az
 
-![Şekil/Grafik/Soru](images/image411.jpg)
+Kuyruk = x + y + k  $ \Rightarrow $ en çok
 
-[AH]⊥[CD] çizilirse
+![Şekil/Grafik/Soru](images/image76.jpg)
 
- $$ \left|CH\right|=\left|HD\right|ve $$ 
+#### TiP-17
 
- $$ m(\widehat{BAH})=m(\widehat{HAE})=54^{\circ} $$ 
+Bir bilet kuyruğunda Seher baştan (2n + 6). sırada, sondan (n + 2). sıradadır.
 
-#### KURAL
+Kuyrukta toplam 85 kişi olduğunu göre, Seher baştan kaçinci sıradadır?
 
-Düzgün çokgenlerde eşit sayıda kenarı birleştiren köşegenlerin uzunlukları birbirine eşittir.
+A) 56 B) 57 C) 58 D) 59 E) 60
 
-![Şekil/Grafik/Soru](images/image412.jpg)
+#### TIP-18
 
-![Şekil/Grafik/Soru](images/image413.jpg)
+Bir kuyrukta Hakan baştan 30. sırada, Emre sondan 20. sıradadır. Aralarında 5 kişi vardır ve Emre başı daha yakındır.
 
-KURAL
+Buna göre, kuyrukta kaç kişi vardır?
 
-![Şekil/Grafik/Soru](images/image414.jpg)
+A) 42 B) 43 C) 44 D) 45 E) 46
 
-ABCDEFGHI... düzgün çokgen olmak üzere köşelerdeki açılar gördüğü kenar sayısı ile orantılıdır.
+#### tip-19
 
-DBC açısı bir kenar gördüğü için ölçüsü  $ \alpha $ ise GBD açısı 3 kenar gördüğü için ölçüsü 3 $ \alpha $ olur.
+Bir yemek kuyruğunda Selim baştan 13. sırada, Mert sondan 20. sıradadır. İkisi arasında 3 kişi olduğunu göre, kuyrukta  $ \underline{\text{en az}} $ kaç kişi vardır?
 
-#### tip-1
+A) 24 B) 25 C) 26 D) 27 E) 28
 
-![Şekil/Grafik/Soru](images/image415.jpg)
+Kesir Problemlerinin Çözümü
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ABCDE düzgün beşgen&lt;/div&gt; &lt;/div&gt;
+Kesir problemlerinde soruda verilen kesirlerin paydalarını çarparak bütün oluşturulur.
 
-[BF]⊥[DE]
+Örnek: Bir ürünün önce  $ \frac{1}{3} $'ü, sonra  $ \frac{1}{2} $'si en son  $ \frac{1}{4} $'ü satılıyor.
 
-[CH]⊥[EA]
+Ürün = 3 2 4 x = 24 x alınır.
 
-Yukaridaki verilere göre, m( $ \widehat{CKB} $) kaç derecedir?
+#### Tip-20
 
-A) 48 B) 54 C) 63 D) 72 E) 80
+Bir yay sıkıştırıldığında boyu  $ \frac{1}{4} $ oranında azalıyor, çekip uzatıldığında ise boyu  $ \frac{2}{5} $ oranında artiyor.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-2&lt;/div&gt; &lt;/div&gt;
+Buna göre, çekilip uzatılmış hâldeki boyu 168 cm olan bu yayın sıkıştırılmış hâldeki boyu kaç cm'dir?
 
-![Şekil/Grafik/Soru](images/image416.jpg)
+A) 70 B) 78 C) 80 D) 90 E) 98
 
-ABCDE... düzgün çokgen
+#### TIP-21
 
-m $ \widehat{ADC} $ = 24°
+ $ \frac{3}{7} $'si dolu olan bir depoya 15 m $ ^{3} $ su eklenince deponun  $ \frac{2}{3} $'ü dolmuş oluyor.
 
-Yukaridaki verilere göre, çokgen kaç kenarlıdır?
+Buna göre, depo tam dolu iken kaç m $ ^{3} $ su alır?
 
-A) 9 B) 10 C) 12 D) 14 E) 15
+A) 56 B) 63 C) 66 D) 72 E) 80
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+#### Tip-22
 
-![Şekil/Grafik/Soru](images/image417.jpg)
+Bir manav elindeki limonların ilk gün  $ \frac{1}{4} $'ünü, ikinci gün kalanın  $ \frac{1}{5} $'ini, üçüncü gün de kalanın  $ \frac{1}{3} $'ünü satıyor.
 
-ABCDE düzgün beşgen
+Geriye 64 tane limon kaldığına göre, manav ikinci gün kaç tane limon satmıştır?
 
-AFDE paralelkenar
+A) 24 B) 26 C) 28 D) 40 E) 44
 
-Buna göre, m( $ \widehat{BAF} $) kaç derecedir?
+#### TIP-23
 
-A) 36 B) 45 C) 60 D) 75 E) 80
+Uzunlukları aynı olan iki mum aynı anda yanmaya başladığında biri 3 saatte, diğer 4 saatte tamamen yanarak bitmektedir.
 
-#### Tip-4
+Bu iki mum aynı anda yakıldıktan kaç saat sonra birinin boyu diğerinin boyunun  $ \frac{1}{3} $'ü olur?
 
-![Şekil/Grafik/Soru](images/image418.jpg)
+A)  $ \frac{1}{3} $ B)  $ \frac{4}{3} $ C)  $ \frac{5}{3} $ D) 2 E)  $ \frac{8}{3} $
 
-ABCDE düzgün beşgen
+#### TIP-24
 
-EFKD dikdörtgen F, K, C doğrusaldır.
+Ismail kumbarasina 1. gün 5 kr, 10kr, 25 kr, 50 kr ve 1 TL madenî paralarin her birinden bir adet, 2. gün her birinden iki adet ve benzer biçimde devam ederek n. gün her birinden n adet atmıştır.
 
-Buna göre, m( $ \widehat{KCB} $)-m( $ \widehat{KDC} $) farklı kaç derecedir?
+Ismail kumbarasinda 104.5 TL biriktirdiğine göre, n kaçtir?
 
-A) 9 B) 18 C) 30 D) 36 E) 45
+A) 7 B) 8 C) 9 D) 10 E) 11
 
-#### KURAL
+#### TIP-25
 
-• Düzgün altigen, bir kenari a olan 6 tane eşkenar üçgenden oluşur.
+1'den 8'e kadar numaralandırılmış 8 adet top, iki kutuda dört top bulunacak biçimde aşağıdaki kurallara göre yerleştirilecektir.
 
-• Düzgün altigenin alanı A ise
+• Kutulardaki topların numaraları toplamı birbirine eşittir.
 
- $$ A=6\frac{a^{2}\sqrt{3}}{4}=\frac{3}{2}a^{2}\sqrt{3} $$ 
+• Kutularda numaraları 3 ile bölünebilen birer top bulunmaktadır.
 
-![Şekil/Grafik/Soru](images/image419.jpg)
+Buna göre, 2 numaralı topun bulunduğu kutudaki toplarin
 
-![Şekil/Grafik/Soru](images/image420.jpg)
+numaralarının çarpımı kaçtir?
 
-KURAL
+A) 180 B) 200 C) 240 D) 250 E) 260
 
-#### KURAL
+Tel sorularinda orta nokta kayması
 
-Düzgün altigenin bir kenari a ise kısa olan köşegenler a $ \sqrt{3} $ ve uzun olan köşegenler 2a dır.
+Orta nokta kayma =  $ \frac{Kesilen tel}{2} $
 
-![Şekil/Grafik/Soru](images/image421.jpg)
+1) Tel bir ucundan kesilirse ___ x
 
-Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve [CE] çizilirse oluşan ACE üçgenin bir eşkenar üçgendir ve alanı düzgün altigenin alanının yarısıdır.
+kayma =  $ \frac{x}{2} $
 
-KURAL
+![Şekil/Grafik/Soru](images/image77.jpg)
 
-![Şekil/Grafik/Soru](images/image422.jpg)
+![Şekil/Grafik/Soru](images/image78.jpg)
 
-Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve uzun olan köşegenlerden [AD] çizilirse oluşan alanlar şekilde gibi olur.
+ $$  kayma=\frac{x+y}{2} $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip -5&lt;/div&gt; &lt;/div&gt;
+3) Farklı uçlardan kesilirse
 
-![Şekil/Grafik/Soru](images/image423.jpg)
+kayma =  $ \frac{|x-y|}{2} $
 
-ABCDEF düzgün altigen
+![Şekil/Grafik/Soru](images/image79.jpg)
 
-|BF| = 4$\sqrt{3}$ cm
+##### TIP-26
 
-Yukaridaki verilere göre, |CF| kaç cm'dir?
+Bir parça telin  $ \frac{1}{3} $'ü kesilirse telin orta noktası eski durumundan 9 m kayıyor.
 
-A) 4 B) 6 C) 8 D) 10 E) 12
+Buna göre, telin tamamı kaç metredir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-6&lt;/div&gt; &lt;/div&gt;
+A) 36 B) 45 C) 54 D) 63 E) 72
 
-![Şekil/Grafik/Soru](images/image424.jpg)
+TIP-27
 
-ABCDEF düzgün altigen
+Homojen bir telin bir ucundan  $ \frac{2}{5} $'i kesilirse orta noktası eski konumuna göre 12 cm kayıyor.
 
- $ [FH] \perp [AD] $
+Buna göre, telin  $ \underline{ilk} $ boyu kaç cm'dir?
 
- $ \left|AD\right|=12\text{cm} $
+A) 50 B) 60 C) 70 D) 72 E) 80
 
-Yukaridaki verilere göre, |FH| kaç cm'dir?
+#### TIP-28
 
-A)  $ 2\sqrt{3} $ B)  $ 3\sqrt{3} $ C)  $ 4\sqrt{3} $ D)  $ 5\sqrt{3} $ E)  $ 6\sqrt{3} $
+Homojen bir telin bir ucundan  $ \frac{1}{3} $'ü diğer ucundan  $ \frac{2}{5} $'i kesilirse telin orta noktası ilk duruma göre 6 cm kayıyor.
 
-TIP-7
+Buna göre, telin  $ \underline{ilk} $ boyu kaç cm'dir?
 
-![Şekil/Grafik/Soru](images/image425.jpg)
+A) 180 B) 120 C) 210 D) 230 E) 250
 
-ABCDEF düzgün altigen
+#### Tip-29
 
-[AC] ve [BE] köşegen
+Bir traktörün arka tekerleğinin yarıçapı, ön tekerleğinin yarıçapının iki katıdır.
 
-|EK| = 9 cm
+120 metrelik bir mesafede arka tekerlek ön tekerlekten 30 devir  $ \underline{\text{daha az}} $ yaptığına göre, ön tekerleğin çevresi kaç metredir?
 
-Yukaridaki verilere göre, |CF| kaç cm'dir?
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-A) 12 B) 24 C) 30 D) 36 E) 48
+#### TíP - 30
 
-TIP-8
+Bir otomotiv fabrikasında üretilen araç çeşitleri aşağıdaki semada gösterilmiştir.
 
-![Şekil/Grafik/Soru](images/image426.jpg)
+![Şekil/Grafik/Soru](images/image80.jpg)
 
-### ABCDEF düzgün altigen
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(15)&lt;/div&gt; &lt;/div&gt;
 
- $$ [\mathsf{A D}]\cap[\mathsf{N B}]=\{\mathsf{K}\} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(12)&lt;/div&gt; &lt;/div&gt;
 
- $$ \left|EN\right|=\left|ND\right| $$ 
+![Şekil/Grafik/Soru](images/image81.jpg)
 
-Yukaridaki verilere göre,  $ \frac{Alan(ABCDEF)}{Alan(NKD)} $ oranı kaçtır?
+Bu fabrikada bir günde toplam 120 adet araç üretilmektedir. Binek araçların 15 adedi dizel ve 12 adedi elektriklidir.
 
-A) 9 B) 12 C) 15 D) 18 E) 21
+Bu fabrikada bir günde üretilen toplam dizel araç sayısı, toplam benzinli araç sayısının 2 katı olduğuna göre, kaç adet ticari dizel araç üretilmiştir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-9&lt;/div&gt; &lt;/div&gt;
+A) 36 B) 45 C) 52 D) 57 E) 63
 
-![Şekil/Grafik/Soru](images/image427.jpg)
+##### Tip-31
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFG
+Bir okuldaki her kadın öğretmenin, okuldaki kadın meslektaşlarının sayısı, erkek meslektaşlarının sayısının 2 katından 6 fazla, her erkek öğretmenin de okuldaki kadın meslektaşlarının sayısı, erkek meslektaşlarının sayısının 3 katından 1 eksiktir.
+
+Buna göre, okulda kaç öğretmen vardır?
+
+A) 40 B) 46 C) 52 D) 60 E) 70
+
+#### Tip-32
+
+Iki durak arası Ahmet'in adımları ile 150, Tarık'ın adımları ile 100 ve Kezban'ın adımları ile 60 adım gelmektedir. Ahmet durakların birinden diğerine doğru xadım, Tarık Ahmet'in kaldığı yerden başlayarak xadım ve Kezban da Tarık'ın kaldığı yerden başlayarak xadım giderek mesafeyi tamamlıyor.
+
+Buna göre, x kaçtır?
+
+A) 20 B) 25 C) 30 D) 40 E) 45
+
+#### Tip-33
+
+Alanı 14 m² olan bir duvar kısa kenarı 14 cm, uzun kenarı 20 cm olan dikdörtgen biçimindeki fayanslarla kaplanmak isteniyor. Bu işi yapacak usta fayansların kısa kenar uzunluğunu yanlış anlıyor ve kaplama işi için gerekenden 200 adet fazla fayans kullanıyor.
+
+Buna göre, ustanın kullandığı fayansların kısa kenarı kaç cm'dir?
+
+A) 6 B) 8 C) 10 D) 11 E) 12
+
+#### TIP-34
+
+Kırmızı ve beyaz topların bulunduğu bir torbadaki kırmızı topların sayısı beyaz topların sayısının 5 katıdır. Torbadaki bu topların dörtte üçü torbadan çıkarıldığında ilk duruma göre; torbadaki beyaz topların sayısının yarıya düşüğü, kırmızı topların sayısının ise 64 azaldığı hesaplanmıştır.
+
+Buna göre,  $ \underline{ilk} $ durumda torbada toplam kaç top vardır?
+
+A) 96 B) 108 C) 120 D) 132 E) 144
+
+#### Tip-35
+
+iki vagondan oluşan bir

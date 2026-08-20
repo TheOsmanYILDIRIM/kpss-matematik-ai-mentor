@@ -1,223 +1,411 @@
-# 2026 KPSS Matematik: Katı Cisimler: Prizma, Silindir, Piramit, Koni ve Küre Hesapları
+# 2026 KPSS Matematik: Katı Cisimler: Prizma, Silindir, Koni ve Küre
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-or.
+DİKDÖRTGEN DİK PRİZMA
 
-![Şekil/Grafik/Soru](images/image87.jpg)
+Her bir yüzeyi dikdörtgen olan üç boyutlu geometrik şekle dikdörgenler prizması denir.
 
- $$ \frac{\mathrm{Sati}\mathrm{s}}{120\times} $$ 
+ $$ \mathbf{V}=\mathbf{a}\cdot\mathbf{b}\cdot\mathbf{c} $$ 
 
- $$  kar=\quad100\cdot\frac{20}{100}=20x $$ 
+ $$ \mathsf{Y.A}=(2\mathsf{a}+2\mathsf{b})\cdot\mathsf{c}=2\mathsf{ac}+2\mathsf{bc} $$ 
 
-![Şekil/Grafik/Soru](images/image88.jpg)
+ $$ \begin{aligned}\boldsymbol{A}&amp;=\boldsymbol{a}\cdot\boldsymbol{b}+\boldsymbol{a}\cdot\boldsymbol{b}+2\boldsymbol{a}\boldsymbol{c}+2\boldsymbol{b}\boldsymbol{c}\\&amp;=2(\boldsymbol{a}\cdot\boldsymbol{b}+\boldsymbol{a}\cdot\boldsymbol{c}+\boldsymbol{b}\cdot\boldsymbol{c})\end{aligned} $$ 
 
-##### ORNEK SORU
+Cisim köşegenî : e =  $ \sqrt{a^2 + b^2 + c^2} $
 
-Bir ürün %20 kârlı satılıyor. Sonra geri %20 indirim yapılıyor. Son durumda kârlı-zarar durumu nedir?
+![Şekil/Grafik/Soru](images/image548.jpg)
 
-### QÖZÜM
+#### tip-1
 
-%20 kã
+Bir dikdörtgenler prizmasının ayrıt uzunlukları 2, 3, 5 sayılarıyla orantılıdır. Bu prizmanın hacmi 810 cm³ olduğuına göre, alanı kaç cm² dir?
 
-%20 indirim
+A) 558
 
- $$ \mathrm{\frac{Maliyet}{100\times}} $$ 
+B) 557
 
-![Şekil/Grafik/Soru](images/image89.jpg)
+C) 556
 
- $$ \mathrm{\frac{Sati s}{120\times}} $$ 
+D) 555
 
- $$ \mathrm{\frac{i.Sati}{96x}} $$ 
+E) 554
 
- $$ 120x\cdot\frac{20}{100}=24x $$ 
+Tip - 2
 
-%4 zarar vardır.
+![Şekil/Grafik/Soru](images/image549.jpg)
 
-Ürünler parça parça kârlı ya da zararlı satılırsa;
+Şekildeki dikdörtgen dik prizmada
 
- $$ \begin{array}{r}{\mathsf{P a r c a}\cdot\mathsf{K}\bar{\mathsf{a r}}+\mathsf{P a r c a}\cdot\mathsf{K}\bar{\mathsf{a r}}=\mathsf{T o p l a m~P a r c a}\cdot\mathsf{K}\bar{\mathsf{a r}}}\end{array} $$ 
+ $$ \left|AB\right|=9cm $$ 
 
-##### ÖRNEK SORU
+ $$ \left|BC\right|=12cm $$ 
 
-Bir ürünün %20'si %10 kārla, %60'1 %20 zararla, geri kalanı da %30 kārla satılıyor.
+ $$ \left|E B\right|=17c m $$ 
 
-Son durumdaki kâr-zarar durumu nedir?
+Yukaridaki verilere göre, prizmanın hacmi kaç cm $ ^{3} $ tür?
 
-#### QÖZÜM
-
- $$ \frac{20}{100}\cdot110+\frac{60}{100}\cdot80+\frac{20}{100}\cdot130=22+48+26=\boxed{96} $$ 
-
-(100'ün altında ise zarar, 100'ün üstünde ise kâr)
-
-96  $ \Rightarrow $ %4 zarar vardır.
-
-3. Faiz Problemleri
-
-I. Basit Faiz: Sadece paraya faz gelir.
-
-F = Faiz
-
-A = Anapara (kapital)
-
-n = Faiz oranı (yıllik)
-
-t = Zaman
-
-tyl ise  $ \rightarrow F = \frac{A \cdot n \cdot t}{100} $
-
-t ay ise  $ \rightarrow F = \frac{A \cdot n \cdot t}{1200} $
-
-t gũn ise  $ \rightarrow F = \frac{A \cdot n \cdot t}{36000} $
-
-II. Bileşik Faiz: Para + faize faiz gelir.
-
-Örn: 100 TL %20'den 2 yıllığına bileşik faize yatırılırsa kaç TL olur?
-
-![Şekil/Grafik/Soru](images/image90.jpg)
-
-TiP-1
-
-Hangi sayinin %40'i 1,6'dir?
-
-A) 4 B) 6 C) 8 D) 10 E) 12
-
-##### tip-2
-
-A sayisi B sayisinin %15 ine ve B sayisi da C sayisinin %40'ina eşittir.
-
-Buna göre, A sayisi, C sayisinin yüzde kaçına eşittir?
-
-A) 6 B) 8 C) 10 D) 12 E) 14
+A) 360 B) 542 C) 864 D) 866 E) 1028
 
 #### TIP-3
 
-Buğdaydan ağırlığının %60'ı kadar un, undan da ağırlığının %130'u kadar hamur elde edilmektedir.
+Ayrıtları tam sayı olan bir dikdörtgenler prizmasının farklı yüzeylerinin alanları sırasıyla 12 cm², 15 cm², 20 cm² dir.
 
-Buna göre, 312 kg hamur elde etmek için kaç kg buğday kullanılır?
+Buna göre, bu prizmanın hacmi kaç cm³ tür?
 
-A) 320 B) 340 C) 360 D) 400 E) 500
+A) 20 B) 30 C) 60 D) 140 E) 220
 
 #### Tip-4
 
-Bir dikdörtgenin kısa kenarı %30 arttırılıp, uzun kenarı %20 azaltılsıba bu dikdörtgenin alanındaki değişim yüzde kaç olur?
+Aşağıdakilerden hangisi bir şeklin eksen etrafında döndürülmesinden elde  $ \underline{\text{edilemez}} $?
 
-A) %4 azalır. B) %6 artar. C) %4 artar.
+A) Kesik koni B) Küre C) Silindir
 
-D) Değişmez. E) %6 azalır.
+D) Koni E) Dikdörtgenler prizmasi
 
-#### Tip - S
+Tip-5
 
-Bir mal 20 TL'ye alınıp 27 TL'ye satılıyor.
+![Şekil/Grafik/Soru](images/image550.jpg)
 
-Buna göre, satış sonrası bu maldan yüzde kaç kârlı elde edilmiştir?
+ $ |BC|=6\ cm $
 
-A) 30 B) 35 C) 40 D) 45 E) 50
+ $ |AB|=8\ cm $
+
+ $ |DE|=26\ cm $
+
+Yukaridaki dikdörtgenler dik prizmasında verilenlere göre, A(BDE) kaç cm² dir?
+
+A) 50 B) 60 C) 120 D) 240 E) 480
+
+### 3. KÜP
+
+Bütün ayrıtılarının uzunluğu birbirine eşit olan dik prizmaya küp denir.
+
+![Şekil/Grafik/Soru](images/image551.jpg)
+
+Küpte her bir yüzey karedir.
+
+ $$ \mathsf{V}=\mathsf{a}\cdot\mathsf{a}\cdot\mathsf{a}=\mathsf{a}^{3} $$ 
+
+ $$ \mathsf{Y.A=4a\cdot a=4a^{2}} $$ 
+
+ $$ \mathrm{A}=\mathrm{a}^{2}+\mathrm{a}^{2}+4\mathrm{a}^{2}=6\mathrm{a}^{2} $$ 
 
 #### TIP-6
 
-Bir gömlek %30 zararla x TL'ye, %20 kârlı y TL'ye satılacaktır.
+Bir kenarı 2 cm olan küçük küpler kullanılarak hacmi  $ \underline{\text{en küçük}} $ olacak biçimde farklı bir küp oluşturuluyor.
 
-Buna göre,  $ \frac{y}{x} $ oranı kaçtır?
+Bu küpün tüm yüzeyi kaç cm² dir?
 
-A)  $ \frac{8}{7} $ B)  $ \frac{9}{7} $ C)  $ \frac{10}{7} $ D)  $ \frac{11}{7} $ E)  $ \frac{12}{7} $
+A) 24 B) 36 C) 64 D) 96 E) 98
 
-#### TIP-7
+![Şekil/Grafik/Soru](images/image552.jpg)
 
-Bir malın satış fiyatının %16'sı alış fiyatının %24'üne eşittir.
+A) 12
 
-Buna göre, bu malın satışından elde edilen kâr yüzde kaçtır?
+Yandaki küpün hacmi 64 cm³ olduğuna göre, taralı alan kaç cm² dir?
 
-A) 30 B) 35 C) 40 D) 45 E) 50
+B) 18 C)  $ 12\sqrt{2} $ D)  $ 16\sqrt{2} $ E)  $ 32\sqrt{2} $
 
-#### Tip-8
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-8&lt;/div&gt; &lt;/div&gt;
 
-%20 zararla 120 liraya satilan bir ürün, %10 kârlı kaç liraya satılır?
+![Şekil/Grafik/Soru](images/image553.jpg)
 
-A) 160 B) 165 C) 170 D) 175 E) 180
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A) 6&lt;/div&gt; &lt;/div&gt;
 
-#### tip-9
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)  $ 6\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
 
-Bir satıcı bir ürünün  $ \frac{3}{5} $'ini %30 kārla, geri kalanını ise %20 zararla satıyor.
+Şekildeki küpün hacmi 216 cm³ olduğunu göre, BA'D' üçgeninin alanı kaç cm² dir?
 
-Bu ürünün tamamı satıldığında,  $ \underline{\text{son}} $ durumdaki kār-zarar durumu nedir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C) 15&lt;/div&gt; &lt;/div&gt;
 
-A) %10 kār
+ $$ 18{\sqrt{2}} $$ 
 
-B) %10 zarar
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-9&lt;/div&gt; &lt;/div&gt;
 
-C) Ne kār ne zarar
+![Şekil/Grafik/Soru](images/image554.jpg)
 
-D) %5 kār
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)  $ 2\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
 
-E) %5 zarar
+Şekildeki küpün alanı 24 cm² olduğunu göre, taralı alan kaç cm² dir?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)  $ 3\sqrt{2} $&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 42&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D) 36&lt;/div&gt; &lt;/div&gt;
+
+ $$ 5{\sqrt{2}} $$ 
+
+## B. silindir
+
+![Şekil/Grafik/Soru](images/image555.jpg)
+
+Alt ve üst tabanı daire olan dik prizmaya silindir denir.
+
+Taban yarıçapı r, yüksekliği h olmak üzere
+
+ $$ \mathsf{V}=\pi\cdot\mathsf{r}^{2}\cdot\mathsf{h} $$ 
+
+ $$ \mathrm{Y.A}=2\pi\mathrm{r}\cdot\mathrm{h} $$ 
+
+ $$ \mathrm{A}=\pi r^{2}+\pi r^{2}+2\pi\mathrm{rh} $$ 
+
+ $$ =2\pi r^{2}+2\pi r h $$ 
 
 #### TIP-10
 
-Bir mağaza %30 indirim yapınca müşterisi 3 katına çıkıyor.
+Taban yariçapı 8 cm ve yüksekliği 9 cm olan bir silindirin hacmi, bir küpün hacmine eşittir.
 
-Bu mağazanın bir günlük satışından kasaya giren para yüzde kaç değişir?
+Küpün bir kenarının uzunluğu kaç cm'dir? (π = 3 alınız.)
 
-A) %20 azalır B) %40 azalır C) %50 artar
+A) 6 B) 8 C) 9 D) 12 E) 15
 
-D) %100 artar E) %110 artar
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
 
-#### Tip-11
+![Şekil/Grafik/Soru](images/image556.jpg)
 
-Bir manav tanesini 80 kuruştan aldığı 100 tane limonun bir kısımin çürüdüğünü görür. Sağlam limonların tanesini 100 kuruştan satınca %20 kâr elde ediyor.
+Dik silindir biçimindeki bir madeni borunun dıştan yariçapı 4 cm, içten yariçapı 2 cm'dir.
 
-Buna göre, limonların kaç tanesı çürümüştür?
+Boş kısının hacmi 36π cm³ ise madeni kısının hacmi kaç cm³ tür?
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+A) $152\pi$
 
-#### Tip-12
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) $144\pi$&lt;/div&gt; &lt;/div&gt;
 
-Bir ürün a liraya alınıp b liraya satılıyor. a ile b arasında
+C) $108\pi$
 
-b = 2a - 120 bağıntısı vardır.
+D) $106\pi$
 
-Bu satıştan %20 kâr elde edildiğine göre, bu ürünün alış fiyatı kaç liradir?
+E) $104\pi$
 
-A) 120 B) 150 C) 30 D) 50 E) 80
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-12&lt;/div&gt; &lt;/div&gt;
 
-Bir satıcı 40 kuruştan aldığı 600 bardağın bir kısmını taşıma sırasında kırmıştır.
+![Şekil/Grafik/Soru](images/image557.jpg)
 
-Kalan bardakların tanesini 55 kuruştan satarak %10 kâr elde ettiğine göre, kaç bardak kırılmıştır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A) $160\pi$&lt;/div&gt; &lt;/div&gt;
 
-A) 60 B) 80 C) 100 D) 120 E) 150
+ACD açısının ölçüsü 60° dir.
 
-##### TIP-14
+ $$ |AC|=12cm $$ 
 
-#### Tip-15
+olduğuna göre, silindirin hacmi kaç cm $ ^{3} $ tür?
 
-Bir sütçü litresini 2,5 liraya aldığı bir sütün her 4 litresine 1 litre su ilave ederek, litresini 3,2 liradan satıyor.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) $162\pi$&lt;/div&gt; &lt;/div&gt;
 
-Buna göre, sütçünün bu satıştan kâri yüzde kaçtır?
+C)  $ 164\pi $ D)  $ 168\pi $ E)  $ 170\pi $
 
-A) 40 B) 50 C) 60 D) 70 E) 80
+### C. KARE PIRAMIT
 
-#### Tip-13
+Tabani kare yan yüzeyleri üçgen olan geometrik şekle kare dik piramit denir.
 
-Yillik enflasyonun %4 olduğu bir ülkede memur maaşlarına %17 zam yapılıyor.
+Piramidin tabanının bir kenar
 
-Buna göre, memurun alım gücü yüzde kaç artar?
+uzunluğu a, yüksekliği h olmak üzere,
 
-A) 12,5 B) 13 C) 15 D) 17 E) 17,5
+ $ V=\frac{1}{3}a^{2}\cdot h $
 
-#### tip-16
+ $$ \mathrm{Y.A}=\frac{(\mathrm{Taban}\;\mathcal{C}_{}\mathrm{evresi})\cdot\mathrm{h}_{1}}{2}=\frac{4\mathrm{a}\cdot\mathrm{h}_{1}}{2} $$ 
 
-Bir bakkal aldığı bir malı %40 kārla satmaktadır.
+![Şekil/Grafik/Soru](images/image558.jpg)
 
-Bakkalin terazisi 250 gr'lik bir ağızlığı 300 gr gösterdiğine göre, bakkalin geçek kâri yüzde kaçtır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-13&lt;/div&gt; &lt;/div&gt;
 
-A) 50 B) 56 C) 60 D) 68 E) 72
+Taban alanı 256 cm² olan düzgün kare piramidin yanal alanı 320 cm²  
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-17&lt;/div&gt; &lt;/div&gt;
+olduğuna göre, yüksekliği kaç cm'dir?
 
-Bir malın satış fiyati maliyet üzerinden %30 kârlı hesaplanıyor. Bu mal satış fiyati üzerinden %25 indirimle satıldığında 80 lira zarar ediyor.
+A) 3 B) 4 C) 5 D) 6 E) 7
 
-Buna göre, bu mal indirimsiz satılırsa kaç lira kâr elde edilir?
+## D. KONI
 
-A) 850
+Tabani daire olan dik piramide koni denir.
+
+Dairenin yarıçapı r, koninin yüksekliği h olsun.
+
+ $ V=\frac{1}{3}\pi r^{2}\cdot h $ olur.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-14&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image559.jpg)
+
+Yandaki koni tabana paralel üç düzlemle yükseklikleri eşit 3 parçaya ayrılmıştır.
+
+ $ \frac{V_{II}}{V_{III}} $ hacim orani kaçtir?
+
+A)  $ \frac{2}{19} $ B)  $ \frac{7}{19} $ C)  $ \frac{1}{27} $ D)  $ \frac{5}{27} $ E)  $ \frac{11}{27} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-15&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image560.jpg)
+
+ $$ 2\pi $$ 
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B)  $ 3\pi $&lt;/div&gt; &lt;/div&gt;
+
+Şekildeki koordinat düzleminde ABC eşkenar üçgen A(0, 3) olduğunu göre, ABC üçgeni y ekseni etrafında döndürülmesiyle oluşan cismin hacmi kaç cm³ dir?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C)  $ 4\pi $&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;D)  $ 5\pi $&lt;/div&gt; &lt;/div&gt;
+
+Tip-16
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E)  $ 6\pi $&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image561.jpg)
+
+Bir küre içine taban yarıçapı 6 cm ve yüksekliği 9 cm olan bir dik koni çiziliyor.
+
+Yukarıdaki verilere göre, kürenin
+
+yarıçapı kaç cm'dir?
+
+B) 7 C)  $ \frac{9}{2} $ D) 4 E) 1
+
+### E. KÜRE
+
+![Şekil/Grafik/Soru](images/image562.jpg)
+
+Kürenin merkezi O, yarıçapı r olmak üzere,
+
+V =  $ \frac{4}{3}\pi r^{3} $
+
+A = 4πr² ile bulunur.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-17&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image563.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 5&lt;/div&gt; &lt;/div&gt;
+
+Yariçapı $\sqrt{7}$ cm olan yandaki küre merkezinden $\sqrt{3}$ cm uzaklıkta bir düzlemle kesiliyor.
+
+Buna göre, elde edilen kesitin alanı kaç π cm² dir?
+
+C) 6 D) 7 E) 8
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-18&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image564.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A)  $ 9\pi $&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) $12\pi$&lt;/div&gt; &lt;/div&gt;
+
+Şekildeki O merkezli dörtte bir dairenin yarıçapı 3 cm'dir.
+
+[OC] etrafında 360° döndürülmesiyle oluşan cismin hacmi kaç cm³ tür?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;C) $18\pi$&lt;/div&gt; &lt;/div&gt;
+
+### 1. BÖLGELER
+
+![Şekil/Grafik/Soru](images/image565.jpg)
+
+Analitik düzlemde, yatay eksen x ekseni (apsis), düşey eksen y ekseni (ordinat) adını alır. x ve y eksenlerinin kesiştigi O noktasına orijin denir.
+
+![Şekil/Grafik/Soru](images/image566.jpg)
+
+Düzlemde belli bir noktanın koordinatları (x, y) ikilisiyle ifade edilir.
+
+#### Tip-1
+
+A(k-5, k-8) noktası koordinatlar düzleminin 4. bölgesinde ise k kaç farklı tam sayı değeri alır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+### 2. İKİ NOKTA ARASINDAKİ UZAKLIK
+
+Analitik düzlemde $A(x_{1}, y_{1})$ ve $B(x_{2}, y_{2})$ noktaları arasındaki uzaklık | AB | dir.
+
+![Şekil/Grafik/Soru](images/image567.jpg)
+
+ $$ |AB|=\sqrt{(y_{2}-y_{1})^{2}+(x_{2}-x_{1})^{2}} $$ 
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-2&lt;/div&gt; &lt;/div&gt;
+
+Analatik düzlemde A(a, -7), B(4, 8) ve |AB| = 17 birimdir.
+
+#### Buna göre, a'nın pozitif değeri kaçtır?
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+3. BIR DOGRU PARÇASININ ORTA NOKTASI
+
+![Şekil/Grafik/Soru](images/image568.jpg)
+
+[AB] nin orta noktası C(x, y) olsun.
+
+ $$ x=\frac{x_{1}+x_{2}}{2}\quad,\quad y=\frac{y_{1}+y_{2}}{2}dir. $$ 
+
+#### UYARI
+
+Paralelkenar, kare, dikdörtgen ve eşkenar dörtgenin köşegenleri birbirini ortalar.
+
+![Şekil/Grafik/Soru](images/image569.jpg)
+
+ $$ x_{0}=\frac{x_{1}+x_{3}}{2}=\frac{x_{2}+x_{4}}{2} $$ 
+
+ $$ y_{0}=\frac{y_{1}+y_{3}}{2}=\frac{y_{2}+y_{4}}{2}dir. $$ 
+
+ $$ \begin{aligned}\boldsymbol{x}_{1}+\boldsymbol{x}_{3}=\boldsymbol{x}_{2}+\boldsymbol{x}_{4}\end{aligned} $$ 
+
+ $$ y_{1}+y_{3}=y_{2}+y_{4} $$ 
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image570.jpg)
+
+Şekildeki ABCD dikdörtgeninde D köşesinin koordinatları çarpımı kaçtır?
+
+A) -24 B) -14 C) -12 D) 8 E) 14
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+
+A(-2,7) ve B(4,4) noktaları veriliyor.
+
+C ∈ AB ve |AC| = 2 · |BC| olduğuna göre, C nin koordinatları toplamı kaçtir?
+
+A) 5
+
+B) 6
+
+C) 7
+
+D) 8
+
+E) 9
+
+4. ÜÇGENIN AĞIRLIK MERKEZİ
+
+![Şekil/Grafik/Soru](images/image571.jpg)
+
+Bir üçgenin ağırlık merkezi köşe koordinatları toplamının üçte biridir.
+
+G(x, y) ağırlık merkezi olsun.
+
+ $$ x=\frac{x_{1}+x_{2}+x_{3}}{3}\quad,\quad y=\frac{y_{1}+y_{2}+y_{3}}{3} $$ 
+
+Tip-5
+
+![Şekil/Grafik/Soru](images/image572.jpg)
+
+Koordinatlarından biri A(3, 9) olan AOB dik üçgeninin ağırlık merkezinin koordinatları toplamı kaçtır?
+
+A) 10 B) 11 C) 12 D) 13 E) 14
+
+### 5. ÜÇGENİN ALANI
+
+Köşeleri A( $ x_{1} $,  $ y_{1} $), B( $ x_{2} $,  $ y_{2} $) ve C( $ x_{3} $,  $ y_{3} $) olan üçgenin alanı
+
+![Şekil/Grafik/Soru](images/image573.jpg)
+
+![Şekil/Grafik/Soru](images/image574.jpg)
+
+ $$ \mathsf{A l a n}=\frac{1}{2}|\,x_{1}y_{2}+x_{2}y_{3}+x_{3}y_{1}-y_{1}x_{2}-y_{2}x_{3}-y_{3}x_{1}\mid{\mathrm{~i l e~b u l u n u r.}} $$ 
+
+#### tip-6
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="6"&gt;Köse noktalarının koordinatları A(1, 3), B(2, 4) ve C(4, 2) olan üçgenin alanı kaç  $ br^{{2}} $ dir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;49)

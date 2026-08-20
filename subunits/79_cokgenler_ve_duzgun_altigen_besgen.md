@@ -1,175 +1,213 @@
-# 2026 KPSS Matematik: Çokgenler, Düzgün Beşgen ve Düzgün Altıgen Özellikleri
+# 2026 KPSS Matematik: Çokgenler, Düzgün Beşgen ve Düzgün Altıgen
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-ası 33 yaşında olduğuena göre, Arda hangi yılda doğmuştur?
+Çokgenlerin Özellikleri
 
-A) 1993 B) 1994 C) 1995 D) 1996 E) 1997
+## n kenarlı bir konveks çokgende
 
-#### TIP-18
+1. İç açıların ölçüleri toplamı (n-2) · 180° dir.
 
-Ự̀ cợụú olan anne ve baba arasında aşağıdaki konuşma geçmiştir:
+2. Dịs açilarin ölçüleri toplamı 360° dir.
 
-Baba: "İkimizin bugünkü yaşları toplamı, üç çocuğumuzun bugünkü yaşları toplamının 2 katına eşit."
+3. Toplam köşegen sayısı  $ \frac{n \cdot (n - 3)}{2} $ dir.
 
-Anne: "Ne tesadüf, 10 yıl önce; benim yaşım, üç çocuğumuzun yaşları toplamının 2 katına eşitti."
+### Düzgün Çokgenler
 
-Buna göre, babanın bugünkü yaşı kaçtır?
+Tüm kenarları ve iç açıları (veya dış açıları) birbirine eşit olan çokgenlere düzgün çokgenler denir.
 
-A) 48 B) 50 C) 54 D) 56 E) 60
+![Şekil/Grafik/Soru](images/image406.jpg)
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-19&lt;/div&gt; &lt;/div&gt;
+![Şekil/Grafik/Soru](images/image407.jpg)
 
-Üniversitede tanışan üç arkadaşın, tanıştıkları zamanki yaş ortalaması
+![Şekil/Grafik/Soru](images/image408.jpg)
 
-20'dir. Belirli bir süre geçtikten sonra, bu üç arkadaş birer çocuğuyla
+#### Düzgün Çokgenlerin Özellikleri
 
-birlikte bir araya gelmiş ve bu altı kişinin yaş ortalarmasının yine 20 olduğu
+1. İç açılarının ölçülerinin toplamı (n-2)·180° dir.
 
-görülmüştür.
+## n kenarlı bir düzgün çokgenin
 
-Bu üç arkadaşın, çocuklarıyla aralarındaki yaş farklarının 28, 30 ve 32 olduğu bilinmektedir.
+2. Dịs açilarinin ölçülerinin toplamı 360° dir.
 
-Buna göre, bu üç arkadaş tanıştıktan kaç yıl sonra bir araya gelmiştir?
+3. Bir dış açısının ölçüsü  $ \frac{360^{\circ}}{n} $ dir.
 
-A) 15 B) 16 C) 18 D) 20 E) 21
+4. Bir iç açısının ölçüsü  $ \frac{(n-2)\cdot180^{\circ}}{n} $ dir.
 
-#### TIP-20
+5. Bir kenar a ise  $ \boxed{Çevre = n \cdot a} $ dir.
 
-Faruk, 2020 yılında ziyaret ettiği bir müzede gördüğü bir vazoya ait bilgileri okurken vazonun bulunduğu yıl ile kendi doğduğu yılın aynı olduğunu ve vazonun, bulunduğunda 300 yaşında olduğuğuru öğrenmiştir.
+KURAL
 
-Ayrıca bu ziyareti sırasında kendi yaşının 39 katının vazonun yapıldığı yıla eşit olduğunu hesaplamıştır.
+Kenar sayısı çift olan düzgün çokgenlerde karşılıklı kenarları paraleldir.
 
-Buna göre, 2020 yılında Faruk kaç yaşındadır?
+![Şekil/Grafik/Soru](images/image409.jpg)
 
-A) 41 B) 42 C) 43 D) 44 E) 45
+![Şekil/Grafik/Soru](images/image410.jpg)
 
-## yarqi yayinevi
+#### KURAL
 
-1) Oran oranti kullanılarak çözüm yapılır.
+Kenar sayısı tek olan düzgün çokgenlerde bir kenardan karşı kenara çizilen dik karşı kenarı ortalar.
 
- $$ \begin{array}{c|c|c}{{{\hline Karisim}}}&amp;{{{\hline}}}&amp;{{{Miktar}}} \\{{{\hline a}}}&amp;{{{\times}}}&amp;{{{b}}} \\{{{\hline100}}}&amp;{{{x}}} \\{{{\hline a\cdot x=100\cdot b}}}\end{array} $$ 
+![Şekil/Grafik/Soru](images/image411.jpg)
 
-2)
+[AH]⊥[CD] çizilirse
 
- $$ \begin{array}{|c|c|c|c|}\hline\hline{\%x}&amp;{}&amp;{\%y}&amp;{}\\{\hline{a\mathrm{~g r}}&amp;{+}&amp;{b\mathrm{~g r}}&amp;{=}\\ \hline{}\\ \end{array}\quad=\quad\begin{array}{|c|c|}\hline{}&amp;{}\\{}&amp;{}\\{}&amp;{}\\{}&amp;{c\mathrm{~g r}}\\{}\\ \hline{}\\ \end{array} $$ 
+ $$ \left|CH\right|=\left|HD\right|ve $$ 
 
-Yüzde - miktar + yüzde - miktar = yüzde - miktar
+ $$ m(\widehat{BAH})=m(\widehat{HAE})=54^{\circ} $$ 
 
-x \cdot a + y \cdot b = z \cdot c
+#### KURAL
 
-Karişima su ekleniyorsa yüzdesi sıfır alınır.
+Düzgün çokgenlerde eşit sayıda kenarı birleştiren köşegenlerin uzunlukları birbirine eşittir.
 
-Karişima tuz, şeker, alkol gibi maddeler ekleniyorsa yüzdesi 100 alını.
+![Şekil/Grafik/Soru](images/image412.jpg)
 
-Tuzlu suya  $ \rightarrow $ Tuz
+![Şekil/Grafik/Soru](images/image413.jpg)
 
-Şekerli suya  $ \rightarrow $ Şeker gibi.
+KURAL
 
-Karişım döküldüğünde yüzdesi değişmez. Değişen madde miktarıdır.
+![Şekil/Grafik/Soru](images/image414.jpg)
 
-Örnek: Şekerli suyun şeker oranı %30 ise su oranı %70 dir.
+ABCDEFGHI... düzgün çokgen olmak üzere köşelerdeki açılar gördüğü kenar sayısı ile orantılıdır.
 
-14 gr tuz ile 6 gr su bir kapta kariştiriliyor.
+DBC açısı bir kenar gördüğü için ölçüsü  $ \alpha $ ise GBD açısı 3 kenar gördüğü için ölçüsü 3 $ \alpha $ olur.
 
-#### Tip-1
+#### tip-1
 
-Buna göre, karışımın tuz oranı yüzde kaçtır?
+![Şekil/Grafik/Soru](images/image415.jpg)
 
-A) 45 B) 50 C) 55 D) 65 E) 70
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ABCDE düzgün beşgen&lt;/div&gt; &lt;/div&gt;
 
-##### Tip-2
+[BF]⊥[DE]
 
-13 kg findik ile 27 kg badem bir kapta homojen olarak karıştırılıyor.
+[CH]⊥[EA]
 
-Buna göre, karışımın badem oranı yüzde kaçtır?
+Yukaridaki verilere göre, m( $ \widehat{CKB} $) kaç derecedir?
 
-A) 65 B) 67,5 C) 70 D) 75 E) 825
+A) 48 B) 54 C) 63 D) 72 E) 80
 
-TIP-3
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-2&lt;/div&gt; &lt;/div&gt;
 
-Alkol oranı %60 olan 40 İt karışımdan kaç It su buharlaştırılırsa alkol oranı %80 olur?
+![Şekil/Grafik/Soru](images/image416.jpg)
 
-A) 5 B) 10 C) 15 D) 20 E) 25
+ABCDE... düzgün çokgen
+
+m $ \widehat{ADC} $ = 24°
+
+Yukaridaki verilere göre, çokgen kaç kenarlıdır?
+
+A) 9 B) 10 C) 12 D) 14 E) 15
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image417.jpg)
+
+ABCDE düzgün beşgen
+
+AFDE paralelkenar
+
+Buna göre, m( $ \widehat{BAF} $) kaç derecedir?
+
+A) 36 B) 45 C) 60 D) 75 E) 80
 
 #### Tip-4
 
-%13'ü şeker olan 25 gr şekerli su karışımı ile %39'u şeker olan 40 gr şekerli su karışımı bir kapta karıştırılıyor.
+![Şekil/Grafik/Soru](images/image418.jpg)
 
-Buna göre, yeni karışımın su yüzdesi kaçtır?
+ABCDE düzgün beşgen
 
-A) 27 B) 71 C) 38 D) 73 E) 29
+EFKD dikdörtgen F, K, C doğrusaldır.
 
-#### MATEMATIK
+Buna göre, m( $ \widehat{KCB} $)-m( $ \widehat{KDC} $) farklı kaç derecedir?
 
-#### TIP-5
+A) 9 B) 18 C) 30 D) 36 E) 45
 
-Asit orani %60 olan 80 litre sirkeye, asit orani %70 olan 10 litre sirkete ve 10 litre saf su eklenirse karışımın asit oranı yüzde kaç olur?
+#### KURAL
 
-A) 45 B) 50 C) 55 D) 60 E) 65
+• Düzgün altigen, bir kenari a olan 6 tane eşkenar üçgenden oluşur.
 
-#### TIP-6
+• Düzgün altigenin alanı A ise
 
-Tuzluluk oranı %60 olan 20 litre tuzlu suyun 5 litre dökülerek yerine aynı miktarda saf su konuluyor.
+ $$ A=6\frac{a^{2}\sqrt{3}}{4}=\frac{3}{2}a^{2}\sqrt{3} $$ 
 
-Buna göre, karışımın tuzluluk oranı yüzde kaç olur?
+![Şekil/Grafik/Soru](images/image419.jpg)
 
-A) 55 B) 40 C) 45 D) 50 E) 60
+![Şekil/Grafik/Soru](images/image420.jpg)
 
-#### tip-7
+KURAL
 
-Şeker oranı %40 olan şekerli suyun  $ \frac{1}{3} $’ü dökülerek, yerine dökülen miktar kadar şeker ekleniyor.
+#### KURAL
 
-Buna göre, yeni karışımın su oranı yüzde kaçtır?
+Düzgün altigenin bir kenari a ise kısa olan köşegenler a $ \sqrt{3} $ ve uzun olan köşegenler 2a dır.
 
-A) 10 B) 20 C) 30 D) 40 E) 50
+![Şekil/Grafik/Soru](images/image421.jpg)
 
-#### TIP-8
+Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve [CE] çizilirse oluşan ACE üçgenin bir eşkenar üçgendir ve alanı düzgün altigenin alanının yarısıdır.
 
-Tuz orani %50 olan 60 gr tuzlu suya 20 gr tuz ve 20 gram su eklenirse karişimin tuz oranı yüzde kaç olur?
+KURAL
 
-A) 50 B) 49 C) 53 D) 55 E) 47
+![Şekil/Grafik/Soru](images/image422.jpg)
 
-#### tip-9
+Düzgün altigende kısa olan köşegenlerden [AE], [AC] ve uzun olan köşegenlerden [AD] çizilirse oluşan alanlar şekilde gibi olur.
 
-10 gr 15 ayar altın karışımın ayarını 20'ye yükseltmek için karışma kaç gr saf altın eklenmelidir? (Saf altın 24 ayardır.)
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip -5&lt;/div&gt; &lt;/div&gt;
 
-A) 10 B) 12,5 C) 15 D) 17,5 E) 20
+![Şekil/Grafik/Soru](images/image423.jpg)
 
-#### TIP-10
+ABCDEF düzgün altigen
 
-A kabında 10 gr şeker ve 30 gr sudan oluşan bir şekerli su karışımı, B kabında ise şeker oranı %18 olan x gr şekerli su karışımı vardır.
+|BF| = 4$\sqrt{3}$ cm
 
-A kabinin yarısı B'ye aktarıldığında, B kabında oluşan karışımın şeker oranı %20 olduğunu göre, x kaçtır?
+Yukaridaki verilere göre, |CF| kaç cm'dir?
 
-A) 45 B) 60 C) 75 D) 25 E) 50
+A) 4 B) 6 C) 8 D) 10 E) 12
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-11&lt;/div&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-6&lt;/div&gt; &lt;/div&gt;
 
-![Şekil/Grafik/Soru](images/image84.jpg)
+![Şekil/Grafik/Soru](images/image424.jpg)
 
-A karişimından 20 gr, B karişimından 30 gr alınıp kariştirildiğında oluşan yeni karişimin şeker oranı yüzde kaçtır?
+ABCDEF düzgün altigen
 
-A) 20 B) 21 C) 22 D) 23 E) 24
+ $ [FH] \perp [AD] $
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-12&lt;/div&gt; &lt;/div&gt;
+ $ \left|AD\right|=12\text{cm} $
 
-Şekerli su karışımının %32'si şekerdir.
+Yukaridaki verilere göre, |FH| kaç cm'dir?
 
-Karişimdaki suyun yarısı kadar şeker ve karışımdaki şekerin yarısı kadar su eklenirse yeni karışımın şeker oranı yüzde kaç olur?
+A)  $ 2\sqrt{3} $ B)  $ 3\sqrt{3} $ C)  $ 4\sqrt{3} $ D)  $ 5\sqrt{3} $ E)  $ 6\sqrt{3} $
 
-A) 56 B) 40 C) 60 D) 44 E) 54
+TIP-7
 
-##### Tip-13
+![Şekil/Grafik/Soru](images/image425.jpg)
 
-%36'sı su olan 23 kg yaş üzüm bir süre bekletildikten sonra %8'inin su olduğu belirleniyor.
+ABCDEF düzgün altigen
 
-Buna göre, son durumda elde edilen üzüm kaç kg'dır?
+[AC] ve [BE] köşegen
 
-A) 8 B) 10 C) 12 D) 14 E) 16
+|EK| = 9 cm
 
-#### tip-14
+Yukaridaki verilere göre, |CF| kaç cm'dir?
 
-Boş bir havuzu iki m
+A) 12 B) 24 C) 30 D) 36 E) 48
+
+TIP-8
+
+![Şekil/Grafik/Soru](images/image426.jpg)
+
+### ABCDEF düzgün altigen
+
+ $$ [\mathsf{A D}]\cap[\mathsf{N B}]=\{\mathsf{K}\} $$ 
+
+ $$ \left|EN\right|=\left|ND\right| $$ 
+
+Yukaridaki verilere göre,  $ \frac{Alan(ABCDEF)}{Alan(NKD)} $ oranı kaçtır?
+
+A) 9 B) 12 C) 15 D) 18 E) 21
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-9&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image427.jpg)
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTUVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGHIJKLMNOPQRSTVVWYZABCDEFGH

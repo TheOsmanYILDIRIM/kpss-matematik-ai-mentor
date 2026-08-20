@@ -132,4 +132,12 @@ B ile D aynı işaretli ve aralarında asal değil,
 
 • Kartlar üzerinde yazan sayıların çarpımı –24 olduğu biliniyor.
 
-B
+Buna göre, C'nin alabileceği değerler toplamı kaçtır?
+
+A) -7          B) -6          C) -4          D) -3          E) -1
+
+### MATEMATIK
+
+Tanim: Ardişik iki terimi arasındaki fark 1 dir.
+
+* a ile b

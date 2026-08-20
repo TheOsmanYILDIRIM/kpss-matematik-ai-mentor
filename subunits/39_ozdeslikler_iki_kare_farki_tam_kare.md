@@ -1,189 +1,341 @@
-# 2026 KPSS Matematik: Önemli Özdeşlikler (İki Kare Farkı a^2-b^2 ve Tam Kare (a+b)^2)
+# 2026 KPSS Matematik: Önemli Özdeşlikler (İki Kare Farkı & Tam Kare)
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-images/image336.jpg)
+iki Kare Farkı
 
-5. ABC üçgeninde iç açıortaylar tek bir bir noktada kesişir. Bu noktaya iç açıortayların kesim noktası denir. Dıç açıortayların kesim noktası olmak üzere,
+ $ x^{2} - y^{2} = (x - y)(x + y) $
 
-$$\frac{\mathrm{A}(\widehat{\mathrm{BDC}})}{\mathrm{a}}=\frac{\mathrm{A}(\widehat{\mathrm{ADC}})}{\mathrm{b}}=\frac{\mathrm{A}(\widehat{\mathrm{ADB}})}{\mathrm{c}}=\frac{\mathrm{A}(\widehat{\mathrm{ABC}})}{\mathrm{a}+\mathrm{b}+\mathrm{c}}$$ orantisi vardir.
+Örnek:  $ x^2 - 9 = x^2 - 3^2 = (x - 3)(x + 3) $
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-4&lt;/div&gt; &lt;/div&gt;
+Örnek: $4x^2 - 16 = (2x)^2 - 4^2 = (2x - 4) \cdot (2x + 4)$
 
-![Şekil/Grafik/Soru](images/image337.jpg)
+Örnek:  $ x^2 - 3 = x^2 - (\sqrt{3})^2 = (x - \sqrt{3}) \cdot (x + \sqrt{3}) $
 
-Şekildeki ABC üçgeninde D noktası iç açıortayların kesim noktasıdır.
+##### tip-9
 
- $$ \left|AB\right|=4cm $$ 
+ $$ 25x^{2}-16y^{2} $$ 
 
- $$ |AC|=8cm $$ 
+ifadesinin çarpanları nelerdir?
 
- $$ |BC|=6cm $$ 
+A)  $ (5x - 4y) \cdot (2x + y) $
 
- $$  A\left(\widehat{ADB}\right)=8cm^{2} $$ 
+B)  $ (5x + 4y) \cdot (2x - y) $
 
-Yukaridaki verilere göre, A $ \widehat{ABC} $ kaç cm $ ^{2} $ dir?
+C)  $ (5x - 4y) \cdot (5x + 4y) $
 
-A) 16 B) 18 C) 24 D) 32 E) 36
+D)  $ (25x - 16y) \cdot (25x + 16y) $
 
-![Şekil/Grafik/Soru](images/image338.jpg)
+E)  $ (5x - y) \cdot (5x + y) $
 
-6. Çevresi ve iç teğet çemberinin yarı-çapı verilen üçgenin alanını bulurken, AOB, AOC, BOC'nin alanlarını toplarız. Üçgenin iç teğet çemberinin yarı-çapısı rakbul edersek;
+##### TIP-10
 
- $$ \mathsf{A}\left(\widehat{\mathsf{A O B}}\right)=\frac{\mathrm{c}\cdot\mathrm{r}}{2} $$ 
+ $$ (x+y-2)^{2}-(x-y-2)^{2} $$ 
 
- $$ \mathsf{A}\left(\widehat{\mathsf{AOC}}\right)=\frac{\mathsf{b}\cdot\mathsf{r}}{2} $$ 
+carpanlari nelerdir?
 
- $$ A\left(\widehat{BOC}\right)=\frac{a\cdot r}{2} $$ 
+A)  $ 4y \cdot (x-2) $ B)  $ y \cdot (x+2) $ C)  $ 4y \cdot (x+2) $
 
- $$ \begin{aligned}\mathsf{A}\big(\widehat{\mathsf{ABC}}\big)&amp;=\frac{\mathsf{c}\cdot\mathsf{r}}{2}+\frac{\mathsf{b}\cdot\mathsf{r}}{2}+\frac{\mathsf{a}\cdot\mathsf{r}}{2}\\&amp;=\frac{\mathsf{r}(\mathsf{a}+\mathsf{b}+\mathsf{c})}{2}\quad\left(\mathsf{u}=\frac{\mathsf{a}+\mathsf{b}+\mathsf{c}}{2}\right)\\&amp;=\mathsf{u}\cdot\mathsf{r}\\ \end{aligned} $$ 
+D)  $ 2y \cdot (x+2) $ E)  $ (x-2) \cdot (x+2) $
 
-![Şekil/Grafik/Soru](images/image339.jpg)
+TIP-11
 
-7. Kenar uzunlukları ve çevrel çemberin yarıçapı bilinen üçgenin alanı;
+ $$ \frac{(298^{2}-98^{2})-200\cdot392}{4a}=16 $$ 
 
- $$ \mathsf{A}\left(\widehat{\mathsf{ABC}}\right)=\frac{\mathsf{a}\cdot\mathsf{b}\cdot\mathsf{c}}{4\mathsf{R}} $$ 
+olduğuna göre, a kaçtir?
 
-Tip-5
+A) 10 B)  $ \frac{15}{2} $ C)  $ \frac{25}{2} $ D)  $ \frac{15}{4} $ E)  $ \frac{25}{4} $
 
-![Şekil/Grafik/Soru](images/image340.jpg)
+##### Tip-12
 
-ABC üçgen
+ $$ \frac{x^{2}-2x-y^{2}+2y}{x-y} $$ 
 
-[ED]⊥[AB]
+ifadesinin  $ \underline{\text{en sade}} $ hâli nedir?
 
-[EF]⊥[BC]
+A) x B) y C) x + y
 
-|AB|=8 cm
+D) x - y E) x + y - 2
 
-|BC|=10 cm
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-13&lt;/div&gt; &lt;/div&gt;
 
-|ED|=5 cm
+ $$ x^{4}-y^{2}=21 $$ 
 
-|EF|=3 cm
+ $$ x^{2}+y=3 $$ 
 
-Yukaridaki verilere göre,  $ \frac{|AE|}{|EC|} $ oranı kaçtır?
-
-A)  $ \frac{2}{3} $ B) 1 C)  $ \frac{4}{3} $ D)  $ \frac{5}{3} $ E) 2
-
-TIP-6
-
-![Şekil/Grafik/Soru](images/image341.jpg)
-
-ABD dik üçgen
-
-[AB] $ \perp $ [BC]
-
-| AB | = 6 cm
-
-|BC| = 8 cm
-
-Yukaridaki verilere göre, ABC üçgeninin iç teğet çemberinin yarıçapı kaç cm'dir?
+olduğuna göre,  $ x^{2} - y^{2} $ ifadesinin sonucu kaçtır?
 
 A) 1 B) 2 C) 3 D) 4 E) 5
 
-Tip-7
+#### TIP-14
 
-![Şekil/Grafik/Soru](images/image342.jpg)
+9⁴ -1 ifadesi aşağıdakilerden hangisine tam  $ \underline{\text{bölünemez}} $?
 
-ABC üçgeninde [AD] kenarortay,
+A) 4 B) 16 C) 41 D) 70 E) 82
 
- $ [BE] \perp [AD] $
+II) Tam Kare ifadeter
 
-|AD|=5cm
+ $$ (x+y)^{2}=x^{2}+2xy+y^{2} $$ 
 
-|BE| = 6 cm
+ $$ (x-y)^{2}=x^{2}-2xy+y^{2} $$ 
 
-Yukaridaki verilere göre, Alan(ABC) kaç cm² dir?
+ $$ (x+y-z)^{2}=x^{2}+y^{2}+z^{2}+2(x y-x z-y z) $$ 
 
-A) 15 B) 20 C) 25 D) 30 E) 35
+Örnek:  $ (x-3)^2 = x^2 - 2 \cdot x^3 + 3^2 = x^2 - 6x + 9 $
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TíP-8&lt;/div&gt; &lt;/div&gt;
+Örnek:  $ (x+2)^2 = x^2 + 2 \cdot x \cdot 2 + 2^2 = x^2 + 4x + 4 $
 
-![Şekil/Grafik/Soru](images/image343.jpg)
+ $$ \begin{aligned}\left(\mathbf{x}-\frac{1}{\mathbf{x}}\right)^{2}&amp;=\mathbf{x}^{2}-2\cdot\mathbf{x}\cdot\frac{1}{\mathbf{x}}+\left(\frac{1}{\mathbf{x}}\right)^{2}\\&amp;=\mathbf{x}^{2}-2+\frac{1}{\mathbf{x}^{2}}\end{aligned} $$ 
 
-ABC üçgeninde AB kenarı 4 eş, AC kenarı 3 eş parçaya bölünmüştür.
+Örnek:  $ x^2 + 6x + 9 = (x + 3) \cdot (x + 3) = (x + 3)^2 $
 
-Tarali alan 3 cm² olduğuna göre, Alan(ABC) kaç cm² dir?
+Örnek:  $ x^2 - 4x = (x - \frac{2}{4})^2 - 4 $
 
-A) 12 B) 24 C) 36 D) 48 E) 60
+### NOT
 
-##### Tip-9
+Tam kare yapmak için ortadaki sayının yarısının karesi parantezine al.
 
-![Şekil/Grafik/Soru](images/image344.jpg)
+Örnek:  $ x^2 + 6x = (x + \frac{3}{1})^2 - 9 $
 
-![Şekil/Grafik/Soru](images/image345.jpg)
+Örnek:  $ x^{2} - 8x = (x - 4)^{2} - 16 $
 
-Yukaridaki verilere göre, DEC üçgeninin alanı kaç cm² dir?
+Örnek:  $ x^{2} + 2x + 7 $ ifadesinı tam kare yapımaz.
 
-A) 6
+ $$ (x+{\tiny\begin{array}{c}{1}\\ {1}\end{array}})^{2}+6 $$ 
 
-B) 9
+Örnek:  $ x^{2} - 4x + 11 $ ifadesini tam kare yapınız.
 
-C) 12
+ $ =(x-2)^{2}+7 $
 
-D) 15
+##### NOT
 
-E) 18
+Sorularda ifadenin en büyük ya da en küçük değeri sorulursa tam kare yapmalıyız.
 
-Karşılık açıları eş ve karşılıklı açıları orantılı olan üçgenlere benzer üçgenler denir.
+#### tip-15
 
-![Şekil/Grafik/Soru](images/image346.jpg)
+ $$ x^{2}+6x+13 $$ 
 
-ABC ve DEF benzer üçgenlerinin karşılıklı açıları eşit ve karşılıklı kenarları orantılıdır.
+ifadesinin  $ \underline{\text{en küçük}} $ degeri kaçtir?
 
-![Şekil/Grafik/Soru](images/image347.jpg)
+A) 1 B) 2 C) 3 D) 4 E) 5
 
- $$ \mathfrak{m}(\widehat{\mathsf{A}})=\mathfrak{m}(\widehat{\mathsf{D}}) $$ 
+##### Tip-16
 
- $$ m(\widehat{\mathbf{B}})=m(\widehat{\mathbf{E}})\bigg\{\Longleftrightarrow\frac{\mathbf{a}}{\mathbf{d}}=\frac{\mathbf{b}}{\mathbf{e}}=\frac{\mathbf{c}}{\mathbf{f}} $$ 
+ $$ x^{2}+4x+y^{2}-6y+11 $$ 
 
- $$ m(\widehat{\mathbf{C}})=m(\widehat{\mathbf{F}}) $$ 
+ifadesinin  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-- Burada ABC üçgeni ile DEF üçgeni benzerdir denir ve  $ \widehat{ABC} \sim \widehat{DEF} $ biçiminde gösterilir.
+A) -2 B) -1 C) 0 D) 1 E) 2
 
-- Kenar uzunlukları arasındaki orana benzerlik oranı denir.
+#### tip-17
 
- $ \frac{a}{d} = \frac{b}{e} = \frac{c}{f} = k $ eşitliğinde k benzerlik orandır.
+x - y = 12  ve  x \cdot y = 3
 
-• Benzerlik yazılırken eş açı köşeleri aynı sırada yazılır.
+olduğuna göre,  $ x^{2} + y^{2} $ toplamının değeri kaçtır?
 
- $$ \widehat{ABC}\sim\widehat{DEF}\Leftrightarrow\frac{\left|AB\right|}{\left|DE\right|}=\frac{\left|AC\right|}{\left|DF\right|}=\frac{\left|BC\right|}{\left|BF\right|} $$ 
+A) 144 B) 148 C) 150 D) 156 E) 182
 
-#### UYARI
+TIP-18
 
-Eğer benzerlik oranı k = 1 ise üçgenler eştir.
+ $ a^2 + b = b^2 + a $ ve  $ a \cdot b = -1 $
 
-##### KURAL
+olduğuna göre  $ a^{2} + b^{2} $ toplamının değeri kaçtır?
 
-Karşılıklı ikişer açıları eş olan üçgenler benzerdir.
+A) -1 B) 0 C) 1 D) 2 E) 3
 
-![Şekil/Grafik/Soru](images/image348.jpg)
+##### tip-19
 
-![Şekil/Grafik/Soru](images/image349.jpg)
+ $$ 4a^{2}+12ab+(k-2)\cdot b^{2} $$ 
 
- $$ \mathsf{m}(\widehat{\mathsf{A}})=\mathsf{m}(\widehat{\mathsf{D}})\Big\}\Rightarrow\widehat{\mathsf{A}\mathsf{B}\mathsf{C}}\sim\widehat{\mathsf{D}\mathsf{E}\mathsf{F}} $$ 
+ifadesi tam kare ifade ise k kaçtir?
 
-tip-1
+A) 8 B) 9 C) 10 D) 11 E) 12
 
- $$ m(\widehat{\mathsf{B}})=\mathfrak{m}(\widehat{\mathsf{E}})\int^{\Rightarrow\mathsf{A B C}\sim\mathsf{D E F}} $$ 
+#### TIP-20
 
-![Şekil/Grafik/Soru](images/image350.jpg)
+ $$ x^{2}+4x+1=0 $$ 
 
- $$ m\left(\widehat{BAE}\right)=m\left(\widehat{BDE}\right) $$ 
+olduğuna göre  $ x^{2} + \frac{1}{x^{2}} $ ifadesinin değeri kaçtır?
 
- $$ |AC|=4cm $$ 
+A) 10 B) 11 C) 12 D) 13 E) 14
 
- $$ |CD|=3cm $$ 
+III) iki Küp Toplamı ve Farkı
 
- $$ \left|AB\right|=5cm $$ 
+•  $ x^3 - y^3 = (x - y)(x^2 + xy + y^2) $ ya da  $ x^3 + y^3 = (x + y)(x^2 - xy + y^2) $
 
- $$ \left|DE\right|=x $$ 
+•  $ x^3 - y^3 = (x - y)^3 + 3 \cdot x \cdot y \cdot (x - y) $ ya da  $ x^3 + y^3 = (x + y)^3 - 3 \cdot x \cdot y \cdot (x + y) $
 
-#### Yukaridaki verilere göre, |DE| = x kaç cm'dir?
+Örnek:  $ x^3 - 8 = x^3 - 2^3 = (x - 2)(x^2 + 2x + 2^2) $
 
-| DE|=x kaç cm'dir?
+Örnek:  $ x^3 + 27 = x^3 + 3^3 = (x + 3)(x^2 - 3x + 3^2) $
 
-A)  $ \frac{15}{2} $ B)  $ \frac{15}{4} $ C)  $ \frac{5}{2} $ D)  $ \frac{7}{4} $ E)
+##### tip-21
+
+x + y = 3  ve    x \cdot y = 1
+
+olduğuna göre,  $ x^{3} + y^{3} $ ifadesinin sonucu kaçtır?
+
+A) 17 B) 18 C) 19 D) 20 E) 21
+
+#### TIP-22
+
+ $$ x-\frac{1}{x}=5 $$ 
+
+olduġuna gõre, x^{3} —$\frac{1}{x^{3}}$ ifadesinin deġeri kaċċir?
+
+A) 140 B) 145 C) 150 D) 155 E) 160
+
+#### Tip-23
+
+ $$ x^{2}+1=x $$ 
+
+olduğuna göre,  $ x^{3} + 3x^{2} + 1 $ ifadesinin sonucu nedir?
+
+A) 3x B) 3x - 1 C) 3x - 2 D) 3x - 3 E) 3x - 4
+
+IV) Tam Kúp ifadeler
+
+(x+y)^3 = x^3 + 3x^2 \cdot y + 3xy^2 + y^3 \quad (x-y)^3 = x^3 - 3x^2 \cdot y + 3xy^2 - y^3
+
+ $ \underline{\text{TiP-24}} $
+
+ $$ x^{3}+3x^{2}\cdot y=11 $$ 
+
+ $$ y^{3}+3x y^{2}=16 $$ 
+
+olduğuna göre, x + y toplamının değeri kaçtır?
+
+A) 2 B) 3 C) 4 D) 5 E) 6
+
+#### TIP-25
+
+a ve b gerçel sayılar olmak üzere,
+
+a^{3}+b^{3}=44
+
+a+b=2
+
+olduğuna göre, a·b çarpımı kaçtır?
+
+A) -6 B) -5 C) -4 D) -3 E) -2
+
+TiP-26
+
+ $$ x-\frac{1}{x}=3 $$ 
+
+olduğuna göre,  $ x^{3}-\frac{1}{x^{3}} $ ifadesinin değeri kaçtır?
+
+A) 6 B) 9 C) 12 D) 18 E) 36
+
+5. Hayyam Üçgeni
+
+![Şekil/Grafik/Soru](images/image65.jpg)
+
+$(x \mp y)^n$ ifadesinin açılımının katsayları
+
+Örn: $(x + y)^5 = x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5$
+
+#### TIP-27
+
+x = 3, y = -1 olmak üzere,
+
+ $$ x^{4}+4x^{3}y+6x^{2}y^{2}+4x y^{3}+y^{4} $$ 
+
+ifadesinin sonucu kaçtır?
+
+A) 8 B) 12 C) 16 D) 20 E) 27
+
+#### TíP - 28
+
+x =  $ \sqrt[5]{7} + 1 $ veriliyor.
+
+ $$ x^{5}-5x^{4}+10x^{3}-10x^{2}+5x $$ 
+
+ifadesinin sonucu kaçtır?
+
+A) 5 B) 6 C) 7 D) 8 E) 9
+
+##### Tip-29
+
+ $$ (2+1)\cdot(2^{2}+1)\cdot(2^{4}+1)\cdot(2^{8}+1)=2^{x}-1 $$ 
+
+olduğuna göre x kaçtır?
+
+A) 4 B) 8 C) 16 D) 32 E) 64
+
+##### Tip-30
+
+ $$ \frac{x^{3}-27}{(x+3)^{2}-3x}:\frac{x^{2}-9}{x+3} $$ 
+
+ifadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?
+
+A)  $ x + 3 $ B) 3 - x C) x - 3
+
+D) 1 E) 3
+
+#### TiP - 31
+
+## a ve b pozitif tam sayıları için
+
+ $$ a^{2}-2b=41 $$ 
+
+ $$ 2a+b^{2}=30 $$ 
+
+olduğuna göre, a · b çarpımı kaçtır?
+
+A) 24 B) 28 C) 30 D) 36 E) 42
+
+#### tip-32
+
+#### Birbirinden farklı pozitif x ve y gerçel sayıları için
+
+ $$ \frac{x^{2}-y^{2}}{\sqrt{x}-\sqrt{y}}=40\quad ve\quad x+y=10 $$ 
+
+olduğuna göre, x·y çarpımı kaçtır?
+
+A) 9 B) 10 C) 12 D) 14 E) 15
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-33&lt;/div&gt; &lt;/div&gt;
+
+ $ \frac{2^{12}-1}{1+2^{3}+2^{6}+2^{9}} $
+
+işleminin sonucu kaçtır?
+
+A) 5 B) 7 C) 9 D) 11 E) 13
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-34&lt;/div&gt; &lt;/div&gt;
+
+Şehir turu yapmak isteyen bir grup turist, her birinde x kişi olacak biçimde x tane minibüse binerek sabah otelden ayrılmıştır. Öğleden sonra, turistlerin bir kısmı yoruldukları için turu tamamlamak istememiştir. Turu tamamlamak isteyenler her birinde y kişi olacak biçimde y tane minibüse birerek tura devam etmiş, yorulanlar ise diğer minibüslere eşit sayıda paylaştırılarak otele geri dönmüştür.
+
+Buna göre, otele geri dönen minibüslerin her birinde kaç turist vardır?
+
+A)  $ x + y $ B)  $ x - y $ C)  $ x \cdot y $ D)  $ x^{2} - y^{2} $ E)  $ x^{2} + y^{2} $
+
+Tip - 35
+
+ $$ \frac{x^{2}-ax+b}{x^{2}-3x+2} $$ 
+
+ifadesinin sadeleştirilmiş biçimi  $ \frac{x-3}{x-2} $ olduğunu göre, a·b çarpımı kaçtır?
+
+A) 2 B) 4 C) 6 D) 8 E) 12
+
+Tip-36
+
+Bir kenarının uzunluğu 8a birim olan kare şeklindeki bir kâğıt aşağıdaki gibi orta kısımlarından döride katlanarak köşelerinden b ürim uzunluklarında kareler kesilerek çıkartılıyor.
+
+![Şekil/Grafik/Soru](images/image66.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;8a&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image67.jpg)
+
+![Şekil/Grafik/Soru](images/image68.jpg)
+
+Buna göre, son durumdaki kesilen kâğıt katlandığı yerlerden açıldığında, kâğıdın alanını veren ifade aşağıdakilerden hangisidir?
+
+A)  $ 8(a - b) \cdot (a + b) $ B)  $ 8(2a - b) \cdot (2a + b) $ C)  $ 16(a - b) \cdot (a + b) $
+
+D)  $ 16(2a - b) \cdot (2a + b) $ E)  $ 64(2a - b) \cdot (2a + b) $
+
+#####

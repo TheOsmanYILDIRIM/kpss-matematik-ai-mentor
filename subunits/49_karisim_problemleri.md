@@ -1,229 +1,369 @@
-# 2026 KPSS Matematik: Karışım Problemleri ve Saf Madde Yüzdesi Hesaplama
+# 2026 KPSS Matematik: Karışım Problemleri & Saf Madde Oranı
 **Modül:** Modül 3: Problemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-20&lt;/div&gt; &lt;/div&gt;
+ayısı birbirine eşittir. Her üç
 
- $$ \begin{array}{r} \frac{21}{71}+\frac{15}{83} \\ 2-\frac{64}{71}-\frac{78}{83} \end{array} $$ 
+dili bilenler 4, İngilizce ve Almanca bilenler 5, Almanca ve Fransızca bilenler
 
-işleminin sonucu kaçtır?
+7 kişidir.
 
-A) $\frac{1}{3}$ B) $\frac{1}{2}$ C) $1$ D) $2$ E) $3$
+Buna göre, bu toplulukta İngilizce bilenler kaç kişidir?
 
-#### TIP-21
+A) 17 B) 16 C) 15 D) 13 E) 12
 
-Aşağıda, dört eş dilime ayrılmış 400 gram ağırliğindaki küçük pizza ve altı eş dilime ayrılmış 600 gram ağırliğindaki büyük pizza gösterilmiştir.
+#### TiP - 27
 
-![Şekil/Grafik/Soru](images/image37.jpg)
+Bir apartmandaki bazı daireler, cumartesi ve pazar günlerinden en az birinde yemek siparişi vermiştir. Bu apartmandaki dairelerden;
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;400 gram&lt;/div&gt; &lt;/div&gt;
+cumartesi günü yemek siparişi vermeyen daire sayısının 7.
 
-![Şekil/Grafik/Soru](images/image38.jpg)
+pazar günü yemek siparişi vermeyen daire sayısının 5,
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;600 gram&lt;/div&gt; &lt;/div&gt;
+cumartesi günü de pazar günü de yemek siparişi vermeyen daire sayısının 3
 
-Ali ve Özge bu iki pizzayi eşit olarak paylaşacaktır.
+olduğu görülmüştür.
 
-Ali küçük pizzanın tamamını aldığına göre, büyük pizzanın kaçta kaçını almıştır?
+Bu apartmanda 15 daire bulunduğuna göre, her iki günde de yemek siparişi veren daire sayısı kaçtır?
 
-A)  $ \frac{1}{2} $ B)  $ \frac{1}{3} $ C)  $ \frac{1}{4} $ D)  $ \frac{1}{5} $ E)  $ \frac{1}{6} $
+A) 2 B) 3 C) 4 D) 5 E) 6
 
-Emel, içtiği su miktarını hesaplayabilmek için şekilde verilen su işişesinin dik dairesel silindir biçimindeki 2 litrelik kısmını önce 4 eşit parçaya, sonra da her bir parçayı 5 eşit parçaya bölerek ölçeklendirmiştir.
+##### Tip-28
 
-##### Tip-22
+Aşağıdaki Venn semasında A, B ve C sepetlerinde bulunan meyveler gösterilmiştir.
 
-Emel, içinde 2 litre su bulunan șișesindeki suyun bir kısmını içtikten sonra șișede oluşan görünüm aşağıda verilmiştir.
+![Şekil/Grafik/Soru](images/image148.jpg)
 
-![Şekil/Grafik/Soru](images/image39.jpg)
+Buna göre, [A ∩ B) \ C] ∪ [C \ (A ∪ B)] kümesinde hangi meyveler yer alır?
 
-Buna göre, Emel bu işseden kaç litre su içmiştir?
+A) Erik ve muz          B) Nar ve çilek          C) Erik ve elma
 
-A)  $ \frac{1}{4} $ B)  $ \frac{3}{4} $ C)  $ \frac{2}{5} $ D)  $ \frac{3}{5} $ E)  $ \frac{4}{5} $
+D) Kiraz ve nar        E) Elma ve kiraz
 
-### MATEMATIK
+#### TIP-29
 
-Tanim:  $ \frac{1}{10} $,  $ \frac{1}{100} $,  $ \frac{1}{1000} $, ..... gibi ifadelerdir.
+Elemanlari harfler olan 8 elemanlı A kümesinin bazı elemanlarıyla "matematik" ve "otomatik" kelimeleri, elemanları harfler olan 7 elemanlı B kümesinin bazı elemanlarıyla "fizik" ve "müzik" kelimeleri yazılabilmektedir.
 
- $$ \frac{1}{10}=0,1 $$ 
+Buna göre, A ∩ B kümesinin elemanlarıyla;
 
- $$ ^{*}1,32=\frac{132}{100} $$ 
+1. etik,
 
- $$ \frac{1}{100}=0,01 $$ 
+II. küme,
 
- $$ ^{*}0,007=7\cdot10^{-3} $$ 
+III. mazi
 
- $$ ^{*}2,765=\frac{2765}{1000} $$ 
+kelimelerinden hangileri  $ \underline{\text{kesinlikle yazılamaz}} $?
 
- $$ \frac{13}{10}=1,3 $$ 
+A) Yalnız I B) Yalnız II C) Yalnız III
 
- $$ 1,275=1275\cdot10^{-3} $$ 
+D) I ve II E) I ve III
 
-##### ORNEK SORU
+##### TIP-30
 
- $$ 0,1+0,01+0,003=? $$ 
+Onur, tamamı büyük harflerle yazılmış 80 kelimeden oluşan bir metin okumuş ve bu metinde bulunan "A" harflerinin toplam sayısını merak edip bunları saymıştır. Onur, bu sayına işleminde toplam 105 tane "A" harfi bulunduğunu görmüştür.
 
-#### QOZUM
+Ayrıca, Onur her bir kelimenin  $ \underline{\text{en fazla}} $ 2 tane "A" harfi içerdiğini ve "A" harfi içeren kelime sayısının, "A" harfi içermeyen kelime sayısının 3 katı olduğunu fark etmiştir.
 
-1. Yol
+Buna göre, Onur'un okuduğu metinde yalnızca 1 tane "A" harfi içeren kelime sayısı kaçtır?
 
- $$ \frac{1}{10}+\frac{1}{100}+\frac{3}{1000}\tag{100} $$ 
+A) 12 B) 15 C) 18 D) 21 E) 24
 
-2. Yol
+#### Tip-31
 
- $$ =\frac{100+10+3}{1000} $$ 
+Aşağıdaki Venn semasında;
 
-0,100
+• A harfi ile başlayan isimler kümesi A.
 
-0,010
+N harfi ile biten isimler kümesi N.
 
-+0,003
+5 harfli isimler kümesi B
 
-0,113
+ile gösterilmiştir.
 
- $$ =\frac{113}{1000}=0,113 $$ 
+![Şekil/Grafik/Soru](images/image149.jpg)
+
+Buna göre,
+
+K = {AÇELYA, AHMET, AYSUN, BEREN, KENAN, NERMIN}
+
+kümesinin elemanlarından kaç tanesi şekilde boyalı bölgeler ile gösterilen kümenin elemanıdır?
+
+##### i $ \S $LEM
+
+▲, *, ◑, ■ gibi sembollerle ifade edilen işlemlerdir.
 
 #### tip-1
 
- $$ \frac{0,25}{0,5}+\frac{3,6}{12}-\frac{2,4}{0,2} $$ 
+Reel sayilarda ▲ işlemi
 
-işleminin sonucu kaçtır?
+x ▲ y = 2x + 3y - 1
 
-A) 8 B) 8.5 C) -9.2
+şeklinde tanımlanıyor.
 
- $$ D)\;-10,2 $$ 
+Buna göre, 2 ▲ 3 işleminin sonucu kaçtır?
 
-tip-2
+A) 6 B) 8 C) 10 D) 12 E) 14
 
- $$ \frac{0,018}{0,09}-\frac{1,2}{0,03}+\frac{1,8}{0,3} $$ 
+#### TIP-2
 
-işleminin sonucu kaçtır?
+Reel sayilarda ■ işlemi,
 
- $$  A)-34,8 $$ 
+a ■ b = a - b + 2
 
-B) -33,8 C) -32 D) -30,4
+şeklinde tanımlanıyor.
 
-#### tip-3
+Buna göre, (1 ■ 2) 4 işleminin sonucu kaçtır?
 
-xy iki basamaklı bir doğal sayıdır.
+A) -1
 
- $$ \frac{x,y}{0,xy}-\frac{xy}{0,xy}+\frac{0,xy}{0,0xy} $$ 
+B) -3
 
-işleminin sonucu kaçtır?
+C) 2
 
-A) -70 B) -80 C) -90 D) -100 E) -110
+D) 4
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+E) 5
 
- $$ 0,5+\frac{1}{0,5-\frac{1}{1-0,5}} $$ 
+#### TIP-3
 
-işleminin sonucu kaçtır?
+Reel sayilarda * işlemi,
 
-A)  $ -\frac{1}{6} $ B)  $ -\frac{1}{5} $ C)  $ -\frac{1}{4} $ D)  $ \frac{1}{3} $ E)  $ \frac{1}{2} $
+x * y = 2x - y + 3
 
-#### Tip-5
+şeklinde tanımlanıyor.
 
-x pozitif tam sayıdır.
+k * 1 = 2 * 3  olduğuna göre, k kaçtır?
 
- $$ x+\frac{1}{4} $$ 
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-ifadesinin sonucu bir tam sayı ise x'in virgülden sonraki kısmı kaçtır?
+#### Tip-4
 
-A) 15 B) 20 C) 25 D) 50 E) 75
+Reel sayilarda
 
-Devirli Ondalıklı Sayılar
+a 🍌 b = a - b + 1
 
- $$ ^{*}0,23232323\ldots\ldots=0,\overline{23} $$ 
+x ▲ y = 2x + 3y + 2
 
- $$ 0,~7525252.....=0,7~{\overline{{52}}} $$ 
+işlemleri tanımlanıyor.
 
- $$ ^{*}0,3+0,03+0,003=\cdots\cdots=0,33333\cdots\cdots=0,\overline{3} $$ 
+Buna göre, (1 ● 2) ▲ (2 ● 4) işleminin sonucu kaçtır?
 
-Devirli Ondalıkı Sayıyı Rasyonel Yapma
+A) -1
 
-Sayinin Tamami – Devretmeyen Kisim
+B) 1
 
-Virgülden sonra
+C) 2
 
-Örnek: 0,
+D) 3
 
-Devreden sayi kadar 9
+E) 4
 
-Devretmeyen sayi kadar 0
+#### Tip - 5
 
- $$ \overline{15}=\frac{15-0}{99}=\frac{15}{99} $$ 
+Reel sayılarda ▲ işlemi,
 
-Örnek: 2,
+ $$ \frac{a}{2}\triangle\frac{4}{b}=a\cdot b-2a+b $$ 
 
- $$ \overline{72}=\frac{272-2}{99} $$ 
+şeklinde tanımlanıyor.
 
-Örnek: 32,
+Buna göre, 6 ▲ 2 işleminin sonucu kaçtır?
 
- $$ 1\overline{3}\;=\frac{3213-321}{90} $$ 
-
-Örnek: 2,
-
- $$ \overline{7}=2+\frac{7}{9} $$ 
-
-Örnek: 1.
-
- $$ \overline{32}=1+\frac{32}{99} $$ 
+A) 2 B) 3 C) 4 D) 5 E) 6
 
 #### TIP-6
 
- $$ \frac{1,\overline{3}}{0,4\overline{9}}+1,2 $$ 
+Reel sayılarda,
 
-işleminin sonucu kaçtır?
+ $$ x\triangleq y=2x-3y-2(y\triangleq x) $$ 
 
-A) $\frac{27}{10}$ B) $\frac{13}{5}$ C) $\frac{49}{15}$ D) $\frac{58}{15}$ E) $\frac{71}{15}$
+Buna göre, 2 ▲ 3 işleminin sonucu kaçtır?
 
-#### Tip-7
+A)  $ \frac{1}{2} $ B)  $ \frac{1}{3} $ C) 1 D)  $ \frac{5}{3} $ E) 3
 
- $$ \begin{aligned}\frac{0,4}{0,\overline{1}+0,\overline{2}+0,\overline{3}+.....+0,\overline{9}}\end{aligned} $$ 
+#### tip-7
 
-işleminin sonucu kaçtır?
+Reel sayilarda,
 
-A) 0,08 B) 0,06 C) 0,04 D) 0,02 E) 0,8
+ $$ a*b=\mathsf{E B O B}(a,b) $$ 
 
-#### TIP-8
+ $$ a\triangleq b=\mathsf{E K O K}\left(\mathsf{a,b}\right) $$ 
 
- $$ a=0,3\overline{75} $$ 
+işlemleri tanımlanıyor.
 
-b=0, $ \overline{375} $
+Buna göre, 18 ▲ (2 * 3) işleminin sonucu kaçtır?
 
-sayilarinin küçükten büyüğe doğru sıralaması nedir?
+A) 6 B) 12 C) 18 D) 24 E) 36
 
-A) a &lt; b &lt; c B) b &lt; a &lt; c C) c &lt; a &lt; b
+#### Tip-8
 
-D) b &lt; c &lt; a E) a &lt; c &lt; b
+Reel sayilarda,
 
-#### tip-9
+ $$ x\triangleq y=x^{2}+xy+1 $$ 
 
- $$ \frac{2}{7}=0,x_{1}x_{2}x_{3}\ldots\ldots x_{2026} $$ 
+ $$ x\triangleq y=y\triangleq x $$ 
 
-ifadesinde 2026'nci basamaktaki sayı kaçtir?
+olduğu biliniyor.
 
-A) 1 B) 2 C) 5 D) 7 E) 8
+#### Buna göre,
 
-#### Tip-10
+1.  $ x = y $
 
-a, b ve c sifirdan ve birbirinden farklı rakamlar olmak üzere, ondalık gösterimleri
+II.  $ x = -y $
 
- $$ K=a,b $$ 
+Ⅱ1.  $ \left|x\right|=\left|y\right| $
 
- $$ \mathsf{L}=\mathsf{b},\mathsf{c} $$ 
+ifadelerinden hangileri  $ \underline{\text{daima}} $ doğrudur?
 
- $$ \mathsf{M}=\mathsf{c},a $$ 
+A) Yalnız I B) Yalnız II C) Yalnız III
 
-biçiminde olan üç sayı veriliyor.
+D) Il ve III E) I, II ve III
 
-Ondalık gösterimi verilen sayılarda sıralama sorusunu yanlış öğrenen Alican, bu üç sayının sıralamasının, birler basamağı yerine onda birler basamağındaki değerin büyüklüğüne göre yapılacağını düşünerek  $ K &lt; L &lt; M $ sıralamasını elde ediyor.
+#### ÖZELLİKLER
 
-Buna göre, bu sayıların doğru sıralaması aşağıdakilerden hangisidir?
+### 1. Değişme Özelliği
 
-A) K &lt; M &lt; L          B) L &lt; K &lt; M          C) L &lt; M &lt; K
+x * y = y * x) oluyorsa değişme özelliği vardır.
 
-D) M &lt; K &lt; L          E) M &lt; L &lt; K
+* İşleme giren elemanların katsayıları eşit ise değişme özelliği vardır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: cent
+#### ÖRNEK
+
+![Şekil/Grafik/Soru](images/image150.jpg)
+
+##### tip-9
+
+Değişme özelliği olan  $ * $ işlemi için
+
+ $$ x*y=2x+2y-2\left(y*x\right) $$ 
+
+Buna göre, 3 * 2 işleminin sonucu kaçtır?
+
+A) $\frac{1}{3}$ B) $\frac{4}{3}$ C) $\frac{5}{3}$ D) $\frac{7}{3}$ E) $\frac{10}{3}$
+
+##### TIP-10
+
+Değişme özelliği olan ▲ işlemi için
+
+x ▲ y = (2m - 1) x + 5y - xy + 1
+
+şeklinde tanımlanıyor.
+
+Buna göre, m ▲ 2 işleminin sonucu kaçtır?
+
+A) 10 B) 17 C) 20 D) 32 E) 36
+
+2. Etkisiz (Birim) Eleman
+
+1\cdot3=3
+
+1.4=4
+
+1.5=5
+
+e  $ * $ x = x
+
+ $ e \times x = x \times e = x $
+
+##### Tip-11
+
+x  $ \triangleleft $ y = x + y - 2 işleminin birim elemanı kaçtır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+#### Tip-12
+
+a * b = 3a + 3b - 5 işleminin birim elemanı kaçtır?
+
+A)  $ \frac{1}{3} $ B)  $ \frac{2}{3} $ C) 1 D)  $ \frac{4}{3} $ E)  $ \frac{5}{3} $
+
+3. Yutan Eleman
+
+0 $ \cdot $1=0 0 $ \cdot $2=0 0 $ \cdot $3=0
+
+ $ y \times k = y $
+
+Yutan elemanla bir sayı işleme girerse sonuç yutan elemandır.
+
+TÍP - 13
+
+x * y = x + y - x ⋅ y işleminin yutan elemanı kaçtir?
+
+A) 0 B) 1 C) 2 D) 3 E) 4
+
+### 4. Bir Elemanin Tersi
+
+ $ x \cdot x^{-1} = e $
+
+2.
+
+ $$ \frac{1}{2}=1 $$ 
+
+ $$ 3\cdot\frac{1}{3}=1 $$ 
+
+Bir sayının tersini bulmak için önce birim elemanı bul.
+
+Hangi elemanin tersi olmaz derse bu yutan elemandır.
+
+Reel sayılarda ▲ işlemi,
+
+x  $ \triangleleft $ y = x + y - 2 şeklinde tanımlanıyor.
+
+Buna göre, 3 sayısının tersi kaçtır?
+
+A) 0 B) 1 C) 2 D) 3 E) 4
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-15&lt;/div&gt; &lt;/div&gt;
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;▲&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+a. (1 ▲2) ▲4 işleminin sonucu kaçtır?
+
+b. Birim eleman kaçtır?
+
+C.
+
+ $$ 2^{-1}=? $$ 
+
+ $$ 3^{-1}=? $$ 
+
+CEVAP:4
+
+d.  $ (1^{-1} \triangleleft 2) \triangleleft 3^{-1} $ işleminin sonucu kaçtır?
+
+CEVAP: 2,
+
+e. 3^{1903} ifadesinin sonucu kaçtır?
+
+CEVAP:2
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-16&lt;/div&gt; &lt;/div&gt;
+
+CEVAP:1
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;▲&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;1&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+işleminin yutan elemanı kaçtır?
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;CEVAP:1&lt;/div&gt; &lt;/div&gt;
+
+Tip-17
+
+a, b ∈ A olmak üzere
+
+ $$ \mathsf{A}=\{1,2,3,4,5\} $$ 
+
+a  $ \blacktriangle $ b = {a ile b nin büyük olanı}
+
+şeklinde tanımlanıyor.
+
+Buna göre, işlemin birim elemanı kaçtır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+## yarqi yayinevi
+
+ $ x \equiv y \pmod{m} $
+
+###

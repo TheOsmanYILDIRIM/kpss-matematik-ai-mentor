@@ -1,267 +1,211 @@
-# 2026 KPSS Matematik: Köklü Sayılarda Eşlenik Çarpımı ve İç İçe Kökler
+# 2026 KPSS Matematik: Köklü Sayılarda Eşlenik Çarpımı & İç İçe Kökler
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-[AD] kenarortay
+eşlenik ifadeler)
 
- $$ \left|AG\right|=2x $$ 
+ $$ \begin{array}{ccc}E\xi len i\ddot{o}i&amp; &amp; \\ \sqrt{2}&amp;\longrightarrow&amp;\sqrt{2} \\ \sqrt{5}&amp;\longrightarrow&amp;\sqrt{5} \\ 2+\sqrt{3}&amp;\longrightarrow&amp;2-\sqrt{3} \\ 5-\sqrt{2}\quad&amp;\longrightarrow&amp;5+\sqrt{2} \\ 7-2\sqrt{3}&amp;\longrightarrow&amp;7+2\sqrt{3} \\ \sqrt{7}-4&amp;\longrightarrow&amp;\sqrt{7}+4 \\ 3\sqrt{2}&amp;\longrightarrow&amp;3\sqrt{2^{2}}\end{array} $$ 
 
- $$ \left|GD\right|=x $$ 
+ $$ Tip-25 $$ 
 
-ise G ägirk merkezidir.
+ $$ 2+\sqrt{3} $$ 
 
-4. ABC ücgeninde AG = 2x
+sayisinin çarpma işlemine göre tersi nedir?
 
- $$ \left|GD\right|=x\ ve $$ 
+A)  $ \sqrt{3} $ B) 2 C)  $ 2-\sqrt{3} $
 
- $ \left|BG\right|=2y $
+D)  $ 2\sqrt{3} $ E)  $ 2\sqrt{3} $
 
- $$ \left|GE\right|=y $$ 
+TIP-26
 
-ise G ağırlık merkezidir.
+ $$ \frac{\sqrt{12}}{\sqrt{3}}-\frac{2}{\sqrt{3}+2}-\frac{1}{\sqrt{3}-2} $$ 
 
-TIP-6
+işleminin sonucu kaçtır?
 
-![Şekil/Grafik/Soru](images/image319.jpg)
+A)  $ \sqrt{3} $ B)  $ 3\sqrt{3} $ C)  $ 5\sqrt{3} $ D)  $ 7\sqrt{3} $ E)  $ 8\sqrt{3} $
 
-ABE ve BCD üçgen
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-27&lt;/div&gt; &lt;/div&gt;
 
- $$ \left|AD\right|=\left|BD\right| $$ 
+ $$ \frac{\sqrt{1,21}-\sqrt{0,25}}{\sqrt{3,6}} $$ 
 
- $$ \left|\mathrm{BE}\right|=\left|\mathrm{EC}\right| $$ 
+işleminin sonucu kaçtır?
 
- $$ \left|AE\right|+\left|CD\right|=66cm $$ 
+A) $\sqrt{10}$ B) $\frac{\sqrt{10}}{2}$ C) $\frac{\sqrt{10}}{5}$ D) $\frac{\sqrt{10}}{7}$ E) $\frac{\sqrt{10}}{10}$
 
-Yukaridaki verilere göre, |AF| + |FC| toplamı kaç cm'dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-28&lt;/div&gt; &lt;/div&gt;
 
-A) 30 B) 36 C) 44 D) 48 E) 50
+ $$ \frac{1}{\sqrt{2}+\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{4}}+\ldots+\frac{1}{\sqrt{13}+\sqrt{14}}=\frac{x}{\sqrt{14}+\sqrt{2}} $$ 
 
-tip-7
+işleminde x'in değeri kaçtır?
 
-![Şekil/Grafik/Soru](images/image320.jpg)
+A) 4 B) 6 C) 8 D) 10 E) 12
 
-ABC üçgen
+TIP-29
 
- $$ [{\mathsf{A H}}]\perp[{\mathsf{B C}}] $$ 
+ $$ \frac{1}{\sqrt{4}+\sqrt{5}}+\frac{1}{\sqrt{5}+\sqrt{6}}+\ldots+\frac{1}{\sqrt{35}+\sqrt{36}} $$ 
 
-[BE] açıortay
+işleminin sonucu kaçtır?
 
- $$ \left|HB\right|=\left|HC\right| $$ 
+A)  $ \sqrt{3} $ B)  $ \sqrt{5} $ C) 4 D) 2 E) 1
 
- $$ \left|FB\right|=8cm $$ 
+9) ic - ice ve Sonsuz Kokler
 
- $$ \left|E F\right|=4\mathrm{c m} $$ 
+ $$ \sqrt[x]{a^{y}\sqrt{b}}={\sqrt[x{\cdot}y]{a^{y}\cdot b}} $$ 
 
-Yukaridaki verilere göre, | AB| kaç cm'dir?
+Örnek:
 
-A)  $ 2\sqrt{3} $ B)  $ 4\sqrt{3} $ C)  $ 6\sqrt{3} $ D)  $ 8\sqrt{3} $ E)  $ 10\sqrt{3} $
+ $$ \sqrt{2^{3}\sqrt{2}}=2\cdot3\sqrt{2^{3}}\cdot2 $$ 
 
-KURAL-4
+Örnek:  $ \sqrt{3\sqrt{3^{4}\sqrt{3}}}=2\cdot2\cdot4\sqrt{3^{2}\cdot4\cdot3^{4}\cdot3} $
 
-Kenarortay ve izdüşümünün Uzunluğu
+II) Sonsuz Kökler
 
-![Şekil/Grafik/Soru](images/image321.jpg)
+ $$ \sqrt{x+\sqrt{x+\sqrt{x+\cdots}}}=k $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a&lt;/div&gt; &lt;/div&gt;
+Not: Sonsuz köklerde ilk tekrar eden ne ise sonuç odur.
 
- $$ \mathrm{b}^{2}+\mathrm{c}^{2}=2\mathrm{V}_{\mathrm{a}}^{2}+\frac{\mathrm{a}^{2}}{2} $$ 
+Örnek:
 
- $$ \mathrm{b}^{2}-\mathrm{c}^{2}=2a x $$ 
+ $$ \sqrt{12+\sqrt{12+\sqrt{12+\cdots}}}=k $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-8&lt;/div&gt; &lt;/div&gt;
+ $$ \begin{array}{c}\sqrt{12+k}=k\\\downarrow\quad\downarrow\\\textcircled{4}\quad\textcircled{4}\end{array} $$ 
 
-![Şekil/Grafik/Soru](images/image322.jpg)
+![Şekil/Grafik/Soru](images/image55.jpg)
 
-ABC üçgen,
+##### NOT
 
- $$ |AD|=|BD|=5cm $$ 
+Sonsuz köklerde içerideki sayıyı ardışık çarpanlarına ayır. Toplamada cevap büyük çarpan, çıkarmada cevap küçük çarpardır.
 
-|AC|=7cm
+TIP-30
 
-|BC|=9cm
+ $$ A=\sqrt{20+\sqrt{20+...}} $$ 
 
-Yukaridaki verilere göre, | CD | = x kaç cm'dir?
+ $$ \mathsf{B}=\sqrt{42-\sqrt{42-...} $$ 
 
-A)  $ \sqrt{10} $
+ifadesinde A – B farki kaçtir?
 
-B) $2\sqrt{10}$
+A) 4 B) 3 C) 2 D) 1 E) -1
 
- $$  C)3\sqrt{10} $$ 
+#### TIP-31
 
-D) $4\sqrt{10}$
+ $ \sqrt[3]{3\cdot\sqrt[3]{3\cdot\sqrt[3]{3\cdot\cdots}}} $
 
-E) $5\sqrt{10}$
+ifadesinin sonucu kaçtır?
 
-KURAL-5
+A) $\sqrt{3}$ B) 3 C) $3\sqrt{3}$ D) 9 E) $9\sqrt{3}$
 
-Dik Üçgende Kenarortay
+##### TIP-32
 
-![Şekil/Grafik/Soru](images/image323.jpg)
+ $$ \sqrt[3]{2}\cdot\sqrt{2}=\sqrt{2}\cdot\sqrt[3]{x} $$ 
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;a&lt;/div&gt; &lt;/div&gt;
+ifadesinde x'in degeri kaçtır?
 
- $$ |AD|=V_{a}=\frac{|BC|}{2} $$ 
+A) 1 B) 3 C) 5 D) 7 E) 9
 
-Tip-9
+##### TIP-33
 
-![Şekil/Grafik/Soru](images/image324.jpg)
+ $ \frac{\sqrt{3}\cdot\sqrt[3]{3}\cdot\sqrt[4]{3}}{\sqrt{3}\cdot\sqrt[3]{9}\cdot\sqrt{3}} $
 
- $$ \left|A C\right|\bot\left|B C\right| $$ 
+işleminin sonucu kaçtır?
 
-G, ABC üçgeninin kenarortaylarının kesim noktası
+A)  $ \sqrt{3} $ B)  $ \sqrt[3]{3} $ C)  $ \sqrt[4]{3} $ D)  $ \sqrt[5]{3} $ E)  $ \sqrt[6]{3} $
 
- $$ [\mathsf{C D}]\cap[\mathsf{B F}]=\{\mathsf{G}\} $$ 
+10) Özel Kök
 
-Yukaridaki verilere göre, |E
+ $ \sqrt{a+2\sqrt{b}} $ ve  $ \sqrt{a-2\sqrt{b}} $ şeklindeki ifadelerdir.
 
- $$ [E F]//[A B] $$ 
+b = x ⋅ y
 
- $$ \left|G K\right|=4\mathrm{~cm} $$ 
+a = x + y
 
-A) 4
+x &gt; y olsun ve şartlar sağlanıyorsa
 
-![Şekil/Grafik/Soru](images/image325.jpg)
+ $ \sqrt{a+2\sqrt{b}}=\sqrt{x}+\sqrt{y} $  $ \sqrt{a-2\sqrt{b}}=\sqrt{x}-\sqrt{y} $ dir
 
-kạc cm’dir?
+TIP-34
 
-B) 6
+ $$ \sqrt{8+2\sqrt{7}}-\sqrt{8-2\sqrt{7}} $$ 
 
-C) 8
+işleminin sonucu kaçtır?
 
-E) 12
+A) 1 B) 2 C)  $ \sqrt{7} $ D)  $ 2\sqrt{7} $ E) 5
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-10&lt;/div&gt; &lt;/div&gt;
+##### Tip-35
 
-![Şekil/Grafik/Soru](images/image326.jpg)
+ $$ \sqrt{5+2\sqrt{6}}-\sqrt{5-2\sqrt{6}} $$ 
 
-ABC dik üçgen
+işleminin sonucu kaçtır?
 
- $$ m(\widehat{BAC})=90^{\circ} $$ 
+A) 1 B) 2 C) 5 D)  $ \sqrt{2} $ E)  $ 2\sqrt{2} $
 
-[AF]⊥[BD]
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-36&lt;/div&gt; &lt;/div&gt;
 
- $ |ED|=2\ cm $
+ $$ \sqrt{2-\sqrt{3}}+\sqrt{2+\sqrt{3}} $$ 
 
-E noktası, ABC üçgeninin kenarortaylarının kesim noktası
+işleminin sonucu kaçtır?
 
-olduğuna göre, |BC| kaç cm'dir?
+A) $\sqrt{2}$ B) $\sqrt{3}$ C) $2\sqrt{2}$ D) $\sqrt{6}$ E) $2\sqrt{6}$
 
-A)  $ 2\sqrt{2} $ B)  $ 4\sqrt{2} $ C)  $ 6\sqrt{2} $ D)  $ 8\sqrt{2} $ E)  $ 10\sqrt{2} $
+#### TIP-37
 
-##### Tip-11
+ $$ \frac{1}{2+\sqrt{3}}+\frac{1}{\sqrt{3}+\sqrt{2}}+\frac{x}{\sqrt{2}+1}=2 $$ 
 
-![Şekil/Grafik/Soru](images/image327.jpg)
+olduğuna göre, x kaçtır?
 
-ABC üçgeninde
+A) $1+\sqrt{2}$ B) $1+2\sqrt{2}$ C) $2+\sqrt{2}$ D) $2+\sqrt{3}$ E) $3\sqrt{2}$
 
-[CD] ve [BE] kenarortay
+#### Tip-38
 
-[CD]⊥[BE]
+Köklü sayılarla işlem yapan Mert,  $ \sqrt{15} + \sqrt{10} $ sayısını eşleniği olan  $ \sqrt{15} - \sqrt{10} $ ile çarpmak yerine yanlışlıkla bölmüştür.
 
-|FD| = 4 cm
+Buna göre, Mert'in bulduğu sayı bulması gereken sayıdan kaç fazladır?
 
-| F E | = 3 c m
+A)  $ \sqrt{12} $ B)  $ \sqrt{24} $ C)  $ \sqrt{32} $ D)  $ \sqrt{48} $ E)  $ \sqrt{54} $
 
-Yukaridaki verilere göre, |AF| = x kaç cm'dir?
+#### TIP-39
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+a ve b gerçek sayıları için,
 
-ÜÇGENDE ALAN
+ $$ \sqrt{a^{2}\cdot b}=\frac{3\sqrt{5}}{5} $$ 
 
-![Şekil/Grafik/Soru](images/image328.jpg)
+ $$ \sqrt{a\cdot b}=\frac{\sqrt{30}}{5} $$ 
 
-1. ABC bir üçgen
+olduġuna gõre, a + b toplami kaċtir?
 
-[AH],[BC]
+A)  $ \frac{7}{5} $ B)  $ \frac{11}{5} $ C)  $ \frac{23}{10} $ D)  $ \frac{19}{15} $ E)  $ \frac{29}{20} $
 
-kenarlarina ait yükseklik,
+#### TIP-40
 
-|BC|=a, |AH|=h olmak üzere,
+ $$ 1&lt;\frac{\sqrt{a-1}}{2}&lt;\frac{5}{\sqrt{a-1}} $$ 
 
-A(ABC)=\frac{a\cdot h}{2}dir.
+esitsizligini sağlayan a tam sayılarının toplamı kaçtır?
 
-![Şekil/Grafik/Soru](images/image329.jpg)
+A) 13 B) 15 C) 24 D) 30 E) 40
 
-ABC geniş açılı bir üçgen ise
+Aşağıda Şekil - I ve Şekil - II'de iç içe yerleştirilmiş aynı bardakların görünümü verilmiştir.
 
-A( $ \widehat{ABC} $) =  $ \frac{a \cdot h}{2} $ dir.
+![Şekil/Grafik/Soru](images/image56.jpg)
 
-![Şekil/Grafik/Soru](images/image330.jpg)
+$ekil - 1
 
-2.  $ u = \frac{a + b + c}{2} $ olmak üzere,
+$ekil - ll
 
- $ A(\widehat{ABC}) = \sqrt{u \cdot (u - a) \cdot (u - b) \cdot (u - c)} $
+Buna göre, yukarıdaki gibi altı bardak ile oluşturulan şeklin yüksekliği kaç cm'dir?
 
-dir.
+A)  $ 6\sqrt{2} $ B)  $ 8\sqrt{2} $ C)  $ 10\sqrt{2} $ D)  $ 12\sqrt{2} $ E)  $ 14\sqrt{2} $
 
-Tip-1
+#### Tip-42
 
-![Şekil/Grafik/Soru](images/image331.jpg)
+n kenarlı bir çokgenin içerisine yazılan bir x sayısı için ifadenin eşiti  $ \sqrt[n]{x} $ olmaktadır.
 
-Sekilde
+Örneğin;
 
- $$ [{\mathsf{A}}{\mathsf{H}}]\perp[{\mathsf{B}}{\mathsf{C}}] $$ 
+ $$ \boxed{\mathbf{x}}=\sqrt[4]{\mathbf{x}} $$ 
 
- $$  AD=8cm $$ 
+![Şekil/Grafik/Soru](images/image57.jpg)
 
- $$ \left|B C\right|=14c m $$ 
+Buna göre,
 
-Yukaridaki verileri göre, taralı bölgenin alanı kaç cm² dir?
-
-A) 30 B) 36 C) 48 D) 56 E) 64
-
-#### MATEMATIK
-
-![Şekil/Grafik/Soru](images/image332.jpg)
-
-3. Yükseklikleri birbirine eşit olan üçgenlerin alanları tabanları ile orantılıdır.
-
-Şekildeki [AH], hem ABD üçgeninin hem de ADC üçgeninin yüksekliğidir.
-
- $$ \frac{\mathsf{A}\big(\widehat{\mathsf{ABD}}\big)}{\mathsf{A}\big(\widehat{\mathsf{ADC}}\big)}=\frac{\frac{|\mathsf{BD}|\cdot|\mathsf{AH}|}{2}}{\frac{|\mathsf{DC}|\cdot|\mathsf{AH}|}{2}}=\frac{|\mathsf{BD}|}{|\mathsf{DC}|}\mathrm{~d i r.} $$ 
-
-![Şekil/Grafik/Soru](images/image333.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
-
-Şekilde, B, D, C noktaları doğrusaldır.
-
-|BD| = 4 cm
-
-|DC| = 3 cm
-
- $ A(\widehat{ABD}) = 20 \, cm^{2} $
-
-Yukaridaki verilere göre, A( $ \widehat{ADC} $) kaç cm² dir?
-
-A) 5 B) 8 C) 10 D) 15 E) 18
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-3&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image334.jpg)
-
-#### Şekildeki ABC üçgeninde,
-
- $$ \left|AD\right|=5cm $$ 
-
- $$ \left|DE\right|=2cm $$ 
-
- $$ \left|BE\right|=3cm $$ 
-
- $$ \left|E C\right|=5\mathrm{c m} $$ 
-
- $$ \mathsf{A}\left(\widehat{\mathsf{B D E}}\right)=6\mathrm{c m}^{2} $$ 
-
-Yukaridaki verilere göre, A( $ \widehat{AEC} $) kaç cm² dir?
-
-A) 7 B) 14 C) 21 D) 28 E) 35
-
-![Şekil/Grafik/Soru](images/image335.jpg)
-
-4. Şekildeki ABC üçgeninde [AD],[BF],[CE] kenarortay ise ABC üçgeninin alanı 6 eşit parça-ya bölünür.
-
-Şekildeki ABC üçgeninin G ağırlık merkezidir.
-
-![Şekil/Grafik/Soru](
+![Şekil/Grafik/Soru](images/i

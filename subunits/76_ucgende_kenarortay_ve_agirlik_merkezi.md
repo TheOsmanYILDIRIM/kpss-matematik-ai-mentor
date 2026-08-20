@@ -1,153 +1,579 @@
-# 2026 KPSS Matematik: Kenarortay Bağıntıları, Ağırlık Merkezi (G Noktası) ve 312 Kuralı
+# 2026 KPSS Matematik: Kenarortay, Ağırlık Merkezi (G) ve 312 Kuralı
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-am dolu iken kaç m $ ^{3} $ su alır?
+kenarortay ve açıortay uzunlukları eşittir.
 
-A) 56 B) 63 C) 66 D) 72 E) 80
+![Şekil/Grafik/Soru](images/image281.jpg)
 
-#### Tip-22
+ $$ \mathsf{V}_{\mathsf{a}}=\mathsf{h}_{\mathsf{a}}=\mathsf{n}_{\mathsf{a}} $$ 
 
-Bir manav elindeki limonların ilk gün  $ \frac{1}{4} $'ünü, ikinci gün kalanın  $ \frac{1}{5} $'ini, üçüncü gün de kalanın  $ \frac{1}{3} $'ünü satıyor.
+![Şekil/Grafik/Soru](images/image282.jpg)
 
-Geriye 64 tane limon kaldığına göre, manav ikinci gün kaç tane limon satmıştır?
+ABC eşkenar üçgen olmak üzere, P noktasından kenarlara çizilen dikmelerin toplamı üçgenin yüksekliğine eşittir. Yani,
 
-A) 24 B) 26 C) 28 D) 40 E) 44
+ $$ \left|AH\right|=\left|EP\right|+\left|PD\right|+\left|PF\right| $$ 
 
-#### TIP-23
+#### UYARI
 
-Uzunlukları aynı olan iki mum aynı anda yanmaya başladığında biri 3 saatte, diğer 4 saatte tamamen yanarak bitmektedir.
+![Şekil/Grafik/Soru](images/image283.jpg)
 
-Bu iki mum aynı anda yakıldıktan kaç saat sonra birinin boyu diğerinin boyunun  $ \frac{1}{3} $'ü olur?
+P eşkenar üçgen üzerinde olmak üzere P noktasından kenarlara çizilen paralellerin toplamı üçgenin bir kenar uzunluğuna eşittir. Yani,
 
-A)  $ \frac{1}{3} $ B)  $ \frac{4}{3} $ C)  $ \frac{5}{3} $ D) 2 E)  $ \frac{8}{3} $
+ $$ \left|AB\right|=\left|PS\right|+\left|PR\right|+\left|PT\right| $$ 
 
-#### TIP-24
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
 
-Ismail kumbarasina 1. gün 5 kr, 10kr, 25 kr, 50 kr ve 1 TL madenî paralarin her birinden bir adet, 2. gün her birinden iki adet ve benzer biçimde devam ederek n. gün her birinden n adet atmıştır.
+![Şekil/Grafik/Soru](images/image284.jpg)
 
-Ismail kumbarasinda 104.5 TL biriktirdiğine göre, n kaçtir?
+$ekilde;
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+ $$ \left|AB\right|=\left|AC\right|=15cm $$ 
 
-#### TIP-25
+ $$ \left|B C\right|=18c m $$ 
 
-1'den 8'e kadar numaralandırılmış 8 adet top, iki kutuda dört top bulunacak biçimde aşağıdaki kurallara göre yerleştirilecektir.
+ $$ |CD|=7cm $$ 
 
-• Kutulardaki topların numaraları toplamı birbirine eşittir.
+Yukaridaki verilere göre, |AD|=x kaç cm'dir?
 
-• Kutularda numaraları 3 ile bölünebilen birer top bulunmaktadır.
+A) 16 B) 18 C) 20 D) 22 E) 24
 
-Buna göre, 2 numaralı topun bulunduğu kutudaki toplarin
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
 
-numaralarının çarpımı kaçtir?
+![Şekil/Grafik/Soru](images/image285.jpg)
 
-A) 180 B) 200 C) 240 D) 250 E) 260
+Şekilde;
 
-Tel sorularinda orta nokta kayması
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
 
-Orta nokta kayma =  $ \frac{Kesilen tel}{2} $
+ $$ |BD|=9cm $$ 
 
-1) Tel bir ucundan kesilirse ___ x
+ $$ |C D|=6c m $$ 
 
-kayma =  $ \frac{x}{2} $
+Yukaridaki verilere göre, | AC | = x kaç cm'dir?
 
-![Şekil/Grafik/Soru](images/image77.jpg)
+A) 6 B)  $ 6\sqrt{5} $ C) 9 D)  $ 9\sqrt{5} $ E) 1
 
-![Şekil/Grafik/Soru](images/image78.jpg)
+tip-3
 
- $$  kayma=\frac{x+y}{2} $$ 
+![Şekil/Grafik/Soru](images/image286.jpg)
 
-3) Farklı uçlardan kesilirse
+$ekilde;
 
-kayma =  $ \frac{|x-y|}{2} $
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{A C}\end{array}\right| $$ 
 
-![Şekil/Grafik/Soru](images/image79.jpg)
+ $$ [\mathsf{D E}]\perp[\mathsf{A B}] $$ 
 
-##### TIP-26
+ $$ [\mathsf{D F}]\perp[\mathsf{A C}] $$ 
 
-Bir parça telin  $ \frac{1}{3} $'ü kesilirse telin orta noktası eski durumundan 9 m kayıyor.
+ $$ |DE|=4cm $$ 
 
-Buna göre, telin tamamı kaç metredir?
+ $$ |DF|=8cm $$ 
 
-A) 36 B) 45 C) 54 D) 63 E) 72
+ $$ m(\widehat{EDF})=150^{\circ} $$ 
 
-TIP-27
+Yukaridaki verilere göre, | AB | kaç cm'dir?
 
-Homojen bir telin bir ucundan  $ \frac{2}{5} $'i kesilirse orta noktası eski konumuna göre 12 cm kayıyor.
+A) 8 B) 12 C) 18 D) 24 E) 36
 
-Buna göre, telin  $ \underline{ilk} $ boyu kaç cm'dir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
 
-A) 50 B) 60 C) 70 D) 72 E) 80
+![Şekil/Grafik/Soru](images/image287.jpg)
 
-#### TIP-28
+ABC eşkenar üçgen;
 
-Homojen bir telin bir ucundan  $ \frac{1}{3} $'ü diğer ucundan  $ \frac{2}{5} $'i kesilirse telin orta noktası ilk duruma göre 6 cm kayıyor.
+[FD]⊥[AB]
 
-Buna göre, telin  $ \underline{ilk} $ boyu kaç cm'dir?
+|AE|=4 cm
 
-A) 180 B) 120 C) 210 D) 230 E) 250
+|BD|=12cm
 
-#### Tip-29
+Yukaridaki verilere göre, |ED|=x kaç cm'dir?
 
-Bir traktörün arka tekerleğinin yarıçapı, ön tekerleğinin yarıçapının iki katıdır.
+A) 4 B) $4\sqrt{3}$ C) 6 D) $6\sqrt{3}$ E) 8
 
-120 metrelik bir mesafede arka tekerlek ön tekerlekten 30 devir  $ \underline{\text{daha az}} $ yaptığına göre, ön tekerleğin çevresi kaç metredir?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 5&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image288.jpg)
+
+ABC eşkenar üçgen;
+
+[DE]⊥[BC]
+
+|AE|=2cm
+
+| BD | = 8 cm
+
+Yukaridaki verilere göre,  $ \zeta(\widehat{ABC}) $ kaç cm'dir?
+
+A) 15 B) 28 C) 35 D) 42 E) 46
+
+Tip-6
+
+![Şekil/Grafik/Soru](images/image289.jpg)
+
+Şekilde ABC dik üçgen DEF eşkenar
+
+üçgen;
+
+A(DEF) = 16√3 cm
+
+Yukaridaki verilere göre, | AB | kaç cm'dir?
+
+A) 16 B)  $ 20\sqrt{3} $ C)  $ 16\sqrt{3} $ D) 24 E)  $ 24\sqrt{3} $
+
+tip-7
+
+![Şekil/Grafik/Soru](images/image290.jpg)
+
+ABC eşkenar üçgen
+
+A, C ve D doğrusal
+
+|AE| = |ED|
+
+|CD| = 2 cm
+
+Yukaridaki verilere göre, |BE| = x kaç cm'dir?
+
+A)  $ \frac{1}{2} $ B) 1 C)  $ \frac{3}{2} $ D) 2 E) 3
+
+AÇIORTAY
+
+![Şekil/Grafik/Soru](images/image291.jpg)
+
+Bir açının ölçüsünü iki eşit parçaya ayıran doğru parçasına açıortay denir. Açıortay doğrusu üzerinde alınan bir noktanın kollarına olan dik uzaklığı birbirine eşittir.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip - 1&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image292.jpg)
+
+A) 9
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 12&lt;/div&gt; &lt;/div&gt;
+
+ $$ m\left(\widehat{BAC}\right)=m\left(\widehat{CAD}\right) $$ 
+
+ $$ \left|CD\right|\bot\left|AD\right| $$ 
+
+ $$  AD=9cm $$ 
+
+ $$ \left|AB\right|=14cm $$ 
+
+ $$ \left|AC\right|=15cm $$ 
+
+Yukaridaki verilere göre, |BC| kaç cm'dir?
+
+13 D) 15 E) 17
+
+tip-2
+
+![Şekil/Grafik/Soru](images/image293.jpg)
+
+ABC üçgen, [BN] açıortay;
+
+[NE]  $ \perp $ [BC]
+
+| AB | = 10 cm
+
+|EN|=6cm
+
+Yukaridaki verilere göre, Alan ( $ \widehat{ABN} $) kaç cm $ ^{2} $ dir?
+
+A) 10 B) 15 C) 20 D) 25 E) 30
+
+tip-3
+
+![Şekil/Grafik/Soru](images/image294.jpg)
+
+ABC dik üçgen;
+
+[AB] $ \perp $[BC]
+
+[AD] açıortay
+
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{B C}\end{array}\right| $$ 
+
+ $ |CD|=2\ cm $
+
+Yukaridaki verilere göre, |BD| kaç cm'dir?
+
+A)  $ \sqrt{2} $ B)  $ 2\sqrt{2} $ C)  $ 3\sqrt{2} $ D)  $ 4\sqrt{2} $ E)  $ 5\sqrt{2} $
+
+IC ACIORTAY TEOREMI
+
+![Şekil/Grafik/Soru](images/image295.jpg)
+
+ $ \frac{c}{m} = \frac{b}{n} $ veya  $ \frac{c}{b} = \frac{m}{n} $
+
+ $$ \left|\mathrm{AD}\right|=n_{A}=\sqrt{\mathbf{b}\cdot\mathbf{c}-\mathbf{m}\cdot\mathbf{n}} $$ 
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image296.jpg)
+
+ABD üçgen;
+
+[AN] açıortay
+
+ $$ \left|AB\right|=14cm $$ 
+
+ $$ |AC|=21cm $$ 
+
+ $$ |B C|=25c m $$ 
+
+Yukaridaki verilere göre, |NC| kaç cm² dir?
+
+A) 5
+
+B) 10
+
+C) 15
+
+D) 20
+
+E) 25
+
+Tip-5
+
+![Şekil/Grafik/Soru](images/image297.jpg)
+
+ABC üçgen
+
+[BF] ve [AE] açıortaydır.
+
+ $$ \left|AB\right|=4cm $$ 
+
+ $$ |AC|=|BC|=6cm $$ 
+
+Yukaridaki verilere göre,  $ \frac{|EF|}{|BE|} $ oranı kaçtır?
+
+A)  $ \frac{1}{5} $ B)  $ \frac{2}{5} $ C)  $ \frac{3}{5} $ D)  $ \frac{4}{5} $ E) 1
+
+TIP-6
+
+![Şekil/Grafik/Soru](images/image298.jpg)
+
+ABC üçgen
+
+[AN] açıortay
+
+ $$ \left|AB\right|=6cm $$ 
+
+ $$ |BN|=3cm $$ 
+
+ $$ \left|NC\right|=2cm $$ 
+
+Yukaridaki verilere göre, |AN| kaç cm'dir?
+
+A) $\sqrt{2}$ B) $2\sqrt{2}$ C) $3\sqrt{2}$ D) $4\sqrt{2}$ E) $5\sqrt{2}$
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-7&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image299.jpg)
+
+ABC üçgen
+
+ $$ \mathrm{m}(\widehat{\mathbf{A}})=2\mathrm{m}(\widehat{\mathbf{C}}) $$ 
+
+ $$ \left|A B\right|=6\mathrm{c m} $$ 
+
+|AC|=9cm
+
+Yukaridaki verilere göre, |BC| kaç cm'dir?
+
+A) 3√10
+
+B) 4√10
+
+C) 5√10
+
+D) 6√10
+
+E) 7√10
+
+DİŞ AÇIORTAY TEOREMİ
+
+![Şekil/Grafik/Soru](images/image300.jpg)
+
+ $$ \frac{c}{b}=\frac{x}{y}\text{veya}\frac{y}{b}=\frac{x}{c} $$ 
+
+ $$ \left|\mathrm{AD}\right|=n_{A}^{1}=\sqrt{y\cdot x-b\cdot c} $$ 
+
+#### tip-8
+
+![Şekil/Grafik/Soru](images/image301.jpg)
+
+ABD üçgeninde [AD] dış açıortay, B, C, D doğrusal
+
+ $$ \left|AB\right|=3cm $$ 
+
+Yukaridaki verilere göre, |DC| kaç cm'dir?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+tip-9
+
+![Şekil/Grafik/Soru](images/image302.jpg)
+
+ABD üçgen, B, A, E doğrusal, [AD] açıortay
+
+ $$ \left|AB\right|=15cm $$ 
+
+ $$ |AC|=9cm $$ 
+
+ $$ |CD|=12cm $$ 
+
+Yukaridaki verilere göre, Çevre(ABC) kaç cm'dir?
+
+A) 30 B) 31 C) 32 D) 33 E) 34
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-10&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image303.jpg)
+
+C, B, F doğrusal [DE] ve [BA] açıortay
+
+|EB| = 4 cm
+
+|AE| = 6 cm
+
+|BC| = 12 cm
+
+Yukaridaki verilere göre, Çevre(ABC) kaç cm'dir?
+
+A) 25 B) 30 C) 35 D) 40 E) 45
+
+KURAL
+
+![Şekil/Grafik/Soru](images/image304.jpg)
+
+![Şekil/Grafik/Soru](images/image305.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image306.jpg)
+
+ABC üçgeninde [AK] iç açıortay,
+
+[AD] dış açıortay
+
+|BK| = 3 cm
+
+|KC| = 2 cm
+
+Yukaridaki verilere göre, |BD| kaç cm'dir?
+
+A) 12 B) 13 C) 14 D) 15 E) 16
+
+TiP-12
+
+![Şekil/Grafik/Soru](images/image307.jpg)
+
+ABC üçgen
+
+B, C, K doğrusal
+
+m($\widehat{BCE}$) = m($\widehat{ECD}$)
+
+m($\widehat{DCA}$) = m($\widehat{ACK}$)
+
+| BE | = 15 cm
+
+| ED | = 10 cm
+
+Yukaridaki verilere göre, |AD|=x kaç cm'dir?
+
+A) 30 B) 35 C) 40 D) 45 E) 50
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;KURAL-1&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image308.jpg)
+
+Üçgende kenarortayların kesim noktasına üçgenin ağırlık merkezi denir.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-1&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image309.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;G, ABC üçüneninin ağırlık merkezidir.&lt;/div&gt; &lt;/div&gt;
+
+|BE|=18cm
+
+ $$ |GD|=4cm $$ 
+
+Yukaridaki verilere göre,  $ \frac{|BG|}{|AD|} $ oranı kaçtır?
 
 A) 1 B) 2 C) 3 D) 4 E) 5
 
-#### TíP - 30
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-2&lt;/div&gt; &lt;/div&gt;
 
-Bir otomotiv fabrikasında üretilen araç çeşitleri aşağıdaki semada gösterilmiştir.
+![Şekil/Grafik/Soru](images/image310.jpg)
 
-![Şekil/Grafik/Soru](images/image80.jpg)
+A) 8
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(15)&lt;/div&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 10&lt;/div&gt; &lt;/div&gt;
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;(12)&lt;/div&gt; &lt;/div&gt;
+ABC üçgeninde
 
-![Şekil/Grafik/Soru](images/image81.jpg)
+[CE] ve [AD] kenarortay
 
-Bu fabrikada bir günde toplam 120 adet araç üretilmektedir. Binek araçların 15 adedi dizel ve 12 adedi elektriklidir.
+tip-3
 
-Bu fabrikada bir günde üretilen toplam dizel araç sayısı, toplam benzinli araç sayısının 2 katı olduğuna göre, kaç adet ticari dizel araç üretilmiştir?
+ $$ \left|\mathsf{E K}\right|=(x-1)\mathrm{c m} $$ 
 
-A) 36 B) 45 C) 52 D) 57 E) 63
+ $$ \left|K C\right|=\left(3x-6\right)c m $$ 
 
-##### Tip-31
+ $$  AK=\left(2x+2\right)cm $$ 
 
-Bir okuldaki her kadın öğretmenin, okuldaki kadın meslektaşlarının sayısı, erkek meslektaşlarının sayısının 2 katından 6 fazla, her erkek öğretmenin de okuldaki kadın meslektaşlarının sayısı, erkek meslektaşlarının sayısının 3 katından 1 eksiktir.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 8&lt;/div&gt; &lt;/div&gt;
 
-Buna göre, okulda kaç öğretmen vardır?
+Yukaridaki verilere göre, | AD | kaç cm'dir?
 
-A) 40 B) 46 C) 52 D) 60 E) 70
+C) 12 D) 15 E) 18
 
-#### Tip-32
+![Şekil/Grafik/Soru](images/image311.jpg)
 
-Iki durak arası Ahmet'in adımları ile 150, Tarık'ın adımları ile 100 ve Kezban'ın adımları ile 60 adım gelmektedir. Ahmet durakların birinden diğerine doğru xadım, Tarık Ahmet'in kaldığı yerden başlayarak xadım ve Kezban da Tarık'ın kaldığı yerden başlayarak xadım giderek mesafeyi tamamlıyor.
+G, ABC üçüneninin ağırlık merkezidir.
 
-Buna göre, x kaçtır?
+A, G, F doğrusal
 
-A) 20 B) 25 C) 30 D) 40 E) 45
+ $$ G K|=|K F|=|K C| $$ 
 
-#### Tip-33
+ $$ \left|AK\right|+\left|BD\right|+\left|EC\right|=15cm $$ 
 
-Alanı 14 m² olan bir duvar kısa kenarı 14 cm, uzun kenarı 20 cm olan dikdörtgen biçimindeki fayanslarla kaplanmak isteniyor. Bu işi yapacak usta fayansların kısa kenar uzunluğunu yanlış anlıyor ve kaplama işi için gerekenden 200 adet fazla fayans kullanıyor.
+Yukaridaki verilere göre, GCF üçgeninin çevresi kaç cm'dir?
 
-Buna göre, ustanın kullandığı fayansların kısa kenarı kaç cm'dir?
+C) 9 D) 10 E) 11
 
-A) 6 B) 8 C) 10 D) 11 E) 12
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;KURAL-2&lt;/div&gt; &lt;/div&gt;
 
-#### TIP-34
+![Şekil/Grafik/Soru](images/image312.jpg)
 
-Kırmızı ve beyaz topların bulunduğu bir torbadaki kırmızı topların sayısı beyaz topların sayısının 5 katıdır. Torbadaki bu topların dörtte üçü torbadan çıkarıldığında ilk duruma göre; torbadaki beyaz topların sayısının yarıya düşüğü, kırmızı topların sayısının ise 64 azaldığı hesaplanmıştır.
+D, E ve F noktalarını birleştirdiğimizde oluşan DEF üçgenin ağırlık merkezi ile ABC üçgeninin ağırlık merkezi aynıdır.
 
-Buna göre,  $ \underline{ilk} $ durumda torbada toplam kaç top vardır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TiP-4&lt;/div&gt; &lt;/div&gt;
 
-A) 96 B) 108 C) 120 D) 132 E) 144
+![Şekil/Grafik/Soru](images/image313.jpg)
 
-#### Tip-35
+ABC üçgen,
 
-iki vagondan oluşan bir trenin birinci vagonunda her sırada 4 koltuk, ikinci vagonunda ise her sırada 6 koltuk olmak üzere, trende toplam 130 koltuk bulunmaktadır. Birinci vagonda 1 sırının, ikinci vagonda 5 sırının tamamının boş kaldığ
+[AD],[BE] kenarortay
+
+[FE]//[BC]
+
+olduğuna göre,  $ \frac{|KG|}{|AD|} $ oranı kaçtir?
+
+A)  $ \frac{1}{6} $ B)  $ \frac{1}{3} $ C)  $ \frac{1}{2} $ D) 1 E) 3
+
+##### Tip = 5
+
+![Şekil/Grafik/Soru](images/image314.jpg)
+
+ABC üçgen,
+
+D, E, F bulundukları kenarların orta
+
+noktalarıdır.
+
+[BE] ∩ [DE] = {E}
+
+|PR| = 5 cm
+
+Yukaridaki verilere göre, |AF| kaç cm'dir?
+
+A) 21
+
+B) 24
+
+C) 25
+
+D) 28
+
+E) 30
+
+KURAL - 3
+
+Ağırlık Merkezinin Bulunması
+
+![Şekil/Grafik/Soru](images/image315.jpg)
+
+1. [AD] ve [BE] kenarortay ise G ağırlık merkezidir.
+
+![Şekil/Grafik/Soru](images/image316.jpg)
+
+![Şekil/Grafik/Soru](images/image317.jpg)
+
+![Şekil/Grafik/Soru](images/image318.jpg)
+
+2. [AD] kenarortay
+
+ $$ \left|\mathrm{BG}\right|=2x $$ 
+
+ $$ \left|GE\right|=x $$ 
+
+ise G ägrlik merkezidir.
+
+3. [AD] kenarortay
+
+ $$ \left|AG\right|=2x $$ 
+
+ $$ \left|GD\right|=x $$ 
+
+ise G ägirk merkezidir.
+
+4. ABC ücgeninde AG = 2x
+
+ $$ \left|GD\right|=x\ ve $$ 
+
+ $ \left|BG\right|=2y $
+
+ $$ \left|GE\right|=y $$ 
+
+ise G ağırlık merkezidir.
+
+TIP-6
+
+![Şekil/Grafik/Soru](images/image319.jpg)
+
+ABE ve BCD üçgen
+
+ $$ \left|AD\right|=\left|BD\right| $$ 
+
+ $$ \left|\mathrm{BE}\right|=\left|\mathrm{EC}\right| $$ 
+
+ $$ \left|AE\right|+\left|CD\right|=66cm $$ 
+
+Yukaridaki verilere göre, |AF| + |FC| toplamı kaç cm'dir?
+
+A) 30 B) 36 C) 44 D) 48 E) 50
+
+tip-7
+
+![Şekil/Grafik/Soru](images/image320.jpg)
+
+ABC üçgen
+
+ $$ [{\mathsf{A H}}]\perp[{\mathsf{B C}}] $$ 
+
+[BE] açıortay
+
+ $$ \left|HB\right|=\left|HC\right| $$ 
+
+ $$ \left|FB\right|=8cm $$ 
+
+ $$ \left|E F\right|=4\mathrm{c m} $$ 
+
+Yukaridaki verilere göre, | AB| kaç cm'dir?
+
+A)  $ 2\sqrt{3} $ B)  $ 4\sqrt{3} $ C)  $ 6\sqrt{3} $ D)  $ 8\sqrt{3} $ E)  $ 10\sqrt{3} $
+
+KURAL-4
+
+Kenarortay ve izdüşümünün Uzunluğu
+
+![Şekil/Grafik/Soru](images/image321.jpg)
+
+&lt;div style="text-a

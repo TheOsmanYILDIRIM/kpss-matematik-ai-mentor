@@ -1,4 +1,4 @@
-# 2026 KPSS Matematik: Dairede Alan (pi . r^2), Daire Dilimi ve Yay Uzunluğu
+# 2026 KPSS Matematik: Dairede Alan (pi r^2), Dilim ve Yay Uzunluğu
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
@@ -120,4 +120,6 @@ Yükseklik h olmak üzere,
 
  $$ \mathrm{A}=\mathrm{a}^{2}+\mathrm{a}^{2}+4\mathrm{ah}=2\mathrm{a}^{2}+4\mathrm{ah} $$ 
 
-![Şek
+![Şekil/Grafik/Soru](images/image547.jpg)
+
+### 2.

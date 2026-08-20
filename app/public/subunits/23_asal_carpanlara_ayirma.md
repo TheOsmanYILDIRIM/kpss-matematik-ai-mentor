@@ -1,217 +1,339 @@
-# 2026 KPSS Matematik: Asal Çarpanlara Ayırma ve Pozitif Bölen Sayısı (PBS, TBS)
+# 2026 KPSS Matematik: Asal Çarpanlara Ayırma & Pozitif Bölen Sayısı
 **Modül:** Modül 1: Sayılar Teorisi
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-una göre, C'nin alabileceği değerler toplamı kaçtır?
+asal çarpanların her birine tam bölünen sayı, bunların çarpımına da tam bölünür.
 
-A) -7          B) -6          C) -4          D) -3          E) -1
+6 = 2 · 3 (2 ile 3 aralarında asaldır.) 2 ve 3 ile tam bölünen sayılar 6 ile tam bölünür.
 
-### MATEMATIK
+12 = 3 · 4 (3 ile 4 aralarında asaldır.) 4 ve 9 ile tam bölünen sayılar 36 ile tam bölünür.
 
-Tanim: Ardişik iki terimi arasındaki fark 1 dir.
+60 = 3 · 4 · 5 (3, 4, 5 ikişer ikişer aralarında asaldır.) 3, 4 ve 5 ile tam bölünen sayılar 60 ile tam bölünür.
 
-* a ile b ardışık sayılar ise
+##### TIP-1
 
-1. a = b + 1
+1273 sayısının
 
- $$ \mathrm{II}.\mathrm{~b}=a+1 $$ 
+3 ile bölümünden kalan x,
 
-#### Ardışık tek sayılar: Ardışık iki terimi arasındaki fark 2 dir.
+5 ile bölümünden kalan y,
 
-Örnek; 1, 3, 5, 7,...
+9 ile bölümünden kalan z'dir.
 
-n, n+2, n+4,...
+A) -3 B) -2 C) 0 D) 3 E) 4
 
- $$ \begin{array}{l}2n+1,2n+3,2n+5,\ldots\end{array} $$ 
+ $$ (174)^{2}-(73)^{3}-(1907)^{2} $$ 
 
-Ardışık çift sayılar: Ardışık iki terimi arasındaki fark 2 dir.
+sayisinin 5 ile bölümünden kalan kaçtir?
 
-Örnek: 0, 2, 4,...
+A) 0 B) 1 C) 2 D) 3 E) 4
 
- $$ n,n+2,n+4,\ldots $$ 
+##### TIP-4
 
- $$ \begin{array}{l}2n,2n+2,2n+4,\ldots\end{array} $$ 
+ $$ 0!+1!+2!+3!+\ldots\ldots+100! $$ 
 
-![Şekil/Grafik/Soru](images/image9.jpg)
+sayisinin 5 ile bölümünden kalan kaçtir?
 
-##### NOT
+A) 0 B) 1 C) 2 D) 3 E) 4
 
-1. Ardışık iki sayı arasındaki fark 1 dir.
+TIP-5
 
-II. Ardişik tek ve çift sayılar arasındaki fark 2 dir.
+2! + 4! + 6! + ..... + 80!
 
-#### tip-1
+sayisinin 42 ile bölümünden kalan kaçtir?
 
-a, b ve c ardışık çift sayılar ve a &lt; b &lt; c'dir.
+A) 26 B) 28 C) 30 D) 32 E) 35
 
-Buna göre,  $ \frac{(a-c)^{2}+(c-b)^{3}}{c-a} $ ifadesinin sonucu kaçtır?
+TiP-3
 
-A) -2 B) 2 C) 4 D) 6 E) 8
+232323 ... 2
 
-#### TIP-2
+17 basamaklı doğal sayısının 9 ile bölümünden kalan kaçtir?
 
- $$ (2n+1)\operatorname{ve}(n-3) $$ 
+A) 2 B) 3 C) 5 D) 6 E) 7
 
-ifadeleri ardışık sayılar ise n'nin alabileceği değerler çarpımı kaçtır?
+#### TIP-6
 
-A) 3 B) 5 C) 15 D) 20 E) 25
+x sayisinin 3 ile bölümünden kalan 2'dir.
 
-#### tip-3
+Buna göre,  $ x^{2} + 3x - 1 $ sayısının 3 ile bölümünden kalan kaçtır?
 
-x, y ve z ardişık sayılar ve x &lt; y &lt; z dir.
+A) 0 B) 1 C) 2 D) 3 E) 4
 
- $$ 2x=6\cdot(z-x)\cdot(x-y) $$ 
+#### tip-7
 
-esitliği sağlandığına göre x + y + z toplamı kaçtır?
+2x3y dört basamaklı doğal sayısının 15 ile bölümünden kalan sifirdir.
 
-A) -20 B) -15 C) 0 D) 15 E) 20
+Buna göre x + y toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
 
-#### tip-4
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-a, b ve c ardışık sayılar ve a &lt; b &lt; c dir.
+#### Tip-8
 
- $$ \left(1-\frac{1}{a}\right)\cdot\left(1-\frac{1}{b}\right)\cdot\left(1-\frac{1}{c}\right)=\frac{4}{5} $$ 
+a21b dört basamaklı sayısının 5 ile bölümünden kalan 2, 9 ile bölümünden kalan 2 ise a + b toplamının  $ \underline{\text{en büyük}} $ değeri kaçtır?
 
-olduğuna göre, a + b + c toplamı kaçtir?
+A) 3 B) 5 C) 8 D) 10 E) 12
 
-A) 14 B) 26 C) 32 D) 42 E) 48
+#### TIP-9
 
-#### Ardisik Sayilarin Formülleri
+x23y dört basamaklı sayının 5 ile bölümünden kalan 2'dir.
 
-1.  $ 1 + 2 + 3 + \ldots + n = \frac{n(n+1)}{2} $
+Bu sayının 11 ile tam bölünebilmesi için x'in alabileceği  $ \underline{\text{en büyük}} $ değer kaçtır?
 
-2.  $ 2 + 4 + 6 + \ldots + 2n = n \cdot (n+1) $
+A) 1 B) 4 C) 5 D) 6 E) 9
 
-3.  $ 1 + 3 + 5 + \ldots + (2n - 1) = n^2 $
+#### TIP-10
 
-##### Genel Toplam Formülü
+Bir pazarcı tanesi 45 liradan çift sayıda gömlek alıyor ve parasını ödiyor. Aldığı faturada iki rakam silik çıkarak dört basamaklı -17- sayısı yazıyor.
 
-Toplam = Ortadaki sayı · Terim sayı
+Buna göre, silik çıkan iki rakamın farkı kaçtır?
 
-#### Terim Sayisi
+A) 4 B) 3 C) 2 D) 1 E) 0
 
-Ardışık sonlu sayı dizilerinde,
+#### Tip-11
 
- $$  Terim sayi s=\frac{(Son terim)-(ilk terim)}{Ortak fark}+1 $$ 
+Birden fazla ardışık pozitif tam sayının çarpımı olarak yazılabilen doğal sayılara faktörsel sayı denir.
 
-Ortadaki sayı =  $ \frac{\text{Son terim + İlk terim}}{2} $
+Buna göre, 5 ile tam bölünen iki basamaklı faktörsel sayıların toplamı kaçtır?
 
-Toplam = Ortadaki sayı · Terim sayısı
-
-Ardışık toplam =  $ \frac{(\mathrm{lik}\ \mathrm{terim}+\mathrm{Son}\ \mathrm{terim})}{2} $ · (Terim sayısı)
-
-#### Tip-5
-
- $$ 1+2+3+\ldots\ldots+29 $$ 
-
-toplaminin sonucu kaçtir?
-
-A) 420 B) 430 C) 435 D) 450 E) 465
-
-##### TIP-6
-
-Ardışık beş doğal sayının toplamı 75 ise bu sayılardan  $ \underline{\text{en küçüğü}} $ kaçtır?
-
-A) 12 B) 13 C) 14 D) 15 E) 16
-
-#### TIP-7
-
-Ardışık 11 tek doğal sayının toplamı 143 ise bu sayılardan  $ \underline{\text{en büyükü kaçtır}} $?
-
-A) 17 B) 19 C) 21 D) 23 E) 25
-
-Tip-8
-
-Ardışık 43 tek sayının toplamı 43 ise bu sayılardan  $ \underline{\text{en küçüğü}} $ kaçtir?
-
-A) -43 B) -41 C) -39 D) -37 E) -35
-
-Tip-9
-
-Ardışık 6 çift sayının toplamı 66 ise bu sayılardan  $ \underline{\text{en büyüğü}} $ kaçtır?
-
-A) 11 B) 14 C) 16 D) 18 E) 20
-
-Ardışık 5 doğal sayının toplamı A ise bu sayılardan  $ \underline{\text{en küçüğü}} $ nedir?
-
-A)  $ \frac{A-15}{5} $ B)  $ \frac{A-10}{5} $ C)  $ \frac{A-5}{5} $ D)  $ \frac{A}{5} $ E)  $ \frac{A+5}{5} $
-
-#### TiP-11
-
-1 den n'e kadar olan ardışık doğal sayıların toplamı x, 10 dan n'e kadar olan ardışık doğal sayıların toplamı y dir.
-
- $ x + y = 145 $
-
-olduğuna göre, x kaçtır?
-
-A) 95 B) 100 C) 115 D) 120 E) 125
+A) 140 B) 160 C) 180 D) 200 E) 220
 
 #### TIP-12
 
-Bir öğrenci 3'ün katı olan ardışık pozitif doğal sayıları sırasıyla defterine yazıyor.
+Üç basamaklı ABA doğal sayısı 5 ile BAB doğal sayısı 12 ile tam bölünebilmektedir.
 
-Buna göre, öğrencinin yazdığı 100. sayı kaçtır?
+Buna göre, A + B toplamı kaçtır?
 
-A) 100 B) 150 C) 200 D) 260 E) 300
+A) 7 B) 8 C) 9 D) 10 E) 11
 
-Tip-13
+#### TIP-13
 
- $ A = 2 \cdot 3 + 3 \cdot 4 + \ldots + 11 \cdot 12 $
+A, B ve C sıfırdan ve birbirinden farklı rakamlar olmak üzere,
 
-ifadesinin her bir termininin birinci çarpanı 1 artırılırsa toplamın sonuçı kaç artar?
+ABC, ACB, BAC, BCA
 
-A) 60 B) 65 C) 70 D) 75 E) 80
+üç basamaklı doğal sayılarından ikisi 4'e, diğer ikisi 5'e tam bölümektedir.
 
-TiP-14
+Buna göre, A + B + C toplamı kaçtır?
 
- $$ 2027-2026+2025-2024+...+1001 $$ 
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-işleminin sonucu kaçtır?
+#### TIP-14
 
-A) 1407 B) 1469 C) 1512 D) 1513 E) 1514
+p ve r birbirinden farklı asal sayılar olmak üzere,
 
-Bir öğrenci 1'den başlayıp belirli bir doğal sayıya kadar olan ardişik sayıları sırasıyla yazıp toplayıp sonucu 70 buluyor. İşlemi kontrol ederken bir sayıyı iki kez yazdığını fark ediyor.
+300 · r
 
-Buna göre, hangi sayıyı iki kez yazmıştır?
+sayısı p sayısının bir tam sayı katıdır.
+
+Buna göre, p asal sayısı aşağıdaki sayılardan hangisini  $ \underline{\text{kesinlikle}} $ tam böler?
+
+A) 12·r B) 18·r C) 20·r D) 30·r E) 45·r
+
+#### TIP-15
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;x bir doğal sayı olmak üzere,&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 10&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 11&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 12&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 13&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6"&gt;$ \frac{10^{x}-22}{3} $ dçoğal sayısının rakamları toplamı 38&amp;#x27;dir. Buna göre, x kaçtır?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+#### Tip-16
+
+Bir T.C. vatandaşının kimlik numarasının son rakamı soldan 10 basamağı toplamının 10 ile bölümünden kalan ile bulunur.
+
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td colspan="6"&gt;Son rakami 4 olan bir vatandaşın T.C. kimlik numarasının toplama aşağıdakilerden hangisi olabilir?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A) 98&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B) 84&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C) 78&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D) 74&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E) 64&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-17&lt;/div&gt; &lt;/div&gt;
+
+Gözde 1'den 100'e kadar olan doğal sayıları sırasıyla aşağıdaki gibi defterine yazıyor.
+
+![Şekil/Grafik/Soru](images/image27.jpg)
+
+Sonrasında bu listeden her bir adında rastgele iki sayıyı seçip topluyor ve 9 ile kalanıni defterine yazıp topladığı iki sayıyı siliyor. Bu işlemi son adında iki sayı kalana kadar devam ettiriyor.
+
+Gözde'nin yaptığı bu işlemlerin sonunda listede bıraktığı sayılardan biri 17, diğerisi x'tir.
+
+Buna göre, son adında listede kalan x sayısı  $ \underline{\text{en az}} $ kaçtır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+##### Tip-18
+
+Aşağıda boyunun uzunluğu üç basamaklı a3b cm olan iki eşit uzunluğun ayı ayı 3 ve 5 cm'lik parçalara ayrılmasının görünmü verilmiştir.
+
+![Şekil/Grafik/Soru](images/image28.jpg)
+
+![Şekil/Grafik/Soru](images/image29.jpg)
+
+Buna göre, a + b toplaminin  $ \underline{\text{en büyük}} $ değeri kaçtır?
+
+A) 10 B) 12 C) 14 D) 16 E) 18
+
+#### Asal Çarpanlar
+
+x, y, z pozitif tam sayılar ve a, b, c birbirinden farklı asal sayılar olmak üzere,  $ A = a^x \cdot b^y \cdot c^z $ ifadeseine  $ A' $nın asal çarpanlarına ayrılması denir.
+
+### NOT
+
+x, y ve z pozitif tam sayılar ve a, b ve c birbirinden farklı asal sayılar olmak üzere,
+
+ $ A = a^{X} \cdot b^{Y} \cdot c^{Z} $
+
+şeklinde asal çarpanlarına ayrılmış olan A doğal sayısının,
+
+1. Pozitif tam sayı bölenlerinin sayısı
+
+P·b·s = (x + 1)(y + 1)(z + 1)
+
+2. Negatif tam sayı bölenlerinin sayısı
+
+N·b·s = (x + 1)(y + 1)(z + 1)
+
+3. Tam sayi bölenlerinin sayısı
+
+T·b·s = 2·(p·b·s)
+
+4. Asal olmayan pozitif tam sayı bölenlerin sayısı A·O·P·B·S = P·B·S - {asal sayı adedi}
+
+##### tip-1
+
+60 sayisini tam bōlen kaç tane doğal sayı vardır?
+
+A) 12 B) 13 C) 15 D) 17 E) 19
+
+#### Tip-2
+
+120 sayisinin,
+
+a) Pozitif tam sayı bölen sayısı kaçtır?
+
+b) Negatif tam sayı bölen sayısı kaçtır?
+
+CEVAP: (16)
+
+c) Tam sayı bölenlerinin sayısı kaçtır?
+
+CEVAP: (16)
+
+CEVAP: (32)
+
+d) Asal olmayan pozitif tam bölen sayısı kaçtır?
+
+CEVAP: (13)
+
+e) Pozitif tam sayı bölenlerinden kaç tanesi çift sayıdır?
+
+CEVAP: (12)
+
+f) 15'in katı olan kaç tane pozitif tam sayı böleni vardır?
+
+CEVAP: (4)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
+
+60 sayisinin,
+
+a) Pozitif bölenlerinden kaç tanesi çifttir?
+
+A) 8 B) 7 C) 6 D) 5 E) 4
+
+b) Pozitif bölenlerinden kaç tanesi 3 ile tam bölünür?
+
+A) 2 B) 4 C) 6 D) 8 E) 10
+
+c) Pozitif bölenlerinin kaç tanesi 15'in katıdır?
+
+A) 4 B) 6 C) 5 D) 2 E) 3
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-4&lt;/div&gt; &lt;/div&gt;
+
+ $$ 111^{2}+222^{2}+333^{2} $$ 
+
+sayisinin  $ \underline{\text{en büyük}} $ asal çarpanı ile  $ \underline{\text{en küçük}} $ asal çarpanının toplamı kaçtir?
+
+A) 37 B) 39 C) 41 D) 43 E) 47
+
+#### Tip - 5
+
+A'nin 3 tane pozitif böleni olduğuna göre A kaç farklı değer alır?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+ $$ 8\cdot6^{x} $$ 
+
+sayısının 18 tane pozitif tam sayı böleni olduğuna göre x kaçtır?
 
 A) 2 B) 3 C) 4 D) 5 E) 6
 
-Tip-16
+#### TIP-7
 
-1'den başlayıp 100'e kadar numaralandırılmış toplar bir torbaya atılıyor.
+x ve y pozitif doğal sayıdır.
 
-Torbadan çekilen bir topun üzerinde yazan sayının 5 ile bölünebilmesi için torbadan  $ \underline{\text{en az}} $ kaç top çekilmelidir?
+ $$ 36\cdot x=y^{2} $$ 
 
-A) 20 B) 21 C) 75 D) 80 E) 81
+ifadesini sağlayan  $ \underline{\text{en küçük}} $ x + y toplamı kaçtır?
 
-tip-17
+A) 7 B) 10 C) 16 D) 20 E) 32
 
-1'den 120'ye kadar numaralandırılmış bir kitapta toplam kaç tane rakam kullanılmıştır?
+#### Tip-8
 
-A) 240 B) 245 C) 246 D) 252 E) 258
+a ve b pozitif doğal sayıdır.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-18&lt;/div&gt; &lt;/div&gt;
+60 $ \cdot $a = b $ ^{2} $
 
-A sayisi 1'den 80'e kadar sayıların yan yana yazılması ile oluşmaktadır. Bu sayının soldan 92. basamağidaki rakam kaçtır?
+denklemini sağlayan  $ \underline{\text{en küçük}} $ a + b toplamı kaçtır?
 
-A) 2 B) 3 C) 4 D) 5 E) 6
+A) 15 B) 30 C) 45 D) 50 E) 60
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-19&lt;/div&gt; &lt;/div&gt;
+#### tip-9
 
-Elinde yeterince kutu bulunan Hale'nin her bir adında kutuları üstüste koyarak yaptığı kulelerin bazılarının görünmü aşağıdaki gibidir.
+a ve b sifirdan farklı tam sayıdır.
 
-![Şekil/Grafik/Soru](images/image10.jpg)
+ $ 24 \cdot a = b^{2} $
 
-1.adim
+denklemini sağlayan a + b toplamının  $ \underline{\text{en küçük}} $ değeri kaçtır?
 
-![Şekil/Grafik/Soru](images/image11.jpg)
+A) -6 B) 6 C) 12 D) 18 E) 24
 
-2.adim
+#### Tip-10
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;3.adim&lt;/div&gt; &lt;/div&gt;
+x doğal sayıdır.
 
-![Şekil/Grafik/Soru](images/image12.jpg)
+ $ \frac{60}{x} $
 
-Hale her bir
+ifadesinin sonucu asal sayı ise x in alabileceği değerler toplamı kaçtır?
+
+A) 10 B) 20 C) 44 D) 62 E) 76
+
+##### Tip-11
+
+x pozitif bir tam sayı olmak üzere, x ten büyük en küçük asal sayıya “x in asal komşusu” denir ve A[x] ile gösterilir.
+
+Örneğin:
+
+A[4] = 5
+
+A[11] = 13 gibi
+
+Buna göre,
+
+A[x] + A[y] = 13
+
+esitliğini sağlayan kaç tane (x, y) sıralı ikilisi vardır?
+
+A) 6 B) 7 C) 8 D) 9 E) 10
+
+#### TIP-12
+
+n bir pozitif tam sayı olmak üzere, ⓘ gösterimi ile n sayısının farklı asal bölenlerinin sayısı gösteriliyor. Ayrıca, m bir doğal sayı olmak üzere, ⬛ gösterimi ile m sayısının basamak sayısı gösteriliyor.
+
+x pozitif tam sayısı için,
+
+![Şekil/Grafik/Soru](images/image30.jpg)
+
+esitliği sağlanıyor.
+
+Buna göre, x sayısı aşağıdakilerden hangisi olabilir?
+
+A) 9 B) 11 C) 13 D) 15 E) 17
+
+####

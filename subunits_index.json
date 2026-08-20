@@ -2,760 +2,844 @@
   "total_subtopics": 84,
   "subtopics": [
     {
-      "id": "58_ozel_tanimli_islem",
-      "order": 1,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Özel Tanımlı İşlem (Birim Eleman, Ters Eleman, Yutan Eleman)",
-      "filename": "58_ozel_tanimli_islem.md",
-      "char_count": 44,
-      "line_count": 2
-    },
-    {
-      "id": "12_tek_cift_sayilar",
-      "order": 2,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Tek ve Çift Sayıların Özellikleri & Çarpım Paritesi",
-      "filename": "12_tek_cift_sayilar.md",
-      "char_count": 27,
-      "line_count": 1
-    },
-    {
-      "id": "13_asal_sayilar",
-      "order": 3,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Asal Sayılar ve Özellikleri",
-      "filename": "13_asal_sayilar.md",
-      "char_count": 50,
-      "line_count": 2
-    },
-    {
-      "id": "17_faktoriyel_kavrami",
-      "order": 4,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Faktöriyel Kavramı ve Sadeleştirme Taktikleri",
-      "filename": "17_faktoriyel_kavrami.md",
-      "char_count": 19,
-      "line_count": 1
-    },
-    {
-      "id": "18_sayi_basamaklari_cozumleme",
-      "order": 5,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Sayı Basamakları & Basamak Çözümleme (AB = 10A + B)",
-      "filename": "18_sayi_basamaklari_cozumleme.md",
-      "char_count": 55,
-      "line_count": 2
-    },
-    {
-      "id": "20_bolme_kalan_bagintilari",
-      "order": 6,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Bölme İşlemi, Bölen ve Kalan Bağıntıları",
-      "filename": "20_bolme_kalan_bagintilari.md",
-      "char_count": 39,
-      "line_count": 2
-    },
-    {
-      "id": "23_asal_carpanlara_ayirma",
-      "order": 7,
-      "module": "Modül 1: Sayılar Teorisi",
-      "title": "Asal Çarpanlara Ayırma ve Pozitif Bölen Sayısı (PBS, TBS)",
-      "filename": "23_asal_carpanlara_ayirma.md",
-      "char_count": 78,
-      "line_count": 3
-    },
-    {
-      "id": "28_ondalikli_sayilar_ve_siralama",
-      "order": 8,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Ondalıklı Sayılar, Virgül Kaydırma ve Kesirlerde Sıralama",
-      "filename": "28_ondalikli_sayilar_ve_siralama.md",
-      "char_count": 26,
-      "line_count": 1
-    },
-    {
-      "id": "30_basit_esitsizlikler_ozellikler",
-      "order": 9,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Basit Eşitsizliklerin Temel Özellikleri ve Yön Değiştirme",
-      "filename": "30_basit_esitsizlikler_ozellikler.md",
-      "char_count": 28,
-      "line_count": 1
-    },
-    {
-      "id": "32_mutlak_deger_tanim_ve_ozellikler",
-      "order": 10,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Mutlak Değer Tanımı ve Dışarı Çıkarma Kuralları",
-      "filename": "32_mutlak_deger_tanim_ve_ozellikler.md",
-      "char_count": 21,
-      "line_count": 1
-    },
-    {
-      "id": "34_uslu_sayilar_kurallar",
-      "order": 11,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Üslü Sayıların Temel Kuralları (Çarpma, Bölme, Üssün Üssü)",
-      "filename": "34_uslu_sayilar_kurallar.md",
-      "char_count": 21,
-      "line_count": 1
-    },
-    {
-      "id": "36_koklu_sayilar_tanim_ve_ozellikler",
-      "order": 12,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Köklü Sayılar Tanımı, Kök Dışına Çıkarma & Dört İşlem",
-      "filename": "36_koklu_sayilar_tanim_ve_ozellikler.md",
-      "char_count": 22,
-      "line_count": 1
-    },
-    {
-      "id": "38_carpanlara_ayirma_ortak_parantez_gruplama",
-      "order": 13,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Ortak Çarpan ve Gruplandırma Yöntemiyle Çarpanlara Ayırma",
-      "filename": "38_carpanlara_ayirma_ortak_parantez_gruplama.md",
-      "char_count": 26,
-      "line_count": 1
-    },
-    {
-      "id": "41_birinci_dereceden_denklemler",
-      "order": 14,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "I. Dereceden Bir ve İki Bilinmeyenli Denklem Sistemleri",
-      "filename": "41_birinci_dereceden_denklemler.md",
-      "char_count": 33,
-      "line_count": 1
-    },
-    {
-      "id": "42_oran_oranti_temel_ozellikler",
-      "order": 15,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Oran - Orantı Bağıntıları ve Orantı Sabiti (k)",
-      "filename": "42_oran_oranti_temel_ozellikler.md",
-      "char_count": 34,
-      "line_count": 2
-    },
-    {
-      "id": "45_sayi_kesir_problemleri_denklem_kurma",
-      "order": 16,
-      "module": "Modül 3: Problemler",
-      "title": "Sayı ve Kesir Problemlerinde Denklem Kurma Taktikleri",
-      "filename": "45_sayi_kesir_problemleri_denklem_kurma.md",
-      "char_count": 27,
-      "line_count": 1
-    },
-    {
-      "id": "47_yas_problemleri",
-      "order": 17,
-      "module": "Modül 3: Problemler",
-      "title": "Yaş Problemleri (Yaş Farkının Değişmezliği Kuralı)",
-      "filename": "47_yas_problemleri.md",
-      "char_count": 25,
-      "line_count": 1
-    },
-    {
-      "id": "49_karisim_problemleri",
-      "order": 18,
-      "module": "Modül 3: Problemler",
-      "title": "Karışım Problemleri ve Saf Madde Yüzdesi Hesaplama",
-      "filename": "49_karisim_problemleri.md",
-      "char_count": 37,
-      "line_count": 3
-    },
-    {
-      "id": "48_isci_ve_havuz_problemleri",
-      "order": 19,
-      "module": "Modül 3: Problemler",
-      "title": "İşçi ve Havuz Problemleri (Birim Zamanda Yapılan İş)",
-      "filename": "48_isci_ve_havuz_problemleri.md",
-      "char_count": 37,
-      "line_count": 2
-    },
-    {
-      "id": "51_kar_zarar_iskonto_enflasyon",
-      "order": 20,
-      "module": "Modül 3: Problemler",
-      "title": "Kâr - Zarar, İskonto (İndirim) ve Maliyet Problemleri",
-      "filename": "51_kar_zarar_iskonto_enflasyon.md",
-      "char_count": 31,
-      "line_count": 1
-    },
-    {
-      "id": "52_hiz_hareket_temel_ve_ortalama_hiz",
-      "order": 21,
-      "module": "Modül 3: Problemler",
-      "title": "Hız ve Hareket Problemleri (x = v . t) & Ortalama Hız",
-      "filename": "52_hiz_hareket_temel_ve_ortalama_hiz.md",
-      "char_count": 23,
-      "line_count": 1
-    },
-    {
-      "id": "54_grafik_tablo_okuma_problemleri",
-      "order": 22,
-      "module": "Modül 3: Problemler",
-      "title": "Grafik ve Tablo Okuma (Daire, Sütun ve Doğrusal Grafikler)",
-      "filename": "54_grafik_tablo_okuma_problemleri.md",
-      "char_count": 26,
-      "line_count": 1
-    },
-    {
-      "id": "55_kumeler_tanim_ve_alt_kume",
-      "order": 23,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Kümeler, Eleman Sayısı ve Alt Küme Hesapları (2^n)",
-      "filename": "55_kumeler_tanim_ve_alt_kume.md",
-      "char_count": 15,
-      "line_count": 1
-    },
-    {
-      "id": "57_kume_problemleri_venn_semasi",
-      "order": 24,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Küme Problemleri (Dil Bilenler, Spor Yapanlar & Venn Şeması)",
-      "filename": "57_kume_problemleri_venn_semasi.md",
-      "char_count": 42,
-      "line_count": 2
-    },
-    {
-      "id": "59_moduler_aritmetik_kalan_bulma",
-      "order": 25,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Modüler Aritmetik, Büyük Üslerin Kalanını Bulma ve Gün/Saat Problemleri",
-      "filename": "59_moduler_aritmetik_kalan_bulma.md",
-      "char_count": 25,
-      "line_count": 1
-    },
-    {
-      "id": "60_sayma_kurallari_ve_permutasyon",
-      "order": 26,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Temel Sayma Kuralları ve Permütasyon (Düz Sıralama)",
-      "filename": "60_sayma_kurallari_ve_permutasyon.md",
-      "char_count": 19,
-      "line_count": 1
-    },
-    {
-      "id": "62_kombinasyon_secme_ve_gruplama",
-      "order": 27,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Kombinasyon (Seçme, Alt Küme Seçimi ve Ekip Oluşturma)",
-      "filename": "62_kombinasyon_secme_ve_gruplama.md",
-      "char_count": 19,
-      "line_count": 1
-    },
-    {
-      "id": "64_olasilik_hesabi_ve_kosullu_olasilik",
-      "order": 28,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Olasılık Hesabı (İstenen / Tüm Durumlar) & Bağımsız Olaylar",
-      "filename": "64_olasilik_hesabi_ve_kosullu_olasilik.md",
-      "char_count": 16,
-      "line_count": 1
-    },
-    {
-      "id": "65_fonksiyonlar_tanim_ve_deger_bulma",
-      "order": 29,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Fonksiyon Tanımı, Tanım/Değer Kümesi ve f(x) Değeri Bulma",
-      "filename": "65_fonksiyonlar_tanim_ve_deger_bulma.md",
-      "char_count": 20,
-      "line_count": 1
-    },
-    {
-      "id": "68_sayisal_mantik_ve_sekil_akil_yurutme",
-      "order": 30,
-      "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Sayısal Mantık, Örüntüler, Sayı Dizileri ve Tablo/Şekil Yeteneği",
-      "filename": "68_sayisal_mantik_ve_sekil_akil_yurutme.md",
-      "char_count": 49,
-      "line_count": 2
-    },
-    {
-      "id": "70_ucgende_acilar_temel_ozellikler",
-      "order": 31,
-      "module": "Modül 5: Geometri",
-      "title": "Üçgende Açılar (İç ve Dış Açı Özellikleri, Muhteşem Üçlü)",
-      "filename": "70_ucgende_acilar_temel_ozellikler.md",
-      "char_count": 24,
-      "line_count": 1
-    },
-    {
-      "id": "72_dik_ucgen_pisagor_bagintisi",
-      "order": 32,
-      "module": "Modül 5: Geometri",
-      "title": "Dik Üçgen & Pisagor Bağıntısı (a^2+b^2=c^2) ve Özel Üçgenler (3-4-5, 5-12-13...)",
-      "filename": "72_dik_ucgen_pisagor_bagintisi.md",
-      "char_count": 19,
-      "line_count": 1
-    },
-    {
-      "id": "74_ikizkenar_ve_eskenar_ucgen",
-      "order": 33,
-      "module": "Modül 5: Geometri",
-      "title": "İkizkenar Üçgen (YAKİ Kuralı) ve Eşkenar Üçgen Özellikleri",
-      "filename": "74_ikizkenar_ve_eskenar_ucgen.md",
-      "char_count": 41,
-      "line_count": 1
-    },
-    {
-      "id": "75_ucgende_ic_ve_dis_aciortay",
-      "order": 34,
-      "module": "Modül 5: Geometri",
-      "title": "Üçgende İç ve Dış Açıortay Teoremleri",
-      "filename": "75_ucgende_ic_ve_dis_aciortay.md",
-      "char_count": 18,
-      "line_count": 1
-    },
-    {
-      "id": "76_ucgende_kenarortay_ve_agirlik_merkezi",
-      "order": 35,
-      "module": "Modül 5: Geometri",
-      "title": "Kenarortay Bağıntıları, Ağırlık Merkezi (G Noktası) ve 312 Kuralı",
-      "filename": "76_ucgende_kenarortay_ve_agirlik_merkezi.md",
-      "char_count": 20,
-      "line_count": 1
-    },
-    {
-      "id": "77_ucgende_alan_hesabi_ve_alan_dagitimi",
-      "order": 36,
-      "module": "Modül 5: Geometri",
-      "title": "Üçgende Alan Formülleri (Taban x Yükseklik / 2, Sinüslü Alan)",
-      "filename": "77_ucgende_alan_hesabi_ve_alan_dagitimi.md",
-      "char_count": 22,
-      "line_count": 1
-    },
-    {
-      "id": "78_ucgende_benzerlik_ve_tales_kelebek",
-      "order": 37,
-      "module": "Modül 5: Geometri",
-      "title": "Üçgende Benzerlik Teoremleri, Temel Orantı (Tales) ve Kelebek Benzerliği",
-      "filename": "78_ucgende_benzerlik_ve_tales_kelebek.md",
-      "char_count": 27,
-      "line_count": 1
-    },
-    {
-      "id": "79_cokgenler_ve_duzgun_altigen_besgen",
-      "order": 38,
-      "module": "Modül 5: Geometri",
-      "title": "Çokgenler, Düzgün Beşgen ve Düzgün Altıgen Özellikleri",
-      "filename": "79_cokgenler_ve_duzgun_altigen_besgen.md",
-      "char_count": 19,
-      "line_count": 1
-    },
-    {
-      "id": "80_dortgenler_ve_paralelkenar_kare_dikdortgen_yamuk",
-      "order": 39,
-      "module": "Modül 5: Geometri",
-      "title": "Özel Dörtgenler (Paralelkenar, Dikdörtgen, Kare, Eşkenar Dörtgen, Yamuk)",
-      "filename": "80_dortgenler_ve_paralelkenar_kare_dikdortgen_yamuk.md",
-      "char_count": 49,
-      "line_count": 2
-    },
-    {
-      "id": "83_kati_cisimler_prizma_silindir_koni_kure",
-      "order": 40,
-      "module": "Modül 5: Geometri",
-      "title": "Katı Cisimler: Prizma, Silindir, Piramit, Koni ve Küre Hesapları",
-      "filename": "83_kati_cisimler_prizma_silindir_koni_kure.md",
-      "char_count": 23,
-      "line_count": 1
-    },
-    {
-      "id": "84_analitik_geometri_nokta_ve_dogrunun_analitigi",
-      "order": 41,
-      "module": "Modül 5: Geometri",
-      "title": "Analitik Geometri: Noktanın Analitiği, Eğim, Doğru Denklemi",
-      "filename": "84_analitik_geometri_nokta_ve_dogrunun_analitigi.md",
-      "char_count": 72,
-      "line_count": 5
-    },
-    {
       "id": "01_isaretler_tablosu",
-      "order": 42,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "İşaretler Tablosu (Artı/Eksi Çarpım & Bölüm Kuralları)",
+      "order": 1,
+      "module": "Modül 1: Temel Matematik",
+      "title": "İşaretler Tablosu (Artı/Eksi Çarpım & Bölüm)",
       "filename": "01_isaretler_tablosu.md",
-      "char_count": 677,
-      "line_count": 20
+      "char_count": 344,
+      "line_count": 11,
+      "images_count": 0
     },
     {
-      "id": "02_parantez_acma",
-      "order": 43,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "Parantez Açma ve İşaret Dağıtma",
-      "filename": "02_parantez_acma.md",
-      "char_count": 237,
-      "line_count": 15
-    },
-    {
-      "id": "03_dort_islem_toplama_cikarma",
-      "order": 44,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "Toplama ve Çıkarma Kuralları",
-      "filename": "03_dort_islem_toplama_cikarma.md",
-      "char_count": 509,
-      "line_count": 33
-    },
-    {
-      "id": "04_dort_islem_carpma_bolme",
-      "order": 45,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "Çarpma ve Bölme İşlemi",
-      "filename": "04_dort_islem_carpma_bolme.md",
-      "char_count": 502,
-      "line_count": 13
-    },
-    {
-      "id": "05_kuvvet_alma",
-      "order": 46,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "Kuvvet Alma (Üs Kuralları ve Negatif Sayıların Kuvveti)",
-      "filename": "05_kuvvet_alma.md",
-      "char_count": 747,
-      "line_count": 53
-    },
-    {
-      "id": "06_islem_onceligi",
-      "order": 47,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "İşlem Önceliği Sıralaması",
-      "filename": "06_islem_onceligi.md",
-      "char_count": 2101,
-      "line_count": 93
+      "id": "58_ozel_tanimli_islem",
+      "order": 2,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Özel Tanımlı İşlem & Özellikleri",
+      "filename": "58_ozel_tanimli_islem.md",
+      "char_count": 1242,
+      "line_count": 63,
+      "images_count": 0
     },
     {
       "id": "07_paranteze_alma",
-      "order": 48,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
+      "order": 3,
+      "module": "Modül 1: Temel Matematik",
       "title": "Ortak Çarpan Parantezine Alma",
       "filename": "07_paranteze_alma.md",
       "char_count": 415,
-      "line_count": 15
+      "line_count": 15,
+      "images_count": 0
     },
     {
       "id": "08_sadelestirme_oranlama",
-      "order": 49,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
+      "order": 4,
+      "module": "Modül 1: Temel Matematik",
       "title": "Sadeleştirme ve Oranlama Teknikleri",
       "filename": "08_sadelestirme_oranlama.md",
       "char_count": 8000,
-      "line_count": 178
+      "line_count": 165,
+      "images_count": 1
     },
     {
       "id": "40_uc_terimli_ifadelerin_carpanlara_ayrilmasi",
-      "order": 50,
+      "order": 5,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "ax^2+bx+c Üç Terimlilerin Çarpanlara Ayrılması ve Sadeleştirme",
+      "title": "ax^2+bx+c Üç Terimlilerin Çarpanlara Ayrılması",
       "filename": "40_uc_terimli_ifadelerin_carpanlara_ayrilmasi.md",
       "char_count": 760,
-      "line_count": 35
+      "line_count": 35,
+      "images_count": 0
     },
     {
       "id": "26_rasyonel_sayilar_dort_islem",
-      "order": 51,
+      "order": 6,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Rasyonel Sayılarda Dört İşlem & İşlem Önceliği",
+      "title": "Rasyonel Sayılarda Dört İşlem",
       "filename": "26_rasyonel_sayilar_dort_islem.md",
-      "char_count": 1640,
-      "line_count": 39
+      "char_count": 677,
+      "line_count": 13,
+      "images_count": 0
+    },
+    {
+      "id": "20_bolme_kalan_bagintilari",
+      "order": 7,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Bölme İşlemi, Bölen ve Kalan Bağıntıları",
+      "filename": "20_bolme_kalan_bagintilari.md",
+      "char_count": 968,
+      "line_count": 25,
+      "images_count": 0
     },
     {
       "id": "09_tam_sayili_kesir_negatif_kuvvet",
-      "order": 52,
-      "module": "Modül 1: Temel Matematik & Dört İşlem",
-      "title": "Tam Sayılı Kesir ve Negatif Kuvvet Kuralları",
+      "order": 8,
+      "module": "Modül 1: Temel Matematik",
+      "title": "Tam Sayılı Kesir ve Negatif Kuvvet",
       "filename": "09_tam_sayili_kesir_negatif_kuvvet.md",
-      "char_count": 4397,
-      "line_count": 74
+      "char_count": 591,
+      "line_count": 11,
+      "images_count": 0
+    },
+    {
+      "id": "02_parantez_acma",
+      "order": 9,
+      "module": "Modül 1: Temel Matematik",
+      "title": "Parantez Açma ve İşaret Dağıtma",
+      "filename": "02_parantez_acma.md",
+      "char_count": 3920,
+      "line_count": 57,
+      "images_count": 1
     },
     {
       "id": "10_sayi_kumeleri",
-      "order": 53,
+      "order": 10,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "Sayı Kümeleri (Rakam, Doğal Sayı, Tam Sayı, Reel Sayı)",
+      "title": "Sayı Kümeleri (Rakam, Doğal Sayı, Tam Sayı, Reel)",
       "filename": "10_sayi_kumeleri.md",
-      "char_count": 9895,
-      "line_count": 320
+      "char_count": 6088,
+      "line_count": 217,
+      "images_count": 3
+    },
+    {
+      "id": "04_dort_islem_carpma_bolme",
+      "order": 11,
+      "module": "Modül 1: Temel Matematik",
+      "title": "Çarpma ve Bölme İşlemi",
+      "filename": "04_dort_islem_carpma_bolme.md",
+      "char_count": 172,
+      "line_count": 9,
+      "images_count": 0
+    },
+    {
+      "id": "12_tek_cift_sayilar",
+      "order": 12,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Tek ve Çift Sayıların Özellikleri & Parite",
+      "filename": "12_tek_cift_sayilar.md",
+      "char_count": 2516,
+      "line_count": 87,
+      "images_count": 0
     },
     {
       "id": "11_pozitif_negatif_sayilar",
-      "order": 54,
+      "order": 13,
       "module": "Modül 1: Sayılar Teorisi",
       "title": "Pozitif ve Negatif Sayıların Özellikleri",
       "filename": "11_pozitif_negatif_sayilar.md",
-      "char_count": 4648,
-      "line_count": 157
+      "char_count": 2314,
+      "line_count": 135,
+      "images_count": 0
+    },
+    {
+      "id": "05_kuvvet_alma",
+      "order": 14,
+      "module": "Modül 1: Temel Matematik",
+      "title": "Kuvvet Alma & Negatif Sayıların Kuvveti",
+      "filename": "05_kuvvet_alma.md",
+      "char_count": 2612,
+      "line_count": 17,
+      "images_count": 0
+    },
+    {
+      "id": "13_asal_sayilar",
+      "order": 15,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Asal Sayılar ve Özellikleri",
+      "filename": "13_asal_sayilar.md",
+      "char_count": 99,
+      "line_count": 5,
+      "images_count": 0
     },
     {
       "id": "14_aralarinda_asal_sayilar",
-      "order": 55,
+      "order": 16,
       "module": "Modül 1: Sayılar Teorisi",
       "title": "Aralarında Asal Sayılar",
       "filename": "14_aralarinda_asal_sayilar.md",
-      "char_count": 3989,
-      "line_count": 149
+      "char_count": 3310,
+      "line_count": 137,
+      "images_count": 2
     },
     {
       "id": "15_ardisik_sayilar_tanim",
-      "order": 56,
+      "order": 17,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "Ardışık Sayılar & Ardışık Tek/Çift Sayı Bağıntıları",
+      "title": "Ardışık Sayılar & Tek/Çift Sayı Bağıntıları",
       "filename": "15_ardisik_sayilar_tanim.md",
-      "char_count": 1585,
-      "line_count": 62
+      "char_count": 1314,
+      "line_count": 67,
+      "images_count": 1
     },
     {
       "id": "16_ardisik_sayilar_toplam_formul",
-      "order": 57,
+      "order": 18,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "Ardışık Sayıların Toplam Formülleri & Gauss Yöntemi",
+      "title": "Ardışık Sayıların Toplam Formülleri & Gauss",
       "filename": "16_ardisik_sayilar_toplam_formul.md",
-      "char_count": 24771,
-      "line_count": 789
+      "char_count": 8227,
+      "line_count": 179,
+      "images_count": 5
+    },
+    {
+      "id": "17_faktoriyel_kavrami",
+      "order": 19,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Faktöriyel Kavramı ve Sadeleştirmeler",
+      "filename": "17_faktoriyel_kavrami.md",
+      "char_count": 13937,
+      "line_count": 585,
+      "images_count": 5
     },
     {
       "id": "19_taban_aritmetigi",
-      "order": 58,
+      "order": 20,
       "module": "Modül 1: Sayılar Teorisi",
       "title": "Taban Aritmetiği ve Taban Değiştirme",
       "filename": "19_taban_aritmetigi.md",
-      "char_count": 8125,
-      "line_count": 242
+      "char_count": 5814,
+      "line_count": 229,
+      "images_count": 7
     },
     {
       "id": "21_bolunebilme_kurallari_temel",
-      "order": 59,
+      "order": 21,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "Temel Bölünebilme Kuralları (2, 3, 4, 5, 8, 9, 10)",
+      "title": "Temel Bölünebilme Kuralları (2, 3, 4, 5, 8, 9)",
       "filename": "21_bolunebilme_kurallari_temel.md",
       "char_count": 1024,
-      "line_count": 43
+      "line_count": 43,
+      "images_count": 0
     },
     {
       "id": "22_bolunebilme_11_ve_aralarinda_asal",
-      "order": 60,
+      "order": 22,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "11 ile Bölünebilme ve Aralarında Asal Çarpanlara Bölünme (12, 36, 45 vb.)",
+      "title": "11 ile Bölünebilme & Bileşik Bölünmeler",
       "filename": "22_bolunebilme_11_ve_aralarinda_asal.md",
-      "char_count": 10238,
-      "line_count": 350
+      "char_count": 199,
+      "line_count": 7,
+      "images_count": 0
+    },
+    {
+      "id": "23_asal_carpanlara_ayirma",
+      "order": 23,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Asal Çarpanlara Ayırma & Pozitif Bölen Sayısı",
+      "filename": "23_asal_carpanlara_ayirma.md",
+      "char_count": 8872,
+      "line_count": 333,
+      "images_count": 4
     },
     {
       "id": "24_ebob_ekok_tanim_ve_hesaplama",
-      "order": 61,
+      "order": 24,
       "module": "Modül 1: Sayılar Teorisi",
       "title": "EBOB ve EKOK Hesaplama Kuralları",
       "filename": "24_ebob_ekok_tanim_ve_hesaplama.md",
-      "char_count": 1614,
-      "line_count": 52
+      "char_count": 1296,
+      "line_count": 51,
+      "images_count": 1
     },
     {
       "id": "31_esitsizliklerde_aralik_ve_taraf_tarafa",
-      "order": 62,
+      "order": 25,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Aralık Kavramı, Taraf Tarafa Toplama ve Çarpma",
+      "title": "Aralık Kavramı & Taraf Tarafa Toplama",
       "filename": "31_esitsizliklerde_aralik_ve_taraf_tarafa.md",
-      "char_count": 19806,
-      "line_count": 687
+      "char_count": 8296,
+      "line_count": 253,
+      "images_count": 4
+    },
+    {
+      "id": "32_mutlak_deger_tanim_ve_ozellikler",
+      "order": 26,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Mutlak Değer Tanımı ve Özellikleri",
+      "filename": "32_mutlak_deger_tanim_ve_ozellikler.md",
+      "char_count": 2067,
+      "line_count": 67,
+      "images_count": 0
+    },
+    {
+      "id": "06_islem_onceligi",
+      "order": 27,
+      "module": "Modül 1: Temel Matematik",
+      "title": "İşlem Önceliği Sıralaması",
+      "filename": "06_islem_onceligi.md",
+      "char_count": 7362,
+      "line_count": 341,
+      "images_count": 4
     },
     {
       "id": "29_devirli_ondalik_sayilar",
-      "order": 63,
+      "order": 28,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Devirli Ondalık Sayıların Rasyonel Kesre Dönüşümü",
+      "title": "Devirli Ondalık Sayıların Rasyonel Dönüşümü",
       "filename": "29_devirli_ondalik_sayilar.md",
-      "char_count": 16081,
-      "line_count": 606
+      "char_count": 7,
+      "line_count": 1,
+      "images_count": 0
     },
     {
-      "id": "33_mutlak_degerli_denklem_ve_esitsizlikler",
-      "order": 64,
+      "id": "28_ondalikli_sayilar_ve_siralama",
+      "order": 29,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Mutlak Değerli Denklemler ve Eşitsizlikler",
-      "filename": "33_mutlak_degerli_denklem_ve_esitsizlikler.md",
-      "char_count": 11836,
-      "line_count": 423
+      "title": "Ondalıklı Sayılar & Kesirlerde Sıralama",
+      "filename": "28_ondalikli_sayilar_ve_siralama.md",
+      "char_count": 612,
+      "line_count": 39,
+      "images_count": 0
+    },
+    {
+      "id": "18_sayi_basamaklari_cozumleme",
+      "order": 30,
+      "module": "Modül 1: Sayılar Teorisi",
+      "title": "Sayı Basamakları & Basamak Çözümleme",
+      "filename": "18_sayi_basamaklari_cozumleme.md",
+      "char_count": 4398,
+      "line_count": 93,
+      "images_count": 4
+    },
+    {
+      "id": "30_basit_esitsizlikler_ozellikler",
+      "order": 31,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Basit Eşitsizliklerin Temel Özellikleri",
+      "filename": "30_basit_esitsizlikler_ozellikler.md",
+      "char_count": 20183,
+      "line_count": 875,
+      "images_count": 8
     },
     {
       "id": "35_uslu_denklemler",
-      "order": 65,
+      "order": 32,
       "module": "Modül 2: Cebir & Denklemler",
       "title": "Üslü Denklemler ve Eşitsizlikler",
       "filename": "35_uslu_denklemler.md",
-      "char_count": 15745,
-      "line_count": 671
+      "char_count": 10027,
+      "line_count": 437,
+      "images_count": 3
     },
     {
-      "id": "37_koklu_sayilarda_eslenik_ve_ozel_kokler",
-      "order": 66,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Köklü Sayılarda Eşlenik Çarpımı ve İç İçe Kökler",
-      "filename": "37_koklu_sayilarda_eslenik_ve_ozel_kokler.md",
-      "char_count": 13039,
-      "line_count": 422
+      "id": "03_dort_islem_toplama_cikarma",
+      "order": 33,
+      "module": "Modül 1: Temel Matematik",
+      "title": "Toplama ve Çıkarma Kuralları",
+      "filename": "03_dort_islem_toplama_cikarma.md",
+      "char_count": 24,
+      "line_count": 1,
+      "images_count": 0
     },
     {
-      "id": "39_ozdeslikler_iki_kare_farki_tam_kare",
-      "order": 67,
+      "id": "36_koklu_sayilar_tanim_ve_ozellikler",
+      "order": 34,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Önemli Özdeşlikler (İki Kare Farkı a^2-b^2 ve Tam Kare (a+b)^2)",
-      "filename": "39_ozdeslikler_iki_kare_farki_tam_kare.md",
-      "char_count": 18785,
-      "line_count": 698
-    },
-    {
-      "id": "43_oranti_cesitleri_dogru_ters_bilesik",
-      "order": 68,
-      "module": "Modül 2: Cebir & Denklemler",
-      "title": "Doğru Orantı, Ters Orantı ve Bileşik Orantı",
-      "filename": "43_oranti_cesitleri_dogru_ters_bilesik.md",
-      "char_count": 3998,
-      "line_count": 166
+      "title": "Köklü Sayılar Tanımı & Kök Dışına Çıkarma",
+      "filename": "36_koklu_sayilar_tanim_ve_ozellikler.md",
+      "char_count": 399,
+      "line_count": 9,
+      "images_count": 0
     },
     {
       "id": "25_ebob_ekok_problemleri_ve_periyot",
-      "order": 69,
+      "order": 35,
       "module": "Modül 1: Sayılar Teorisi",
-      "title": "EBOB-EKOK Problemleri ve Periyodik Tekrar Problemleri",
+      "title": "EBOB-EKOK Problemleri ve Periyodik Tekrarlar",
       "filename": "25_ebob_ekok_problemleri_ve_periyot.md",
-      "char_count": 1992,
-      "line_count": 95
+      "char_count": 4699,
+      "line_count": 217,
+      "images_count": 0
     },
     {
-      "id": "44_ortalamalar_aritmetik_geometrik",
-      "order": 70,
+      "id": "37_koklu_sayilarda_eslenik_ve_ozel_kokler",
+      "order": 36,
       "module": "Modül 2: Cebir & Denklemler",
-      "title": "Aritmetik Ortalama ve Geometrik Ortalama",
-      "filename": "44_ortalamalar_aritmetik_geometrik.md",
-      "char_count": 9319,
-      "line_count": 262
-    },
-    {
-      "id": "46_kuyruk_mum_tel_problemleri",
-      "order": 71,
-      "module": "Modül 3: Problemler",
-      "title": "Özel Soru Tipleri: Kuyruk, Tel Kesme ve Mum Problemleri",
-      "filename": "46_kuyruk_mum_tel_problemleri.md",
-      "char_count": 3611,
-      "line_count": 88
+      "title": "Köklü Sayılarda Eşlenik Çarpımı & İç İçe Kökler",
+      "filename": "37_koklu_sayilarda_eslenik_ve_ozel_kokler.md",
+      "char_count": 5309,
+      "line_count": 205,
+      "images_count": 3
     },
     {
       "id": "27_merdivenli_kesirler",
-      "order": 72,
+      "order": 37,
       "module": "Modül 2: Cebir & Denklemler",
       "title": "Merdivenli (Sonsuz/Basamaklı) Kesirler",
       "filename": "27_merdivenli_kesirler.md",
-      "char_count": 5781,
-      "line_count": 132
+      "char_count": 941,
+      "line_count": 61,
+      "images_count": 1
+    },
+    {
+      "id": "38_carpanlara_ayirma_ortak_parantez_gruplama",
+      "order": 38,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Ortak Çarpan ve Gruplandırma",
+      "filename": "38_carpanlara_ayirma_ortak_parantez_gruplama.md",
+      "char_count": 3266,
+      "line_count": 145,
+      "images_count": 5
+    },
+    {
+      "id": "39_ozdeslikler_iki_kare_farki_tam_kare",
+      "order": 39,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Önemli Özdeşlikler (İki Kare Farkı & Tam Kare)",
+      "filename": "39_ozdeslikler_iki_kare_farki_tam_kare.md",
+      "char_count": 7519,
+      "line_count": 335,
+      "images_count": 4
+    },
+    {
+      "id": "41_birinci_dereceden_denklemler",
+      "order": 40,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "I. Dereceden Bir ve İki Bilinmeyenli Denklemler",
+      "filename": "41_birinci_dereceden_denklemler.md",
+      "char_count": 6700,
+      "line_count": 243,
+      "images_count": 3
+    },
+    {
+      "id": "42_oran_oranti_temel_ozellikler",
+      "order": 41,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Oran - Orantı Bağıntıları & Orantı Sabiti (k)",
+      "filename": "42_oran_oranti_temel_ozellikler.md",
+      "char_count": 2520,
+      "line_count": 101,
+      "images_count": 0
+    },
+    {
+      "id": "43_oranti_cesitleri_dogru_ters_bilesik",
+      "order": 42,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Doğru, Ters ve Bileşik Orantı",
+      "filename": "43_oranti_cesitleri_dogru_ters_bilesik.md",
+      "char_count": 5626,
+      "line_count": 259,
+      "images_count": 1
+    },
+    {
+      "id": "44_ortalamalar_aritmetik_geometrik",
+      "order": 43,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Aritmetik ve Geometrik Ortalama",
+      "filename": "44_ortalamalar_aritmetik_geometrik.md",
+      "char_count": 3453,
+      "line_count": 75,
+      "images_count": 1
+    },
+    {
+      "id": "33_mutlak_degerli_denklem_ve_esitsizlikler",
+      "order": 44,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Mutlak Değerli Denklemler & Eşitsizlikler",
+      "filename": "33_mutlak_degerli_denklem_ve_esitsizlikler.md",
+      "char_count": 5005,
+      "line_count": 165,
+      "images_count": 0
+    },
+    {
+      "id": "34_uslu_sayilar_kurallar",
+      "order": 45,
+      "module": "Modül 2: Cebir & Denklemler",
+      "title": "Üslü Sayıların Temel Kuralları",
+      "filename": "34_uslu_sayilar_kurallar.md",
+      "char_count": 671,
+      "line_count": 21,
+      "images_count": 0
+    },
+    {
+      "id": "46_kuyruk_mum_tel_problemleri",
+      "order": 46,
+      "module": "Modül 3: Problemler",
+      "title": "Kuyruk, Mum ve Tel Kesme Problemleri",
+      "filename": "46_kuyruk_mum_tel_problemleri.md",
+      "char_count": 6499,
+      "line_count": 209,
+      "images_count": 8
     },
     {
       "id": "53_tren_tunel_dairesel_pist_akinti",
-      "order": 73,
+      "order": 47,
       "module": "Modül 3: Problemler",
-      "title": "Özel Hareket Tipleri: Tren-Tünel, Dairesel Pist ve Akıntı Problemleri",
+      "title": "Tren-Tünel, Dairesel Pist & Akıntı Problemleri",
       "filename": "53_tren_tunel_dairesel_pist_akinti.md",
-      "char_count": 21467,
-      "line_count": 597
+      "char_count": 5257,
+      "line_count": 73,
+      "images_count": 1
+    },
+    {
+      "id": "45_sayi_kesir_problemleri_denklem_kurma",
+      "order": 48,
+      "module": "Modül 3: Problemler",
+      "title": "Sayı ve Kesir Problemleri Denklem Kurma",
+      "filename": "45_sayi_kesir_problemleri_denklem_kurma.md",
+      "char_count": 14929,
+      "line_count": 507,
+      "images_count": 4
     },
     {
       "id": "50_yuzde_problemleri_ve_100x_yontemi",
-      "order": 74,
+      "order": 49,
       "module": "Modül 3: Problemler",
-      "title": "Yüzde Problemleri ve 100x Pratik Çözüm Yöntemi",
+      "title": "Yüzde Problemleri & 100x Yöntemi",
       "filename": "50_yuzde_problemleri_ve_100x_yontemi.md",
-      "char_count": 85764,
-      "line_count": 2201
+      "char_count": 199,
+      "line_count": 9,
+      "images_count": 0
+    },
+    {
+      "id": "51_kar_zarar_iskonto_enflasyon",
+      "order": 50,
+      "module": "Modül 3: Problemler",
+      "title": "Kâr - Zarar & İskonto Problemleri",
+      "filename": "51_kar_zarar_iskonto_enflasyon.md",
+      "char_count": 12598,
+      "line_count": 405,
+      "images_count": 11
+    },
+    {
+      "id": "52_hiz_hareket_temel_ve_ortalama_hiz",
+      "order": 51,
+      "module": "Modül 3: Problemler",
+      "title": "Hız ve Hareket Problemleri (x=v.t)",
+      "filename": "52_hiz_hareket_temel_ve_ortalama_hiz.md",
+      "char_count": 8402,
+      "line_count": 233,
+      "images_count": 14
+    },
+    {
+      "id": "54_grafik_tablo_okuma_problemleri",
+      "order": 52,
+      "module": "Modül 3: Problemler",
+      "title": "Grafik ve Tablo Okuma (Daire, Sütun, Çizgi)",
+      "filename": "54_grafik_tablo_okuma_problemleri.md",
+      "char_count": 13408,
+      "line_count": 337,
+      "images_count": 27
+    },
+    {
+      "id": "55_kumeler_tanim_ve_alt_kume",
+      "order": 53,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Kümeler & Alt Küme Hesapları (2^n)",
+      "filename": "55_kumeler_tanim_ve_alt_kume.md",
+      "char_count": 418,
+      "line_count": 29,
+      "images_count": 1
+    },
+    {
+      "id": "62_kombinasyon_secme_ve_gruplama",
+      "order": 54,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Kombinasyon (Seçme ve Gruplama)",
+      "filename": "62_kombinasyon_secme_ve_gruplama.md",
+      "char_count": 2675,
+      "line_count": 185,
+      "images_count": 2
+    },
+    {
+      "id": "47_yas_problemleri",
+      "order": 55,
+      "module": "Modül 3: Problemler",
+      "title": "Yaş Problemleri (Yaş Farkı Sabittir)",
+      "filename": "47_yas_problemleri.md",
+      "char_count": 5005,
+      "line_count": 93,
+      "images_count": 4
+    },
+    {
+      "id": "48_isci_ve_havuz_problemleri",
+      "order": 56,
+      "module": "Modül 3: Problemler",
+      "title": "İşçi ve Havuz Problemleri",
+      "filename": "48_isci_ve_havuz_problemleri.md",
+      "char_count": 1955,
+      "line_count": 63,
+      "images_count": 1
+    },
+    {
+      "id": "57_kume_problemleri_venn_semasi",
+      "order": 57,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Küme Problemleri (Venn Şeması & Dil Bilenler)",
+      "filename": "57_kume_problemleri_venn_semasi.md",
+      "char_count": 3050,
+      "line_count": 93,
+      "images_count": 1
+    },
+    {
+      "id": "49_karisim_problemleri",
+      "order": 58,
+      "module": "Modül 3: Problemler",
+      "title": "Karışım Problemleri & Saf Madde Oranı",
+      "filename": "49_karisim_problemleri.md",
+      "char_count": 9901,
+      "line_count": 363,
+      "images_count": 3
+    },
+    {
+      "id": "59_moduler_aritmetik_kalan_bulma",
+      "order": 59,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Modüler Aritmetik & Gün/Saat Problemleri",
+      "filename": "59_moduler_aritmetik_kalan_bulma.md",
+      "char_count": 4243,
+      "line_count": 183,
+      "images_count": 2
+    },
+    {
+      "id": "60_sayma_kurallari_ve_permutasyon",
+      "order": 60,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Temel Sayma Kuralları & Düz Permütasyon",
+      "filename": "60_sayma_kurallari_ve_permutasyon.md",
+      "char_count": 2450,
+      "line_count": 107,
+      "images_count": 0
     },
     {
       "id": "61_tekrarli_permutasyon",
-      "order": 75,
+      "order": 61,
       "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Tekrarlı Permütasyon (Özdeş Nesneler ve Rakam Sıralamaları)",
+      "title": "Tekrarlı Permütasyon",
       "filename": "61_tekrarli_permutasyon.md",
-      "char_count": 7517,
-      "line_count": 191
+      "char_count": 5568,
+      "line_count": 177,
+      "images_count": 6
     },
     {
       "id": "56_kume_islemleri_kesisim_birlesim_fark",
-      "order": 76,
+      "order": 62,
       "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Kümelerde Kesişim, Birleşim, Fark ve Tümleme İşlemleri",
+      "title": "Kesişim, Birleşim, Fark ve Tümleme",
       "filename": "56_kume_islemleri_kesisim_birlesim_fark.md",
-      "char_count": 20526,
-      "line_count": 642
+      "char_count": 2676,
+      "line_count": 73,
+      "images_count": 4
+    },
+    {
+      "id": "64_olasilik_hesabi_ve_kosullu_olasilik",
+      "order": 63,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Olasılık Hesabı & Koşullu Olasılık",
+      "filename": "64_olasilik_hesabi_ve_kosullu_olasilik.md",
+      "char_count": 9429,
+      "line_count": 275,
+      "images_count": 6
+    },
+    {
+      "id": "65_fonksiyonlar_tanim_ve_deger_bulma",
+      "order": 64,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Fonksiyon Tanımı & f(x) Değeri Bulma",
+      "filename": "65_fonksiyonlar_tanim_ve_deger_bulma.md",
+      "char_count": 4562,
+      "line_count": 277,
+      "images_count": 1
     },
     {
       "id": "67_bileske_fonksiyon",
-      "order": 77,
+      "order": 65,
       "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Bileşke Fonksiyon ((f o g)(x)) ve Grafik Yorumlama",
+      "title": "Bileşke Fonksiyon ((fog)(x)) ve Grafikler",
       "filename": "67_bileske_fonksiyon.md",
-      "char_count": 30731,
-      "line_count": 536
+      "char_count": 18644,
+      "line_count": 487,
+      "images_count": 37
     },
     {
       "id": "69_dogruda_acilar_kurallar",
-      "order": 78,
+      "order": 66,
       "module": "Modül 5: Geometri",
-      "title": "Doğruda Açılar (Z, M, U Kuralları, Yöndeş ve Ters Açılar)",
+      "title": "Doğruda Açılar (Z, M, U Kuralları, Yöndeş Açılar)",
       "filename": "69_dogruda_acilar_kurallar.md",
-      "char_count": 22435,
-      "line_count": 441
+      "char_count": 3651,
+      "line_count": 155,
+      "images_count": 17
+    },
+    {
+      "id": "75_ucgende_ic_ve_dis_aciortay",
+      "order": 67,
+      "module": "Modül 5: Geometri",
+      "title": "Üçgende İç ve Dış Açıortay Teoremleri",
+      "filename": "75_ucgende_ic_ve_dis_aciortay.md",
+      "char_count": 1889,
+      "line_count": 81,
+      "images_count": 12
+    },
+    {
+      "id": "74_ikizkenar_ve_eskenar_ucgen",
+      "order": 68,
+      "module": "Modül 5: Geometri",
+      "title": "İkizkenar Üçgen (YAKİ) ve Eşkenar Üçgen",
+      "filename": "74_ikizkenar_ve_eskenar_ucgen.md",
+      "char_count": 2978,
+      "line_count": 151,
+      "images_count": 10
     },
     {
       "id": "71_ucgende_aci_kenar_bagintilari",
-      "order": 79,
+      "order": 69,
       "module": "Modül 5: Geometri",
       "title": "Üçgende Açı - Kenar Bağıntıları (Üçgen Eşitsizliği)",
       "filename": "71_ucgende_aci_kenar_bagintilari.md",
-      "char_count": 74428,
-      "line_count": 1726
+      "char_count": 2104,
+      "line_count": 115,
+      "images_count": 8
+    },
+    {
+      "id": "72_dik_ucgen_pisagor_bagintisi",
+      "order": 70,
+      "module": "Modül 5: Geometri",
+      "title": "Dik Üçgen & Pisagor Bağıntısı ve Özel Üçgenler",
+      "filename": "72_dik_ucgen_pisagor_bagintisi.md",
+      "char_count": 1963,
+      "line_count": 83,
+      "images_count": 12
     },
     {
       "id": "63_geometrik_kombinasyon",
-      "order": 80,
+      "order": 71,
       "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Geometrik Kombinasyon (Doğru, Üçgen ve Dörtgen Sayısı Bulma)",
+      "title": "Geometrik Kombinasyon (Doğru, Üçgen Sayısı)",
       "filename": "63_geometrik_kombinasyon.md",
-      "char_count": 22388,
-      "line_count": 523
+      "char_count": 3900,
+      "line_count": 201,
+      "images_count": 15
+    },
+    {
+      "id": "76_ucgende_kenarortay_ve_agirlik_merkezi",
+      "order": 72,
+      "module": "Modül 5: Geometri",
+      "title": "Kenarortay, Ağırlık Merkezi (G) ve 312 Kuralı",
+      "filename": "76_ucgende_kenarortay_ve_agirlik_merkezi.md",
+      "char_count": 11114,
+      "line_count": 573,
+      "images_count": 41
     },
     {
       "id": "66_fonksiyon_turleri_birebir_orten_birim_ters",
-      "order": 81,
+      "order": 73,
       "module": "Modül 4: İleri Konular & Mantık",
-      "title": "Birebir, Örten, Birim, Sabit ve Ters Fonksiyon (f^-1(x))",
+      "title": "Birebir, Örten, Birim, Sabit ve Ters Fonksiyon",
       "filename": "66_fonksiyon_turleri_birebir_orten_birim_ters.md",
-      "char_count": 52239,
-      "line_count": 910
+      "char_count": 1795,
+      "line_count": 103,
+      "images_count": 6
+    },
+    {
+      "id": "77_ucgende_alan_hesabi_ve_alan_dagitimi",
+      "order": 74,
+      "module": "Modül 5: Geometri",
+      "title": "Üçgende Alan Formülleri & Alan Dağıtımı",
+      "filename": "77_ucgende_alan_hesabi_ve_alan_dagitimi.md",
+      "char_count": 8212,
+      "line_count": 347,
+      "images_count": 26
+    },
+    {
+      "id": "68_sayisal_mantik_ve_sekil_akil_yurutme",
+      "order": 75,
+      "module": "Modül 4: İleri Konular & Mantık",
+      "title": "Sayısal Mantık, Örüntüler ve Şekil Yeteneği",
+      "filename": "68_sayisal_mantik_ve_sekil_akil_yurutme.md",
+      "char_count": 10010,
+      "line_count": 517,
+      "images_count": 38
+    },
+    {
+      "id": "70_ucgende_acilar_temel_ozellikler",
+      "order": 76,
+      "module": "Modül 5: Geometri",
+      "title": "Üçgende Açılar (İç/Dış Açı, Muhteşem Üçlü)",
+      "filename": "70_ucgende_acilar_temel_ozellikler.md",
+      "char_count": 3547,
+      "line_count": 159,
+      "images_count": 13
+    },
+    {
+      "id": "79_cokgenler_ve_duzgun_altigen_besgen",
+      "order": 77,
+      "module": "Modül 5: Geometri",
+      "title": "Çokgenler, Düzgün Beşgen ve Düzgün Altıgen",
+      "filename": "79_cokgenler_ve_duzgun_altigen_besgen.md",
+      "char_count": 11468,
+      "line_count": 207,
+      "images_count": 22
     },
     {
       "id": "73_oklid_bagintilari_ve_ozel_acili_ucgenler",
-      "order": 82,
+      "order": 78,
       "module": "Modül 5: Geometri",
-      "title": "Öklid Bağıntıları (h^2 = p . k) & Özel Açılı Üçgenler (30-60-90, 45-45-90)",
+      "title": "Öklid Bağıntıları & Özel Açılı Üçgenler (30-60-90, 45-45-90)",
       "filename": "73_oklid_bagintilari_ve_ozel_acili_ucgenler.md",
-      "char_count": 20419,
-      "line_count": 475
+      "char_count": 5086,
+      "line_count": 141,
+      "images_count": 13
+    },
+    {
+      "id": "80_dortgenler_ve_paralelkenar_kare_dikdortgen_yamuk",
+      "order": 79,
+      "module": "Modül 5: Geometri",
+      "title": "Özel Dörtgenler (Paralelkenar, Dikdörtgen, Kare, Yamuk, Deltoid)",
+      "filename": "80_dortgenler_ve_paralelkenar_kare_dikdortgen_yamuk.md",
+      "char_count": 17248,
+      "line_count": 833,
+      "images_count": 65
     },
     {
       "id": "81_cemberde_acilar_ve_uzunluk_teget_kiris",
-      "order": 83,
+      "order": 80,
       "module": "Modül 5: Geometri",
-      "title": "Çemberde Açılar (Merkez, Çevre, Teğet-Kiriş) ve Çemberde Uzunluk",
+      "title": "Çemberde Açılar (Merkez, Çevre) ve Çemberde Uzunluk",
       "filename": "81_cemberde_acilar_ve_uzunluk_teget_kiris.md",
-      "char_count": 21705,
-      "line_count": 441
+      "char_count": 2689,
+      "line_count": 99,
+      "images_count": 9
+    },
+    {
+      "id": "78_ucgende_benzerlik_ve_tales_kelebek",
+      "order": 81,
+      "module": "Modül 5: Geometri",
+      "title": "Üçgende Benzerlik, Tales ve Kelebek Benzerliği",
+      "filename": "78_ucgende_benzerlik_ve_tales_kelebek.md",
+      "char_count": 7056,
+      "line_count": 287,
+      "images_count": 25
     },
     {
       "id": "82_dairede_alan_ve_yay_uzunlugu",
+      "order": 82,
+      "module": "Modül 5: Geometri",
+      "title": "Dairede Alan (pi r^2), Dilim ve Yay Uzunluğu",
+      "filename": "82_dairede_alan_ve_yay_uzunlugu.md",
+      "char_count": 2731,
+      "line_count": 119,
+      "images_count": 8
+    },
+    {
+      "id": "83_kati_cisimler_prizma_silindir_koni_kure",
+      "order": 83,
+      "module": "Modül 5: Geometri",
+      "title": "Katı Cisimler: Prizma, Silindir, Koni ve Küre",
+      "filename": "83_kati_cisimler_prizma_silindir_koni_kure.md",
+      "char_count": 13247,
+      "line_count": 405,
+      "images_count": 27
+    },
+    {
+      "id": "84_analitik_geometri_nokta_ve_dogrunun_analitigi",
       "order": 84,
       "module": "Modül 5: Geometri",
-      "title": "Dairede Alan (pi . r^2), Daire Dilimi ve Yay Uzunluğu",
-      "filename": "82_dairede_alan_ve_yay_uzunlugu.md",
-      "char_count": 47424,
-      "line_count": 1016
+      "title": "Analitik Geometri: Nokta, Eğim ve Doğru Denklemleri",
+      "filename": "84_analitik_geometri_nokta_ve_dogrunun_analitigi.md",
+      "char_count": 11999,
+      "line_count": 377,
+      "images_count": 23
     }
   ]
 }

@@ -1,221 +1,81 @@
-# 2026 KPSS Matematik: Aritmetik Ortalama ve Geometrik Ortalama
+# 2026 KPSS Matematik: Aritmetik ve Geometrik Ortalama
 **Modül:** Modül 2: Cebir & Denklemler
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-zerlik oranına eşittir.
+aritmetik ortalaması 11 ise a + b toplaminin  $ \underline{\text{en büyük}} $ değeri kaçtır?
 
- $$ \frac{h_{a}}{h_{d}}=\frac{h_{b}}{h_{e}}=\frac{h_{c}}{h_{f}}=k $$ 
+A) 24 B) 25 C) 26 D) 27 E) 28
 
-Karşılıklı açıortay uzunluklarının oranı, benzerlik oranına eşittir.
+#### tip-28
 
- $$ \frac{\eta_{A}}{\eta_{D}}=\frac{\eta_{B}}{\eta_{E}}=\frac{\eta_{C}}{\eta_{F}}=k $$ 
+Bir sınıftaki erkeklerin yaş ortalaması 12, kızların yaş ortalaması 18 dir.
 
-Karşılık kenarortay uzunluklarının oranı, benzerlik oranına eşittir.
+Siniftaki erkeklerin sayısı kızların sayısının 2 katı ise tüm sinifin yaş ortalaması kaçtır?
 
- $$ \frac{V_{a}}{V_{d}}=\frac{V_{b}}{V_{e}}=\frac{V_{c}}{V_{f}}=k $$ 
+A) 13 B) 14 C) 15 D) 16 E) 17
 
-Karşılık çevreler oranı, benzerlik oranına eşittir.
+( $ \sqrt{7}-2 $) ile ( $ \sqrt{7}+2 $)
 
- $$ \frac{\complement_{\mathcal{C}}(\text{ABC})}{\complement_{\mathcal{C}}(\text{DEF})}=k $$ 
+sayilarinin geometrik ortası kaçtır?
 
-Karşılık iç teğet ve çevrel çemberlerinin yarıçapları oranı, benzerlik oranına eşittir.
+A) $\sqrt{3}$ B) $\sqrt{5}$ C) 3 D) 5 E) 7
 
- $$ \frac{r_{ABC}}{r_{DEF}}=\frac{R_{ABC}}{R_{DEF}}=k $$ 
+#### Tip-30
 
-#### KURAL
+a ile b nin aritmetik ortası 6 dır.
 
-Benzerlikte Alan
+a ile geometrik ortası 2$\sqrt{3}$, b ile geometrik ortası 3$\sqrt{2}$ olan sayı kaçtır?
 
-![Şekil/Grafik/Soru](images/image391.jpg)
+A) $\frac{1}{2}$ B) 1 C) $\frac{3}{2}$ D) 2 E) $\frac{5}{2}$
 
-![Şekil/Grafik/Soru](images/image392.jpg)
+#### Tip-31
 
-![Şekil/Grafik/Soru](images/image393.jpg)
+1'den 65'e kadar numaralandırılmış 65 top, A ve B kutularına dağıtılıyor. Bu durumda A ve B kutularındaki topların numaralarının aritmetik ortalaması sırasıyla 30 ve 35 oluyor.
 
-Tip-25
+Buna göre, A kutusundaki top sayısı kaçtır?
 
-![Şekil/Grafik/Soru](images/image394.jpg)
+A) 24 B) 26 C) 28 D) 30 E) 32
 
- $$ \mathsf{m}\bigl(\widehat{\mathsf{BAD}}\bigr)=\mathsf{m}\bigl(\widehat{\mathsf{ADE}}\bigr) $$ 
+#### TIP-32
 
- $$ [\mathsf{B K}]\bot[\mathsf{A D}] $$ 
+Bir şirkette çalışan 75 yaşındaki Metin Bey ve diğer çalışanların yaşlarının ortalaması 1 Ocak 2019 tarihinde 45 olarak hesaplanmıştır. Metin Bey, 2019 yılının sonunda emekli olup işten ayrıldıktan sonra bu şirkette çalışanların yaş ortalaması 1 Ocak 2020 tarihinde yine 45 olarak hesaplanmıştır.
 
-[EL]  $ \perp $ [AD]
+Metin Bey'den başka işten ayrılan veya işe yeni alınan biri olmadığını göre, 1 Ocak 2019 tarihinde bu şirketteki toplam çalışan sayısı kaçtır?
 
- $$ 3\left|\mathrm{BK}\right|=4\left|\mathrm{LE}\right| $$ 
+A) 25 B) 28 C) 31 D) 34 E) 37
 
-|AD|=14cm
+#### Tip-33
 
-Yukaridaki verilere göre, | AC | kaç cm'dir?
+Bir tezgâhta bulunan elma, mandalina ve portakalın kilogram türünden toplam ağırlıkları sırasıyla 5, 3 ve 2 sayılarıyla; bu meyvelerin kilogram satış fiyatları ise sırasıyla 1, 2 ve k sayılarıyla doğru orantılıdır.
 
-A) 2 B) 4 C) 6 D) 8 E) 10
+Bu meyvelerin bir kısmı satıldıktan sonra;
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-26&lt;/div&gt; &lt;/div&gt;
+• tezgâhta kalan elma, mandalina ve portakalın toplam ağırlıklarının birbirine eşit olduğu,
 
-![Şekil/Grafik/Soru](images/image395.jpg)
+- bu üç çeşit meyvenin her birinin satışından elde edilen gelirlerin birbirine eşit olduğu görülüyor.
 
-ABC bir üçgen
+Buna göre, k kaçtır?
 
-[DE]//[BC]
+A) 4 B) 5 C) 6 D) 7 E) 8
 
-2|BD|=|AD|
+![Şekil/Grafik/Soru](images/image73.jpg)
 
-A(BCED)=20 cm²
+Sıcaklık ölçü birimleri olan
 
-Yukaridaki verilere göre, A(ADE) kaç cm² dir?
+Fahrenheit (°F) ve Celcius (°C)
 
-A) 4 B) 8 C) 12 D) 16 E) 20
+arasindaki dönüşümler
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-27&lt;/div&gt; &lt;/div&gt;
+ $ F = \frac{9}{5} \cdot C + 32 $ formülü
 
-![Şekil/Grafik/Soru](images/image396.jpg)
+kullanılarak hesaplanmaktadır.
 
-ABC bir üçgen
+Anil, okula gittikleri beş gün boyunca her gün aynı saatte sınıfın sıcaklığını Celsius olarak ölçüp bu beş günün ortalama sıcaklığını Celsius türünden bulması için görevlendirilmiştir. Bu ölçme işlemi için o anki havanın sıcaklığını hem Fahrenheit hem de Celsius türünden gösteren şekilde teromometre kullanılmıştır. Anil bu beş günün birinde okula gitmemiş, o günün ölçümünü sınıf arkadaşı Beril yapmıştır. Ancak Beril, o günün sıcaklığı için C değeri yerine yanlışlıkla F değerini listeye kaydetmiştir. Anil, listedeki değerlere göre bu beş günün ortalama sıcaklığına 26,4°C olarak hesaplamıştır.
 
-[DE]//[BC]
+Beril'in ölçüm yaptığı günün sıcaklık değeri Celsius'a çevrildikten sonra bu beş günlük ölçümün listedeki değerleri yukarıdaki gibi olduğuna göre, Anil hangi gün okula gitmemiştir?
 
-|AD|=3cm
+A) Pazartesi B) Sal C) Çarşamba D) Perşembe E) Cuma
 
-|DB|=2cm
-
-Yukaridaki verilere göre,  $ \frac{A(ADE)}{A(ABC)} $ oranı kaçtır?
-
-A)  $ \frac{1}{4} $ B)  $ \frac{4}{9} $ C)  $ \frac{9}{25} $ D)  $ \frac{16}{25} $ E)  $ \frac{36}{25} $
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-28&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image397.jpg)
-
-ABC üçgen,
-
-[DE]//[BC]
-
-Alan(ADE) = 25 cm²
-
-Alan(BCED) = 24 cm²
-
-|AD| = 5 cm
-
-Yukaridaki verilere göre, |BD| kaç cm'dir?
-
-A) 1 B) 2 C) 3 D) 4 E) 5
-
-TIP-29
-
-![Şekil/Grafik/Soru](images/image398.jpg)
-
-ABC ve DEF eşkenar üçgen,
-
-|BE|=|EF|=|FC|
-
-Yukaridaki verilere göre,  $ \frac{Alan(ABE)}{Alan(DEF)} $ oranı kaçtır?
-
-A) 2 B) 3 C) 4 D) 5 E) 6
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ÖZELLIK&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image399.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-30&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image400.jpg)
-
- $$ [{\mathsf{D E}}//[{\mathsf{F K}}]//[{\mathsf{B C}}] $$ 
-
- $$ \frac{\left|AD\right|}{3}=\frac{\left|DF\right|}{2}=\left|FB\right| $$ 
-
- $$ \mathrm{A l a n(F K E D)=16c m^{2}} $$ 
-
-Yukaridaki verilere göre, Alan(BCKF) kaç cm² dir?
-
-A) 8 B) 9 C) 10 D) 11 E) 12
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-31&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image401.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;ABC bir üçgen&lt;/div&gt; &lt;/div&gt;
-
- $$ [{\mathsf{D E}}//[{\mathsf{K L}}]//[{\mathsf{B C}}] $$ 
-
- $$ |AD|=|KB|=1cm $$ 
-
- $$ DK=2cm $$ 
-
- $$ A(KLED)=16cm^{2} $$ 
-
-Yukaridaki verilere göre, A(ABC) kaç cm² dir?
-
-A) 2 B) 8 C) 16 D) 24 E) 32
-
-ÖZELLİK
-
-![Şekil/Grafik/Soru](images/image402.jpg)
-
-![Şekil/Grafik/Soru](images/image403.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-32&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image404.jpg)
-
- $$ [AB]//[EF]//[DC] $$ 
-
- $$ \frac{Alan(ABFE)}{Alan(ABCD)}=\frac{3}{8} $$ 
-
-| AB | = 9 cm
-
-Yukaridaki verilere göre,  $ |EF|=x $ kaç cm'dir?
-
-A)  $ \sqrt{6} $ B)  $ 2\sqrt{6} $ C)  $ 3\sqrt{6} $ D)  $ 4\sqrt{6} $ E)  $ 5\sqrt{6} $
-
-![Şekil/Grafik/Soru](images/image405.jpg)
-
-##### TIP-33
-
- $$ [{\mathsf{D C}}]\mathbin{//}[{\mathsf{E F}}]\mathbin{//}[{\mathsf{D C}}] $$ 
-
- $$ \mathsf{A}(\mathsf{DCEF})=\mathsf{S}_{1}\lor\mathsf{e}\mathsf{A}(\mathsf{EFBA})=\mathsf{S}_{2} $$ 
-
- $$ \mathsf{S}_{1}=\mathsf{S}_{2} $$ 
-
- $$ |DC|=3\ cm $$ 
-
-|AB| = 9 cm
-
-Yukaridaki verilere göre, x kaçtır?
-
-A)  $ 2\sqrt{5} $ B)  $ 3\sqrt{5} $ C)  $ 4\sqrt{5} $ D)  $ 5\sqrt{5} $ E)  $ 6\sqrt{5} $
-
-#### Konveks Çokgenlerin Özellikleri
-
-## n kenarlı bir konveks çokgende
-
-1. İç açıların ölçüleri toplamı (n-2) · 180° dir.
-
-2. Dịs açilarin ölçüleri toplamı 360° dir.
-
-3. Toplam köşegen sayısı  $ \frac{n \cdot (n - 3)}{2} $ dir.
-
-### Düzgün Çokgenler
-
-Tüm kenarları ve iç açıları (veya dış açıları) birbirine eşit olan çokgenlere düzgün çokgenler denir.
-
-![Şekil/Grafik/Soru](images/image406.jpg)
-
-![Şekil/Grafik/Soru](images/image407.jpg)
-
-![Şekil/Grafik/Soru](images/image408.jpg)
-
-#### Düzgün Çokgenlerin Özellikleri
-
-1. İç açılarının ölçülerinin toplamı (n-2)·180° dir.
-
-## n kenarlı bir düzgün çokgenin
-
-2. Dịs açilarinin ölçülerinin toplamı 360° dir.
-
-3. Bir dış açısının ölçüsü  $ \frac{360^{\circ}}{n} $ dir.
-
-4. B
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Pazartesi&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Sali&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Çarşamba&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Perşembe&lt;/td&gt;&lt;td style='

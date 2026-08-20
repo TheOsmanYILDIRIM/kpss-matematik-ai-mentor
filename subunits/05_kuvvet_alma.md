@@ -1,99 +1,23 @@
-# 2026 KPSS Matematik: Kuvvet Alma (Üs Kuralları ve Negatif Sayıların Kuvveti)
-**Modül:** Modül 1: Temel Matematik & Dört İşlem
+# 2026 KPSS Matematik: Kuvvet Alma & Negatif Sayıların Kuvveti
+**Modül:** Modül 1: Temel Matematik
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-Kuvvet alma
+B) 16 C) 18 D) 19 E) 20
 
- $$ x^{2}=x\cdot x $$ 
+#### tip-14
 
- $$ \left(-x\right)^{2}=\left(-x\right)\cdot\left(-x\right) $$ 
+On katlı bir apartmanın ardışık numaralı her iki katı arasında eşit sayıda merdiven basamağı bulunmaktadır. Bu apartmanın farklı katlarında oturan Arda, Burak ve Cem'in oturdukları katlarla ilgili aşağıdakiler bilinmektedir.
 
- $$ x^{3}=x\cdot x\cdot x $$ 
+- Arda'nın oturduğu kat ile Burak'ın oturduğu kat arasındaki toplam basamak sayısı çifttir.
 
- $$ \left(-x\right)^{3}=\left(-x\right)\cdot\left(-x\right)\cdot\left(-x\right) $$ 
+Burak'ın oturduğu kat ile Cem'in oturduğu kat arasındaki toplam basamak sayısı tektir.
 
- $$ x^{0}=1 $$ 
+Buna göre Arda, Burak ve Cem'in oturdukları katların numaraları aşağıdakilerden hangisi olabilir?
 
-Örnekler;
+&lt;table border=1 style='margin: auto; word-wrap: break-word;'&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Arda&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Burak&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;Cem&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;A)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;2&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;B)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;3&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;C)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;4&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;7&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;D)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;5&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;E)&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;6&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;8&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
- $$ \checkmark3^{2}=9 $$ 
+## yarqi yayinevi
 
- $$ \checkmark(-1907)^{0}=1 $$ 
-
-#### tip-1
-
-##### x - (x - (-x - 3x))
-
-işleminin sonucu kaçtır?
-
-A) -4x B) -x C) x D) 2x E) 3x
-
-#### TIP-2
-
- $$ :4-2+5:2)\cdot(6-1+5\left(-1\right)) $$ 
-
-işleminin sonucu kaçtır?
-
-A) 4 B) 3 C) 1 D) 0 E) -1
-
-## b) Faktöriyel
-
-1 den n ye kadar ardışık doğal sayıların çarpımı n! dir.
-
-✓ 1!=1
-
-✓ 2!=1·2=2
-
- $$ 3!=1\cdot2\cdot3=6 $$ 
-
-#### TIP-3
-
-(0! + 1! + 2!) ! - (3! - 0!) !
-
-isleminin sonucu kaçtır?
-
-A) 120 B) -96 C) 96 D) 100 E) 120
-
-## c) İşlem önceliği:
-
-1. varsa kuvvet ifadeleri
-
-2. varsa parantez içi
-
-3. varsa çarpma, bölme
-
-4. toplama, çıkarma işlemleri sırası ile yapılır.
-
-#### Örnekler:
-
- $$ \checkmark\quad(-5+7)^{2}=4\quad\checkmark12+5\cdot(-3)=-3 $$ 
-
- $$ \begin{aligned}\checkmark\left(-5\right)\cdot\left(-3\right)+\left(-2\right)\cdot\left(+3\right)=15-6=9\end{aligned}\quad\begin{aligned}\checkmark\left(+15\right):\left(-3\right)+\left(-17\right)=-5-17=-22\end{aligned} $$ 
-
-### C. TEMEL İŞLEMLER
-
-1) DENKLEM CÖZME
-
-* Bir işlemde denklem çözümü yapılırken aynı cins ifadeler bir yerde toplanır. Burada dikkat edilmesi gereken şey eşitliğin karşısına geçen ifadenin işareti değişir.
-
-#### Tip-4
-
- $$ 2x+3=x+11 $$ 
-
-denklemini sağlayan x değeri kaçtır?
-
-A) 6 B) 7 C) 8 D) 9 E) 10
-
-* İki bilinmeyenli bir denklem çözümü yapılıyorsa taraf tarafa toplanarak ya da çıkarılarak yok etme işlemi yapılır. Ya da yerine koyma yönetimi uygulanarak denklem çözülür.
-
-#### Tip - 5
-
- $$ \begin{array}{l}x+y=12\\x-y=4\end{array} $$ 
-
-denklemini sağlayan x değeri kaçtır?
-
-A) 6 B) 7 C) 8 D) 9 E) 10
-
-#### TIP
+1 ve kendisinden başka pozitif böleni olmayan 1 den büyük doğal sayılara

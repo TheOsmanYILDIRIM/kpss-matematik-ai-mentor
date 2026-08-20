@@ -1,191 +1,293 @@
-# 2026 KPSS Matematik: Üçgende Benzerlik Teoremleri, Temel Orantı (Tales) ve Kelebek Benzerliği
+# 2026 KPSS Matematik: Üçgende Benzerlik, Tales ve Kelebek Benzerliği
 **Modül:** Modül 5: Geometri
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-Problemleri&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;td style='text-align: center; word-wrap: break-word;'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+aç derecedir?
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-43&lt;/div&gt; &lt;/div&gt;
+A) 40 B) 50 C) 60 D) 70 E) 80
 
-Bir otobüste her bir sırada biri tekli koltuk, diğeriki koltuk olmak üzere toplam 24 koltuk bulunmaktadır.
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-3&lt;/div&gt; &lt;/div&gt;
 
-![Şekil/Grafik/Soru](images/image83.jpg)
+![Şekil/Grafik/Soru](images/image515.jpg)
 
-Bu otobüsteki ikili koltuklardan 3 tanesinde birer koltuk dolu, diğerlerinde ise her iki koltuk da doludur.
+ $  \text{m}(\widehat{\mathbf{B}})=10^\circ  $
 
-Otobüsteki toplam dolu koltuk sayısı 17 olduğunu göre, dolu teklik koltuk sayısı kaçtır?
+ $  \text{m}(\widehat{\mathbf{C}})=40^\circ  $
 
-A) 4 B) 5 C) 6 D) 7 E) 8
+Yukaridaki verilere göre, m($\widehat{\mathbf{A}}$) = x kaç derecedir?
 
-1) Ali'nin yaşı = x olsun.
+A) 50 B) 60 C) 65 D) 70 E) 90
 
-3 yıl sonraki yaşı = x + 3
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-4&lt;/div&gt; &lt;/div&gt;
 
-3 yıl önceki yaşı = x - 3
+![Şekil/Grafik/Soru](images/image516.jpg)
 
-2) İki kişinin yaş toplamı = x olsun.
+Şekilde
 
-3 yıl sonra yaş toplamı = x + 2 ⋅ 3 = x + 6
+m($\widehat{BAC}$) = 60°
 
-3 yıl önceki yaş toplamı = x − 6
+m($\widehat{BEC}$) = 84°
 
-3) İki kişinin yaş farkı değişmez.
+m($\widehat{BPC}$) = x
 
- $$ \begin{array}{c}\text{A}\\ \\ a\end{array} $$ 
+Yukaridaki verilere göre, x kaç derecedir?
 
- $$ \frac{B}{b} $$ 
+A) 10 B) 20 C) 30 D) 36 E) 45
 
-a - b = x - y → yaş farkı
+ $$ Tip-5 $$ 
 
-x - a = y - b → geçen zaman
+![Şekil/Grafik/Soru](images/image517.jpg)
 
-4) Doğum tarihi büyük olan kişi küçüktür.
+O merkezl çemberin yarıçapı | BE | uzunluğuna eşittir.
 
-5) Ali 10 yaşındayken kardeşinin doğmasına 3 yıl var ise,
+ $ m(\widehat{ACB}) = 69^{\circ} $
 
- $ \frac{A}{10} $  $ \frac{K}{-3} $ olur.
+ $ m(\widehat{ABC}) = x $
 
-#### Tip-1
+Yukaridaki verilere göre, x kaç derecedir?
 
-Bir baba ile kızının yaşları toplamı 60'tir.
+A) 10 B) 11 C) 12 D) 13 E) 14
 
-Buna göre, kaç yıl sonra ikisinin yaşları toplamı 76 olur?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-6&lt;/div&gt; &lt;/div&gt;
 
-A) 5 B) 6 C) 7 D) 8 E) 9
+![Şekil/Grafik/Soru](images/image518.jpg)
 
-#### TIP-2
+O merkezli çemberde
 
-Ahmet ile Hakan'ın yaşları toplamı 36'dır.
+ $$ \left|\begin{array}{l}\mathrm{A B}\end{array}\right|=\left|\begin{array}{l}\mathrm{E C}\end{array}\right| $$ 
 
-9 yıl sonra Ahmet'in yaşı, Hakan'ın yaşının 2 katı olacağına göre, Hakan'ın bugünkü yaşı kaçtır?
+ $$ m\left(\widehat{A O C}\right)=30^{\circ} $$ 
 
-A) 4 B) 6 C) 8 D) 9 E) 10
+ $$ m\left(\widehat{BEA}\right)=50^{\circ} $$ 
 
-#### TIP-3
+Yukaridaki verilere göre, m($\widehat{EBA}$) kaç derecedir?
 
-Bir babanın yaşı iki çocuğunun yaşları toplamından 33 yaş büyüktür.
+A) 65 B) 70 C) 75 D) 80 E) 85
 
-3 yil sonra babanın yaşı, çocukların yaşları toplaminin 2 katı olacağına göre, baba bugün kaç yaşındadır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-7&lt;/div&gt; &lt;/div&gt;
 
-A) 55 B) 56 C) 57 D) 58 E) 59
+![Şekil/Grafik/Soru](images/image519.jpg)
 
-#### TiP-4
+O₁ merkezil çemberin yarıçapı 2√2 cm,
 
-Bir babanın yaşı iki çocuğun yaşları farkının 3 katıdır. 12 yıl sonra, babanın yaşı çocukların yaşları farkının 4 katı olacaktır.
+O merkezli çemberin yarıçapı
 
-Buna göre, baba bugün kaç yaşındadır?
+2 cm'dir.
 
-A) 24 B) 26 C) 30 D) 32 E) 36
+Yukaridaki verilere göre, m($\widehat{ACB}$) = α kaç derecedir?
 
-#### MATEMATIK
+A) 15 B) 20 C) 25 D) 30
 
-#### Tip-5
+### 2. CEMBERDE UZUNLUK VE KUVVET
 
-Ahmet ile Burak'ın yaşları toplamı 48'dir. Ahmet 5 yıl önce, Burak 3 yıl sonra doğmuş olsaydı yaşları esit olacaktı.
+![Şekil/Grafik/Soru](images/image520.jpg)
 
-Buna göre, Burak şimdi kaç yaşındadır?
+O merkezli çemberin yarıçap uzunluğu r olsun.
 
-A) 18 B) 24 C) 26 D) 28 E) 32
+Çevre = 2πr dir.
 
-#### Tip-6
+b)
 
-Ahmet ile Hasan'ın bugünkü yaşları toplamı 56'dır. Hasan, kendisinden daha yaşlı olan Ahmet'in yaşına geldiğinde ise yaşları toplamı 88 olacaktır.
+![Şekil/Grafik/Soru](images/image521.jpg)
 
-Buna göre, Ahmet'in bugünkü yaşı kaçtır?
+O merkezli çemberde
 
-A) 30 B) 32 C) 36 D) 38 E) 40
+AB yayının uzunluğu
 
-2006 yılında Recep ile Salih'in yaşları toplamı 51 olduğunu göre, Serhat kaç yılında doğmuştur?
+$|\widehat{AB}|=\frac{\alpha}{360^{\circ}}\cdot2\pi r$ dir.
 
-A) 1975 B) 1976 C) 1980 D) 1984 E) 1985
+c)
 
-#### tip-8
+![Şekil/Grafik/Soru](images/image522.jpg)
 
-Recep, Serhat'tan 2 yaş büyük, Salih'ten 5 yaş küçüktür.
+Şekilde A ve B noktaları teğet
 
-#### tip-9
+değme noktaları ise,
 
-1998 yılında bir matematikçi doğum yılını soran arkadaşına; “Yaşadığımız yılın rakamları toplamı kadar yıl önce doğum.” diye cevap veriyor.
+|PA|=|PB| dir.
 
-Buna göre, bu matematikçi 2005 yılında kaç yaşındaydı?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;d)&lt;/div&gt; &lt;/div&gt;
 
-A) 30 B) 31 C) 32 D) 33 E) 34
+![Şekil/Grafik/Soru](images/image523.jpg)
 
-Kızı annenin bugünkü yaşına geldiğinde ikisinin yaşları toplamı 85 olacağına göre, annenin bugünkü yaşı kaçtır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;e)&lt;/div&gt; &lt;/div&gt;
 
-A) 25 B) 30 C) 32 D) 36 E) 40
+Bir çemberde merkezden teğete inen doğru parçaları diktir.
 
-Bir annenin bugünkü yaşı, kızının yaşının 6 katıdır.
+![Şekil/Grafik/Soru](images/image524.jpg)
 
-##### tip-7
+Bir çemberde merkezden eşit uzaklıkta bulunan kirişlerin uzunlukları birbirine eşittir.
 
-#### TIP-10
+Şekilde; | AB | = | CD | dir.
 
-Ahmet doğduğunda, Emre 8 yaşındaydı. Hasan doğduğunda Emre 2 yaşındaydı.
+t)
 
-Üçünün bugünkü yaşları toplamı 104 olduğunu göre, Ahmet bugün kaç yaşındadır?
+![Şekil/Grafik/Soru](images/image525.jpg)
 
-A) 30 B) 32 C) 34 D) 38 E) 42
+Bir çemberde, çemberin merkezinden, herhangi bir kirişin orta noktasına çizilen doğru parçası kirişe diktir.
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-11&lt;/div&gt; &lt;/div&gt;
+g) Tegetler Dörtgeni: Bir çembere dört kenarından teğet olan dörtgene teğetler dörtgeni denir.
 
-48 yaşındaki bir baba kızının yaşında iken, kızının doğmasına daha 4 yıl vardı.
+![Şekil/Grafik/Soru](images/image526.jpg)
 
-Buna göre, kızının 3 yıl sonraki yaşı kaçtır?
+Teğetler dörtgeninden karşılıklı kenar uzunlukları toplamı birbirine eşittir.
 
-A) 20 B) 22 C) 23 D) 25 E) 27
+ $ a + b = c + d $
 
-#### Tip-12
+h) Kirişler Dörtgeni: Köşeleri aynı çember üzerinde bulunan dörtgene dinir.
 
-Ramazan arkadaşına "5 yıl sonra yaşım, doğum yılının rakamları toplamın eşit olacak" diyor.
+![Şekil/Grafik/Soru](images/image527.jpg)
 
-Bu konuşma 2000 yılında geçtiğine göre, Ramazan hangi yıl doğmuştur?
+Kirişler dörtgeninde karşılıklı açıların toplamı 180° dir.
 
-A) 1975 B) 1977 C) 1979 D) 1981 E) 1982
+ $$ m(\widehat{\boldsymbol{A}})+m(\widehat{\boldsymbol{C}})=180^{\circ} $$ 
 
-#### Tip-13
+ $$ m(\widehat{D})+m(\widehat{B})=180^{\circ} $$ 
 
-Bir iş yerinde beşer kişinin çalıştığı A ve B odaları vardır. Her bir odanın yaş ortalaması 36'dır. A odasında çalışan Tolga B odasına taşındığında, A odasının yaş ortalaması, B odasının yaş ortalamasından 5 fazla oluyor.
+Çemberde Kuvvet Özellikleri
 
-Buna göre, Tolga'nın yaşı kaçtır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;1.&lt;/div&gt; &lt;/div&gt;
 
-A) 20 B) 21 C) 22 D) 23 E) 24
+![Şekil/Grafik/Soru](images/image528.jpg)
 
-#### TIP-14
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;tip-8&lt;/div&gt; &lt;/div&gt;
 
-Bir annenin yaşı, iki çocuğunun yaşları toplamından 19 fazladır.
+ $$ |PA|^{2}=|PB|\cdot|PC|\quad dir. $$ 
 
-5 yıl önce bu annenin yaşı iki çocuğunun yaşları toplaminin 4 katı
+![Şekil/Grafik/Soru](images/image529.jpg)
 
-olduğuna göre, bugün büyük çocuk  $ \underline{\text{en az}} $ kaç yaşındadır?
+ $ \left|PB\right|=4\ cm $
 
-A) 7 B) 8 C) 9 D) 10 E) 11
+ $ \left|BC\right|=5\ cm $
 
-#### TiP-15
+Yukaridaki verilere göre, |PA| = x kaç cm'dir?
 
-Bir ailenin bütün bireylerinin bugünkü yaşları toplamı 150, üç yıl önceki yaş ortalaması 27'dir.
+A) 3 B) 4 C) 5 D) 6 E) 7
 
-3 yıl içinde birey sayısında değişiklik olmayan bu ailede kaç birey vardır?
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;2.&lt;/div&gt; &lt;/div&gt;
 
-A) 2 B) 3 C) 4 D) 5 E) 6
+![Şekil/Grafik/Soru](images/image530.jpg)
 
-#### Tip-16
+ $ |PA| \cdot |PB| = |PC| \cdot |PD| $ dir.
 
-Bir ailede annenin yaşının babanın yaşına oranı ilk çocukları doğduğunda
+![Şekil/Grafik/Soru](images/image531.jpg)
 
- $ \frac{9}{10} $, ikinci çocukları doğduğunda ise  $ \frac{12}{13} $'tür.
+ $ \left| PA \right| = 4 \, \text{cm} $
 
-Bu iki çocuğun yaşları farkı 9 olduğunu göre, baba ile annenin yaşları
+ $ \left| AB \right| = 2 \, \text{cm} $
 
-farkı kaçtır?
+ $ \left| PC \right| = 3 \, \text{cm} $
 
-A) 2 B) 3 C) 4 D) 5 E) 6
+Yukaridaki verilere göre, |CD|=x kaç cm'dir?
 
-#### MATEMATIK
+A) 1 B) 2 C) 3 D) 4 E) 5
 
-#### Tip-17
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;3.&lt;/div&gt; &lt;/div&gt;
 
-Arda'nın 2020 yılında iyi, babasının 2011 yılında iyi yağın yarısına eşittir.
+![Şekil/Grafik/Soru](images/image532.jpg)
 
-Arda doğduğunda bab
+ $ |AP| \cdot |PB| = |CP| \cdot |PD| $ dir.
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-10&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image533.jpg)
+
+ $$ |PC|=6cm $$ 
+
+ $$ \left|BP\right|=\left|PD\right|=x $$ 
+
+Yukaridaki verilere göre, x kaç cm'dir?
+
+A) $\sqrt{2}$ B) $\sqrt{3}$ C) $2\sqrt{2}$ D) $2\sqrt{3}$ E) $3\sqrt{3}$
+
+#### Tip-11
+
+![Şekil/Grafik/Soru](images/image534.jpg)
+
+## O merkezli çemberde
+
+ $$ \left|AB\right|=\left|CD\right|=10cm $$ 
+
+ $$ |OF|=(2x-1)cm $$ 
+
+ $ |OE|=(x+2) $ cm
+
+Yukaridaki verilere göre, çemberin yarıçapı kaç cm'dir?
+
+A)  $ 2\sqrt{2} $ B)  $ 3\sqrt{2} $ C)  $ 4\sqrt{2} $ D)  $ 5\sqrt{2} $ E)  $ 6\sqrt{2} $
+
+![Şekil/Grafik/Soru](images/image535.jpg)
+
+ $$ \left|O_{1}O_{2}\right|=13cm $$ 
+
+Yukaridaki O_{1} ve O_{2} merkezli ayrık çemberlerden O_{2} merkezli çemberin yarıçapı 3 cm olduğuna göre, O_{1} merkezli çemberin yarıçapı kaç cm'dir?
+
+A) 8 B) 10 C) 12 D) 14 E) 15
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-13&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image536.jpg)
+
+ABC bir dik üçgen
+
+|AC|=3cm
+
+ $ |BD|=1\text{cm} $
+
+ $ |BE|=x\ cm $
+
+Şekildeki A merkezli çember yayı ABC üçgenini E noktasında kesmektedir
+
+Buna göre, |BE| = x kaç cm'dir?
+
+A) 1,1 B) 1,2 C) 1,3 D) 1,4 E) 1,6
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-14&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image537.jpg)
+
+O merkezli çemberde
+
+ $$ \left|E B\right|=8\mathrm{c m} $$ 
+
+|OE|=5 cm
+
+ $ |OA|=x\ cm $
+
+Yukaridaki verilere göre, |OA| = x kaç cm'dir?
+
+A)  $ \sqrt{41} $ B)  $ \sqrt{55} $ C)  $ 3\sqrt{7} $ D)  $ 3\sqrt{11} $ E)  $ 2\sqrt{21} $
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;TIP-15&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image538.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A) 11&lt;/div&gt; &lt;/div&gt;
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B) 12&lt;/div&gt; &lt;/div&gt;
+
+Birbirine dıştan teğet üç eş çemberlerin yarıçapları 1 cm olmak üzere çemberlerin çevresini saran telin uzunluğu kaç birimdir? (π = 3 alınız.)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;E) 15&lt;/div&gt; &lt;/div&gt;
+
+tip-16
+
+![Şekil/Grafik/Soru](images/image539.jpg)
+
+[CA çembere A noktasında teğettir.
+
+AC|=6cm
+
+ $$ |CD|=4cm $$ 
+
+ $$  AD\mid=5\;cm $$ 
+
+ $$ \left|AB\right|=x\ cm $$ 
+
+Yukaridaki verilere göre, x kaç cm'dir?
+
+A) $\frac{13}{2}$ B) 7 C) $\frac{15}{2}$ D) 8 E) $\frac{17}{2}$
+
+### 3.

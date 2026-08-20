@@ -1,229 +1,281 @@
-# 2026 KPSS Matematik: Olasılık Hesabı (İstenen / Tüm Durumlar) & Bağımsız Olaylar
+# 2026 KPSS Matematik: Olasılık Hesabı & Koşullu Olasılık
 **Modül:** Modül 4: İleri Konular & Mantık
 > Kaynak: İlyas Güneş 2026 Video Ders Notu (Resimli & Formüllü EPUB Sürümü)
 
 ---
 
-şleminin sonucu kaçtır?
+OLASILIK
 
-A) $\sqrt{2}+1$ B) $\sqrt{5}+1$ C) $\sqrt{2}+\sqrt{5}$
+ $$  Olaslik=\frac{i_{stenen durum}}{Tümdurum} $$ 
 
-D) $2+\sqrt{5}$ E) $\sqrt{2}+2$
+Tüm durum
 
-3) $ax^{2}+bx+c$ Şeklindeki ifadeler
+1 zar için tüm durum = 6
 
-#### ? ORNEK SORU
+2 zar için tüm durum = 6 ⋅ 6 = 36
 
- $$ x^{2}+3x+2 $$ 
+3 zar için tüm durum = 6³
 
-ifadesinin çarpanları nelerdir?
+1 madeni para için tüm durum = 2
 
-#### QÖZÜM
+2 madeni para için tüm durum = 2² = 4
 
- $$ x^{2}+3x+2 $$ 
+3 madeni para için tüm durum = 2³ = 8
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}\left.x\right.\end{array}\right.\\\left.\begin{array}{l}\left.\begin{array}{l}\downarrow\\2\\1\end{array}\right.\end{array}\right\}\left.x+2x=\right.\\\left.\begin{array}{l}\textcircled{3x}\end{array}\right.\\=\left(x+2\right)\left(x+1\right)\end{array} $$ 
+Özellikler
 
-![Şekil/Grafik/Soru](images/image60.jpg)
+1.  $ 0 \leq \text{olasilik} \leq 1 $
 
-##### ÖRNEK SORU
+2.  $ 0(A) + 0(A)' = 1 $
 
- $$ x^{2}+6x-7 $$ 
+ $ \downarrow $
 
-ifadesinin çarpanları nelerdir?
+olma olmama
 
-![Şekil/Grafik/Soru](images/image61.jpg)
+Örnek: Bir öğrencinin bir soruyu çözme olasılığı  $ \frac{1}{3} $ ise çözememe olasılığı  $ \frac{2}{3} $ tür.
 
-#### ÇÖZÜM
+3. veya
 
- $$ x^{2}+3x+2 $$ 
+ $ 0(A \cup B) = 0(A) + 0(B) - 0(A \cap B) $
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}x\\\end{array}\right|_{\begin{array}{l}7\\-1\end{array}}\left.\begin{array}{l}\\\end{array}\right\}-x+7x=\textcircled{6}x\\=(x+7)(x-1)\end{array} $$ 
+4. ve
 
-![Şekil/Grafik/Soru](images/image62.jpg)
+ $ 0(A \cap B) = 0(A) \cdot 0(B) $
 
-##### ÖRNEK SORU
+#### tip-1
 
- $$ x^{2}+6x+5 $$ 
+Bir torbada 5 mavi, 3 kırmızı top vardır.
 
-ifadesinin çarpanları nelerdir?
+a) Çekilen bir topun mavi gelme olasılığı kaçtır?
 
-#### QÖZÜM
+A)  $ \frac{1}{8} $ B)  $ \frac{3}{8} $ C)  $ \frac{5}{8} $ D)  $ \frac{3}{4} $ E)  $ \frac{7}{8} $
 
- $$ \begin{aligned}&amp;x^{2}+6x+5\\&amp;\quad5\quad1\\=(x+5)(x+1)\end{aligned} $$ 
+b) Çekilen birinci topun mavi, ikinci topun kırmızı gelme olasilığı kaçtır?
 
-![Şekil/Grafik/Soru](images/image63.jpg)
+A)  $ \frac{3}{28} $ B)  $ \frac{5}{28} $ C)  $ \frac{3}{56} $ D)  $ \frac{5}{56} $ E)  $ \frac{15}{56} $
 
-##### ÖRNEK SORU
+c) Geri atılmamak şartıyla üç top alınıyor. Sırasıyla birinci kırmızı, ikinci mavi, üçüncü kırmızı olma olasilığı kaçtır?
 
- $$ x^{2}-8x+7 $$ 
+A)  $ \frac{3}{8} $ B)  $ \frac{5}{18} $ C)  $ \frac{3}{56} $ D)  $ \frac{5}{56} $ E)  $ \frac{7}{28} $
 
-ifadesinin çarpanları nelerdir?
+d) Torbadan iki top alınıyor, birinin mavi, diğerinin kırmızı gelme olasılığı kaçtır?
 
-#### QÖZÜM
+A)  $ \frac{3}{28} $ B)  $ \frac{5}{28} $ C)  $ \frac{9}{28} $ D)  $ \frac{15}{28} $ E)  $ \frac{17}{28} $
 
- $$ \begin{array}{c}x^{2}-8x+7\\-1\quad-7\\=(x-1)(x-7)\end{array} $$ 
+#### tip-2
 
-#### ? ORNEK SORU
+Bir torbada 4 sarı, 3 lacivert, 2 tane pembe top vardır.
 
- $$ 2x^{2}+7x+3 $$ 
+a) Bu torbadan alınan üç topun ikisinin sarı, birinin lacivert olma olasılığı kaçtır?
 
-ifadesinin çarpanları nelerdir?
+A)  $ \frac{1}{7} $ B)  $ \frac{3}{7} $ C)  $ \frac{3}{14} $ D)  $ \frac{5}{14} $ E)  $ \frac{9}{14} $
 
-#### QÖZÜM
+b) Üç top alınıyor üçünün de renklerinin farklı olma olasılığı kaçtır?
 
- $$ 2x^{2}+7x+3 $$ 
+A)  $ \frac{1}{7} $ B)  $ \frac{2}{7} $ C)  $ \frac{3}{7} $ D)  $ \frac{4}{7} $ E)  $ \frac{5}{7} $
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}2x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\3\end{array}\right\}\\\underline{\quad\quad\quad\quad}\quad(2x+1)(x+3)\end{array}\left\{\begin{array}{l}6x+x=\textcircled{7}x\\\end{array}\right. $$ 
+Tip-3
 
-![Şekil/Grafik/Soru](images/image64.jpg)
+Bir torbada 3 kırmızı, 2 beyaz, 2 yeşil top bulunmaktadır.
 
-##### ÖRNEK SORU
+a) Torbadan alinan iki topun renklerinin aynı olma olasilığı kaçtır?
 
- $$ 3x^{2}-8x-3 $$ 
+A)  $ \frac{2}{7} $ B)  $ \frac{5}{21} $ C)  $ \frac{7}{42} $ D)  $ \frac{7}{21} $ E)  $ \frac{2}{5} $
 
-ifadesinin çarpanları nelerdir?
+b) Torbadan 1 top aliniyor.
 
-#### ÇÖZÜM
+Bu topun renginin kırmızı olamama olasilığı kaçtır?
 
- $$ 3x^{2}-8x-3 $$ 
+A) $\frac{3}{7}$ B) $\frac{3}{4}$ C) $\frac{1}{7}$ D) $\frac{1}{4}$ E) $\frac{4}{7}$
 
- $$ \begin{array}{l}\downarrow\\\left.\begin{array}{l}3x\\x\end{array}\right.\left.\begin{array}{l}\downarrow\\1\\-3\end{array}\right\}\\-9x+x=\textcircled{-8x}\\=\left(3x+1\right)\cdot\left(x-3\right)\end{array} $$ 
+#### TIP-4
 
- $$ \frac{x^{2}+3x+2}{x+1}+\frac{x^{2}-2x+1}{x-1} $$ 
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;A&lt;/div&gt; &lt;/div&gt;
 
-ifadesinin en sade hâli nedir?
+![Şekil/Grafik/Soru](images/image163.jpg)
 
-A)  $ x + 5 $ B) x - 3 C)  $ 2x + 1 $ D) x E) -x
+![Şekil/Grafik/Soru](images/image164.jpg)
 
-4) Özdeşlikler
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;B&lt;/div&gt; &lt;/div&gt;
 
-1) iki Kare Farkı
+Yukaridaki A torbasindan bir top alınıp B torbasına atılıyor.
 
- $ x^{2} - y^{2} = (x - y)(x + y) $
+B torbasindan alinan bir topun siyah olma olasilığı kaçtir?
 
-Örnek:  $ x^2 - 9 = x^2 - 3^2 = (x - 3)(x + 3) $
+A)  $ \frac{9}{20} $ B)  $ \frac{1}{8} $ C)  $ \frac{5}{12} $ D)  $ \frac{7}{20} $ E)  $ \frac{3}{8} $
 
-Örnek: $4x^2 - 16 = (2x)^2 - 4^2 = (2x - 4) \cdot (2x + 4)$
+#### Tip-5
 
-Örnek:  $ x^2 - 3 = x^2 - (\sqrt{3})^2 = (x - \sqrt{3}) \cdot (x + \sqrt{3}) $
+Bir spor salonunda 3 tane farklı sepet vardır. Her sepette 3 futbol, 2 voleybol topu vardır. Her bir sepetten bir top alınıyor.
 
-##### tip-9
+Bu üç topun da aynı cinsten olma olasilığı kaçtır?
 
- $$ 25x^{2}-16y^{2} $$ 
+A) $\frac{27}{25}$ B) $\frac{13}{25}$ C) $\frac{2}{5}$ D) $\frac{7}{25}$ E) $\frac{8}{25}$
 
-ifadesinin çarpanları nelerdir?
+#### TIP-6
 
-A)  $ (5x - 4y) \cdot (2x + y) $
+Bir zar havaya atılıyor.
 
-B)  $ (5x + 4y) \cdot (2x - y) $
+Yere düştüğünde üst yüzü gelen sayının çift olma olasilığı kaçtır?
 
-C)  $ (5x - 4y) \cdot (5x + 4y) $
+A)  $ \frac{1}{3} $ B)  $ \frac{1}{2} $ C)  $ \frac{1}{6} $ D)  $ \frac{2}{3} $ E)  $ \frac{5}{6} $
 
-D)  $ (25x - 16y) \cdot (25x + 16y) $
+#### tip-7
 
-E)  $ (5x - y) \cdot (5x + y) $
+iki zar birlikte havaya atılıyor.
 
-##### TIP-10
+Yere düştüğünde üst yüze gelen sayıların toplamının 4'ten küçük olmalı olasilığı kaçtır?
 
- $$ (x+y-2)^{2}-(x-y-2)^{2} $$ 
+A)  $ \frac{1}{12} $ B)  $ \frac{3}{7} $ C)  $ \frac{5}{12} $ D)  $ \frac{5}{36} $ E)  $ \frac{1}{6} $
 
-carpanlari nelerdir?
+#### Tip-9
 
-A)  $ 4y \cdot (x-2) $ B)  $ y \cdot (x+2) $ C)  $ 4y \cdot (x+2) $
+İki zar birlikte havaya atılıyor.
 
-D)  $ 2y \cdot (x+2) $ E)  $ (x-2) \cdot (x+2) $
+Üst yüzey gelen sayıların çarpımlarının 5 ile bölünebilme olasılığı kaçtır?
 
-TIP-11
+A)  $ \frac{5}{6} $ B)  $ \frac{2}{3} $ C)  $ \frac{5}{36} $ D)  $ \frac{11}{36} $ E)  $ \frac{1}{3} $
 
- $$ \frac{(298^{2}-98^{2})-200\cdot392}{4a}=16 $$ 
+#### Tip-10
 
-olduğuna göre, a kaçtir?
+5 tane para havaya atilyor.
 
-A) 10 B)  $ \frac{15}{2} $ C)  $ \frac{25}{2} $ D)  $ \frac{15}{4} $ E)  $ \frac{25}{4} $
+Yere düşüklerinde gelen paralardan üçünün yazı, ikisinin tura olma olasılığı kaçtır?
 
-##### Tip-12
+A)  $ \frac{3}{16} $ B)  $ \frac{5}{32} $ C)  $ \frac{9}{16} $ D)  $ \frac{7}{32} $ E)  $ \frac{5}{16} $
 
- $$ \frac{x^{2}-2x-y^{2}+2y}{x-y} $$ 
+##### Tip-8
 
-ifadesinin  $ \underline{\text{en sade}} $ hâli nedir?
+Ụ̉ zar havaya atiliyor.
 
-A) x B) y C) x + y
+Yere düştüğünde gelen zarlardan birinin üzerinde yazan sayının, diğer iki zarin üzerinde yazan sayının toplamına eşit olma olasilığı kaçtır?
 
-D) x - y E) x + y - 2
+A) $\frac{11}{72}$ B) $\frac{5}{36}$ C) $\frac{5}{72}$ D) $\frac{1}{9}$ E) $\frac{7}{36}$
 
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Tip-13&lt;/div&gt; &lt;/div&gt;
+#### tip-11
 
- $$ x^{4}-y^{2}=21 $$ 
+Bir para ile bir zar havaya atılıyor.
 
- $$ x^{2}+y=3 $$ 
+Paranin yazi, zarin tek gelme olasilığı kaçtir?
 
-olduğuna göre,  $ x^{2} - y^{2} $ ifadesinin sonucu kaçtır?
+A)  $ \frac{1}{4} $ B)  $ \frac{2}{3} $ C)  $ \frac{1}{2} $ D)  $ \frac{1}{3} $ E)  $ \frac{1}{6} $
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+#### Tip-12
 
-#### TIP-14
+Bir sınıftaki 12 erkek öğrencinin 6'sı sarışın, 8 kızın 4'ü esmerdir.
 
-9⁴ -1 ifadesi aşağıdakilerden hangisine tam  $ \underline{\text{bölünemez}} $?
+Seçilen bir öğrencinin esmer olduğu biliniyor ise erkek olma olasılgı kaçtır?
 
-A) 4 B) 16 C) 41 D) 70 E) 82
+A)  $ \frac{1}{5} $ B)  $ \frac{3}{5} $ C)  $ \frac{2}{3} $ D)  $ \frac{1}{3} $ E)  $ \frac{2}{5} $
 
-II) Tam Kare ifadeter
+#### TIP-13
 
- $$ (x+y)^{2}=x^{2}+2xy+y^{2} $$ 
+Bir kitaplıktaki 2 matematik, 3 Türkiye kitabından seçilen iki kitabın Türkiye olma olasılığı kaçtır?
 
- $$ (x-y)^{2}=x^{2}-2xy+y^{2} $$ 
+A)  $ \frac{5}{10} $ B)  $ \frac{1}{5} $ C)  $ \frac{3}{10} $ D)  $ \frac{2}{5} $ E)  $ \frac{2}{3} $
 
- $$ (x+y-z)^{2}=x^{2}+y^{2}+z^{2}+2(x y-x z-y z) $$ 
+#### Tip-14
 
-Örnek:  $ (x-3)^2 = x^2 - 2 \cdot x^3 + 3^2 = x^2 - 6x + 9 $
+5 kişilik bir aile anne, baba ve 3 çocuktan oluşmaktadır. Bu aile yuvarlak bir masa etrafında yemek yiyecektir.
 
-Örnek:  $ (x+2)^2 = x^2 + 2 \cdot x \cdot 2 + 2^2 = x^2 + 4x + 4 $
+Bu ailenin oturma düzeninde anne ve babanın yan yana olma olasılgı kaçtir?
 
- $$ \begin{aligned}\left(\mathbf{x}-\frac{1}{\mathbf{x}}\right)^{2}&amp;=\mathbf{x}^{2}-2\cdot\mathbf{x}\cdot\frac{1}{\mathbf{x}}+\left(\frac{1}{\mathbf{x}}\right)^{2}\\&amp;=\mathbf{x}^{2}-2+\frac{1}{\mathbf{x}^{2}}\end{aligned} $$ 
+A) $\frac{1}{2}$ B) $\frac{3}{8}$ C) $\frac{5}{6}$ D) $\frac{3}{4}$ E) $\frac{1}{4}$
 
-Örnek:  $ x^2 + 6x + 9 = (x + 3) \cdot (x + 3) = (x + 3)^2 $
+#### TiP-15
 
-Örnek:  $ x^2 - 4x = (x - \frac{2}{4})^2 - 4 $
+Bir zar üzerine sırasıyla H, O, C, A, M, M harfleri yazılıyor.
 
-### NOT
+Bu harflerin HOCAM yazma olasılığı kaçtır?
 
-Tam kare yapmak için ortadaki sayının yarısının karesi parantezine al.
+A)  $ \frac{1}{5} $ B)  $ \frac{5}{36} $ C)  $ \frac{1}{12} $ D)  $ \frac{1}{3} $ E)  $ \frac{1}{4} $
 
-Örnek:  $ x^2 + 6x = (x + \frac{3}{1})^2 - 9 $
+#### TIP-16
 
-Örnek:  $ x^{2} - 8x = (x - 4)^{2} - 16 $
+Bir düzgün dört yüzlünün tüm yüzlerine A, T, A, M harfleri sırasıyla yazılıyor. Düzgün dört yüzlü havaya atılıyor.
 
-Örnek:  $ x^{2} + 2x + 7 $ ifadesinı tam kare yapımaz.
+Yere düştüğünde görünen yüzlerinin ATA yazma olasılığı kaçtır?
 
- $$ (x+{\tiny\begin{array}{c}{1}\\ {1}\end{array}})^{2}+6 $$ 
+A)  $ \frac{3}{4} $ B)  $ \frac{1}{3} $ C)  $ \frac{1}{2} $ D)  $ \frac{2}{3} $ E)  $ \frac{1}{4} $
 
-Örnek:  $ x^{2} - 4x + 11 $ ifadesini tam kare yapınız.
+#### TiP-17
 
- $ =(x-2)^{2}+7 $
+Bir öğretmen, yapacağı final sınavını anlattığı 10 konudan rastgele 2'sini seçerek hazırlayacağını sınıfına söylemiştir. Bu sınıftaki öğrencilerden biri olan Figen, yeterli zamanı olmadığından bu 10 konudan 7'sine çalışmıştır.
 
-##### NOT
+Figen, sinava girmeden önce arkadaşlarına en büyük korkusunun sinavdaki tüm soruların çalışmadığı yerlerden gelmesi olduğunu söylemiştir.
 
-Sorularda ifadenin en büyük ya da en küçük değeri sorulursa tam kare yapmalıyız.
+Buna göre, Figen'in korktuğunun başına gelmesi olasılığı kaçtır?
 
-#### tip-15
+A)  $ \frac{1}{3} $ B)  $ \frac{1}{5} $ C)  $ \frac{1}{6} $ D)  $ \frac{1}{9} $ E)  $ \frac{1}{15} $
 
- $$ x^{2}+6x+13 $$ 
+#### TIP-18
 
-ifadesinin  $ \underline{\text{en küçük}} $ degeri kaçtir?
+Boyları birbirinden farklı olan dört öğrenci arka arkaya rastgele sıralanıyor. Bu sıralamada en kısa öğrencinin en önde, en uzun öğrencinin ise en arkada olma olasilığı kaçtır?
 
-A) 1 B) 2 C) 3 D) 4 E) 5
+A)  $ \frac{1}{2} $ B)  $ \frac{1}{3} $ C)  $ \frac{1}{4} $ D)  $ \frac{1}{6} $ E)  $ \frac{1}{12} $
 
-##### Tip-16
+#### tip-19
 
- $$ x^{2}+4x+y^{2}-6y+11 $$ 
+Bir elektronik tartı; her ölçümde, üzerine konulan ağızlığı;
 
-ifadesinin  $ \underline{\text{en küçük}} $ değeri kaçtır?
+• %20 olasilikla gerçek ağırlığından 1 kilogram fazla,
 
-A) -2 B) -1 C) 0 D) 1 E) 2
+• %30 olasilikla gerçek ağırlığından 1 kilogram az,
 
-#### tip-17
+• %50 olasilikla da doğru tartmaktadır.
 
-x - y = 12  ve  x \cdot y = 3
+Gerçek ağırlıkları sırasıyla 80 ve 81 kilogram olan Ali ile Mehmet bu tartıda birer kere tartılacaklardır.
 
-olduğuna göre,  $ x^{2} + y^{2} $ toplamının değeri
+Buna göre, ölçüm sonunda Ali ile Mehmet'in ağırlıklarının birbirine eşit çıkmına olasılığı yüzde kaçtır?
+
+A) 40 B) 35 C) 30 D) 25 E) 20
+
+##### tip-20
+
+Buse, sadece bir yüzünde harf yazılı olan Şekil 1'deki küpleri Şekil 2'deki düzenekte yerlerine tam yerleştirerek adını yazmak istiyor.
+
+![Şekil/Grafik/Soru](images/image165.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Şekil 1&lt;/div&gt; &lt;/div&gt;
+
+![Şekil/Grafik/Soru](images/image166.jpg)
+
+&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Sekil 2&lt;/div&gt; &lt;/div&gt;
+
+Buse adını yazarken küpleri harf yazılı yüzleri üste gelecek şekilde doğru sırayla fakat harflerin nasıl duracaklarını karıştırdığı için yerlerine rastgele yerleştiriyor.
+
+![Şekil/Grafik/Soru](images/image167.jpg)
+
+Buna göre, Buse'nin bu küpleri kullanarak adını doğru yazma olasilığı kaçtır?
+
+A)  $ \frac{1}{4} $ B)  $ \frac{1}{8} $ C)  $ \frac{1}{16} $ D)  $ \frac{1}{32} $ E)  $ \frac{1}{64} $
+
+#### TIP-21
+
+Bir tur firması, Antalya ve İzmir şehirlerinde bulunan otellerden birini rastgele seçmek isteyen Mehtap Hanım'a her iki şehirden de belirli sayıda otel öneriyor. Ancak, İzmir şehirden önerilen 6 otelin kapasitesi dolu olduğu için firma, bu otellerin yerine Antalya şehirden 6 otel daha öneriyor. Bu değişim sonucunda, Mehtap Hanım'ın rastgele seçeceği otelin Antalya şehirden olma olasilığı  $ \frac{3}{16} $ artıyor.
+
+Buna göre, tur firmasının Mehtap Hanım'a başlangıçta önerdiği otellerin toplam sayısı kaçtır?
+
+A) 24 B) 32 C) 36 D) 42 E) 48
+
+#### TIP-22
+
+Aşağıda, üzerlerinde 7, 9, 11, 13, 15 ve 17 sayıları yazan 6 kart gösterilmiştir.
+
+Bu kartları gören Nazlı, “Kartlardan rastgele ikisini seçip üzerlerinde yazan sayıları toplayacak olsam, kendi yaşımı bulma olasığım  $ \frac{1}{5} $ olur.” diyor.
+
+![Şekil/Grafik/Soru](images/image168.jpg)
+
+Buna göre, Nazlı'nın yaşı kaçtır?
+
+A) 20 B) 22 C) 24 D) 26 E) 28
+
+##### TIP-23
+
+Aynı düğüne davetli olan Ayça ve Burcu isimli iki arkadaş, bu düğünde giyecekleri elbiseleri almak için farklı mağazalara gitmiştir. Ayça'nın gittiği mağazada 6 farklı elbise modeli, Burcu'nun gittiği mağazada ise bu 6 farklı elbise modeline ek olarak 4 farklı elbise modeli daha bulunmaktadır. Ayça ve Burcu, gittikleri bu mağazalardan rastgele birer elbise modeli seçmiştir.
+
+Buna göre, Ayça ve Burcu'nun seçtikleri elbise modellerinin farklı olma olasılığı kaçtır?
+
+A)  $ \frac{1}{5} $ B)  $ \frac{3}{5} $ C)  $ \frac{4}{5} $ D)  $ \frac{7}{10} $ E)  $ \frac{9}{10} $
+
+###

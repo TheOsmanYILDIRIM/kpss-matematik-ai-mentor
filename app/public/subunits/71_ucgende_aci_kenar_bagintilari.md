@@ -119,33 +119,3 @@ açiortaydir.
 Yukaridaki verilere göre, |BCI = x'in alabileceği kaç farklı tam sayı değeri vardır?
 
 A) 4 B) 5 C) 6 D) 7 E) 8
-
-DIK ÜÇGEN
-
-Bir açısının ölçüsü 90° olan üçgene denir.
-
-![Şekil/Grafik/Soru](images/image254.jpg)
-
-Pisagor bağıntısı
-
- $ b^{2} = a^{2} + c^{2} $
-
-ÖZEL ÜÇGENLER
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;1.&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image255.jpg)
-
-![Şekil/Grafik/Soru](images/image256.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Ⅱ.&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image257.jpg)
-
-![Şekil/Grafik/Soru](images/image258.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;Ⅲ.&lt;/div&gt; &lt;/div&gt;
-
-![Şekil/Grafik/Soru](images/image259.jpg)
-
-&lt;div style="text-align: center;"&gt;&lt;div style="text-align: center;"&gt;IV.&lt;/div
