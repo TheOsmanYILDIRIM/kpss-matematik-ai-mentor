@@ -100,22 +100,34 @@ export default function App() {
         confetti({ particleCount: 50, spread: 60, origin: { y: 0.8 } });
       }
 
-      setAppState(prev => ({
-        ...prev,
-        workflowState: aiResponse.nextWorkflowState || prev.workflowState,
-        activeSession: {
-          ...prev.activeSession,
-          currentUnitId: cmd.topicId || prev.activeSession.currentUnitId,
-          currentUnitTitle: cmd.topicTitle || prev.activeSession.currentUnitTitle,
-          totalSteps: cmd.totalSteps || prev.activeSession.totalSteps,
-          currentStepIndex: cmd.stepNumber ? cmd.stepNumber - 1 : prev.activeSession.currentStepIndex,
-          chatHistory: updatedHistory
-        },
-        stats: {
-          ...prev.stats,
-          totalStepsCompleted: cmd.isStepCorrect ? prev.stats.totalStepsCompleted + 1 : prev.stats.totalStepsCompleted
+      setAppState(prev => {
+        const newWeaknesses = [...prev.diagnosticSummary.identifiedWeaknesses];
+        if (cmd.weaknessDetected && !newWeaknesses.includes(cmd.weaknessDetected)) {
+          newWeaknesses.push(cmd.weaknessDetected);
         }
-      }));
+
+        return {
+          ...prev,
+          workflowState: aiResponse.nextWorkflowState || prev.workflowState,
+          diagnosticSummary: {
+            ...prev.diagnosticSummary,
+            identifiedWeaknesses: newWeaknesses,
+            correctCount: cmd.isStepCorrect ? prev.diagnosticSummary.correctCount + 1 : prev.diagnosticSummary.correctCount
+          },
+          activeSession: {
+            ...prev.activeSession,
+            currentUnitId: cmd.topicId || prev.activeSession.currentUnitId,
+            currentUnitTitle: cmd.topicTitle || prev.activeSession.currentUnitTitle,
+            totalSteps: cmd.totalSteps || prev.activeSession.totalSteps,
+            currentStepIndex: cmd.stepNumber ? cmd.stepNumber - 1 : prev.activeSession.currentStepIndex,
+            chatHistory: updatedHistory
+          },
+          stats: {
+            ...prev.stats,
+            totalStepsCompleted: cmd.isStepCorrect ? prev.stats.totalStepsCompleted + 1 : prev.stats.totalStepsCompleted
+          }
+        };
+      });
 
     } catch (err) {
       setErrorMessage(err.message || 'İstek işlenirken bir hata oluştu.');

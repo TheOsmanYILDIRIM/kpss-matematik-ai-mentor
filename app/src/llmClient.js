@@ -45,15 +45,34 @@ export const callAI = async ({ apiKey, provider = 'gemini', model = 'gemini-2.5-
 
     if (jsonMode) {
       try {
-        // Strip markdown code fences if any
-        let cleanJson = candidateText.trim();
-        if (cleanJson.startsWith('```json')) cleanJson = cleanJson.slice(7);
-        if (cleanJson.startsWith('```')) cleanJson = cleanJson.slice(3);
-        if (cleanJson.endsWith('```')) cleanJson = cleanJson.slice(0, -3);
-        return JSON.parse(cleanJson.trim());
+        let clean = candidateText.trim();
+        // Remove markdown block backticks
+        const match = clean.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+        if (match && match[1]) {
+          clean = match[1].trim();
+        } else if (clean.startsWith('{') && clean.endsWith('}')) {
+          // Direct JSON
+        } else {
+          // Find first { and last }
+          const firstBrace = clean.indexOf('{');
+          const lastBrace = clean.lastIndexOf('}');
+          if (firstBrace !== -1 && lastBrace !== -1 && lastBrace > firstBrace) {
+            clean = clean.substring(firstBrace, lastBrace + 1);
+          }
+        }
+        return JSON.parse(clean);
       } catch (e) {
-        console.error('JSON Parse Hatası:', candidateText);
-        throw new Error('Yapay zeka yanıtı geçerli JSON formatında ayrıştırılamadı.');
+        console.warn('Direct JSON parse failed, attempting fallback repair:', e, candidateText);
+        // Fallback: Return raw text wrapped in valid schema
+        return {
+          thought: "Doğrudan metin yanıtı işlendi.",
+          nextWorkflowState: "DIAGNOSTIC_IN_PROGRESS",
+          command: {
+            action: "RENDER_STEP",
+            question: candidateText
+          },
+          uiMessage: candidateText
+        };
       }
     }
 
