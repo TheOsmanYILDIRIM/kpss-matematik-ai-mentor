@@ -34,24 +34,53 @@ DÖNDÜRMEN GEREKEN JSON ŞEMASI:
 export const buildPromptForNextStep = ({ state, userMessage, curriculum }) => {
   const { workflowState, activeSession, diagnosticSummary, curriculumProgress } = state;
 
-  return [
-    {
-      role: 'user',
-      content: `
-MEVCUT APP HAFIZASI VE DURUM:
-- Aktif Workflow State: ${workflowState}
-- Genel Teşhis Testi Tamamlandı mı?: ${diagnosticSummary.isCompleted ? 'Evet' : 'Hayır'}
-- Teşhis Sonuçları / Tespit Edilen Eksikler: ${JSON.stringify(diagnosticSummary.identifiedWeaknesses)}
-- Mevcut Çalışılan Konu: ${activeSession.currentUnitTitle || 'Belirlenmedi'}
-- Aktif Soru Adım Bilgisi: Adım ${activeSession.currentStepIndex + 1} / ${activeSession.totalSteps}
-- Kullanıcı Son Mesajı / Cevabı: "${userMessage || 'Başlat'}"
+  // 1. Sistem ve Hafıza Durum Özeti
+  const stateSummary = `
+[HAFIZA & STATE MACHINE VERİLERİ]:
+- Aktif Workflow Durumu: ${workflowState}
+- Genel Teşhis Testi: ${diagnosticSummary.isCompleted ? 'TAMAMLANDI' : 'DEVAM EDİYOR / YAPILMADI'}
+- Tespit Edilen Eksik / Zayıf Noktalar: ${diagnosticSummary.identifiedWeaknesses.length > 0 ? JSON.stringify(diagnosticSummary.identifiedWeaknesses) : 'Henüz tespit edilmedi'}
+- Aktif Çalışılan Ünite: ${activeSession.currentUnitTitle || 'Genel Teşhis'} (ID: ${activeSession.currentUnitId || 'none'})
+- Mevcut Soru Durumu: Adım ${activeSession.currentStepIndex + 1} / ${activeSession.totalSteps}
+`;
 
-MÜFREDAT KONU LİSTESİ:
-${curriculum.units.slice(0, 15).map(u => `${u.id}: ${u.title}`).join(', ')}...
+  // 2. Önceki Konuşma Geçmişi (Chronological Conversation History)
+  const historyMessages = [];
 
-GÖREVİN:
-Yukarıdaki hafızayı değerlendir. Eğer kullanıcı yeni başladıysa ilk 5-10 soruluk genel teşhis testinden bir soru adımı ver. Eğer soru çözülüyorsa kullanıcının cevabını kontrol et, doğruysa bir sonraki adıma geçir, yanlışsa İlyas Hoca kuralıyla uyar. Belirtilen JSON şemasıyla yanıt ver.
-`
+  // Geçmiş mesajları AI formatına ekle
+  const rawHistory = activeSession.chatHistory || [];
+  
+  // İlk mesaja sistem hafıza özetini ekleyelim
+  for (let i = 0; i < rawHistory.length; i++) {
+    const item = rawHistory[i];
+    if (item.sender === 'user') {
+      historyMessages.push({
+        role: 'user',
+        content: i === 0 ? `${stateSummary}\n\nÖğrenci Mesajı: ${item.message}` : item.message
+      });
+    } else if (item.sender === 'ai') {
+      // AI yanıtını JSON veya metin olarak ekle
+      const aiJsonText = item.command ? JSON.stringify({
+        thought: "Önceki adım",
+        nextWorkflowState: workflowState,
+        command: item.command,
+        uiMessage: item.message
+      }) : item.message;
+
+      historyMessages.push({
+        role: 'assistant',
+        content: aiJsonText
+      });
     }
-  ];
+  }
+
+  // Eğer geçmiş boşsa (ilk mesaj)
+  if (historyMessages.length === 0) {
+    historyMessages.push({
+      role: 'user',
+      content: `${stateSummary}\n\nÖğrenci Mesajı: ${userMessage || 'Başla'}`
+    });
+  }
+
+  return historyMessages;
 };
