@@ -1,92 +1,81 @@
+// AI Öğretim & Mikro Adım Prompt Motoru
+
 export const SYSTEM_INSTRUCTION = `
-Sen "KPSS 2026 Matematik AI Mentor" asistanısın. Tek ve mutlak kaynağın İlyas Güneş 2026 Video Ders Notu kitabıdır.
+Sen "KPSS 2026 Matematik AI Mentor" asistanısın. Kaynağın: İlyas Güneş 2026 Video Ders Notu.
 
-ÖĞRETME VE YÖNETİM PROTOKOLÜN:
-1. İLK GİRİŞ & GENEL TEŞHİS:
-   - Kullanıcı ilk kez girdiğinde ("Başla", "Test yap" dediğinde), onu 5-10 soruluk "Genel Seviye ve Eksik Tespit Testi"ne al.
-   - İlk olarak 1. Sorunun 1. Mikro Adımını sun.
-   - Soru kökünü ve adımı açıkça yaz.
+SENARYO VE GÖREVLERİN:
+1. Öğrenci genel seviye tespit testini tamamlamıştır ve eksik olduğu konular ile önkoşul sırası belirlenmiştir.
+2. Senin görevin, öğrencinin en çok eksik olduğu konudan başlayarak o konuyu İlyas Hoca usulü öğretmektir.
+3. KONU ANLATIMI & MİKRO ADIM KURALLARI:
+   - Önce konunun can alıcı püf noktasını hap bilgi olarak ver.
+   - Ardından bir örnek soru getir, AMA bu soruyu ASLA tek seferde tam çözme!
+   - Soruyu 3 küçük mikroadıma böl (1. Adım: Soru kökünü anlama/ilk işlem -> 2. Adım: Denklem kurma/indirgeme -> 3. Adım: Sonuç ve İlyas Hoca taktiği).
+   - Kullanıcının cevabına göre "isStepCorrect": true/false belirle.
+   - Doğruysa tebrik edip sonraki mikroadıma geçir; yanlışsa İlyas Hoca'nın kitabındaki kuralı hatırlat.
 
-2. ADIM ADIM İSKELE (SCAFFOLDING) YÖNTEMİ:
-   - Asla soruyu bir anda bütünüyle çözüp cevabı verme!
-   - Soruyu 2 veya 3 küçük mikroadıma böl.
-   - Kullanıcı adım cevabını verdiğinde:
-     * Cevabı kontrol et ("isStepCorrect": true veya false).
-     * Doğruysa tebrik et ve bir sonraki mikroadıma geçir.
-     * Yanlışsa İlyas Hoca'nın kitabındaki kuralı/püf noktasını hatırlat ("hint"), aynı adımı tekrar denet.
-     * Hatanın türünü ("weaknessDetected") kaydet (örn: "Negatif sayılarda parantez kuralı", "Payda eşitleme hatası").
-
-3. TÜM YANITLARINI YALNIZCA AŞAĞIDAKİ GEÇERLİ JSON FORMATINDA VER:
+YANITLARINI MUTLAKA AŞAĞIDAKİ GEÇERLİ JSON FORMATINDA DÖNDÜR:
 {
-  "thought": "Öğrencinin cevabını analiz ettim. Adım 1 doğru, şimdi Adım 2'ye geçiriyorum...",
-  "nextWorkflowState": "DIAGNOSTIC_IN_PROGRESS",
+  "thought": "Öğrenci Adım 1'i doğru yaptı, şimdi Adım 2'ye geçiriyorum...",
+  "nextWorkflowState": "MICRO_STEP_LEARNING",
   "command": {
-    "action": "RENDER_STEP",
+    "action": "RENDER_MICRO_STEP",
     "topicId": "01_temel_islemler",
-    "topicTitle": "Temel İşlemler & Dört İşlem",
-    "question": "$$ ( -3 ) \\cdot ( -4 ) + ( -12 ) \\div ( +3 ) $$ işleminin sonucu kaçtır?",
-    "stepNumber": 1,
-    "totalSteps": 2,
-    "stepPrompt": "**1. Adım:** İlk olarak çarpma ve bölme işlemlerini yapalım. $(-3) \\cdot (-4)$ ifadesinin sonucu kaçtır?",
-    "hint": "Eksi ile eksinin çarpımı artıdır (+).",
+    "topicTitle": "Temel İşlemler & İşaret Kuralları",
+    "microStep": 1,
+    "totalMicroSteps": 3,
+    "stepQuestion": "İşlem: $$ -2 - [ 3 - (-4) ] $$ \\n\\n **1. Mikroadım:** Önce en içteki parantezi açalım. $3 - (-4)$ ifadesi kaça eşittir?",
+    "hint": "Eksi ile eksi çarpılınca artı olur: $3 - (-4) = 3 + 4$",
     "isStepCorrect": true,
-    "feedback": "Harika! Doğru cevap +12. Şimdi 2. adıma geçelim.",
-    "weaknessDetected": null
+    "feedback": "Tebrikler! 7 doğru. Şimdi köşeli parantezin önündeki eksiyi dağıtalım.",
+    "isTopicCompleted": false
   },
-  "uiMessage": "Tebrikler! $(-3) \\cdot (-4) = +12$ doğru. Şimdi $(-12) \\div (+3)$ kısmını yapıp toplayalım."
+  "uiMessage": "Harika gidiyorsun! $3 - (-4) = 7$ doğru. Şimdi 2. adıma geçelim."
 }
 `;
 
-export const buildPromptForNextStep = ({ state, userMessage, curriculum }) => {
-  const { workflowState, activeSession, diagnosticSummary, curriculumProgress } = state;
+export const buildPromptForMicroStep = ({ state, userMessage }) => {
+  const { diagnosticState, learningPath, activeSession } = state;
 
-  // 1. Sistem ve Hafıza Durum Özeti
-  const stateSummary = `
-[HAFIZA & STATE MACHINE VERİLERİ]:
-- Aktif Workflow Durumu: ${workflowState}
-- Genel Teşhis Testi: ${diagnosticSummary.isCompleted ? 'TAMAMLANDI' : 'DEVAM EDİYOR / YAPILMADI'}
-- Tespit Edilen Eksik / Zayıf Noktalar: ${diagnosticSummary.identifiedWeaknesses.length > 0 ? JSON.stringify(diagnosticSummary.identifiedWeaknesses) : 'Henüz tespit edilmedi'}
-- Aktif Çalışılan Ünite: ${activeSession.currentUnitTitle || 'Genel Teşhis'} (ID: ${activeSession.currentUnitId || 'none'})
-- Mevcut Soru Durumu: Adım ${activeSession.currentStepIndex + 1} / ${activeSession.totalSteps}
+  const currentTopic = learningPath.priorityTopics[learningPath.currentTopicIndex] || { title: 'Temel Kavramlar', id: '02_temel_kavramlar' };
+
+  const history = [];
+  const raw = activeSession.chatHistory || [];
+
+  const contextHeader = `
+[ÖĞRENCİ PROFİLİ VE EKSİK RÖNTGENİ]:
+- Genel Teşhis Testi Sonucu: 12 Soruda ${12 - diagnosticState.weaknesses.length} Doğru, ${diagnosticState.weaknesses.length} Yanlış
+- Tespit Edilen Zayıf Konular: ${diagnosticState.weaknesses.map(w => `${w.topicTitle} (${w.weakness})`).join(', ')}
+- Şu An Çalıştırılan Konu: ${currentTopic.title || 'Temel Konular'} (Konu #${learningPath.currentTopicIndex + 1})
+- Aktif Mikroadım: ${learningPath.currentMicroStep} / ${learningPath.totalMicroSteps}
 `;
 
-  // 2. Önceki Konuşma Geçmişi (Chronological Conversation History)
-  const historyMessages = [];
-
-  // Geçmiş mesajları AI formatına ekle
-  const rawHistory = activeSession.chatHistory || [];
-  
-  // İlk mesaja sistem hafıza özetini ekleyelim
-  for (let i = 0; i < rawHistory.length; i++) {
-    const item = rawHistory[i];
+  for (let i = 0; i < raw.length; i++) {
+    const item = raw[i];
     if (item.sender === 'user') {
-      historyMessages.push({
+      history.push({
         role: 'user',
-        content: i === 0 ? `${stateSummary}\n\nÖğrenci Mesajı: ${item.message}` : item.message
+        content: i === 0 ? `${contextHeader}\n\nÖğrenci: ${item.message}` : item.message
       });
-    } else if (item.sender === 'ai') {
-      // AI yanıtını JSON veya metin olarak ekle
-      const aiJsonText = item.command ? JSON.stringify({
+    } else {
+      const jsonContent = item.command ? JSON.stringify({
         thought: "Önceki adım",
-        nextWorkflowState: workflowState,
         command: item.command,
         uiMessage: item.message
       }) : item.message;
 
-      historyMessages.push({
+      history.push({
         role: 'assistant',
-        content: aiJsonText
+        content: jsonContent
       });
     }
   }
 
-  // Eğer geçmiş boşsa (ilk mesaj)
-  if (historyMessages.length === 0) {
-    historyMessages.push({
+  if (history.length === 0) {
+    history.push({
       role: 'user',
-      content: `${stateSummary}\n\nÖğrenci Mesajı: ${userMessage || 'Başla'}`
+      content: `${contextHeader}\n\nÖğrenci: "${currentTopic.title}" konusunu öğrenmeye hazırım. Lütfen hap konu anlatımını ve 1. Mikroadım sorusunu başlat.`
     });
   }
 
-  return historyMessages;
+  return history;
 };

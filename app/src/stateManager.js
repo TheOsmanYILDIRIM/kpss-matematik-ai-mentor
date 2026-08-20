@@ -1,6 +1,6 @@
-// Hafıza ve Durum Yönetimi (LocalStorage & State Machine)
+// Hafıza ve Durum Yönetimi
 
-const STORAGE_KEY = 'kpss_ai_mentor_state_v1';
+const STORAGE_KEY = 'kpss_ai_mentor_state_v2';
 
 export const INITIAL_STATE = {
   settings: {
@@ -9,27 +9,28 @@ export const INITIAL_STATE = {
     model: 'gemini-3.5-flash-lite',
     studentName: 'Öğrenci'
   },
-  workflowState: 'INIT', // INIT, DIAGNOSTIC_SETUP, DIAGNOSTIC_IN_PROGRESS, DEFICIENCY_DETECTED, PLANNING_NEXT_TOPIC, UNIT_EXPLANATION, SCAFFOLDED_QUESTION, VERIFICATION
-  curriculumProgress: {}, // { [unitId]: { status: 'NOT_STARTED'|'IN_PROGRESS'|'MASTERED', score: 0, deficiencies: [] } }
+  workflowState: 'INIT', // 'INIT' | 'DIAGNOSTIC_TEST' | 'DEFICIENCY_ROADMAP' | 'MICRO_STEP_LEARNING'
+  diagnosticState: {
+    isCompleted: false,
+    currentIndex: 0,
+    answers: {}, // { [questionId]: { selectedOption: '', isCorrect: true/false } }
+    weaknesses: [] // [{ topicId, topicTitle, weakness, prerequisite }]
+  },
+  learningPath: {
+    priorityTopics: [], // ['01_temel_islemler', '03_tek_cift_sayilar'...]
+    currentTopicIndex: 0,
+    currentMicroStep: 1,
+    totalMicroSteps: 3
+  },
   activeSession: {
     currentUnitId: null,
     currentUnitTitle: '',
-    questionText: '',
-    totalSteps: 1,
-    currentStepIndex: 0,
-    steps: [], // [{ stepNumber, instruction, hint, isDone, feedback }]
-    chatHistory: [] // [{ sender: 'ai'|'user', message: '', timestamp, jsonCommand }]
-  },
-  diagnosticSummary: {
-    isCompleted: false,
-    totalQuestions: 0,
-    correctCount: 0,
-    identifiedWeaknesses: []
+    chatHistory: [] // [{ sender: 'ai'|'user', message: '', command: {}, timestamp }]
   },
   stats: {
-    totalStepsCompleted: 0,
-    totalQuestionsSolved: 0,
-    streakDays: 1
+    totalCorrect: 0,
+    totalWrong: 0,
+    completedMicroSteps: 0
   }
 };
 
@@ -40,7 +41,7 @@ export const loadState = () => {
       return { ...INITIAL_STATE, ...JSON.parse(saved) };
     }
   } catch (e) {
-    console.error('State yüklenirken hata:', e);
+    console.error('State load error:', e);
   }
   return INITIAL_STATE;
 };
@@ -49,6 +50,6 @@ export const saveState = (state) => {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   } catch (e) {
-    console.error('State kaydedilirken hata:', e);
+    console.error('State save error:', e);
   }
 };
