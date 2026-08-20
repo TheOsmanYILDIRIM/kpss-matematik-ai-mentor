@@ -6,7 +6,7 @@ export const INITIAL_STATE = {
   settings: {
     apiKey: '',
     provider: 'gemini',
-    model: 'gemini-2.5-flash',
+    model: 'gemini-3.5-flash-lite',
     studentName: 'Öğrenci'
   },
   workflowState: 'INIT', // INIT, DIAGNOSTIC_SETUP, DIAGNOSTIC_IN_PROGRESS, DEFICIENCY_DETECTED, PLANNING_NEXT_TOPIC, UNIT_EXPLANATION, SCAFFOLDED_QUESTION, VERIFICATION

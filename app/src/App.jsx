@@ -480,17 +480,37 @@ export default function App() {
                   Kullanılacak Model
                 </label>
                 <select
-                  value={appState.settings.model}
-                  onChange={(e) => setAppState(prev => ({
-                    ...prev,
-                    settings: { ...prev.settings, model: e.target.value }
-                  }))}
+                  value={['gemini-3.5-flash-lite', 'gemini-2.5-flash', 'gemini-2.5-pro', 'gemini-1.5-flash'].includes(appState.settings.model) ? appState.settings.model : 'custom'}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    setAppState(prev => ({
+                      ...prev,
+                      settings: { ...prev.settings, model: val === 'custom' ? '' : val }
+                    }));
+                  }}
                   className="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-indigo-500"
                 >
-                  <option value="gemini-2.5-flash">Gemini 2.5 Flash (Hızlı & Önerilen)</option>
-                  <option value="gemini-2.5-pro">Gemini 2.5 Pro (Derin Akıl Yürütme)</option>
-                  <option value="gemini-1.5-flash">Gemini 1.5 Flash</option>
+                  <option value="gemini-3.5-flash-lite">gemini-3.5-flash-lite (Varsayılan & Hızlı)</option>
+                  <option value="gemini-2.5-flash">gemini-2.5-flash</option>
+                  <option value="gemini-2.5-pro">gemini-2.5-pro</option>
+                  <option value="gemini-1.5-flash">gemini-1.5-flash</option>
+                  <option value="custom">Özel Model (Manuel Giriş) ✍️</option>
                 </select>
+
+                {(!['gemini-3.5-flash-lite', 'gemini-2.5-flash', 'gemini-2.5-pro', 'gemini-1.5-flash'].includes(appState.settings.model)) && (
+                  <div className="mt-2">
+                    <input
+                      type="text"
+                      value={appState.settings.model}
+                      onChange={(e) => setAppState(prev => ({
+                        ...prev,
+                        settings: { ...prev.settings, model: e.target.value }
+                      }))}
+                      placeholder="Model kimliğini girin (örn: gemini-3.5-flash-lite, gpt-4o, claude-3-5-sonnet)..."
+                      className="w-full bg-slate-950 border border-indigo-500/50 rounded-xl px-4 py-2 text-xs text-slate-100 placeholder-slate-600 focus:outline-none focus:border-indigo-500"
+                    />
+                  </div>
+                )}
               </div>
 
               <button
